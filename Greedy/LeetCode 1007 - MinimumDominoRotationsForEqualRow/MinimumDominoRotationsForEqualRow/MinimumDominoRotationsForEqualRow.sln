@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDominoRotationsForEqualRow", "MinimumDominoRotationsForEqualRow\MinimumDominoRotationsForEqualRow.csproj", "{711DA35C-3CC1-444D-BD0C-6130CD5CFAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711DA35C-3CC1-444D-BD0C-6130CD5CFAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711DA35C-3CC1-444D-BD0C-6130CD5CFAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711DA35C-3CC1-444D-BD0C-6130CD5CFAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711DA35C-3CC1-444D-BD0C-6130CD5CFAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E06040-A8F5-4C3A-B39A-5831DB49F1DC}
+	EndGlobalSection
+EndGlobal

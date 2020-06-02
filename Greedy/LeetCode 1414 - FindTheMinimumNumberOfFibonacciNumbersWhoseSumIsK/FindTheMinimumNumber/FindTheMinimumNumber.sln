@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMinimumNumber", "FindTheMinimumNumber\FindTheMinimumNumber.csproj", "{3954B750-E516-4B4D-AD3D-B998FBB8E4DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3954B750-E516-4B4D-AD3D-B998FBB8E4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3954B750-E516-4B4D-AD3D-B998FBB8E4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3954B750-E516-4B4D-AD3D-B998FBB8E4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3954B750-E516-4B4D-AD3D-B998FBB8E4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB7A8C7B-41FF-4A78-956C-190BD7B0AAE3}
+	EndGlobalSection
+EndGlobal
