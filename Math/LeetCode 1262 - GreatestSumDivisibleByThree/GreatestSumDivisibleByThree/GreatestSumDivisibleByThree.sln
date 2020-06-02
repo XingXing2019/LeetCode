@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestSumDivisibleByThree", "GreatestSumDivisibleByThree\GreatestSumDivisibleByThree.csproj", "{ED87B6A3-F504-45C4-8F39-28D738F5A037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED87B6A3-F504-45C4-8F39-28D738F5A037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED87B6A3-F504-45C4-8F39-28D738F5A037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED87B6A3-F504-45C4-8F39-28D738F5A037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED87B6A3-F504-45C4-8F39-28D738F5A037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF175815-5090-4CFD-9756-EFA456494F11}
+	EndGlobalSection
+EndGlobal

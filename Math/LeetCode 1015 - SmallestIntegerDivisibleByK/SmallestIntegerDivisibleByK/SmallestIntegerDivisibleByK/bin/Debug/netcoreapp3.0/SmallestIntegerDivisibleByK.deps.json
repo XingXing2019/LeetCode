@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SmallestIntegerDivisibleByK/1.0.0": {
+        "runtime": {
+          "SmallestIntegerDivisibleByK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmallestIntegerDivisibleByK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

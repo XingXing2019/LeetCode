@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexNumberMultiplication", "ComplexNumberMultiplication\ComplexNumberMultiplication.csproj", "{6347D5B9-3648-4645-A9C6-B49A1692DE45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6347D5B9-3648-4645-A9C6-B49A1692DE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6347D5B9-3648-4645-A9C6-B49A1692DE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6347D5B9-3648-4645-A9C6-B49A1692DE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6347D5B9-3648-4645-A9C6-B49A1692DE45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E7331E3-0C3C-4368-8280-D040C127D602}
+	EndGlobalSection
+EndGlobal

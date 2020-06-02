@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleAndRectangleOverlapping", "CircleAndRectangleOverlapping\CircleAndRectangleOverlapping.csproj", "{F97E3D12-23EB-4BA2-8B6C-F8A7E2CEDF64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97E3D12-23EB-4BA2-8B6C-F8A7E2CEDF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97E3D12-23EB-4BA2-8B6C-F8A7E2CEDF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97E3D12-23EB-4BA2-8B6C-F8A7E2CEDF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97E3D12-23EB-4BA2-8B6C-F8A7E2CEDF64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C5C091C-A8DA-4854-BDD4-80C90C149840}
+	EndGlobalSection
+EndGlobal

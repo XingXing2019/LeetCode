@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSwap", "MaximumSwap\MaximumSwap.csproj", "{01458595-FDE9-4D77-B93E-F4A8371A13FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01458595-FDE9-4D77-B93E-F4A8371A13FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01458595-FDE9-4D77-B93E-F4A8371A13FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01458595-FDE9-4D77-B93E-F4A8371A13FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01458595-FDE9-4D77-B93E-F4A8371A13FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78FC6692-09FA-4BF6-8B86-0C3779A051D6}
+	EndGlobalSection
+EndGlobal

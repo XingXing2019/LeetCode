@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleOverlap", "RectangleOverlap\RectangleOverlap.csproj", "{F7319F06-F24F-44EB-A7F7-3FD57883B3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7319F06-F24F-44EB-A7F7-3FD57883B3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7319F06-F24F-44EB-A7F7-3FD57883B3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7319F06-F24F-44EB-A7F7-3FD57883B3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7319F06-F24F-44EB-A7F7-3FD57883B3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {097A2FE4-A1B6-4C65-836A-7160A0BC4D49}
+	EndGlobalSection
+EndGlobal

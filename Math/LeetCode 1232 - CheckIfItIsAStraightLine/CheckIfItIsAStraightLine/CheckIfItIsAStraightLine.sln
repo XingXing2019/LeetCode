@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfItIsAStraightLine", "CheckIfItIsAStraightLine\CheckIfItIsAStraightLine.csproj", "{BE9D8FA6-14CD-4D8A-AF7C-4B4A547670EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9D8FA6-14CD-4D8A-AF7C-4B4A547670EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9D8FA6-14CD-4D8A-AF7C-4B4A547670EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9D8FA6-14CD-4D8A-AF7C-4B4A547670EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9D8FA6-14CD-4D8A-AF7C-4B4A547670EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B18BA22-E424-4D59-BE0D-A2B161D409D3}
+	EndGlobalSection
+EndGlobal

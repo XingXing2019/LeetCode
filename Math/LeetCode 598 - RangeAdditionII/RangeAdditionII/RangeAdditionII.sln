@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeAdditionII", "RangeAdditionII\RangeAdditionII.csproj", "{A9CF6E20-FB24-471C-8767-B57705EE49A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CF6E20-FB24-471C-8767-B57705EE49A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CF6E20-FB24-471C-8767-B57705EE49A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CF6E20-FB24-471C-8767-B57705EE49A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CF6E20-FB24-471C-8767-B57705EE49A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6ACC7A3-D0FE-47A1-8EF1-D3130DA50FD9}
+	EndGlobalSection
+EndGlobal

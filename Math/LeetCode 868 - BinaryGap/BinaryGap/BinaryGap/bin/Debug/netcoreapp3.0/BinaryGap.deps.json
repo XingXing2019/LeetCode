@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BinaryGap/1.0.0": {
+        "runtime": {
+          "BinaryGap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryGap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
