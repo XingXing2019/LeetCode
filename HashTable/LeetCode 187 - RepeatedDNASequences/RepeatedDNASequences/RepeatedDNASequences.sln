@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatedDNASequences", "RepeatedDNASequences\RepeatedDNASequences.csproj", "{5B2BCC27-4714-40A4-8AE9-38A45C4CA948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B2BCC27-4714-40A4-8AE9-38A45C4CA948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2BCC27-4714-40A4-8AE9-38A45C4CA948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2BCC27-4714-40A4-8AE9-38A45C4CA948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2BCC27-4714-40A4-8AE9-38A45C4CA948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A348B02-A8DD-434C-BDFE-D2F4B19D318A}
+	EndGlobalSection
+EndGlobal

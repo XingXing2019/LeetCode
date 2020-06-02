@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonCellsAfterNDays", "PrisonCellsAfterNDays\PrisonCellsAfterNDays.csproj", "{BFEF0F52-DB5C-4449-BA2C-6420D2A3ACA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEF0F52-DB5C-4449-BA2C-6420D2A3ACA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEF0F52-DB5C-4449-BA2C-6420D2A3ACA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEF0F52-DB5C-4449-BA2C-6420D2A3ACA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEF0F52-DB5C-4449-BA2C-6420D2A3ACA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9DDAA40-9AE7-4D5E-82A4-9CAA3654E2E9}
+	EndGlobalSection
+EndGlobal

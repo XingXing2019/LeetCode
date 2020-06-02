@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestValuesFromLabels", "LargestValuesFromLabels\LargestValuesFromLabels.csproj", "{526D31E3-CC37-4F8D-9892-75E1BE6ACE74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{526D31E3-CC37-4F8D-9892-75E1BE6ACE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526D31E3-CC37-4F8D-9892-75E1BE6ACE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526D31E3-CC37-4F8D-9892-75E1BE6ACE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526D31E3-CC37-4F8D-9892-75E1BE6ACE74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {520CF361-BD05-40D7-9460-C32FFA63FAA6}
+	EndGlobalSection
+EndGlobal
