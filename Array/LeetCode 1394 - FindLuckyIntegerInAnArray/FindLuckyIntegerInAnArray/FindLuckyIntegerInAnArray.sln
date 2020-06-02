@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLuckyIntegerInAnArray", "FindLuckyIntegerInAnArray\FindLuckyIntegerInAnArray.csproj", "{FB5623F3-89C3-4194-A1BD-D9BF58FD08CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB5623F3-89C3-4194-A1BD-D9BF58FD08CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5623F3-89C3-4194-A1BD-D9BF58FD08CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5623F3-89C3-4194-A1BD-D9BF58FD08CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5623F3-89C3-4194-A1BD-D9BF58FD08CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54271A89-971C-4994-A425-7BE4FE5BB151}
+	EndGlobalSection
+EndGlobal
