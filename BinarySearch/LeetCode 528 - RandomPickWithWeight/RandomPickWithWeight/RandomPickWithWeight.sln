@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomPickWithWeight", "RandomPickWithWeight\RandomPickWithWeight.csproj", "{B6D8FD50-60FE-40EA-95FD-179BB20EACA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D8FD50-60FE-40EA-95FD-179BB20EACA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D8FD50-60FE-40EA-95FD-179BB20EACA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D8FD50-60FE-40EA-95FD-179BB20EACA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D8FD50-60FE-40EA-95FD-179BB20EACA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A85BD9C2-A5DD-44D4-AF19-7A6EA14EF8BE}
+	EndGlobalSection
+EndGlobal

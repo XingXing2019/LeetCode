@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheSmallestDivisorGivenAThreshold", "FindTheSmallestDivisorGivenAThreshold\FindTheSmallestDivisorGivenAThreshold.csproj", "{C68D66C3-EFC4-40B4-9089-E5D0BBCCCB96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68D66C3-EFC4-40B4-9089-E5D0BBCCCB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68D66C3-EFC4-40B4-9089-E5D0BBCCCB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68D66C3-EFC4-40B4-9089-E5D0BBCCCB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68D66C3-EFC4-40B4-9089-E5D0BBCCCB96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A9658B-240C-4A90-86CF-0F8DF8E79B61}
+	EndGlobalSection
+EndGlobal

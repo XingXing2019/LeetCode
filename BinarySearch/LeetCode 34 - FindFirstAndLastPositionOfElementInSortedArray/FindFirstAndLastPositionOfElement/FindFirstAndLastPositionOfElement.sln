@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFirstAndLastPositionOfElement", "FindFirstAndLastPositionOfElement\FindFirstAndLastPositionOfElement.csproj", "{FBEE1218-3135-4467-BC5B-9224FC5BDF68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEE1218-3135-4467-BC5B-9224FC5BDF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEE1218-3135-4467-BC5B-9224FC5BDF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEE1218-3135-4467-BC5B-9224FC5BDF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEE1218-3135-4467-BC5B-9224FC5BDF68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1051E03-3F8C-4224-9270-2A6DBEDD0B6C}
+	EndGlobalSection
+EndGlobal
