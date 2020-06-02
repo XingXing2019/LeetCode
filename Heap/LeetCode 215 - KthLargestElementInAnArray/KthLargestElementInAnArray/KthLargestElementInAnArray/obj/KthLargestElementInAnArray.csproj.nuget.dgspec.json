@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\C#\\Algorithm\\Heap\\LeetCode 215 - KthLargestElementInAnArray\\KthLargestElementInAnArray\\KthLargestElementInAnArray\\KthLargestElementInAnArray.csproj": {}
+  },
+  "projects": {
+    "F:\\C#\\Algorithm\\Heap\\LeetCode 215 - KthLargestElementInAnArray\\KthLargestElementInAnArray\\KthLargestElementInAnArray\\KthLargestElementInAnArray.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#\\Algorithm\\Heap\\LeetCode 215 - KthLargestElementInAnArray\\KthLargestElementInAnArray\\KthLargestElementInAnArray\\KthLargestElementInAnArray.csproj",
+        "projectName": "KthLargestElementInAnArray",
+        "projectPath": "F:\\C#\\Algorithm\\Heap\\LeetCode 215 - KthLargestElementInAnArray\\KthLargestElementInAnArray\\KthLargestElementInAnArray\\KthLargestElementInAnArray.csproj",
+        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\Algorithm\\Heap\\LeetCode 215 - KthLargestElementInAnArray\\KthLargestElementInAnArray\\KthLargestElementInAnArray\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
