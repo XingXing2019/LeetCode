@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryPrefixDivisibleBy5", "BinaryPrefixDivisibleBy5\BinaryPrefixDivisibleBy5.csproj", "{5E90B217-2EC8-4DB7-80C4-70F5B7C40EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E90B217-2EC8-4DB7-80C4-70F5B7C40EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E90B217-2EC8-4DB7-80C4-70F5B7C40EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E90B217-2EC8-4DB7-80C4-70F5B7C40EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E90B217-2EC8-4DB7-80C4-70F5B7C40EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32AC47C7-7312-41D7-B163-7FC9C92511EE}
+	EndGlobalSection
+EndGlobal

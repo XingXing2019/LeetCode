@@ -1,0 +1,6 @@
+F:\C#\Algorithm\Array\LeetCode 566 - ReshapeTheMatrix\ReshapeTheMatrix\ReshapeTheMatrix\bin\Debug\ReshapeTheMatrix.exe.config
+F:\C#\Algorithm\Array\LeetCode 566 - ReshapeTheMatrix\ReshapeTheMatrix\ReshapeTheMatrix\bin\Debug\ReshapeTheMatrix.exe
+F:\C#\Algorithm\Array\LeetCode 566 - ReshapeTheMatrix\ReshapeTheMatrix\ReshapeTheMatrix\bin\Debug\ReshapeTheMatrix.pdb
+F:\C#\Algorithm\Array\LeetCode 566 - ReshapeTheMatrix\ReshapeTheMatrix\ReshapeTheMatrix\obj\Debug\ReshapeTheMatrix.csprojAssemblyReference.cache
+F:\C#\Algorithm\Array\LeetCode 566 - ReshapeTheMatrix\ReshapeTheMatrix\ReshapeTheMatrix\obj\Debug\ReshapeTheMatrix.exe
+F:\C#\Algorithm\Array\LeetCode 566 - ReshapeTheMatrix\ReshapeTheMatrix\ReshapeTheMatrix\obj\Debug\ReshapeTheMatrix.pdb

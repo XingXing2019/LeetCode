@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateZeros", "DuplicateZeros\DuplicateZeros.csproj", "{CF2A8107-7F86-400E-907A-58F56E62AF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF2A8107-7F86-400E-907A-58F56E62AF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2A8107-7F86-400E-907A-58F56E62AF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2A8107-7F86-400E-907A-58F56E62AF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2A8107-7F86-400E-907A-58F56E62AF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD9D7766-5E1E-4462-BC34-E0B8F6128E4F}
+	EndGlobalSection
+EndGlobal

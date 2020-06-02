@@ -1,0 +1,11 @@
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\bin\Debug\netcoreapp3.1\CountingElements.exe
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\bin\Debug\netcoreapp3.1\CountingElements.deps.json
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\bin\Debug\netcoreapp3.1\CountingElements.runtimeconfig.json
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\bin\Debug\netcoreapp3.1\CountingElements.runtimeconfig.dev.json
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\bin\Debug\netcoreapp3.1\CountingElements.dll
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\bin\Debug\netcoreapp3.1\CountingElements.pdb
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\obj\Debug\netcoreapp3.1\CountingElements.csprojAssemblyReference.cache
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\obj\Debug\netcoreapp3.1\CountingElements.AssemblyInfoInputs.cache
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\obj\Debug\netcoreapp3.1\CountingElements.AssemblyInfo.cs
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\obj\Debug\netcoreapp3.1\CountingElements.dll
+F:\C#\Algorithm\Array\LeetCode Day 7 - CountingElements\CountingElements\CountingElements\obj\Debug\netcoreapp3.1\CountingElements.pdb

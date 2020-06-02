@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumValueToGetPositiveStepByStepSum", "MinimumValueToGetPositiveStepByStepSum\MinimumValueToGetPositiveStepByStepSum.csproj", "{C6B6CB0D-EFF1-4550-9726-704D32D3FDB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B6CB0D-EFF1-4550-9726-704D32D3FDB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B6CB0D-EFF1-4550-9726-704D32D3FDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B6CB0D-EFF1-4550-9726-704D32D3FDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B6CB0D-EFF1-4550-9726-704D32D3FDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DB7C205-9077-4EC7-9192-DD2F954781FA}
+	EndGlobalSection
+EndGlobal

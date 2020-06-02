@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetMatrixZeroes", "SetMatrixZeroes\SetMatrixZeroes.csproj", "{17B0C435-65EB-41C1-ABA1-2F1F38718BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B0C435-65EB-41C1-ABA1-2F1F38718BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B0C435-65EB-41C1-ABA1-2F1F38718BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B0C435-65EB-41C1-ABA1-2F1F38718BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B0C435-65EB-41C1-ABA1-2F1F38718BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938F9CB6-5797-4DAE-9153-2636C6E1678D}
+	EndGlobalSection
+EndGlobal

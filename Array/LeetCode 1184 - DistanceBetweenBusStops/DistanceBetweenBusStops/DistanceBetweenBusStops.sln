@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenBusStops", "DistanceBetweenBusStops\DistanceBetweenBusStops.csproj", "{2D197867-8E73-4485-8612-0B414407558D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D197867-8E73-4485-8612-0B414407558D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D197867-8E73-4485-8612-0B414407558D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D197867-8E73-4485-8612-0B414407558D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D197867-8E73-4485-8612-0B414407558D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C86BE0-35DB-414E-8B7B-7C945E2FA77F}
+	EndGlobalSection
+EndGlobal

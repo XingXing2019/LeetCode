@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumPointsYouCanObtainFromCards", "MaximumPointsYouCanObtainFromCards\MaximumPointsYouCanObtainFromCards.csproj", "{7A45E058-051E-4E54-9FEA-E38D017855BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A45E058-051E-4E54-9FEA-E38D017855BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A45E058-051E-4E54-9FEA-E38D017855BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A45E058-051E-4E54-9FEA-E38D017855BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A45E058-051E-4E54-9FEA-E38D017855BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40D8F708-C354-409E-B9F5-76BE2202D493}
+	EndGlobalSection
+EndGlobal

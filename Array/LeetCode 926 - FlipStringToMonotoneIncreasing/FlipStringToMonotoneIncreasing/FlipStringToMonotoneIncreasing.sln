@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipStringToMonotoneIncreasing", "FlipStringToMonotoneIncreasing\FlipStringToMonotoneIncreasing.csproj", "{B1ED8B21-4C60-4D63-9C7B-B73CE8CA910B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1ED8B21-4C60-4D63-9C7B-B73CE8CA910B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1ED8B21-4C60-4D63-9C7B-B73CE8CA910B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1ED8B21-4C60-4D63-9C7B-B73CE8CA910B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1ED8B21-4C60-4D63-9C7B-B73CE8CA910B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C38E28CE-0CC2-49D0-B4C5-AD56FB151842}
+	EndGlobalSection
+EndGlobal

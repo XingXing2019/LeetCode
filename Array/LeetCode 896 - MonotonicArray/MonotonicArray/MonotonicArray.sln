@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonotonicArray", "MonotonicArray\MonotonicArray.csproj", "{46B3EC40-478B-45CB-B629-0EDEAF42AACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B3EC40-478B-45CB-B629-0EDEAF42AACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B3EC40-478B-45CB-B629-0EDEAF42AACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B3EC40-478B-45CB-B629-0EDEAF42AACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B3EC40-478B-45CB-B629-0EDEAF42AACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C414E17-163C-44EE-BCCB-DD7C55066D44}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeemoAttacking", "TeemoAttacking\TeemoAttacking.csproj", "{0BF327BE-7040-40F9-B159-A997C34E3E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF327BE-7040-40F9-B159-A997C34E3E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF327BE-7040-40F9-B159-A997C34E3E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF327BE-7040-40F9-B159-A997C34E3E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF327BE-7040-40F9-B159-A997C34E3E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {156FB376-3A40-4802-88C9-C89B7C866874}
+	EndGlobalSection
+EndGlobal

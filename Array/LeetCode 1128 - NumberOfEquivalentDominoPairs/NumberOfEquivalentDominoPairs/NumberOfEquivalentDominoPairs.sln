@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfEquivalentDominoPairs", "NumberOfEquivalentDominoPairs\NumberOfEquivalentDominoPairs.csproj", "{CFF6A339-F4EC-4386-A5C9-5727F7DA3D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF6A339-F4EC-4386-A5C9-5727F7DA3D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF6A339-F4EC-4386-A5C9-5727F7DA3D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF6A339-F4EC-4386-A5C9-5727F7DA3D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF6A339-F4EC-4386-A5C9-5727F7DA3D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76EA9969-535C-4518-A5AF-DB259B091463}
+	EndGlobalSection
+EndGlobal

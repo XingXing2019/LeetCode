@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalTraverseII", "DiagonalTraverseII\DiagonalTraverseII.csproj", "{D52B902F-A509-4BDF-8E87-109C6691DAC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52B902F-A509-4BDF-8E87-109C6691DAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52B902F-A509-4BDF-8E87-109C6691DAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52B902F-A509-4BDF-8E87-109C6691DAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52B902F-A509-4BDF-8E87-109C6691DAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69F5B72A-A9A3-4108-956A-A52CFB31A7D4}
+	EndGlobalSection
+EndGlobal

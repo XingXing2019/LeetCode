@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumIncrementToMakeArrayUnique", "MinimumIncrementToMakeArrayUnique\MinimumIncrementToMakeArrayUnique.csproj", "{06EA2DE6-BF58-4703-BB31-B5A77A5FBEBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06EA2DE6-BF58-4703-BB31-B5A77A5FBEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EA2DE6-BF58-4703-BB31-B5A77A5FBEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EA2DE6-BF58-4703-BB31-B5A77A5FBEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EA2DE6-BF58-4703-BB31-B5A77A5FBEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3232A53-6BD2-4554-A234-7CD4D13F4C3D}
+	EndGlobalSection
+EndGlobal
