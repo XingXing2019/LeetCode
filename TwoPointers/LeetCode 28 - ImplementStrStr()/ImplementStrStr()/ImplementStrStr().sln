@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementStrStr()", "ImplementStrStr()\ImplementStrStr().csproj", "{EC4D2F39-CD86-47E7-B91A-54327A97D68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4D2F39-CD86-47E7-B91A-54327A97D68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4D2F39-CD86-47E7-B91A-54327A97D68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4D2F39-CD86-47E7-B91A-54327A97D68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4D2F39-CD86-47E7-B91A-54327A97D68D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D937AC0-7D87-483A-8F37-4D59E3E87784}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntervalListIntersections", "IntervalListIntersections\IntervalListIntersections.csproj", "{759C7965-BFEF-4BDE-BEF0-3AC952E54EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{759C7965-BFEF-4BDE-BEF0-3AC952E54EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759C7965-BFEF-4BDE-BEF0-3AC952E54EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759C7965-BFEF-4BDE-BEF0-3AC952E54EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759C7965-BFEF-4BDE-BEF0-3AC952E54EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {365EB686-44DA-4E09-8403-EE135E6F7E9D}
+	EndGlobalSection
+EndGlobal
