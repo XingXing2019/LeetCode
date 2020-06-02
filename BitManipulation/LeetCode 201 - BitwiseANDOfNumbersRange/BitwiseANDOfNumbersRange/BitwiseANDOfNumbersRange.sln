@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseANDOfNumbersRange", "BitwiseANDOfNumbersRange\BitwiseANDOfNumbersRange.csproj", "{CC62BACE-A08C-4BD3-A458-59FB2C139B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC62BACE-A08C-4BD3-A458-59FB2C139B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC62BACE-A08C-4BD3-A458-59FB2C139B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC62BACE-A08C-4BD3-A458-59FB2C139B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC62BACE-A08C-4BD3-A458-59FB2C139B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271B49E4-D427-44CD-8D2C-48F16D8BD65C}
+	EndGlobalSection
+EndGlobal
