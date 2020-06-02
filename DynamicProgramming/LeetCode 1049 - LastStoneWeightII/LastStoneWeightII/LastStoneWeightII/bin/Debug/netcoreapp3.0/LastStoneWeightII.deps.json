@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LastStoneWeightII/1.0.0": {
+        "runtime": {
+          "LastStoneWeightII.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LastStoneWeightII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

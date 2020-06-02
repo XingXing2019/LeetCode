@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeWays", "DecodeWays\DecodeWays.csproj", "{491D6F40-234B-471F-B288-E57A65E3C6CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491D6F40-234B-471F-B288-E57A65E3C6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491D6F40-234B-471F-B288-E57A65E3C6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491D6F40-234B-471F-B288-E57A65E3C6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491D6F40-234B-471F-B288-E57A65E3C6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04D0D2BC-FCF4-43AF-99D2-10FC25BA29E4}
+	EndGlobalSection
+EndGlobal

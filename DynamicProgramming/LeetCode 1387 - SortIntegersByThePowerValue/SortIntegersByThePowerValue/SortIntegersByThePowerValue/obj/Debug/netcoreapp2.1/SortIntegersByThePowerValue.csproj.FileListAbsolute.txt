@@ -1,0 +1,11 @@
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\bin\Debug\netcoreapp2.1\SortIntegersByThePowerValue.deps.json
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\bin\Debug\netcoreapp2.1\SortIntegersByThePowerValue.runtimeconfig.json
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\bin\Debug\netcoreapp2.1\SortIntegersByThePowerValue.runtimeconfig.dev.json
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\bin\Debug\netcoreapp2.1\SortIntegersByThePowerValue.dll
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\bin\Debug\netcoreapp2.1\SortIntegersByThePowerValue.pdb
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\obj\Debug\netcoreapp2.1\SortIntegersByThePowerValue.csprojAssemblyReference.cache
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\obj\Debug\netcoreapp2.1\SortIntegersByThePowerValue.csproj.CoreCompileInputs.cache
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\obj\Debug\netcoreapp2.1\SortIntegersByThePowerValue.AssemblyInfoInputs.cache
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\obj\Debug\netcoreapp2.1\SortIntegersByThePowerValue.AssemblyInfo.cs
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\obj\Debug\netcoreapp2.1\SortIntegersByThePowerValue.dll
+E:\C#\LeetCode\LeetCode1387 - SortIntegersByThePowerValue\SortIntegersByThePowerValue\SortIntegersByThePowerValue\obj\Debug\netcoreapp2.1\SortIntegersByThePowerValue.pdb

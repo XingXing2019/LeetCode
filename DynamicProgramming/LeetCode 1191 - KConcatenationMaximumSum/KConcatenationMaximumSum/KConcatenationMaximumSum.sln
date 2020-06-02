@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KConcatenationMaximumSum", "KConcatenationMaximumSum\KConcatenationMaximumSum.csproj", "{DAA6C806-A8B9-4C1A-A4EC-636C3E6EFD81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA6C806-A8B9-4C1A-A4EC-636C3E6EFD81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA6C806-A8B9-4C1A-A4EC-636C3E6EFD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA6C806-A8B9-4C1A-A4EC-636C3E6EFD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA6C806-A8B9-4C1A-A4EC-636C3E6EFD81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A8F485-FC23-40FE-98AD-3A031369EC2D}
+	EndGlobalSection
+EndGlobal
