@@ -1,0 +1,3 @@
+F:\C#\Algorithm\Graph\LeetCode 997 - FindTheTownJudge\FindTheTownJudge\FindTheTownJudge\obj\Debug\netcoreapp3.1\FindTheTownJudge.csprojAssemblyReference.cache
+F:\C#\Algorithm\Graph\LeetCode 997 - FindTheTownJudge\FindTheTownJudge\FindTheTownJudge\obj\Debug\netcoreapp3.1\FindTheTownJudge.AssemblyInfoInputs.cache
+F:\C#\Algorithm\Graph\LeetCode 997 - FindTheTownJudge\FindTheTownJudge\FindTheTownJudge\obj\Debug\netcoreapp3.1\FindTheTownJudge.AssemblyInfo.cs

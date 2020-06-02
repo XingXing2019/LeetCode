@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\C#\\LeetCode\\LeetCode 1042 - FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent.csproj": {}
+  },
+  "projects": {
+    "E:\\C#\\LeetCode\\LeetCode 1042 - FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C#\\LeetCode\\LeetCode 1042 - FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent.csproj",
+        "projectName": "FlowerPlantingWithNoAdjacent",
+        "projectPath": "E:\\C#\\LeetCode\\LeetCode 1042 - FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "E:\\C#\\LeetCode\\LeetCode 1042 - FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\FlowerPlantingWithNoAdjacent\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
