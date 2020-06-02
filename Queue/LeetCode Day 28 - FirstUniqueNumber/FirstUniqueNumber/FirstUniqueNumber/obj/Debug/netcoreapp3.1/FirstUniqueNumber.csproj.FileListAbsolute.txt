@@ -1,0 +1,11 @@
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\bin\Debug\netcoreapp3.1\FirstUniqueNumber.exe
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\bin\Debug\netcoreapp3.1\FirstUniqueNumber.deps.json
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\bin\Debug\netcoreapp3.1\FirstUniqueNumber.runtimeconfig.json
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\bin\Debug\netcoreapp3.1\FirstUniqueNumber.runtimeconfig.dev.json
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\bin\Debug\netcoreapp3.1\FirstUniqueNumber.dll
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\bin\Debug\netcoreapp3.1\FirstUniqueNumber.pdb
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\obj\Debug\netcoreapp3.1\FirstUniqueNumber.csprojAssemblyReference.cache
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\obj\Debug\netcoreapp3.1\FirstUniqueNumber.AssemblyInfoInputs.cache
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\obj\Debug\netcoreapp3.1\FirstUniqueNumber.AssemblyInfo.cs
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\obj\Debug\netcoreapp3.1\FirstUniqueNumber.dll
+F:\C#\Algorithm\Queue\LeetCode Day 28 - FirstUniqueNumber\FirstUniqueNumber\FirstUniqueNumber\obj\Debug\netcoreapp3.1\FirstUniqueNumber.pdb
