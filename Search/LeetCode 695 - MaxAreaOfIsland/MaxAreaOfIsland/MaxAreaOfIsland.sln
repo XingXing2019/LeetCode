@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxAreaOfIsland", "MaxAreaOfIsland\MaxAreaOfIsland.csproj", "{6E18444C-1E97-4C29-BCE0-D9AED493535B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E18444C-1E97-4C29-BCE0-D9AED493535B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E18444C-1E97-4C29-BCE0-D9AED493535B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E18444C-1E97-4C29-BCE0-D9AED493535B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E18444C-1E97-4C29-BCE0-D9AED493535B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD34FF40-D0CB-42EF-88A0-DD212767DC47}
+	EndGlobalSection
+EndGlobal
