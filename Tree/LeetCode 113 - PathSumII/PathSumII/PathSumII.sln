@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathSumII", "PathSumII\PathSumII.csproj", "{C2C2FEAA-91A7-4C38-8531-90F7B5C10715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2C2FEAA-91A7-4C38-8531-90F7B5C10715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C2FEAA-91A7-4C38-8531-90F7B5C10715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C2FEAA-91A7-4C38-8531-90F7B5C10715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C2FEAA-91A7-4C38-8531-90F7B5C10715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1BB646-49FB-4670-A01D-C68D185556A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfAStringIsAValidSequence", "CheckIfAStringIsAValidSequence\CheckIfAStringIsAValidSequence.csproj", "{08E81953-7470-40E3-BA57-1329A7672B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E81953-7470-40E3-BA57-1329A7672B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E81953-7470-40E3-BA57-1329A7672B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E81953-7470-40E3-BA57-1329A7672B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E81953-7470-40E3-BA57-1329A7672B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C7086B-D8B1-454B-B309-E63C22D3056A}
+	EndGlobalSection
+EndGlobal

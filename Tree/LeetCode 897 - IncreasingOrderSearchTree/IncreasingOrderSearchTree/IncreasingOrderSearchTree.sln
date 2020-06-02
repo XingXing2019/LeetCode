@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreasingOrderSearchTree", "IncreasingOrderSearchTree\IncreasingOrderSearchTree.csproj", "{1E96B537-813E-4979-9E43-83BA31975C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E96B537-813E-4979-9E43-83BA31975C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E96B537-813E-4979-9E43-83BA31975C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E96B537-813E-4979-9E43-83BA31975C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E96B537-813E-4979-9E43-83BA31975C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A79F1FA-9DC2-490C-AC79-36C15DA6EDC1}
+	EndGlobalSection
+EndGlobal

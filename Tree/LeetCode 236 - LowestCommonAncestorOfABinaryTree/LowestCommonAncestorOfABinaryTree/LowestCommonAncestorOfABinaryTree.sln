@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LowestCommonAncestorOfABinaryTree", "LowestCommonAncestorOfABinaryTree\LowestCommonAncestorOfABinaryTree.csproj", "{DFAB3904-E22B-48CD-8304-F0EF4A15420D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFAB3904-E22B-48CD-8304-F0EF4A15420D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAB3904-E22B-48CD-8304-F0EF4A15420D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAB3904-E22B-48CD-8304-F0EF4A15420D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAB3904-E22B-48CD-8304-F0EF4A15420D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8B75E35-4320-4087-A8A9-753A49AFAA31}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeZigzagLevelOrderTraversal", "BinaryTreeZigzagLevelOrderTraversal\BinaryTreeZigzagLevelOrderTraversal.csproj", "{D2BD4E4D-5AB4-4814-81A3-27EE2A11274E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2BD4E4D-5AB4-4814-81A3-27EE2A11274E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BD4E4D-5AB4-4814-81A3-27EE2A11274E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BD4E4D-5AB4-4814-81A3-27EE2A11274E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BD4E4D-5AB4-4814-81A3-27EE2A11274E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB8C756E-95E8-463A-B11F-64C183190196}
+	EndGlobalSection
+EndGlobal

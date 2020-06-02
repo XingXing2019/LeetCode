@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConvertSortedArrayToBinarySearchTree/1.0.0": {
+        "runtime": {
+          "ConvertSortedArrayToBinarySearchTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConvertSortedArrayToBinarySearchTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

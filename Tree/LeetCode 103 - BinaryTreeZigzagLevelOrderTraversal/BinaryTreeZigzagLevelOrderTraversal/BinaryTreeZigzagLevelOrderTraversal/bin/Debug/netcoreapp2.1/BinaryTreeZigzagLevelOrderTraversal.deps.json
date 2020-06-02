@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "BinaryTreeZigzagLevelOrderTraversal/1.0.0": {
+        "runtime": {
+          "BinaryTreeZigzagLevelOrderTraversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinaryTreeZigzagLevelOrderTraversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

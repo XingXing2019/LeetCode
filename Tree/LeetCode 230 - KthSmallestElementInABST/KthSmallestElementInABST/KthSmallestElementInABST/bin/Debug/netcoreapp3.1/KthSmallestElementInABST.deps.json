@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KthSmallestElementInABST/1.0.0": {
+        "runtime": {
+          "KthSmallestElementInABST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KthSmallestElementInABST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

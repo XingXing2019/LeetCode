@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeTilt", "BinaryTreeTilt\BinaryTreeTilt.csproj", "{1C8D74AD-CD18-4F5B-8324-4649EA46537B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C8D74AD-CD18-4F5B-8324-4649EA46537B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8D74AD-CD18-4F5B-8324-4649EA46537B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8D74AD-CD18-4F5B-8324-4649EA46537B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8D74AD-CD18-4F5B-8324-4649EA46537B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4984E109-1C44-491E-AA09-B41C56F386A4}
+	EndGlobalSection
+EndGlobal

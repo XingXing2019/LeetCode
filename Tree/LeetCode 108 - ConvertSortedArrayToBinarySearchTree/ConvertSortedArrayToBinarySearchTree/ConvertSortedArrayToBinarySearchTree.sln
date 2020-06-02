@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertSortedArrayToBinarySearchTree", "ConvertSortedArrayToBinarySearchTree\ConvertSortedArrayToBinarySearchTree.csproj", "{08E7C174-D794-46E0-A34B-B246CABF324D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E7C174-D794-46E0-A34B-B246CABF324D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E7C174-D794-46E0-A34B-B246CABF324D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E7C174-D794-46E0-A34B-B246CABF324D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E7C174-D794-46E0-A34B-B246CABF324D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F8BFC6A-B2C8-4A1B-98DA-E6E0F28451AD}
+	EndGlobalSection
+EndGlobal

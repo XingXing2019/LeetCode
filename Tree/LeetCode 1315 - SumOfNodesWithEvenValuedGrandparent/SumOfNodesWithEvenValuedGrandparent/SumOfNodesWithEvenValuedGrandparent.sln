@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfNodesWithEvenValuedGrandparent", "SumOfNodesWithEvenValuedGrandparent\SumOfNodesWithEvenValuedGrandparent.csproj", "{2B5EA4D9-E8CB-4D54-8970-7160A7CD4B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5EA4D9-E8CB-4D54-8970-7160A7CD4B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5EA4D9-E8CB-4D54-8970-7160A7CD4B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5EA4D9-E8CB-4D54-8970-7160A7CD4B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5EA4D9-E8CB-4D54-8970-7160A7CD4B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E47FE3-EDB8-4EC3-A660-1A641211CA94}
+	EndGlobalSection
+EndGlobal
