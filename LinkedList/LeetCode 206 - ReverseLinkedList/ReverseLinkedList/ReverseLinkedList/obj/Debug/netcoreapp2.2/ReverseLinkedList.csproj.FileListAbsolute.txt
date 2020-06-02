@@ -1,0 +1,10 @@
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.deps.json
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.runtimeconfig.json
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.runtimeconfig.dev.json
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.dll
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp2.2\ReverseLinkedList.pdb
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.csproj.CoreCompileInputs.cache
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.AssemblyInfoInputs.cache
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.AssemblyInfo.cs
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.dll
+E:\C#\Algorithm\ReverseLinkedList\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp2.2\ReverseLinkedList.pdb

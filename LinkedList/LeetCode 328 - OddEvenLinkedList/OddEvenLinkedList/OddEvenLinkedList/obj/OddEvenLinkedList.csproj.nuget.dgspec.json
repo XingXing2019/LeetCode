@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\C#\\Algorithm\\LinkedList\\LeetCode 328 - OddEvenLinkedList\\OddEvenLinkedList\\OddEvenLinkedList\\OddEvenLinkedList.csproj": {}
+  },
+  "projects": {
+    "F:\\C#\\Algorithm\\LinkedList\\LeetCode 328 - OddEvenLinkedList\\OddEvenLinkedList\\OddEvenLinkedList\\OddEvenLinkedList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\C#\\Algorithm\\LinkedList\\LeetCode 328 - OddEvenLinkedList\\OddEvenLinkedList\\OddEvenLinkedList\\OddEvenLinkedList.csproj",
+        "projectName": "OddEvenLinkedList",
+        "projectPath": "F:\\C#\\Algorithm\\LinkedList\\LeetCode 328 - OddEvenLinkedList\\OddEvenLinkedList\\OddEvenLinkedList\\OddEvenLinkedList.csproj",
+        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\Algorithm\\LinkedList\\LeetCode 328 - OddEvenLinkedList\\OddEvenLinkedList\\OddEvenLinkedList\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
