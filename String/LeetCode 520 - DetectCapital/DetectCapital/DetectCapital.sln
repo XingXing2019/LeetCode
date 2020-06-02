@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectCapital", "DetectCapital\DetectCapital.csproj", "{762D2875-76B2-4B90-AA7F-23F87AB58553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{762D2875-76B2-4B90-AA7F-23F87AB58553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762D2875-76B2-4B90-AA7F-23F87AB58553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762D2875-76B2-4B90-AA7F-23F87AB58553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762D2875-76B2-4B90-AA7F-23F87AB58553}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204B9EEE-76A9-49B3-9FC8-B96C3817E667}
+	EndGlobalSection
+EndGlobal

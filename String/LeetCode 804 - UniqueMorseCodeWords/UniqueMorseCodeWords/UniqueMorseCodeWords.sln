@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueMorseCodeWords", "UniqueMorseCodeWords\UniqueMorseCodeWords.csproj", "{E79FB982-0CB4-4D52-A152-A9D3D0103C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E79FB982-0CB4-4D52-A152-A9D3D0103C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79FB982-0CB4-4D52-A152-A9D3D0103C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79FB982-0CB4-4D52-A152-A9D3D0103C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79FB982-0CB4-4D52-A152-A9D3D0103C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67AF73DA-2147-41F9-B261-E55418AF37C6}
+	EndGlobalSection
+EndGlobal

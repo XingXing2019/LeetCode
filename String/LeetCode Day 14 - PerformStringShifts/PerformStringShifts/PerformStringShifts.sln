@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformStringShifts", "PerformStringShifts\PerformStringShifts.csproj", "{410475B4-3DC6-4A54-A39C-6A92C542377C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410475B4-3DC6-4A54-A39C-6A92C542377C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410475B4-3DC6-4A54-A39C-6A92C542377C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410475B4-3DC6-4A54-A39C-6A92C542377C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410475B4-3DC6-4A54-A39C-6A92C542377C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFF5F043-97D3-4E7E-A2A0-0FC3C4FE61CB}
+	EndGlobalSection
+EndGlobal

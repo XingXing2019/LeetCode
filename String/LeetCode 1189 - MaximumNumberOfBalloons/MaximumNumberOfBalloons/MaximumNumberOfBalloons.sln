@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberOfBalloons", "MaximumNumberOfBalloons\MaximumNumberOfBalloons.csproj", "{6613C3F9-8FEA-4D06-9834-5A3D1D752BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6613C3F9-8FEA-4D06-9834-5A3D1D752BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6613C3F9-8FEA-4D06-9834-5A3D1D752BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6613C3F9-8FEA-4D06-9834-5A3D1D752BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6613C3F9-8FEA-4D06-9834-5A3D1D752BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A917A3A-CF13-4F49-9BA4-FA2CCB873697}
+	EndGlobalSection
+EndGlobal

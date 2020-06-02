@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMatchingInAnArray", "StringMatchingInAnArray\StringMatchingInAnArray.csproj", "{9817F536-8824-49FC-B4F7-CCE959A6D70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9817F536-8824-49FC-B4F7-CCE959A6D70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9817F536-8824-49FC-B4F7-CCE959A6D70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9817F536-8824-49FC-B4F7-CCE959A6D70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9817F536-8824-49FC-B4F7-CCE959A6D70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2994957-C87C-4148-ADD6-FD9DC56819AE}
+	EndGlobalSection
+EndGlobal

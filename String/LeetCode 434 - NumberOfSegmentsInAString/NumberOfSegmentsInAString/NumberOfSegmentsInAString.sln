@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfSegmentsInAString", "NumberOfSegmentsInAString\NumberOfSegmentsInAString.csproj", "{63C9D4C3-8DEB-4720-B9AD-5B2E064BEBD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C9D4C3-8DEB-4720-B9AD-5B2E064BEBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C9D4C3-8DEB-4720-B9AD-5B2E064BEBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C9D4C3-8DEB-4720-B9AD-5B2E064BEBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C9D4C3-8DEB-4720-B9AD-5B2E064BEBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B22B2B56-BDF7-42D2-9C99-624717B3ED66}
+	EndGlobalSection
+EndGlobal

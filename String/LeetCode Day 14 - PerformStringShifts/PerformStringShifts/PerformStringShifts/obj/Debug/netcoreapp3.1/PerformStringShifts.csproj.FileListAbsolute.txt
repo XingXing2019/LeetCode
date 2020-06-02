@@ -1,0 +1,11 @@
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\bin\Debug\netcoreapp3.1\PerformStringShifts.exe
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\bin\Debug\netcoreapp3.1\PerformStringShifts.deps.json
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\bin\Debug\netcoreapp3.1\PerformStringShifts.runtimeconfig.json
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\bin\Debug\netcoreapp3.1\PerformStringShifts.runtimeconfig.dev.json
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\bin\Debug\netcoreapp3.1\PerformStringShifts.dll
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\bin\Debug\netcoreapp3.1\PerformStringShifts.pdb
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\obj\Debug\netcoreapp3.1\PerformStringShifts.csprojAssemblyReference.cache
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\obj\Debug\netcoreapp3.1\PerformStringShifts.AssemblyInfoInputs.cache
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\obj\Debug\netcoreapp3.1\PerformStringShifts.AssemblyInfo.cs
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\obj\Debug\netcoreapp3.1\PerformStringShifts.dll
+F:\C#\Algorithm\String\LeetCode Day 14 - PerformStringShifts\PerformStringShifts\PerformStringShifts\obj\Debug\netcoreapp3.1\PerformStringShifts.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordSubsets", "WordSubsets\WordSubsets.csproj", "{656636BF-ACA6-46BC-B280-532BE7E7115C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656636BF-ACA6-46BC-B280-532BE7E7115C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656636BF-ACA6-46BC-B280-532BE7E7115C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656636BF-ACA6-46BC-B280-532BE7E7115C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656636BF-ACA6-46BC-B280-532BE7E7115C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A679F35A-5772-4401-BB71-38565DD888CF}
+	EndGlobalSection
+EndGlobal
