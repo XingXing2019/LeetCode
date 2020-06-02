@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistantBarcodes", "DistantBarcodes\DistantBarcodes.csproj", "{32B4EE67-A8F3-4270-8F41-D9090F235118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B4EE67-A8F3-4270-8F41-D9090F235118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B4EE67-A8F3-4270-8F41-D9090F235118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B4EE67-A8F3-4270-8F41-D9090F235118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B4EE67-A8F3-4270-8F41-D9090F235118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5721D10A-C633-4230-91C6-0D642F8D7DBD}
+	EndGlobalSection
+EndGlobal
