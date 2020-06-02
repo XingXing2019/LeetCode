@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveOutermostParentheses", "RemoveOutermostParentheses\RemoveOutermostParentheses.csproj", "{3884F660-D8D9-44E7-9C87-87ABDFBD262F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3884F660-D8D9-44E7-9C87-87ABDFBD262F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3884F660-D8D9-44E7-9C87-87ABDFBD262F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3884F660-D8D9-44E7-9C87-87ABDFBD262F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3884F660-D8D9-44E7-9C87-87ABDFBD262F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E8731BF-0E0D-4719-A8BE-7868896C1B1E}
+	EndGlobalSection
+EndGlobal

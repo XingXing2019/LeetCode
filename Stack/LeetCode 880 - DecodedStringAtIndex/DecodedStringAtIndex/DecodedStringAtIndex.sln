@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodedStringAtIndex", "DecodedStringAtIndex\DecodedStringAtIndex.csproj", "{BC8FD567-F4AE-425A-9899-C0D577AF6CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8FD567-F4AE-425A-9899-C0D577AF6CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8FD567-F4AE-425A-9899-C0D577AF6CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8FD567-F4AE-425A-9899-C0D577AF6CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8FD567-F4AE-425A-9899-C0D577AF6CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {261E7276-ED92-4845-91EF-3811B93513B7}
+	EndGlobalSection
+EndGlobal
