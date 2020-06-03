@@ -5,6 +5,7 @@
 //遍历costGap数组的一半，将他们由A市改成B市。
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace TwoCityScheduling
 {
@@ -28,6 +29,16 @@ namespace TwoCityScheduling
             for (int i = 0; i < costGap.Length / 2; i++)
                 minCost += costGap[i];
             return minCost;
+        }
+        public int TwoCitySchedCost_Linq(int[][] costs)
+        {
+            costs = costs.OrderBy(x => x[0] - x[1]).ToArray();
+            var totalCost = 0;
+            for (int i = 0; i < costs.Length / 2; i++)
+                totalCost += costs[i][0];
+            for (int i = costs.Length / 2; i < costs.Length; i++)
+                totalCost += costs[i][1];
+            return totalCost;
         }
     }
 }
