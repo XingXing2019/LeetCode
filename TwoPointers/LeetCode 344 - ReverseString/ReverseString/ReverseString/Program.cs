@@ -17,11 +17,13 @@ namespace ReverseString
             while (left < right)
             {
                 char tem = s[left];
-                s[left] = s[right];
-                s[right] = tem;
-                left++;
-                right--;
+                s[left++] = s[right];
+                s[right--] = tem;
             }
+        }
+        static void ReverseString_BuildingIn(char[] s)
+        {
+            Array.Reverse(s);
         }
     }
 }
