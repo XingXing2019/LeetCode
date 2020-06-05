@@ -6,10 +6,10 @@ namespace ConvertANumberToHexadecimal
     {
         static void Main(string[] args)
         {
-            int num = -1;
-            Console.WriteLine(ToHex(num));
+            int num = 26;
+            Console.WriteLine(ToHex_And(num));
         }
-        static string ToHex(int num)
+        static string ToHex_Long(int num)
         {
             if (num == 0) return "0";
             var symbols = "0123456789abcdef";
@@ -19,6 +19,22 @@ namespace ConvertANumberToHexadecimal
             {
                 res = symbols[(int)(temp % 16)] + res;
                 temp /= 16;
+            }
+            return res;
+        }
+
+        static string ToHex_And(int num)
+        {
+            if (num == 0) return "0";
+            var symbols = "0123456789abcdef";
+            var temp = 15;
+            var res = "";
+            var times = 8;
+            while (num != 0 && times != 0)
+            {
+                res = symbols[num & temp] + res;
+                num >>= 4;
+                times--;
             }
             return res;
         }
