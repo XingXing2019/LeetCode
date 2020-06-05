@@ -2,10 +2,19 @@
 
 namespace RandomPickWithWeight
 {
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+
     public class Solution
     {
         private Random _random;
         private int[] _weight;
+
         public Solution(int[] w)
         {
             _random = new Random();
@@ -17,16 +26,9 @@ namespace RandomPickWithWeight
 
         public int PickIndex()
         {
-            int guess = _random.Next(1, _weight[^1] + 1);
-            int pos = Array.BinarySearch(_weight, guess);
+            var weight = _random.Next(1, _weight[^1] + 1);
+            var pos = Array.BinarySearch(_weight, weight);
             return pos < 0 ? -(pos + 1) : pos;
-        }
-    }
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
         }
     }
 }
