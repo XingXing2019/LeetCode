@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a88swrCZoEXKzQ55FMY2WkPg5AsodASK1vGsgKMOhynzXMS8A9oi1VyaaLLH0Hgv8HNy1yPjFRSQLDLTbfwE2g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 547 - FriendCircles\\FriendCircles\\FriendCircles\\FriendCircles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
