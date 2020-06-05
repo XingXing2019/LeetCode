@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I8VYg8o75E3541tqudW4R1vQZomrgzampvRk0rrcoAPZyBME3y5ojdYRjt77Sm93z6ifA0IOuErAwCiExpYH4w==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Recursion\\LeetCode 779 - KthSymbolInGrammar\\KthSymbolInGrammar\\KthSymbolInGrammar\\KthSymbolInGrammar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
