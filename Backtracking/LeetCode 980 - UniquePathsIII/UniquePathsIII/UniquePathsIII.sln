@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniquePathsIII", "UniquePathsIII\UniquePathsIII.csproj", "{D9E5AF77-F701-4734-BCD1-A2C3F9A19B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E5AF77-F701-4734-BCD1-A2C3F9A19B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E5AF77-F701-4734-BCD1-A2C3F9A19B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E5AF77-F701-4734-BCD1-A2C3F9A19B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E5AF77-F701-4734-BCD1-A2C3F9A19B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B48334-0474-4755-B89F-E59457F607F8}
+	EndGlobalSection
+EndGlobal
