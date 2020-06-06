@@ -19,20 +19,22 @@ namespace QueueReconstructionByHeight
         }
         static int[][] ReconstructQueue(int[][] people)
         {
-            people = people.OrderBy(p => p[0]).ToArray();
+            people = people.OrderBy(x => x[0]).ToArray();
             var res = new int[people.Length][];
             foreach (var person in people)
             {
-                int count = 0;
+                int count = person[1];
                 for (int i = 0; i < res.Length; i++)
                 {
-                    if (person[1] == count && res[i] == null)
+                    if (count == 0)
                     {
+                        while (res[i] != null)
+                            i++;
                         res[i] = person;
-                        break;
+                        break;;
                     }
                     if (res[i] == null || res[i][0] >= person[0])
-                        count++;
+                        count--;
                 }
             }
             return res;

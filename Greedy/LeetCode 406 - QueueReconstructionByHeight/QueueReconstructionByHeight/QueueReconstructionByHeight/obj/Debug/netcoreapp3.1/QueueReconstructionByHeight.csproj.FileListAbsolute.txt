@@ -9,3 +9,5 @@ F:\C#\Algorithm\Greedy\LeetCode 406 - QueueReconstructionByHeight\QueueReconstru
 F:\C#\Algorithm\Greedy\LeetCode 406 - QueueReconstructionByHeight\QueueReconstructionByHeight\QueueReconstructionByHeight\obj\Debug\netcoreapp3.1\QueueReconstructionByHeight.AssemblyInfo.cs
 F:\C#\Algorithm\Greedy\LeetCode 406 - QueueReconstructionByHeight\QueueReconstructionByHeight\QueueReconstructionByHeight\obj\Debug\netcoreapp3.1\QueueReconstructionByHeight.dll
 F:\C#\Algorithm\Greedy\LeetCode 406 - QueueReconstructionByHeight\QueueReconstructionByHeight\QueueReconstructionByHeight\obj\Debug\netcoreapp3.1\QueueReconstructionByHeight.pdb
+F:\C#\Algorithm\Greedy\LeetCode 406 - QueueReconstructionByHeight\QueueReconstructionByHeight\QueueReconstructionByHeight\obj\Debug\netcoreapp3.1\QueueReconstructionByHeight.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Greedy\LeetCode 406 - QueueReconstructionByHeight\QueueReconstructionByHeight\QueueReconstructionByHeight\obj\Debug\netcoreapp3.1\QueueReconstructionByHeight.genruntimeconfig.cache
