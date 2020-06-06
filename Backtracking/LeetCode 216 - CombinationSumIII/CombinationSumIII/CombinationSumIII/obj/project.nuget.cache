@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UP8BdrRfyH0CPhXkPQHmP0WvRzFcx/vXUb2wB3SjQpki5NIvhDENr5UuNWRH6e+vyoOanIG7Nn6eQql6t6ne8w==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 216 - CombinationSumIII\\CombinationSumIII\\CombinationSumIII\\CombinationSumIII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
