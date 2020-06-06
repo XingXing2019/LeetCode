@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathWithMaximumGold", "PathWithMaximumGold\PathWithMaximumGold.csproj", "{D2BE2F0F-DF44-438D-B191-B0414E950114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2BE2F0F-DF44-438D-B191-B0414E950114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BE2F0F-DF44-438D-B191-B0414E950114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BE2F0F-DF44-438D-B191-B0414E950114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BE2F0F-DF44-438D-B191-B0414E950114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C9D20A-7BF3-46A0-A20B-DEDF14CF7477}
+	EndGlobalSection
+EndGlobal
