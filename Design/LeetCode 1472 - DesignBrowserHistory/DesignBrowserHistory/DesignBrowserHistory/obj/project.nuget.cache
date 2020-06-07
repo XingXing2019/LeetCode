@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rf0I98RO1I3L96slGi5A9+b5v8AnUcJlZnOoaoHaIsv0T9frZGKnFclPLDpCbtp6ezXeRJleH+BBuQPMvl+7oA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Design\\LeetCode 1472 - DesignBrowserHistory\\DesignBrowserHistory\\DesignBrowserHistory\\DesignBrowserHistory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
