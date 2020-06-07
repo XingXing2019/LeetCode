@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ThekStrongestValuesInAnArray/1.0.0": {
+        "runtime": {
+          "ThekStrongestValuesInAnArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThekStrongestValuesInAnArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

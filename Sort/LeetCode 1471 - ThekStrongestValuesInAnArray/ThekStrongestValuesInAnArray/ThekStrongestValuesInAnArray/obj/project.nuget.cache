@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxJDmJeeKlLIIQvwk2m9VpOcJwoi72sQAarCQ54gj0DqAziA9uZnpOK763wumpB4UwMFz0qG4U8syR+XDplseQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1471 - ThekStrongestValuesInAnArray\\ThekStrongestValuesInAnArray\\ThekStrongestValuesInAnArray\\ThekStrongestValuesInAnArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
