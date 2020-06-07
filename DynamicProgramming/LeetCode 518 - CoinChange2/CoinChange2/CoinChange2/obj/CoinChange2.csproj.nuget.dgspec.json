@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Backtracking\\LeetCode 39 - CombinationSum\\CombinationSum\\CombinationSum\\CombinationSum.csproj": {}
+    "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 518 - CoinChange2\\CoinChange2\\CoinChange2\\CoinChange2.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Backtracking\\LeetCode 39 - CombinationSum\\CombinationSum\\CombinationSum\\CombinationSum.csproj": {
+    "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 518 - CoinChange2\\CoinChange2\\CoinChange2\\CoinChange2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 39 - CombinationSum\\CombinationSum\\CombinationSum\\CombinationSum.csproj",
-        "projectName": "CombinationSum",
-        "projectPath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 39 - CombinationSum\\CombinationSum\\CombinationSum\\CombinationSum.csproj",
+        "projectUniqueName": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 518 - CoinChange2\\CoinChange2\\CoinChange2\\CoinChange2.csproj",
+        "projectName": "CoinChange2",
+        "projectPath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 518 - CoinChange2\\CoinChange2\\CoinChange2\\CoinChange2.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 39 - CombinationSum\\CombinationSum\\CombinationSum\\obj\\",
+        "outputPath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 518 - CoinChange2\\CoinChange2\\CoinChange2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -39,15 +39,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -58,6 +50,17 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
