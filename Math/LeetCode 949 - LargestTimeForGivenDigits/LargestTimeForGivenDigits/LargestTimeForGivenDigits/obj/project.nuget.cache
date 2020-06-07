@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dRj9w8STMufufov0AYhQ/86U3xaXBxZCduKrofZz/JLlbyxPQzYbc1TCLfjuUQ9yJWh6UbO1398SsQv+2HGI3g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 949 - LargestTimeForGivenDigits\\LargestTimeForGivenDigits\\LargestTimeForGivenDigits\\LargestTimeForGivenDigits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
