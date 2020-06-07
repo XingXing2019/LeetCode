@@ -7,6 +7,7 @@
 //在对j遍历结束后，要达到当前i金额所需最少硬币数量就是min + 1。
 //最后返回dpMin中amount所对应的最小硬币数量即可。
 using System;
+using System.Linq;
 
 namespace CoinChange
 {
@@ -14,36 +15,30 @@ namespace CoinChange
     {
         static void Main(string[] args)
         {
-            int[] coins = { 2 };
-            int amount = 3;
+            int[] coins = { 1 };
+            int amount = 0;
             Console.WriteLine(CoinChange(coins, amount));
         }
         static int CoinChange(int[] coins, int amount)
         {
-            if (amount == 0)
-                return 0;
-            int[] dpMin = new int[amount + 1];
-            for (int i = 0; i <= amount; i++)
-                dpMin[i] = -1;
-            dpMin[0] = 0;
+            var dp = new int[amount + 1];
+            for (int i = 1; i < dp.Length; i++)
+                dp[i] = -1;
             for (int i = 0; i < coins.Length && coins[i] <= amount; i++)
-                dpMin[coins[i]] = 1;
-            for (int i = 1; i <= amount; i++)
+                dp[coins[i]] = 1;
+            for (int i = 1; i < dp.Length; i++)
             {
+                if(dp[i] == 1) continue;
                 int min = int.MaxValue;
                 for (int j = 0; j < coins.Length; j++)
                 {
-                    if (i - coins[j] >= 0 && dpMin[i - coins[j]] != -1)
-                    {
-                        if (dpMin[i - coins[j]] < min)
-                        {
-                            min = dpMin[i - coins[j]];
-                            dpMin[i] = min + 1;
-                        }
-                    }
+                    if(i - coins[j] < 0 || dp[i - coins[j]] == -1)
+                        continue;
+                    min = Math.Min(min, dp[i - coins[j]] + 1);
                 }
+                dp[i] = min == int.MaxValue ? -1 : min;
             }
-            return dpMin[amount];
+            return dp[amount];
         }
     }
 }
