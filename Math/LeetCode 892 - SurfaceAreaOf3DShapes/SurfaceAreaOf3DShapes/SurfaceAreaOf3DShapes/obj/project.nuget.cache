@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K8gezhIuYiu34glhs9gM1dqwoh9iOXCyaxngdotfed1YWJpwtrbF4cxM6Z4eZi2l2pX2j9Y+Up83Me9U0akmcA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 892 - SurfaceAreaOf3DShapes\\SurfaceAreaOf3DShapes\\SurfaceAreaOf3DShapes\\SurfaceAreaOf3DShapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
