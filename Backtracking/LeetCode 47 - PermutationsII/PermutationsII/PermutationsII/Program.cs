@@ -12,6 +12,7 @@ namespace PermutationsII
         }
         static IList<IList<int>> PermuteUnique(int[] nums)
         {
+            Array.Sort(nums);
             var path = new List<int>();
             var res = new List<IList<int>>();
             var visit = new bool[nums.Length];
@@ -29,6 +30,7 @@ namespace PermutationsII
             for (int i = 0; i < nums.Length; i++)
             {
                 if(viisit[i]) continue;
+                if(i > 0 && nums[i] == nums[i - 1] && !viisit[i - 1]) continue;
                 path.Add(nums[i]);
                 viisit[i] = true;
                 DFS(nums, path, res, viisit);
