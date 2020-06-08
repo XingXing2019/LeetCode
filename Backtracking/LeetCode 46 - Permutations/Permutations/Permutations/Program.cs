@@ -13,33 +13,28 @@ namespace Permutations
         }
         static IList<IList<int>> Permute(int[] nums)
         {
-            List<IList<int>> res = new List<IList<int>>();
-            List<int> item = new List<int>();
-            Dictionary<int, bool> record = new Dictionary<int, bool>();
-            foreach (var n in nums)
-                record[n] = false;
-            Generate(res, item, nums, record);
+            var res = new List<IList<int>>();
+            var path = new List<int>();
+            var visit = new bool[nums.Length];
+            DFS(nums, path, res, visit);
             return res;
         }
-        static void Generate(List<IList<int>> res, List<int> item, int[] nums, Dictionary<int, bool> record)
+
+        static void DFS(int[] nums, List<int> path, List<IList<int>> res, bool[] visit)
         {
-            if (item.Count == nums.Length)
+            if (path.Count == nums.Length)
             {
-                res.Add(new List<int>(item));
-                return;
+                var temp = new List<int>(path);
+                res.Add(temp);
             }
             for (int i = 0; i < nums.Length; i++)
             {
-                if (record[nums[i]])
-                    continue;
-                else
-                {
-                    item.Add(nums[i]);
-                    record[nums[i]] = true;
-                }
-                Generate(res, item, nums, record);
-                item.Remove(nums[i]);
-                record[nums[i]] = false;
+                if (visit[i]) continue;
+                path.Add(nums[i]);
+                visit[i] = true;
+                DFS(nums, path, res, visit);
+                path.RemoveAt(path.Count - 1);
+                visit[i] = false;
             }
         }
     }
