@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jpynyqtr/T+OhDPyWHhv+7o1dxKYuIDlD19DL7m+AWY+WQvzV6bnnGc8pSAiSDbk1Jjy4X5AlRC9RpBUKv/4sA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 47 - PermutationsII\\PermutationsII\\PermutationsII\\PermutationsII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
