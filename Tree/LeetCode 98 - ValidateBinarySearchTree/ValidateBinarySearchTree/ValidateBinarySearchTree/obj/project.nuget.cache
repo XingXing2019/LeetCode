@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZqtF+knEd3f9GDe+fazR7npMrtg5liEhRx+joW9PYtv3YBN3eG+MY1hWgEsFKv+1nFL6gC2YbgfAN+FHbCFEnw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 98 - ValidateBinarySearchTree\\ValidateBinarySearchTree\\ValidateBinarySearchTree\\ValidateBinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
