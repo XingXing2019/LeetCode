@@ -19,23 +19,18 @@ namespace ValidateBinarySearchTree
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var a = new TreeNode(1);
+            var b = new TreeNode(1);
+            a.left = b;
+            Console.WriteLine(IsValidBST_Recursion(a));
         }
-        public bool IsValidBST_Recursion(TreeNode root)
+        static bool IsValidBST_Recursion(TreeNode root, long min = long.MinValue, long max = long.MaxValue)
         {
-            return DFS_Recursion(root, long.MinValue, long.MaxValue);
+            if (root == null) return true;
+            if (root.val <= min || root.val >= max) return false;
+            return IsValidBST_Recursion(root.left, min, root.val) && IsValidBST_Recursion(root.right, root.val, max);
         }
-
-        private bool DFS_Recursion(TreeNode node, long min, long max)
-        {
-            if (node == null) return true;
-            var inRange = node.val > min && node.val < max;
-            if (!inRange) return false;
-            var left = DFS_Recursion(node.left, min, node.val);
-            var right = DFS_Recursion(node.right, node.val, max);
-            return left && right;
-        }
-
+        
         public bool IsValidBST_Traversal(TreeNode root)
         {
             var list = new List<int>();
