@@ -11,16 +11,16 @@ namespace CountNumberOfTeams
         }
         static int NumTeams(int[] rating)
         {
-            var res = 0;
             var larger = new int[rating.Length];
             var smaller = new int[rating.Length];
+            int res = 0;
             for (int i = 0; i < rating.Length; i++)
             {
                 for (int j = i + 1; j < rating.Length; j++)
                 {
                     if (rating[j] > rating[i])
                         larger[i]++;
-                    else
+                    else if (rating[j] < rating[i])
                         smaller[i]++;
                 }
             }
@@ -30,7 +30,7 @@ namespace CountNumberOfTeams
                 {
                     if (rating[j] > rating[i])
                         res += larger[j];
-                    else
+                    else if (rating[j] < rating[i])
                         res += smaller[j];
                 }
             }

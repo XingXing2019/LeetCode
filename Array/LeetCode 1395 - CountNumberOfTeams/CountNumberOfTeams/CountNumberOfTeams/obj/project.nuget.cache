@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qjdgtk9zxQmJQbJy4aPu4EsPsVS9MtSmDQJnGl3bGam/mL+y1hNovPJAPSlqw23B2GPNjsiQkhJEpIyZbfdqTg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1395 - CountNumberOfTeams\\CountNumberOfTeams\\CountNumberOfTeams\\CountNumberOfTeams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
