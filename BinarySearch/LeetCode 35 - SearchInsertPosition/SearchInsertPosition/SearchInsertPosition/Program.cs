@@ -10,7 +10,7 @@ namespace SearchInsertPosition
         {
             int[] nums = { 1, 3, 5, 6 };
             int target = 0;
-            Console.WriteLine(SearchInsert(nums, target));
+           
         }
         static int SearchInsert_BruceForce(int[] nums, int target)
         {
@@ -21,7 +21,7 @@ namespace SearchInsertPosition
             }
             return nums.Length;
         }
-        static int SearchInsert(int[] nums, int target)
+        static int SearchInsert_BinarySearch(int[] nums, int target)
         {
             var index = Array.BinarySearch(nums, target);
             return index < 0 ? -(index + 1) : index;
