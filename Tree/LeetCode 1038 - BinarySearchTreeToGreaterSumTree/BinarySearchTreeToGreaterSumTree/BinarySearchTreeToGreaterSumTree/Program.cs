@@ -1,4 +1,5 @@
-﻿using System;
+﻿//BST倒着中序遍历一遍，正好是从大到小把所有节点走一遍，找个sum辅助记录一下每个节点应该是什么值.
+using System;
 
 namespace BinarySearchTreeToGreaterSumTree
 {
