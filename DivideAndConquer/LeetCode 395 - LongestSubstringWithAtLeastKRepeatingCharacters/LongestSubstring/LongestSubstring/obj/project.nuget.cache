@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UboXLv55yO746xvCT3KIPdRn//sQi2zqTpBHYCmYXxJYBTDwj59ID6At5JNU4XECK2ZoanDNWChpi8fun9k+rg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\DivideAndConquer\\LeetCode 395 - LongestSubstringWithAtLeastKRepeatingCharacters\\LongestSubstring\\LongestSubstring\\LongestSubstring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
