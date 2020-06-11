@@ -9,3 +9,15 @@ F:\C#\Algorithm\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcore
 F:\C#\Algorithm\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.AssemblyInfo.cs
 F:\C#\Algorithm\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.dll
 F:\C#\Algorithm\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.pdb
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\bin\Debug\netcoreapp2.2\SortColors.deps.json
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\bin\Debug\netcoreapp2.2\SortColors.runtimeconfig.json
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\bin\Debug\netcoreapp2.2\SortColors.runtimeconfig.dev.json
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\bin\Debug\netcoreapp2.2\SortColors.dll
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\bin\Debug\netcoreapp2.2\SortColors.pdb
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.csprojAssemblyReference.cache
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.AssemblyInfoInputs.cache
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.AssemblyInfo.cs
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.dll
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.pdb
+F:\C#\Algorithm\TwoPointers\LeetCode 75 - SortColors\SortColors\SortColors\obj\Debug\netcoreapp2.2\SortColors.genruntimeconfig.cache

@@ -11,36 +11,34 @@ namespace SortColors
     {
         static void Main(string[] args)
         {
-            int[] nums = { 2, 0, 1 };
-            SortColors1(nums);
+            int[] nums = { 2, 0, 2, 1, 1, 0 };
+            SortColors_TwoPointers(nums);
         }
-        static void SortColors1(int[] nums)
+        static void SortColors_TwoPointers(int[] nums)
         {
-            int zero = 0;
-            int two = nums.Length - 1;
-            int index = 0;
+            int zero = 0, two = nums.Length - 1, index = 0;
             while (index <= two)
             {
                 if (nums[index] == 1)
                     index++;
                 else if (nums[index] == 0)
                 {
-                    int tem = nums[zero];
-                    nums[zero] = nums[index];
-                    nums[index] = tem;
+                    int temp = nums[index];
+                    nums[index] = nums[zero];
+                    nums[zero] = temp;
                     zero++;
                     index++;
                 }
-                else if(nums[index] == 2)
+                else
                 {
-                    int tem = nums[two];
-                    nums[two] = nums[index];
-                    nums[index] = tem;
+                    int temp = nums[index];
+                    nums[index] = nums[two];
+                    nums[two] = temp;
                     two--;
                 }
             }
         }
-        static void SortColors2(int[] nums)
+        static void SortColors_TwoLoops(int[] nums)
         {
             int count0 = 0;
             int count1 = 0;
