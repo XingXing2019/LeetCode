@@ -17,7 +17,7 @@ namespace PrimeArrangements
             for (int i = 2; i <= n; i++)
                 if (CheckPrime(i))
                     primes++;
-            long res = CalcFractorial(primes) * CalcFractorial(n - primes) % MOD;
+            long res = CalcFactorial(primes) * CalcFactorial(n - primes) % MOD;
             return (int) res;
         }
 
@@ -29,7 +29,7 @@ namespace PrimeArrangements
             return true;
         }
 
-        static long CalcFractorial(int num)
+        static long CalcFactorial(int num)
         {
             long res = 1;
             for (int i = 2; i <= num; i++)
