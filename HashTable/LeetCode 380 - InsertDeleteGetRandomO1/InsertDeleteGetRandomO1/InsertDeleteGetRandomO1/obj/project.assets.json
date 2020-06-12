@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\Array\\LeetCode 1329 - SortTheMatrixDiagonally\\SortTheMatrixDiagonally\\SortTheMatrixDiagonally\\SortTheMatrixDiagonally.csproj",
-      "projectName": "SortTheMatrixDiagonally",
-      "projectPath": "F:\\C#\\Algorithm\\Array\\LeetCode 1329 - SortTheMatrixDiagonally\\SortTheMatrixDiagonally\\SortTheMatrixDiagonally\\SortTheMatrixDiagonally.csproj",
+      "projectUniqueName": "F:\\C#\\Algorithm\\HashTable\\LeetCode 380 - InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1.csproj",
+      "projectName": "InsertDeleteGetRandomO1",
+      "projectPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 380 - InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\Array\\LeetCode 1329 - SortTheMatrixDiagonally\\SortTheMatrixDiagonally\\SortTheMatrixDiagonally\\obj\\",
+      "outputPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 380 - InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

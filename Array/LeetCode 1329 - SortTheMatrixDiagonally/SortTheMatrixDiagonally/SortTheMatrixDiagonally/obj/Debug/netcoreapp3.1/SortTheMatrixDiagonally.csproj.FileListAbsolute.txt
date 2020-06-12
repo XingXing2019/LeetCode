@@ -9,3 +9,5 @@ F:\C#\Algorithm\Array\LeetCode 1329 - SortTheMatrixDiagonally\SortTheMatrixDiago
 F:\C#\Algorithm\Array\LeetCode 1329 - SortTheMatrixDiagonally\SortTheMatrixDiagonally\SortTheMatrixDiagonally\obj\Debug\netcoreapp3.1\SortTheMatrixDiagonally.AssemblyInfo.cs
 F:\C#\Algorithm\Array\LeetCode 1329 - SortTheMatrixDiagonally\SortTheMatrixDiagonally\SortTheMatrixDiagonally\obj\Debug\netcoreapp3.1\SortTheMatrixDiagonally.dll
 F:\C#\Algorithm\Array\LeetCode 1329 - SortTheMatrixDiagonally\SortTheMatrixDiagonally\SortTheMatrixDiagonally\obj\Debug\netcoreapp3.1\SortTheMatrixDiagonally.pdb
+F:\C#\Algorithm\Array\LeetCode 1329 - SortTheMatrixDiagonally\SortTheMatrixDiagonally\SortTheMatrixDiagonally\obj\Debug\netcoreapp3.1\SortTheMatrixDiagonally.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Array\LeetCode 1329 - SortTheMatrixDiagonally\SortTheMatrixDiagonally\SortTheMatrixDiagonally\obj\Debug\netcoreapp3.1\SortTheMatrixDiagonally.genruntimeconfig.cache

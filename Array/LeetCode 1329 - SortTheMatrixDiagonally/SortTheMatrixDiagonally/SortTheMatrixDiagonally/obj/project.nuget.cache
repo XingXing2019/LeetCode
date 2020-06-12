@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y0R0H5Wiq8RbVzgzCfNhC5wLINYGur2J6Iq/YvxbwO3hDV6pvrm+0DIWk7V9U7J+MgztVMqKAZGu+fsCDUgYIw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1329 - SortTheMatrixDiagonally\\SortTheMatrixDiagonally\\SortTheMatrixDiagonally\\SortTheMatrixDiagonally.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
