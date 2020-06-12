@@ -1,4 +1,4 @@
-﻿//在num不等于0的时候循环，如果num是奇数，则令其减一，并让count加一。需要判断一次num是否已经是0。再让num除2，并让count加一。
+﻿//在num大于0的时候循环，如果num是奇数减1，否则除2。同时step加一。
 using System;
 
 namespace NumberOfStepsToReduceANumberToZero
@@ -9,22 +9,18 @@ namespace NumberOfStepsToReduceANumberToZero
         {
             Console.WriteLine("Hello World!");
         }
-        static int NumberOfSteps(int num)
+        static int NumberOfSteps_BitManipulate(int num)
         {
-            int count = 0;
-            while (num != 0)
+            int step = 0;
+            while (num > 0)
             {
-                if(num % 2 != 0)
-                {
-                    num--;
-                    count++;
-                }
-                if (num == 0)
-                    break;
-                num /= 2;
-                count++;
+                if ((num & 1) == 0)
+                    num /= 2;
+                else
+                    num -= 1;
+                step++;
             }
-            return count;
+            return step;
         }
     }
 }

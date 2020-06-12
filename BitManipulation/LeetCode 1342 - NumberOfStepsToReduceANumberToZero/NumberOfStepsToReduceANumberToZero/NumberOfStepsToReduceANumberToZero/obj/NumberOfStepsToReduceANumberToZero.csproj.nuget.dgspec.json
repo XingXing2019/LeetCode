@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Math\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero.csproj": {}
+    "F:\\C#\\Algorithm\\BitManipulation\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Math\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero.csproj": {
+    "F:\\C#\\Algorithm\\BitManipulation\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Math\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero.csproj",
+        "projectUniqueName": "F:\\C#\\Algorithm\\BitManipulation\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero.csproj",
         "projectName": "NumberOfStepsToReduceANumberToZero",
-        "projectPath": "F:\\C#\\Algorithm\\Math\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero.csproj",
+        "projectPath": "F:\\C#\\Algorithm\\BitManipulation\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Math\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\obj\\",
+        "outputPath": "F:\\C#\\Algorithm\\BitManipulation\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,12 +50,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

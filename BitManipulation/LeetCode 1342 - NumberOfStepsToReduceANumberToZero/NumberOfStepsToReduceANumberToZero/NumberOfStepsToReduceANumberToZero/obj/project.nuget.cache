@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BE/Xy7vrlp4KoUx/SJBJPXyKFt2qEykXZI2YtApM2xGyo5yHO44eZ91G6/IJjeobOjHq7YxHd+VGgp0wY9/fxg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\BitManipulation\\LeetCode 1342 - NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero\\NumberOfStepsToReduceANumberToZero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
