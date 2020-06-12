@@ -22,5 +22,19 @@ namespace NumberOfStepsToReduceANumberToZero
             }
             return step;
         }
+
+        static int NumberOfSteps_BitManipulate(int num)
+        {
+            int step = 0;
+            while (num != 0)
+            {
+                if ((num & 1) == 0)
+                    step += 1;
+                else
+                    step += 2;
+                num >>= 1;
+            }
+            return step - 1;
+        }
     }
 }

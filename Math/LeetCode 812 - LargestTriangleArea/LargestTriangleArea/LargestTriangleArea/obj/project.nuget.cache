@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIbMKCtXHrHLj/XNgV4V80hr4+lZuyIW3qCvY4qJUaJ2lq2+06GS9aMkF1AhBOU5BQ5znce9k8scBBV5xW5H0g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 812 - LargestTriangleArea\\LargestTriangleArea\\LargestTriangleArea\\LargestTriangleArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
