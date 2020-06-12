@@ -9,7 +9,7 @@ namespace NumberOfStepsToReduceANumberToZero
         {
             Console.WriteLine("Hello World!");
         }
-        static int NumberOfSteps_BitManipulate(int num)
+        static int NumberOfSteps(int num)
         {
             int step = 0;
             while (num > 0)
