@@ -7,7 +7,13 @@ namespace InsertDeleteGetRandomO1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var set = new RandomizedSet();
+            set.Insert(0);
+            set.Insert(1);
+            set.Remove(0);
+            set.Insert(2);
+            set.Remove(1);
+            Console.WriteLine(set.GetRandom());
         }
     }
     public class RandomizedSet
@@ -26,7 +32,7 @@ namespace InsertDeleteGetRandomO1
         {
             if (dict.ContainsKey(val))
                 return false;
-            dict.Add(nums.Count, val);
+            dict.Add(val, nums.Count);
             nums.Add(val);
             return true;
         }
