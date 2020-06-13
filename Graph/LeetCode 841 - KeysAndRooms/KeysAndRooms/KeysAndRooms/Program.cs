@@ -1,6 +1,8 @@
-﻿//典型图论，利用队列先进先出的特点辅助遍历房间。先将0号房间入队，并在visit中做标记。
+﻿//解法一：广度优先搜索。利用队列先进先出的特点辅助遍历房间。先将0号房间入队，并在visit中做标记。
 //在队列不为空的条件下循环。弹出对头代表现在所在的房间，再将当前所在房间钥匙中，所有没进过的房间入队，并在visit中标记。
 //循环结束后没有和0号房间关联的房间一定没有被标记过、
+
+//解法二：深度优先搜索。深度搜索每个房间中钥匙能进入的房间。边界条件是进过的房间返回。
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,9 +20,9 @@ namespace KeysAndRooms
                 new List<int>{2},
                 new List<int>{0}
             };
-            Console.WriteLine(CanVisitAllRooms(rooms));
+            Console.WriteLine(CanVisitAllRooms_BFS(rooms));
         }
-        static bool CanVisitAllRooms(IList<IList<int>> rooms)
+        static bool CanVisitAllRooms_BFS(IList<IList<int>> rooms)
         {
             var visit = new bool[rooms.Count];
             var queue = new Queue<int>();
@@ -37,6 +39,20 @@ namespace KeysAndRooms
                 }
             }
             return visit.All(x => x);
+        }
+
+        static bool CanVisitAllRooms_DFS(IList<IList<int>> rooms)
+        {
+            var visit = new HashSet<int>();
+            DFS(0, rooms, visit);
+            return rooms.Count == visit.Count;
+        }
+
+        static void DFS(int cur, IList<IList<int>> rooms, HashSet<int> visit)
+        {
+            if (!visit.Add(cur)) return;
+            foreach (var next in rooms[cur])
+                DFS(next, rooms, visit);
         }
     }
 }
