@@ -1,5 +1,5 @@
-﻿using System;
-using System.Reflection.Metadata.Ecma335;
+﻿//使用递归，终止条件是n等于0时返回1，n等于1时返回x。然后递归调用n/2。然后判断如果n为偶数，则应该返回temp*temp。n为奇数则应该返回temp*temp*x。
+using System;
 
 namespace PowXN
 {
