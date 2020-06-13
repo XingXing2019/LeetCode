@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gfXVdVkQBmmGuJRTDy5zgR/asFRpGrO+8XPCD+9Uxsd58X3+9apLaAyZhDzLca9e1UFBnH37NkBk9FL3vlc0Ng==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 874 - WalkingRobotSimulation\\WalkingRobotSimulation\\WalkingRobotSimulation\\WalkingRobotSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
