@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q0Z/bg3osr7hDwnO0Ag0A5VI4TY4XzAh3XHSMOAwJzW9CH4RT4UI8wFDwsS+DRqkdu+ji/yiNeDg0Y9K76+Z2w==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 1043 - PartitionArrayForMaximumSum\\PartitionArrayForMaximumSum\\PartitionArrayForMaximumSum\\PartitionArrayForMaximumSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
