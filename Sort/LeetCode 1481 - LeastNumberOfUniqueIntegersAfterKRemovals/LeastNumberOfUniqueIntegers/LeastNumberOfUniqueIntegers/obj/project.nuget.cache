@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WorW12vJ+7m/xW+b2Mcw0EJNSJfjzcClT3offsBe5IaG96ZduzhbJqQEi960LdT4lkx/uvZYc+cHXLs826WMgA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1481 - LeastNumberOfUniqueIntegersAfterKRemovals\\LeastNumberOfUniqueIntegers\\LeastNumberOfUniqueIntegers\\LeastNumberOfUniqueIntegers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
