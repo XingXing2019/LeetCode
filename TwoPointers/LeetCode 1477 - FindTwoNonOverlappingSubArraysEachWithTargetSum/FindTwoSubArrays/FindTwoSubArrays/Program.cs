@@ -1,6 +1,6 @@
 ﻿//两种做法用滑窗或者前序和，原理都是找到所有能达到target的set。
 //关键在于找到set后如何确保不重合。可以用一个数组minLen记录在每个数字之前最小的set长度。初始值都设为无穷大。
-//每次找到set后都检查一下，当前set左端点之间有没有找到最小长度，如果不为无穷大，证明找到了最小长度，则更新res为len加上当前set左边找到的最小长度。
+//每次找到set后都检查一下，当前set左端点之间有没有找到最小长度(这样可以确保set不会重合)，如果不为无穷大，证明找到了最小长度，则更新res为len加上当前set左边找到的最小长度。
 using System;
 using System.Collections.Generic;
 
@@ -43,11 +43,11 @@ namespace FindTwoSubArrays
         static int MinSumOfLengths_PrefixSum(int[] arr, int target)
         {
             var dict = new Dictionary<int, int>();
+            dict[0] = -1;
             var minLens = new int[arr.Length];
             for (int i = 0; i < minLens.Length; i++)
                 minLens[i] = int.MaxValue;
-            int res = int.MaxValue, minlen = int.MaxValue;
-            dict[0] = -1;
+            int res = int.MaxValue, minLen = int.MaxValue;
             int prefix = 0;
             for (int i = 0; i < arr.Length; i++)
             {
@@ -59,9 +59,9 @@ namespace FindTwoSubArrays
                     int len = i - start;
                     if (start >= 0 && minLens[start] != int.MaxValue)
                         res = Math.Min(res, len + minLens[start]);
-                    minlen = Math.Min(minlen, len);
+                    minLen = Math.Min(minLen, len);
                 }
-                minLens[i] = minlen;
+                minLens[i] = minLen;
             }
             return res == int.MaxValue ? -1 : res;
         }
