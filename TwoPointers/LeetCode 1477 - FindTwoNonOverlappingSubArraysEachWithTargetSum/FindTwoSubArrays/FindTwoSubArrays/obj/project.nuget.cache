@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xTDc64fdbHjXdFJ20XAS4EIiiPy/8uc7uTnJU4Jx8k/Yjr/DCELYJNqzebI750M/E+ydcezMjR9G6B5VEDxJrA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 1477 - FindTwoNonOverlappingSubArraysEachWithTargetSum\\FindTwoSubArrays\\FindTwoSubArrays\\FindTwoSubArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
