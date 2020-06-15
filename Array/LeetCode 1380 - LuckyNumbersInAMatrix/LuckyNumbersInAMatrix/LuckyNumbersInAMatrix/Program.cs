@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace LuckyNumbersInAMatrix
 {
@@ -49,6 +50,22 @@ namespace LuckyNumbersInAMatrix
                      res.Add(matrix[pos / 100][pos - (pos / 100) * 100]);
              }
              return res;
+        }
+        static IList<int> LuckyNumbers_HashSet(int[][] matrix)
+        {
+            var minSet = new HashSet<int>();
+            for (int i = 0; i < matrix.Length; i++)
+                minSet.Add(matrix[i].Min(x => x));
+            var res = new List<int>();
+            for (int c = 0; c < matrix[0].Length; c++)
+            {
+                int max = int.MinValue;
+                for (int r = 0; r < matrix.Length; r++)
+                    max = Math.Max(max, matrix[r][c]);
+                if (minSet.Contains(max))
+                    res.Add(max);
+            }
+            return res;
         }
     }
 }
