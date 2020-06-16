@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJXnFi+4VNIvOx4DbN4j3CF0E9l7JdZlVyDsB6FI9HJ9OGaH/FatvVhIPPmOqm5SKOsVdt9xHyfu7r/rsrXU0A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Design\\LeetCode 1286 - IteratorForCombination\\IteratorForCombination\\IteratorForCombination\\IteratorForCombination.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
