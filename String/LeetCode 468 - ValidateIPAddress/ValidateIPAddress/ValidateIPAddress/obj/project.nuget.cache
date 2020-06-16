@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QKMyofQBHTvO9s/Wmw0RQiLHCVOez616iTNxzHdVLsKjT/RiLrHmOSBb8t6sQX7QiWWIzP+3q+yXcHsk6SacuA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 468 - ValidateIPAddress\\ValidateIPAddress\\ValidateIPAddress\\ValidateIPAddress.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
