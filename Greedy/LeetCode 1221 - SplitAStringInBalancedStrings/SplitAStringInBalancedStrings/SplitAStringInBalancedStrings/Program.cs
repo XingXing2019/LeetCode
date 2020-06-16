@@ -21,11 +21,7 @@ namespace SplitAStringInBalancedStrings
                 else
                     countR++;
                 if (countL == countR)
-                {
                     res++;
-                    countL = 0;
-                    countR = 0;
-                }
             }
             return res;
         }
