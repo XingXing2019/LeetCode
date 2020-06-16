@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rMPdc0m6JTDNzk9h7PReh4WdXDw6G8VaTSh+KGYoty1twWkNCCrz1iakY1kYWrvDXv+Ci0/rte/7XMBMJ7PHw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Heap\\LeetCode 373 - FindKPairsWithSmallestSums\\FindKPairsWithSmallestSums\\FindKPairsWithSmallestSums\\FindKPairsWithSmallestSums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

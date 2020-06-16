@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FindKPairsWithSmallestSums/1.0.0": {
+        "runtime": {
+          "FindKPairsWithSmallestSums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindKPairsWithSmallestSums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
