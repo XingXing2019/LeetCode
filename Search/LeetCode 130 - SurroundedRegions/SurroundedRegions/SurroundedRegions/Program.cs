@@ -65,7 +65,5 @@ namespace SurroundedRegions
                     DFS(board, mark, newX, newY);
             }
         }
-
-
     }
 }

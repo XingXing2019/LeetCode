@@ -9,3 +9,5 @@ F:\C#\Algorithm\Array\LeetCode 289 - GameOfLife\GameOfLife\GameOfLife\obj\Debug\
 F:\C#\Algorithm\Array\LeetCode 289 - GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.AssemblyInfo.cs
 F:\C#\Algorithm\Array\LeetCode 289 - GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.dll
 F:\C#\Algorithm\Array\LeetCode 289 - GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.pdb
+F:\C#\Algorithm\Array\LeetCode 289 - GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Array\LeetCode 289 - GameOfLife\GameOfLife\GameOfLife\obj\Debug\netcoreapp3.0\GameOfLife.genruntimeconfig.cache

@@ -14,7 +14,35 @@ namespace GameOfLife
             borad[1] = new int[] { 0, 0, 1 };
             borad[2] = new int[] { 1, 1, 1 };
             borad[3] = new int[] { 0, 0, 0 };
-            GameOfLife(borad);
+            GameOfLife_InPlace(borad);
+        }
+        static void GameOfLife_InPlace(int[][] board)
+        {
+            if(board.Length == 0 || board[0].Length == 0) return;
+            int[] dx = { -1, 1, 0, 0, -1, -1, 1, 1 };
+            int[] dy = { 0, 0, -1, 1, -1, 1, -1, 1 };
+            for (int x = 0; x < board.Length; x++)
+            {
+                for (int y = 0; y < board[0].Length; y++)
+                {
+                    int count = 0;
+                    for (int i = 0; i < 8; i++)
+                    {
+                        int newX = dx[i] + x;
+                        int newY = dy[i] + y;
+                        if (newX < 0 || newX >= board.Length || newY < 0 || newY >= board[0].Length) continue;
+                        if (board[newX][newY] == 1 || board[newX][newY] == 2)
+                            count++;
+                    }
+                    if (board[x][y] == 1)
+                        board[x][y] = count < 2 || count > 3 ? 2 : 1;
+                    else
+                        board[x][y] = count == 3 ? 3 : 0;
+                }
+            }
+            for (int x = 0; x < board.Length; x++)
+                for (int y = 0; y < board[0].Length; y++)
+                    board[x][y] -= board[x][y] == 2 || board[x][y] == 3 ? 2 : 0;
         }
         static void GameOfLife(int[][] board)
         {
