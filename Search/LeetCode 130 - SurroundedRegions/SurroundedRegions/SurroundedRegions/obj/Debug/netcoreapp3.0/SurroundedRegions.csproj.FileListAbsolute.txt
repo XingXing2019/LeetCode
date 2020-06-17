@@ -9,3 +9,5 @@ F:\C#\Algorithm\Search\LeetCode 130 - SurroundedRegions\SurroundedRegions\Surrou
 F:\C#\Algorithm\Search\LeetCode 130 - SurroundedRegions\SurroundedRegions\SurroundedRegions\obj\Debug\netcoreapp3.0\SurroundedRegions.AssemblyInfo.cs
 F:\C#\Algorithm\Search\LeetCode 130 - SurroundedRegions\SurroundedRegions\SurroundedRegions\obj\Debug\netcoreapp3.0\SurroundedRegions.dll
 F:\C#\Algorithm\Search\LeetCode 130 - SurroundedRegions\SurroundedRegions\SurroundedRegions\obj\Debug\netcoreapp3.0\SurroundedRegions.pdb
+F:\C#\Algorithm\Search\LeetCode 130 - SurroundedRegions\SurroundedRegions\SurroundedRegions\obj\Debug\netcoreapp3.0\SurroundedRegions.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Search\LeetCode 130 - SurroundedRegions\SurroundedRegions\SurroundedRegions\obj\Debug\netcoreapp3.0\SurroundedRegions.genruntimeconfig.cache

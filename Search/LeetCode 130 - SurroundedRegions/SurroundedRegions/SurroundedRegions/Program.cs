@@ -18,40 +18,37 @@ namespace SurroundedRegions
         }
         static void Solve(char[][] board)
         {
-            int row = board.Length;
-            if (row == 0)
-                return;
-            int col = board[0].Length;
-            if (col == 0)
-                return;
-            int[][] mark = new int[row][];
+            if(board.Length == 0 || board[0].Length == 0) return;
+            int row = board.Length, col = board[0].Length;
+            var mark = new int[row][];
             for (int i = 0; i < row; i++)
                 mark[i] = new int[col];
-            for (int i = 0; i < row; i++)
+            for (int r = 0; r < row; r++)
             {
-                if (board[i][0] == 'O' && mark[i][0] == 0)
-                    DFS(board, mark, i, 0);
-                if (board[i][col - 1] == 'O' && mark[i][col - 1] == 0)
-                    DFS(board, mark, i, col - 1);
+                if (board[r][0] == 'O' && mark[r][0] == 0)
+                    DFS(board, mark, r, 0);
+                if (board[r][col - 1] == 'O' && mark[r][col - 1] == 0)
+                    DFS(board, mark, r, col - 1);
             }
-            for (int i = 0; i < col; i++)
+            for (int c = 0; c < col; c++)
             {
-                if (board[0][i] == 'O' && mark[0][i] == 0)
-                    DFS(board, mark, 0, i);
-                if (board[row - 1][i] == 'O' && mark[row - 1][i] == 0)
-                    DFS(board, mark, row - 1, i);
+                if(board[0][c] == 'O' && mark[0][c] == 0)
+                    DFS(board, mark, 0, c);
+                if (board[row - 1][c] == 'O' && mark[row - 1][c] == 0)
+                    DFS(board, mark, row - 1, c);
             }
-            for (int i = 0; i < row; i++)
+            for (int r = 0; r < row; r++)
             {
-                for (int j = 0; j < col; j++)
+                for (int c = 0; c < col; c++)
                 {
-                    if (board[i][j] == 'O')
-                        board[i][j] = 'X';
-                    else if (board[i][j] == '*')
-                        board[i][j] = 'O';
+                    if (board[r][c] == 'O')
+                        board[r][c] = 'X';
+                    else if (board[r][c] == '*')
+                        board[r][c] = 'O';
                 }
             }
         }
+
         static void DFS(char[][] board, int[][] mark, int x, int y)
         {
             mark[x][y] = 1;
@@ -64,9 +61,11 @@ namespace SurroundedRegions
                 int newY = dy[i] + y;
                 if (newX < 0 || newX >= board.Length || newY < 0 || newY >= board[0].Length)
                     continue;
-                if (board[newX][newY] == 'O' && mark[newX][newY] == 0)
+                if (mark[newX][newY] == 0 && board[newX][newY] == 'O')
                     DFS(board, mark, newX, newY);
             }
         }
+
+
     }
 }
