@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dBmKDQulGtZWXuWPt6IShMwUsxm7rsI4l/zMBz4TcuH1eK6toNNLlRIiZa/hGjmYhNRKHx/6LircRCQG5Jgt5A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Design\\LeetCode 1357 - ApplyDiscountEveryNOrders\\ApplyDiscountEveryNOrders\\ApplyDiscountEveryNOrders\\ApplyDiscountEveryNOrders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
