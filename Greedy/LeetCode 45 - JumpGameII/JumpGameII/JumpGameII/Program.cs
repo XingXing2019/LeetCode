@@ -16,23 +16,19 @@ namespace JumpGameII
         }
         static int Jump(int[] nums)
         {
-            if (nums.Length <= 1)
-                return 0;
-            int jumpTimes = 0;
-            int reach = nums[0];
-            int cur = 0;
-            int tem = 0;
+            if (nums.Length <= 1) return 0;
+            int reach = nums[0], currentPos = 0, jumpTo = 0, jumpTimes = 0;
             while (reach < nums.Length - 1)
             {
-                for (int i = cur; i < nums.Length && i <= cur + nums[cur]; i++)
+                for (int i = currentPos; i < nums.Length && i <= currentPos + nums[currentPos]; i++)
                 {
                     if (i + nums[i] > reach)
                     {
+                        jumpTo = i;
                         reach = i + nums[i];
-                        tem = i;
                     }
                 }
-                cur = tem;
+                currentPos = jumpTo;
                 jumpTimes++;
             }
             return jumpTimes + 1;
