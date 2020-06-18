@@ -10,22 +10,14 @@ namespace BestTimeToBuyAndSellStockII
         }
         static int MaxProfit(int[] prices)
         {
-            int minPrice = int.MaxValue;
-            int maxProfit = 0;
-            int sum = 0;
-            for (int i = 0; i < prices.Length; i++)
+            int totalProfit = 0, minPrice = int.MinValue;
+            foreach (var price in prices)
             {
-                if (prices[i] < minPrice)
-                    minPrice = prices[i];
-                else if (prices[i] - minPrice > maxProfit)
-                {
-                    maxProfit = prices[i] - minPrice;
-                    sum += maxProfit;
-                    minPrice = prices[i];
-                    maxProfit = 0;
-                }
+                if (price - minPrice > 0)
+                    totalProfit += price - minPrice;
+                minPrice = price;
             }
-            return sum;
+            return totalProfit;
         }
     }
 }
