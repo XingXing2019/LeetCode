@@ -11,46 +11,20 @@ namespace IslandPerimeter
         }
         static int IslandPerimeter(int[][] grid)
         {
-            int row = grid.Length;
-            if (row == 0)
-                return 0;
-            int col = grid[0].Length;
+            if (grid.Length == 0 || grid[0].Length == 0) return 0;
             int perimeter = 0;
+            int row = grid.Length, col = grid[0].Length;
             for (int r = 0; r < row; r++)
             {
                 for (int c = 0; c < col; c++)
                 {
-                    if(grid[r][c] == 1)
-                    {
-                        if (r > 0)
-                        {
-                            if (grid[r - 1][c] == 0)
-                                perimeter++;
-                        }
-                        else
-                            perimeter++;
-                        if (r < row - 1)
-                        {
-                            if (grid[r + 1][c] == 0)
-                                perimeter++;
-                        }
-                        else
-                            perimeter++;
-                        if (c > 0)
-                        {
-                            if (grid[r][c - 1] == 0)
-                                perimeter++;
-                        }
-                        else
-                            perimeter++;
-                        if (c < col - 1)
-                        {
-                            if (grid[r][c + 1] == 0)
-                                perimeter++;
-                        }
-                        else
-                            perimeter++;
-                    }
+                    if(grid[r][c] == 0) continue;
+                    int count = 4;
+                    if (r > 0 && grid[r - 1][c] == 1) count--;
+                    if (r < row - 1 && grid[r + 1][c] == 1) count--;
+                    if (c > 0 && grid[r][c - 1] == 1) count--;
+                    if (c < col - 1 && grid[r][c + 1] == 1) count--;
+                    perimeter += count;
                 }
             }
             return perimeter;
