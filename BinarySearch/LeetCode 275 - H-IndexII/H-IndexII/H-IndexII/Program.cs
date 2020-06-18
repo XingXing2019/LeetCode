@@ -23,21 +23,19 @@ namespace H_IndexII
             }
             return res;
         }
-        static int HIndex2(int[] citations)
+        static int HIndex_BinarySearch(int[] citations)
         {
-            if (citations.Length == 0)
-                return 0;
-            int li = 0;
-            int hi = citations.Length - 1;
+            if (citations.Length < 1) return citations.Length;
+            int li = 0, hi = citations.Length - 1;
             while (li <= hi)
             {
                 int mid = li + (hi - li) / 2;
-                if (citations.Length - mid == citations[mid])
-                    return citations.Length - mid;
-                else if (citations.Length - mid > citations[mid])
-                    li = mid + 1;
-                else
+                if (citations[mid] == citations.Length - mid)
+                    return citations[mid];
+                if (citations[mid] > citations.Length - mid)
                     hi = mid - 1;
+                else
+                    li = mid + 1;
             }
             return citations.Length - li;
         }
