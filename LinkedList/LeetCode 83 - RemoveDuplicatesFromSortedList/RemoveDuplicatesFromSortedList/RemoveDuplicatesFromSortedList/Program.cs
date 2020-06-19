@@ -17,30 +17,16 @@ namespace RemoveDuplicatesFromSortedList
         }
         static ListNode DeleteDuplicates(ListNode head)
         {
-            ListNode dummy = new ListNode(0);
-            ListNode res = head;
-            dummy.next = res;
-            if (head != null)
+            ListNode res = head, point = head;
+            while (head != null)
             {
-                ListNode point = head.next;
-                while (point != null)
-                {
-                    if (res.val != point.val)
-                    {
-                        res.next = point;
-                        res = res.next;
-                        point = point.next;
-                    }
-                    else
-                    {
-                        point = point.next;
-                        res.next = point;
-                    } 
-                }
-                return dummy.next;
+                int val = head.val;
+                while (head != null && head.val == val)
+                    head = head.next;
+                point.next = head;
+                point = point.next;
             }
-            else
-                return null;
+            return res;
         }
     }
 }

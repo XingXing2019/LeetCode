@@ -12,19 +12,11 @@ namespace N_RepeatedElementInSize2NArray
         }
         static int RepeatedNTimes(int[] A)
         {
-            var record = new Dictionary<int, int>();
-            int res = -1;
-            foreach (var a in A)
-            {
-                if (!record.ContainsKey(a))
-                    record[a] = 1;
-                else
-                {
-                    res = a;
-                    break;
-                }
-            }
-            return res;
+            var record = new HashSet<int>();
+            foreach (var num in A)
+                if (!record.Add(num))
+                    return num;
+            return -1;
         }
     }
 }
