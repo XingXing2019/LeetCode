@@ -4,62 +4,37 @@ using System;
 
 namespace ZipTwoLists
 {
-    class ListNode
+    public class ListNode
     {
         public int val;
         public ListNode next;
+        public ListNode(int x) { val = x; }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            ListNode list1 = MakeList(new int[] { 1, 3, 5, 7, 7, 9 });
-            ListNode list2 = MakeList(new int[] { 2, 6, 7, 8 });
 
-            ListNode res = Zip(list1, list2);
-            PrintList(res);
         }
-
-        static ListNode Zip(ListNode p, ListNode q)
+        public ListNode MergeTwoLists(ListNode l1, ListNode l2)
         {
-            //dummy head
-            ListNode zipper = new ListNode();
-            ListNode head = zipper;
-            while (p != null && q != null)
+            ListNode res = new ListNode(0), point = res;
+            while (l1 != null && l2 != null)
             {
-                if (p.val <= q.val)
+                if (l1.val > l2.val)
                 {
-                    zipper.next = p;
-                    p = p.next;
+                    point.next = l2;
+                    l2 = l2.next;
                 }
                 else
                 {
-                    zipper.next = q;
-                    q = q.next;
+                    point.next = l1;
+                    l1 = l1.next;
                 }
-                zipper = zipper.next;
+                point = point.next;
             }
-            zipper.next = p == null ? q : p;
-            return head.next;
-        }
-
-        static ListNode MakeList(int[] a)
-        {
-            ListNode head = null;
-            for (int i = a.Length - 1; i >= 0; i--)
-            {
-                head = new ListNode() { val = a[i], next = head };
-            }
-            return head;
-        }
-        static void PrintList(ListNode list)
-        {
-            while (list != null)
-            {
-                Console.Write($"{list.val} -> ");
-                list = list.next;
-            }
-            Console.WriteLine("null");
+            point.next = l1 ?? l2;
+            return res.next;
         }
     }
 }
