@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bK0TefI67/ZodSq/db6vMz5zjK5hWFeQOMrh6WSmDzBHO7i1DFmXAq0CM5H/En9cPOjAaaM2CgDdW+93CW0Oig==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 592 - FractionAdditionAndSubtraction\\FractionAdditionAndSubtraction\\FractionAdditionAndSubtraction\\FractionAdditionAndSubtraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
