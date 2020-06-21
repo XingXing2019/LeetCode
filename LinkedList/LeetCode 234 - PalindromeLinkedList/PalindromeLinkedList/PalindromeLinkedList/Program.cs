@@ -16,22 +16,20 @@ namespace PalindromeLinkedList
         }
         static bool IsPalindrome(ListNode head)
         {
-            ListNode reversed = null;
-            ListNode point = head;
-            bool res = true;
+            ListNode reverse = null, point = head;
             while (point != null)
             {
-                reversed = new ListNode(point.val) { next = reversed };
+                reverse = new ListNode(point.val) {next = reverse};
                 point = point.next;
             }
             while (head != null)
             {
-                if (head.val != reversed.val)
-                    res = false;
+                if (head.val != reverse.val)
+                    return false;
                 head = head.next;
-                reversed = reversed.next;
+                reverse = reverse.next;
             }
-            return res;
+            return true;
         }
     }
 }
