@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AvoidFloodInTheCity/1.0.0": {
+        "runtime": {
+          "AvoidFloodInTheCity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AvoidFloodInTheCity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3qXvyLh23SFyLLSDkWtpSd9MhqyDxl8tU6AElZBTxSzz+4kh4O2ZxuKfjAiJsE8XVolt5MZQEtRP2FuARs8ySQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 1488 - AvoidFloodInTheCity\\AvoidFloodInTheCity\\AvoidFloodInTheCity\\AvoidFloodInTheCity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
