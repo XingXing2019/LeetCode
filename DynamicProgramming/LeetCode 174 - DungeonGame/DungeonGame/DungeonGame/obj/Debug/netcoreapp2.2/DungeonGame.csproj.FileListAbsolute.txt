@@ -9,3 +9,4 @@ F:\C#\Algorithm\DynamicProgramming\LeetCode 174 - DungeonGame\DungeonGame\Dungeo
 F:\C#\Algorithm\DynamicProgramming\LeetCode 174 - DungeonGame\DungeonGame\DungeonGame\obj\Debug\netcoreapp2.2\DungeonGame.AssemblyInfo.cs
 F:\C#\Algorithm\DynamicProgramming\LeetCode 174 - DungeonGame\DungeonGame\DungeonGame\obj\Debug\netcoreapp2.2\DungeonGame.dll
 F:\C#\Algorithm\DynamicProgramming\LeetCode 174 - DungeonGame\DungeonGame\DungeonGame\obj\Debug\netcoreapp2.2\DungeonGame.pdb
+F:\C#\Algorithm\DynamicProgramming\LeetCode 174 - DungeonGame\DungeonGame\DungeonGame\obj\Debug\netcoreapp2.2\DungeonGame.genruntimeconfig.cache

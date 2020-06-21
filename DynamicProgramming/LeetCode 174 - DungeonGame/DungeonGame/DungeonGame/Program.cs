@@ -14,31 +14,31 @@ namespace DungeonGame
     {
         static void Main(string[] args)
         {
-            int[][] dungeon = new int[2][];
-            dungeon[0] = new int[] { 2, 1 };
-            dungeon[1] = new int[] { 1, -1 };
+            int[][] dungeon = new int[3][]
+            {
+                new int[]{-2, -3, 3},
+                new int[]{-5, -10, 1},
+                new int[]{10, 30, -5},
+            };
+
             Console.WriteLine(CalculateMinimumHP(dungeon));
         }
         static int CalculateMinimumHP(int[][] dungeon)
         {
-            int row = dungeon.Length;
-            int col = dungeon[0].Length;
-            int[,] minEnterHP = new int[row, col];
-            minEnterHP[row - 1, col - 1] = Math.Max(1, 1 - dungeon[row - 1][col - 1]);
+            if (dungeon.Length == 0 || dungeon[0].Length == 0) return 0;
+            int row = dungeon.Length, col = dungeon[0].Length;
+            var dp = new int[dungeon.Length][];
+            for (int i = 0; i < dp.Length; i++)
+                dp[i] = new int[dungeon[0].Length];
+            dp[row - 1][col - 1] = Math.Max(1, 1 - dungeon[row - 1][col - 1]);
             for (int r = row - 2; r >= 0; r--)
-                minEnterHP[r, col - 1] = Math.Max(1, minEnterHP[r + 1, col - 1] - dungeon[r][col - 1]);
+                dp[r][col - 1] = Math.Max(1, dp[r + 1][col - 1] - dungeon[r][col - 1]);
             for (int c = col - 2; c >= 0; c--)
-                minEnterHP[row - 1, c] = Math.Max(1, minEnterHP[row - 1, c + 1] - dungeon[row - 1][c]);
+                dp[row - 1][c] = Math.Max(1, dp[row - 1][c + 1] - dungeon[row - 1][c]);
             for (int r = row - 2; r >= 0; r--)
-            {
                 for (int c = col - 2; c >= 0; c--)
-                {
-                    int path1 = Math.Max(1, minEnterHP[r + 1, c] - dungeon[r][c]);
-                    int path2 = Math.Max(1, minEnterHP[r, c + 1] - dungeon[r][c]);
-                    minEnterHP[r, c] = Math.Min(path1, path2);
-                }
-            }                
-            return minEnterHP[0, 0];
+                    dp[r][c] = Math.Max(1, Math.Min(dp[r + 1][c], dp[r][c + 1]) - dungeon[r][c]);
+            return dp[0][0];
         }
     }
 }
