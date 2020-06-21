@@ -7,42 +7,35 @@ namespace AvoidFloodInTheCity
     {
         static void Main(string[] args)
         {
-            int[] rains = { 1, 2, 0, 2, 3, 0, 1 };
+            int[] rains = { 69, 0, 0, 0, 69 };
             Console.WriteLine(AvoidFlood(rains));
         }
         static int[] AvoidFlood(int[] rains)
         {
-            var lakes = new Dictionary<int, int>();
-            var result = new int[rains.Length];
             var noRainDays = new List<int>();
+            var res = new int[rains.Length];
+            var lakes = new Dictionary<int, int>();
             for (int i = rains.Length - 1; i >= 0; i--)
             {
-                if (rains[i] != 0)
+                if(rains[i] == 0)
+                    noRainDays.Insert(0, i);
+                else
                 {
                     if (lakes.ContainsKey(rains[i]))
                     {
-                        bool found = false;
-                        for (int j = 0; j < noRainDays.Count; j++)
-                        {
-                            if (lakes[rains[i]] > noRainDays[j])
-                            {
-                                result[noRainDays[j]] = rains[i];
-                                noRainDays.RemoveAt(j);
-                                found = true;
-                                break;
-                            }
-                        }
-                        if (!found) return new int[0];
+                        if(noRainDays.Count == 0) return new int[0];
+                        int day = noRainDays.BinarySearch(lakes[rains[i]]);
+                        if(day == -1) return new int[0];
+                        res[noRainDays[-(day + 1) - 1]] = rains[i];
+                        noRainDays.RemoveAt(-(day + 1) - 1);
                     }
-                    result[i] = -1;
+                    res[i] = -1;
                     lakes[rains[i]] = i;
                 }
-                else
-                    noRainDays.Add(i);
             }
-            for (int j = 0; j < noRainDays.Count; j++)
-                result[noRainDays[j]] = 1;
-            return result;
+            foreach (var day in noRainDays)
+                res[day] = 1;
+            return res;
         }
     }
 }
