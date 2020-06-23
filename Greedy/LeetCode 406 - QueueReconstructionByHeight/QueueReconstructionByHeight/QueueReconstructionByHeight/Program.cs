@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace QueueReconstructionByHeight
@@ -15,9 +16,9 @@ namespace QueueReconstructionByHeight
             people[4] = new int[] {6, 1};
             people[5] = new int[] {5, 2};
 
-            Console.WriteLine(ReconstructQueue(people));
+            Console.WriteLine(ReconstructQueue_Order(people));
         }
-        static int[][] ReconstructQueue(int[][] people)
+        static int[][] ReconstructQueue_Greedy(int[][] people)
         {
             people = people.OrderBy(x => x[0]).ToArray();
             var res = new int[people.Length][];
@@ -38,6 +39,17 @@ namespace QueueReconstructionByHeight
                 }
             }
             return res;
+        }
+        static int[][] ReconstructQueue_Order(int[][] people)
+        {
+            people = people.OrderByDescending(x => x[0]).ThenBy(x => x[1]).ToArray();
+            var res = new List<int[]>();
+            foreach (var person in people)
+            {
+                int index = person[1];
+                res.Insert(index, person);
+            }
+            return res.ToArray();
         }
     }
 }
