@@ -11,7 +11,7 @@ namespace DailyTemperatures
         static void Main(string[] args)
         {
             int[] T = { 73, 74, 75, 71, 69, 72, 76, 73 };
-            DailyTemperatures(T);
+            Console.WriteLine(DailyTemperatures_MonoStack(T));
         }
         static int[] DailyTemperatures_MonoStack(int[] T)
         {
