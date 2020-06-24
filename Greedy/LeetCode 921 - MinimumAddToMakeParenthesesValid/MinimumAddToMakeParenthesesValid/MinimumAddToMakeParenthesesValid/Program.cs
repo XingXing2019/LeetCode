@@ -4,6 +4,7 @@
 //如果当前'('不为0，则消耗一个'('与')'配对，使leftCount减一。
 //最后返回未配对的'('与')'之和。
 using System;
+using System.Collections.Generic;
 
 namespace MinimumAddToMakeParenthesesValid
 {
@@ -13,7 +14,7 @@ namespace MinimumAddToMakeParenthesesValid
         {
             Console.WriteLine("Hello World!");
         }
-        static int MinAddToMakeValid(string S)
+        static int MinAddToMakeValid_Greedy(string S)
         {
             int leftCount = 0;
             int rightCount = 0;
@@ -32,6 +33,19 @@ namespace MinimumAddToMakeParenthesesValid
                 }
             }
             return leftCount + rightCount;
+        }
+
+        static int MinAddToMakeValid_Stack(string S)
+        {
+            var stack = new Stack<char>();
+            foreach (var c in S)
+            {
+                if (c == ')' && stack.Count != 0 && stack.Peek() == '(')
+                    stack.Pop();
+                else
+                    stack.Push(c);
+            }
+            return stack.Count;
         }
     }
 }
