@@ -2,6 +2,7 @@
 //思路与LeetCode.503相似，但操作更简单。
 using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace NextGreaterNodeInLinkedList
 {
@@ -17,46 +18,22 @@ namespace NextGreaterNodeInLinkedList
         {
             Console.WriteLine("Hello World!");
         }
-        static int GetLength(ListNode head)
-        {
-            int len = 0;
-            while (head != null)
-            {
-                len++;
-                head = head.next;
-            }
-            return len;
-        }
-        static int[] GetValues(ListNode head)
-        {
-            int len = GetLength(head);
-            int[] values = new int[len];
-            for (int i = 0; i < len; i++)
-            {
-                values[i] = head.val;
-                head = head.next;
-            }
-            return values;
-        }
+
         static int[] NextLargerNodes(ListNode head)
         {
-            int len = GetLength(head);
-            int[] values = GetValues(head);
-            int[] res = new int[len];
-            Stack indexStack = new Stack();
-            indexStack.Push(0);
-            for (int i = 1; i < values.Length; i++)
+            var nums = new List<int>();
+            while (head != null)
             {
-                if (values[i] > values[(int)indexStack.Peek()])
-                {
-                    while (indexStack.Count != 0 && values[i] > values[(int)indexStack.Peek()])
-                    {
-                        res[(int)indexStack.Pop()] = values[i];
-                    }
-                    indexStack.Push(i);
-                }
-                else
-                    indexStack.Push(i);
+                nums.Add(head.val);
+                head = head.next;
+            }
+            var res = new int[nums.Count];
+            var stack = new Stack<int>();
+            for (int i = 0; i < res.Length; i++)
+            {
+                while (stack.Count != 0 && nums[stack.Peek()] < nums[i])
+                    res[stack.Pop()] = nums[i];
+                stack.Push(i);
             }
             return res;
         }
