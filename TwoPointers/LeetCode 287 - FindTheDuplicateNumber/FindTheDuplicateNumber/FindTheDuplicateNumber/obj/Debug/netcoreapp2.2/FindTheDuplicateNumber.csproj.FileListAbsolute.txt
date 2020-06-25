@@ -8,3 +8,5 @@ F:\C#\Algorithm\TwoPointers\LeetCode 287 - FindTheDuplicateNumber\FindTheDuplica
 F:\C#\Algorithm\TwoPointers\LeetCode 287 - FindTheDuplicateNumber\FindTheDuplicateNumber\FindTheDuplicateNumber\obj\Debug\netcoreapp2.2\FindTheDuplicateNumber.AssemblyInfo.cs
 F:\C#\Algorithm\TwoPointers\LeetCode 287 - FindTheDuplicateNumber\FindTheDuplicateNumber\FindTheDuplicateNumber\obj\Debug\netcoreapp2.2\FindTheDuplicateNumber.dll
 F:\C#\Algorithm\TwoPointers\LeetCode 287 - FindTheDuplicateNumber\FindTheDuplicateNumber\FindTheDuplicateNumber\obj\Debug\netcoreapp2.2\FindTheDuplicateNumber.pdb
+F:\C#\Algorithm\TwoPointers\LeetCode 287 - FindTheDuplicateNumber\FindTheDuplicateNumber\FindTheDuplicateNumber\obj\Debug\netcoreapp2.2\FindTheDuplicateNumber.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\TwoPointers\LeetCode 287 - FindTheDuplicateNumber\FindTheDuplicateNumber\FindTheDuplicateNumber\obj\Debug\netcoreapp2.2\FindTheDuplicateNumber.genruntimeconfig.cache
