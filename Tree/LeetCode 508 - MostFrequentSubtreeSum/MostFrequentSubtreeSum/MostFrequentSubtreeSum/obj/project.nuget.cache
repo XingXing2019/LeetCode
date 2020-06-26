@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+zqumSXkFiQvzPYNqFAk/x+YUCHPEhvRjvnSVlTPCnsQeqNqSc3FSV3PLHCEWN8AWpfE5OttWBWBJ9Nl/Ur6ww==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 508 - MostFrequentSubtreeSum\\MostFrequentSubtreeSum\\MostFrequentSubtreeSum\\MostFrequentSubtreeSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
