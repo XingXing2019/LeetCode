@@ -27,24 +27,20 @@ namespace SumRootToLeafNumbers
         }
         static int SumNumbers(TreeNode root)
         {
-            var sum = 0;
-            GetNumber(root, ref sum, 0);
+            int sum = 0;
+            GetSum(root, ref sum, 0);
             return sum;
         }
 
-        static void GetNumber(TreeNode node, ref int sum, int num)
+        static void GetSum(TreeNode node, ref int sum, int num)
         {
             if (node == null)
                 return;
             num = num * 10 + node.val;
             if (node.left == node.right)
-            {
                 sum += num;
-                return;
-            }
-            GetNumber(node.left, ref sum, num);
-            GetNumber(node.right, ref sum, num);
-            num = (num - node.val) / 10;
+            GetSum(node.left, ref sum, num);
+            GetSum(node.right, ref sum, num);
         }
     }
 }

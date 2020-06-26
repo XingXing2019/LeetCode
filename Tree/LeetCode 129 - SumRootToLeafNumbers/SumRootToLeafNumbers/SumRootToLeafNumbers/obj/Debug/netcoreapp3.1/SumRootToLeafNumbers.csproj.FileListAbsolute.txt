@@ -9,3 +9,5 @@ F:\C#\Algorithm\Tree\LeetCode 129 - SumRootToLeafNumbers\SumRootToLeafNumbers\Su
 F:\C#\Algorithm\Tree\LeetCode 129 - SumRootToLeafNumbers\SumRootToLeafNumbers\SumRootToLeafNumbers\obj\Debug\netcoreapp3.1\SumRootToLeafNumbers.AssemblyInfo.cs
 F:\C#\Algorithm\Tree\LeetCode 129 - SumRootToLeafNumbers\SumRootToLeafNumbers\SumRootToLeafNumbers\obj\Debug\netcoreapp3.1\SumRootToLeafNumbers.dll
 F:\C#\Algorithm\Tree\LeetCode 129 - SumRootToLeafNumbers\SumRootToLeafNumbers\SumRootToLeafNumbers\obj\Debug\netcoreapp3.1\SumRootToLeafNumbers.pdb
+F:\C#\Algorithm\Tree\LeetCode 129 - SumRootToLeafNumbers\SumRootToLeafNumbers\SumRootToLeafNumbers\obj\Debug\netcoreapp3.1\SumRootToLeafNumbers.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Tree\LeetCode 129 - SumRootToLeafNumbers\SumRootToLeafNumbers\SumRootToLeafNumbers\obj\Debug\netcoreapp3.1\SumRootToLeafNumbers.genruntimeconfig.cache
