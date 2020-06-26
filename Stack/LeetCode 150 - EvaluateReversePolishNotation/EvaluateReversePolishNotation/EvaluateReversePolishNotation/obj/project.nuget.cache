@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4YsoPvZFTmhfycXNhNHeJmUiKlAUVrZa57kMfTRoBfmMSpRpHp3cKSwXqxq4tHuHMKKCN0LWGn7Pl4h30EWCnA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Stack\\LeetCode 150 - EvaluateReversePolishNotation\\EvaluateReversePolishNotation\\EvaluateReversePolishNotation\\EvaluateReversePolishNotation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
