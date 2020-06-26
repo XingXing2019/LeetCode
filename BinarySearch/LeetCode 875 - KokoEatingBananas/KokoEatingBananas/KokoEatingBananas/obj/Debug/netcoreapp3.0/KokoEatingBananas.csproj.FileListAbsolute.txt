@@ -9,3 +9,5 @@ F:\C#\Algorithm\BinarySearch\LeetCode 875 - KokoEatingBananas\KokoEatingBananas\
 F:\C#\Algorithm\BinarySearch\LeetCode 875 - KokoEatingBananas\KokoEatingBananas\KokoEatingBananas\obj\Debug\netcoreapp3.0\KokoEatingBananas.AssemblyInfo.cs
 F:\C#\Algorithm\BinarySearch\LeetCode 875 - KokoEatingBananas\KokoEatingBananas\KokoEatingBananas\obj\Debug\netcoreapp3.0\KokoEatingBananas.dll
 F:\C#\Algorithm\BinarySearch\LeetCode 875 - KokoEatingBananas\KokoEatingBananas\KokoEatingBananas\obj\Debug\netcoreapp3.0\KokoEatingBananas.pdb
+F:\C#\Algorithm\BinarySearch\LeetCode 875 - KokoEatingBananas\KokoEatingBananas\KokoEatingBananas\obj\Debug\netcoreapp3.0\KokoEatingBananas.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\BinarySearch\LeetCode 875 - KokoEatingBananas\KokoEatingBananas\KokoEatingBananas\obj\Debug\netcoreapp3.0\KokoEatingBananas.genruntimeconfig.cache

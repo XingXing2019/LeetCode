@@ -16,18 +16,17 @@ namespace KokoEatingBananas
         }
         static int MinEatingSpeed(int[] piles, int H)
         {
-            int li = 1;
-            int hi = piles.Max(n => n);
-            while (li != hi)
+            int li = 1, hi = piles.Max();
+            while (li < hi)
             {
                 int mid = li + (hi - li) / 2;
-                int hours = 0;
-                foreach (var p in piles)
-                    hours += p % mid == 0 ? p / mid : p / mid + 1;
-                if (hours <= H)
-                    hi = mid;
-                else
+                int hour = 0;
+                foreach (var pile in piles)
+                    hour += pile % mid == 0 ? pile / mid : pile / mid + 1;
+                if (hour > H)
                     li = mid + 1;
+                else
+                    hi = mid;
             }
             return li;
         }
