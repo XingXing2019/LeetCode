@@ -38,7 +38,10 @@ namespace SumRootToLeafNumbers
                 return;
             num = num * 10 + node.val;
             if (node.left == node.right)
+            {
                 sum += num;
+                return;
+            }
             GetSum(node.left, ref sum, num);
             GetSum(node.right, ref sum, num);
         }
