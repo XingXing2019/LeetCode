@@ -21,13 +21,13 @@ namespace FindEventualSafeStates
                 new int[]{}, 
                 new int[]{} 
             };
-            Console.WriteLine(EventualSafeNodes(graph));
+            Console.WriteLine(EventualSafeNodes_BFS(graph));
         }
         static IList<int> EventualSafeNodes_BFS(int[][] graph)
         {
-            var res = new List<int>();
             var outDegree = new int[graph.Length];
             var inDegree = new List<int>[graph.Length];
+            var safeNode = new bool[graph.Length];
             for (int i = 0; i < inDegree.Length; i++)
                 inDegree[i] = new List<int>();
             for (int i = 0; i < graph.Length; i++)
@@ -42,7 +42,7 @@ namespace FindEventualSafeStates
                 if (outDegree[i] == 0)
                 {
                     queue.Enqueue(i);
-                    res.Add(i);
+                    safeNode[i] = true;
                 }
             }
             while (queue.Count != 0)
@@ -54,11 +54,13 @@ namespace FindEventualSafeStates
                     if (outDegree[next] == 0)
                     {
                         queue.Enqueue(next);
-                        res.Add(next);
+                        safeNode[next] = true;
                     }
                 }
             }
-            res.Sort();
+            var res = new List<int>();
+            for (int i = 0; i < safeNode.Length; i++)
+                if(safeNode[i]) res.Add(i);
             return res;
         }
     }
