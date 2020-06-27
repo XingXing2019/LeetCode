@@ -9,3 +9,5 @@ F:\C#\Algorithm\DynamicProgramming\LeetCode 279 - PerfectSquares\PerfectSquares\
 F:\C#\Algorithm\DynamicProgramming\LeetCode 279 - PerfectSquares\PerfectSquares\PerfectSquares\obj\Debug\netcoreapp3.0\PerfectSquares.AssemblyInfo.cs
 F:\C#\Algorithm\DynamicProgramming\LeetCode 279 - PerfectSquares\PerfectSquares\PerfectSquares\obj\Debug\netcoreapp3.0\PerfectSquares.dll
 F:\C#\Algorithm\DynamicProgramming\LeetCode 279 - PerfectSquares\PerfectSquares\PerfectSquares\obj\Debug\netcoreapp3.0\PerfectSquares.pdb
+F:\C#\Algorithm\DynamicProgramming\LeetCode 279 - PerfectSquares\PerfectSquares\PerfectSquares\obj\Debug\netcoreapp3.0\PerfectSquares.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\DynamicProgramming\LeetCode 279 - PerfectSquares\PerfectSquares\PerfectSquares\obj\Debug\netcoreapp3.0\PerfectSquares.genruntimeconfig.cache

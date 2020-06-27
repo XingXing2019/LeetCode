@@ -10,20 +10,18 @@ namespace PerfectSquares
     {
         static void Main(string[] args)
         {
-            int n = 15;
+            int n = 12;
             Console.WriteLine(NumSquares(n));
         }
         static int NumSquares(int n)
         {
-            int[] dp = new int[n + 1];
-            for (int i = 0; i < dp.Length; i++)
-                dp[i] = int.MaxValue;
-            for (int i = 0; i * i <= n; i++)
-                dp[i * i] = 1;
-            for (int i = 1; i <= n; i++)
-                for (int j = 1; i + j * j <= n; j++)
-                    dp[i + j * j] = Math.Min(dp[i] + 1, dp[i + j * j]);
-            return dp[n];
+            var dp = new int[n + 1];
+            for (int i = 1; i < dp.Length; i++)
+                dp[i] = i % Math.Sqrt(i) == 0 ? 1 : int.MaxValue;
+            for (int i = 2; i < dp.Length; i++)
+                for (int j = 1; j <= i - j * j; j++)
+                    dp[i] = Math.Min(dp[i], dp[i - j * j] + 1);
+            return dp[^1];
         }
     }
 }
