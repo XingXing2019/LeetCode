@@ -23,7 +23,7 @@ namespace FindEventualSafeStates
             };
             Console.WriteLine(EventualSafeNodes(graph));
         }
-        static IList<int> EventualSafeNodes(int[][] graph)
+        static IList<int> EventualSafeNodes_BFS(int[][] graph)
         {
             var res = new List<int>();
             var outDegree = new int[graph.Length];
