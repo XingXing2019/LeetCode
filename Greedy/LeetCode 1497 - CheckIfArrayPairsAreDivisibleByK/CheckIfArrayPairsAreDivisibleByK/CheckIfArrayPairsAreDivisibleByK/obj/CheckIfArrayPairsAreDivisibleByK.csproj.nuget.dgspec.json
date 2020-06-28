@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Graph\\LeetCode 332 - ReconstructItinerary\\ReconstructItinerary\\ReconstructItinerary\\ReconstructItinerary.csproj": {}
+    "F:\\C#\\Algorithm\\Greedy\\LeetCode 1497 - CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Graph\\LeetCode 332 - ReconstructItinerary\\ReconstructItinerary\\ReconstructItinerary\\ReconstructItinerary.csproj": {
+    "F:\\C#\\Algorithm\\Greedy\\LeetCode 1497 - CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Graph\\LeetCode 332 - ReconstructItinerary\\ReconstructItinerary\\ReconstructItinerary\\ReconstructItinerary.csproj",
-        "projectName": "ReconstructItinerary",
-        "projectPath": "F:\\C#\\Algorithm\\Graph\\LeetCode 332 - ReconstructItinerary\\ReconstructItinerary\\ReconstructItinerary\\ReconstructItinerary.csproj",
+        "projectUniqueName": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1497 - CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK.csproj",
+        "projectName": "CheckIfArrayPairsAreDivisibleByK",
+        "projectPath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1497 - CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Graph\\LeetCode 332 - ReconstructItinerary\\ReconstructItinerary\\ReconstructItinerary\\obj\\",
+        "outputPath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1497 - CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\CheckIfArrayPairsAreDivisibleByK\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
