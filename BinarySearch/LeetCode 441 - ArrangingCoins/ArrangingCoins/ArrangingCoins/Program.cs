@@ -8,9 +8,9 @@ namespace ArrangingCoins
         static void Main(string[] args)
         {
             int n = 6;
-            Console.WriteLine(ArrangeCoins(n));
+            Console.WriteLine(ArrangeCoins_BinarySearch(n));
         }
-        static int ArrangeCoins(int n)
+        static int ArrangeCoins_BinarySearch(int n)
         {
             if (n < 2) return n;
             long li = 0, hi = n;
@@ -24,6 +24,10 @@ namespace ArrangingCoins
                     li = mid + 1;
             }
             return (int) li - 1;
+        }
+        static int ArrangeCoins_Math(int n)
+        {
+            return (int) (Math.Sqrt(1 + 8 * (double) n) - 1) / 2;
         }
     }
 }
