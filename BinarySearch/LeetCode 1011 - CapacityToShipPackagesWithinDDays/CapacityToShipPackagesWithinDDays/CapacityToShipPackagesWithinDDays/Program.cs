@@ -4,6 +4,7 @@
 //如果day大于D，证明mid太小，则令max等于mid加一。否则证明mid太大，则令sum等于mid。
 //最后返回max即为结果。
 using System;
+using System.Linq;
 
 namespace CapacityToShipPackagesWithinDDays
 {
@@ -17,33 +18,27 @@ namespace CapacityToShipPackagesWithinDDays
         }
         static int ShipWithinDays(int[] weights, int D)
         {
-            int max = 0;
-            int sum = 0;
-            for (int i = 0; i < weights.Length; i++)
+            int left = weights.Max(), right = weights.Sum();
+            while (left < right)
             {
-                max = Math.Max(max, weights[i]);
-                sum += weights[i];
-            }
-            while (max < sum)
-            {
-                int mid = max + (sum - max) / 2;
-                int day = 1;
-                int weight = 0;
-                for (int i = 0; i < weights.Length; i++)
+                int mid = left + (right - left) / 2;
+                int days = 1;
+                int totalWeight = 0;
+                foreach (var weight in weights)
                 {
-                    weight += weights[i];
-                    if(weight > mid)
+                    if (totalWeight + weight > mid)
                     {
-                        day++;
-                        weight = weights[i];
+                        days++;
+                        totalWeight = 0;
                     }
+                    totalWeight += weight;
                 }
-                if (day > D)
-                    max = mid + 1;
+                if (days > D)
+                    left = mid + 1;
                 else
-                    sum = mid;
+                    right = mid;
             }
-            return max;
+            return left;
         }
     }
 }
