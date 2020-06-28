@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUQzwJwXicnnpmlX8RXwUUmwgSGzc/GP1vH4nOEIRL1U/OA41+Ds3Mz+q7PJbUX+F2BvoDlBfFcRdM2FnsWVfQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1493 - LongestSubarrayOf1sAfterDeletingOneElement\\LongestSubarray\\LongestSubarray\\LongestSubarray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
