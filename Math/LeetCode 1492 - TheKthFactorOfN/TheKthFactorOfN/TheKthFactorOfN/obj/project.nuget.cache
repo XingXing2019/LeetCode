@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeFKKzXFWYhiSmv4iK0bsfim+KOStT1w1N3Ya0lADJtA5w5lXPy79pp5+xc1nZKuedRxGeVYLLwDS0U7hp8o9Q==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1492 - TheKthFactorOfN\\TheKthFactorOfN\\TheKthFactorOfN\\TheKthFactorOfN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
