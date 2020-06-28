@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Km142yGrUzzRTzKKwfMV8ZXbxjwTbrTV2jcGWV8l71ywg9y2WUZIqElF6wiycsXcfRAW7n8j6H/Ed3+M0y9qhQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 441 - ArrangingCoins\\ArrangingCoins\\ArrangingCoins\\ArrangingCoins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

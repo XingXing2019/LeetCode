@@ -12,19 +12,18 @@ namespace ArrangingCoins
         }
         static int ArrangeCoins(int n)
         {
-            if(n == 0)
-                return 0;
-            long li = 1, hi = n;
+            if (n < 2) return n;
+            long li = 0, hi = n;
             while (li < hi)
             {
                 long mid = li + (hi - li) / 2;
-                long tem = (1 + mid) * mid / 2 + mid + 1;
-                if (tem > n)
+                long sum = (1 + mid) * mid / 2;
+                if (sum > n)
                     hi = mid;
                 else
                     li = mid + 1;
             }
-            return (int)li;
+            return (int) li - 1;
         }
     }
 }
