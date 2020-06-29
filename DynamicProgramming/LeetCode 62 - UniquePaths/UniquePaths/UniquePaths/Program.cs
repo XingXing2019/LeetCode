@@ -11,21 +11,24 @@ namespace UniquePaths
     {
         static void Main(string[] args)
         {
-            int m = 0;
-            int n = 0;
+            int m = 3;
+            int n = 2;
             Console.WriteLine(UniquePaths(m, n));
         }
         static int UniquePaths(int m, int n)
         {
-            int[,] countPath = new int[m, n];
-            for (int i = 0; i < n; i++)
-                countPath[0, i] = 1;
+            var dp = new int[m][];
             for (int i = 0; i < m; i++)
-                countPath[i, 0] = 1;
+            {
+                dp[i] = new int[n];
+                dp[i][0] = 1;
+            }
+            for (int i = 0; i < n; i++)
+                dp[0][i] = 1;
             for (int i = 1; i < m; i++)
                 for (int j = 1; j < n; j++)
-                    countPath[i, j] = countPath[i - 1, j] + countPath[i, j - 1];
-            return countPath[m - 1, n - 1];
+                    dp[i][j] = dp[i - 1][j] + dp[i][j - 1];
+            return dp[m - 1][n - 1];
         }
     }
 }
