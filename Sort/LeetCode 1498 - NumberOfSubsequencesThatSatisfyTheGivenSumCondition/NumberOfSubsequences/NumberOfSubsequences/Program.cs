@@ -22,14 +22,14 @@ namespace NumberOfSubsequences
             var powers = new long[nums.Length];
             powers[0] = 1;
             for (int i = 1; i < powers.Length; i++)
-                powers[i] = powers[i - 1] * 2;
+                powers[i] = (powers[i - 1] * 2) % mod;
             while (left <= right)
             {
                 if (nums[left] + nums[right] > target)
                     right--;
                 else
                 {
-                    res += powers[right - left];
+                    res = (res + powers[right - left]) % mod;
                     left++;
                 }
             }
