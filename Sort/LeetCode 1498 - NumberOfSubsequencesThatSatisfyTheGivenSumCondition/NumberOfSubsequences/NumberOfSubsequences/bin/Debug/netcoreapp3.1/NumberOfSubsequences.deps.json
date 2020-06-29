@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NumberOfSubsequences/1.0.0": {
+        "runtime": {
+          "NumberOfSubsequences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumberOfSubsequences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
