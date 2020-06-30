@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KyPJyUuGtWrDE+OX/EeoPh2ObFf0Rmzh+y8cclTKefMF1BkPQvBnp4TR9CuPiCdnkCMqAimDmlelAJ5Cd8ooBw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 123 - BestTimeToBuyAndSellStockIII\\BestTimeToBuyAndSellStockIII\\BestTimeToBuyAndSellStockIII\\BestTimeToBuyAndSellStockIII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
