@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\Greedy\\LeetCode 122 - BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII.csproj",
+      "projectUniqueName": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 122 - BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII.csproj",
       "projectName": "BestTimeToBuyAndSellStockII",
-      "projectPath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 122 - BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII.csproj",
+      "projectPath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 122 - BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 122 - BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\obj\\",
+      "outputPath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 122 - BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
