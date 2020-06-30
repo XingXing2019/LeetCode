@@ -31,9 +31,20 @@ namespace BestTimeBuySellStockWithTransFee
             }
             return dontHave[dontHave.Length - 1];
         }
-        static int MaxProfits_RegulateSolution(int[] prices)
+        static int MaxProfits_RegulateSolution(int[] prices, int fee)
         {
-
+            if (prices.Length == 0) return 0;
+            var dp = new int[prices.Length][];
+            for (int i = 0; i < dp.Length; i++)
+                dp[i] = new int[2];
+            dp[0][0] = 0;
+            dp[0][1] = -prices[0];
+            for (int i = 1; i < dp.Length; i++)
+            {
+                dp[i][0] = Math.Max(dp[i - 1][0], dp[i - 1][1] + prices[i] - fee);
+                dp[i][1] = Math.Max(dp[i - 1][1], dp[i - 1][0] - prices[i]);
+            }
+            return dp[prices.Length - 1][0];
         }
     }
 }
