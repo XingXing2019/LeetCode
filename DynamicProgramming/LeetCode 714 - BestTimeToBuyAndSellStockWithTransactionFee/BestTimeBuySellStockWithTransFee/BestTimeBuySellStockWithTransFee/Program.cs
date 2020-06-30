@@ -31,6 +31,9 @@ namespace BestTimeBuySellStockWithTransFee
             }
             return dontHave[dontHave.Length - 1];
         }
-        
+        static int MaxProfits_RegulateSolution(int[] prices)
+        {
+
+        }
     }
 }
