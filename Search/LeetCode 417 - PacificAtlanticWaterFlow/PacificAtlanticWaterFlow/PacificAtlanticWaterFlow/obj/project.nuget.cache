@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "04gAjCY/tVQnWtCTPqCwxVf2DhyROpRQi63e+8Ae7xg0IxwnVpU9z75JdKP2pE5jQWYvXLgzTUWaN/GEbIFULA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 417 - PacificAtlanticWaterFlow\\PacificAtlanticWaterFlow\\PacificAtlanticWaterFlow\\PacificAtlanticWaterFlow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
