@@ -1,4 +1,5 @@
 ﻿//二分搜索寻找结果，但要注意可能会出现溢出，所以要用long型存储数据，最后在强制转换成int型。
+//数学方法利用公式(x + 1) * x / 2 <= n，化简求出x.
 using System;
 
 namespace ArrangingCoins
