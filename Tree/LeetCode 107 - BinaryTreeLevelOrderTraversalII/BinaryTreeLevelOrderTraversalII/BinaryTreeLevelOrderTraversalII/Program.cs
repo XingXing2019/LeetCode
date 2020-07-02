@@ -54,23 +54,22 @@ namespace BinaryTreeLevelOrderTraversalII
         public IList<IList<int>> LevelOrderBottom_BFS(TreeNode root)
         {
             var res = new List<IList<int>>();
-            if (root == null)
-                return res;
+            if (root == null) return res;
             var queue = new Queue<TreeNode>();
             queue.Enqueue(root);
             while (queue.Count != 0)
             {
                 var count = queue.Count;
-                var temp = new List<int>();
+                var layer = new List<int>();
                 while (count != 0)
                 {
-                    var current = queue.Dequeue();
-                    temp.Add(current.val);
-                    if (current.left != null) queue.Enqueue(current.left);
-                    if (current.right != null) queue.Enqueue(current.right);
+                    var cur = queue.Dequeue();
+                    layer.Add(cur.val);
+                    if(cur.left != null) queue.Enqueue(cur.left);
+                    if(cur.right != null) queue.Enqueue(cur.right);
                     count--;
                 }
-                res.Add(temp);
+                res.Add(layer);
             }
             res.Reverse();
             return res;
