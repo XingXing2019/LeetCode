@@ -9,3 +9,15 @@ F:\C#\Algorithm\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\Palin
 F:\C#\Algorithm\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.AssemblyInfo.cs
 F:\C#\Algorithm\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.dll
 F:\C#\Algorithm\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.pdb
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\netcoreapp2.2\PalindromicSubstrings.deps.json
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\netcoreapp2.2\PalindromicSubstrings.runtimeconfig.json
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\netcoreapp2.2\PalindromicSubstrings.runtimeconfig.dev.json
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\netcoreapp2.2\PalindromicSubstrings.dll
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\bin\Debug\netcoreapp2.2\PalindromicSubstrings.pdb
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.csprojAssemblyReference.cache
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.AssemblyInfoInputs.cache
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.AssemblyInfo.cs
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.dll
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.pdb
+F:\C#\Algorithm\DynamicProgramming\LeetCode 647 - PalindromicSubstrings\PalindromicSubstrings\PalindromicSubstrings\obj\Debug\netcoreapp2.2\PalindromicSubstrings.genruntimeconfig.cache

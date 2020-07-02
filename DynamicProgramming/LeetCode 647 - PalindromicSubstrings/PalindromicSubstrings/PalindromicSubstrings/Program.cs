@@ -10,8 +10,8 @@ namespace PalindromicSubstrings
     {
         static void Main(string[] args)
         {
-            string s = "abc";
-            Console.WriteLine(CountSubstrings(s));
+            string s = "aaaaa";
+            Console.WriteLine(CountSubstrings_DP(s));
         }
         static int CountSubstrings(string s)
         {
@@ -32,7 +32,7 @@ namespace PalindromicSubstrings
             }
             for (int i = 0; i < s.Length - 1; i++)
             {
-                if(s[i] == s[i + 1])
+                if (s[i] == s[i + 1])
                 {
                     count++;
                     int left = i - 1;
@@ -45,6 +45,25 @@ namespace PalindromicSubstrings
                             break;
                         left--;
                         right++;
+                    }
+                }
+            }
+            return count;
+        }
+        static int CountSubstrings_DP(string s)
+        {
+            var dp = new bool[s.Length][];
+            for (int i = 0; i < dp.Length; i++)
+                dp[i] = new bool[s.Length];
+            var count = 0;
+            for (int i = 0; i < s.Length; i++)
+            {
+                for (int j = i; j >= 0; j--)
+                {
+                    if (s[i] == s[j] && (i - j <= 2 || dp[i - 1][j + 1]))
+                    {
+                        dp[i][j] = true;
+                        count++;
                     }
                 }
             }
