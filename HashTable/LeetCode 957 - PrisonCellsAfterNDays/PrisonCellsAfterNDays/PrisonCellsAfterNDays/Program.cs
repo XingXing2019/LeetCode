@@ -14,19 +14,17 @@ namespace PrisonCellsAfterNDays
             Console.WriteLine(PrisonAfterNDays(cells, N));
         }
         static int[] PrisonAfterNDays(int[] cells, int N)
-        {          
-            int[][] record = new int[15][];
+        {
+            var record = new int[15][];
             record[0] = cells;
             for (int i = 1; i < record.Length; i++)
             {
-                int[] newCell = new int[8];
-                for (int j = 1; j < 7; j++)
-                    newCell[j] = cells[j - 1] == cells[j + 1] ? 1 : 0;
-                record[i] = newCell;
-                cells = newCell;
+                var cur = new int[8];
+                for (int j = 1; j < cur.Length - 1; j++)
+                    cur[j] = record[i - 1][j - 1] == record[i - 1][j + 1] ? 1 : 0;
+                record[i] = cur;
             }
-            int index = N % 14 == 0 ? 14 : N % 14;
-            return record[index];
+            return N % 14 == 0 ? record[^1] : record[N % 14];
         }
     }
 }

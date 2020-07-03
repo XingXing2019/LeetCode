@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0tut945INamua2GfkappSJyXOTJpuHsTca4+Y2HlRqG1sAkMv0bqXBWkSN2ujv/6tKtzdRWQoWVUA7A7gjPfew==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 957 - PrisonCellsAfterNDays\\PrisonCellsAfterNDays\\PrisonCellsAfterNDays\\PrisonCellsAfterNDays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
