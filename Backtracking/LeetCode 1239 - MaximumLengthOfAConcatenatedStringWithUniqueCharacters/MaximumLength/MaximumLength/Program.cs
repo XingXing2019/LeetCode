@@ -27,17 +27,17 @@ namespace MaximumLength
             maxLen = Math.Max(maxLen, cur.Length);
             for (int i = index + 1; i < arr.Count; i++)
             {
-                bool hasRepeat = false;
-                var check = new HashSet<char>();
+                bool unique = true;
+                var selfCheck = new HashSet<char>();
                 foreach (var letter in arr[i])
                 {
-                    if (letters.Contains(letter) || !check.Add(letter))
+                    if (letters.Contains(letter) || !selfCheck.Add(letter))
                     {
-                        hasRepeat = true;
+                        unique = false;
                         break;
                     }
                 }
-                if (!hasRepeat)
+                if (unique)
                 {
                     foreach (var letter in arr[i])
                         letters.Add(letter);
