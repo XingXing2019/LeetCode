@@ -18,14 +18,14 @@ namespace MaximumLength
         {
             var letters = new HashSet<char>();
             var cur = "";
-            Generate(arr, cur, 0, letters);
+            Generate(arr, cur, -1, letters);
             return maxLen;
         }
 
         static void Generate(IList<string> arr, string cur, int index, HashSet<char> letters)
         {
             maxLen = Math.Max(maxLen, cur.Length);
-            for (int i = index; i < arr.Count; i++)
+            for (int i = index + 1; i < arr.Count; i++)
             {
                 bool hasRepeat = false;
                 var check = new HashSet<char>();
