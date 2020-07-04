@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dqRNIVbugUcAmXtoDqOrRjMHXKmNMIAJUPZ0riDH+ib0m0afZQIP84h+tiL1whjFn8RyS37oJg+jCwd9s+uy1A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 304 - RangeSumQuery2DImmutable\\RangeSumQuery2DImmutable\\RangeSumQuery2DImmutable\\RangeSumQuery2DImmutable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
