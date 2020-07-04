@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAZp0K33AOXbFrOG6w9c9VYLDe2vDvYjd6JIoJX/NjOBo0ZO8KAegQhuojuP81hbduR52r5cNsWmUXVBDp4QrA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 1254 - NumberOfClosedIslands\\NumberOfClosedIslands\\NumberOfClosedIslands\\NumberOfClosedIslands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
