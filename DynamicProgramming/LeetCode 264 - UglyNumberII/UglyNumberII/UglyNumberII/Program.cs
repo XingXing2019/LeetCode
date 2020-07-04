@@ -14,21 +14,18 @@ namespace UglyNumberII
         }
         static int NthUglyNumber(int n)
         {
-            int[] dp = new int[n];
+            var dp = new int[n];
             dp[0] = 1;
             int a = 0, b = 0, c = 0;
             for (int i = 1; i < dp.Length; i++)
             {
                 int min = Math.Min(dp[a] * 2, Math.Min(dp[b] * 3, dp[c] * 5));
-                if (dp[a] * 2 == min)
-                    a++;
-                if (dp[b] * 3 == min)
-                    b++;
-                if (dp[c] * 5 == min)
-                    c++;
                 dp[i] = min;
+                if (dp[a] * 2 == min) a++;
+                if (dp[b] * 3 == min) b++;
+                if (dp[c] * 5 == min) c++;
             }
-            return dp[dp.Length - 1];
+            return dp[^1];
         }
     }
 }
