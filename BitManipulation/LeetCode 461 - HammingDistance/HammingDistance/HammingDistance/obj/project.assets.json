@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\Math\\LeetCode 461 - HammingDistance\\HammingDistance\\HammingDistance\\HammingDistance.csproj",
+      "projectUniqueName": "F:\\C#\\Algorithm\\BitManipulation\\LeetCode 461 - HammingDistance\\HammingDistance\\HammingDistance\\HammingDistance.csproj",
       "projectName": "HammingDistance",
-      "projectPath": "F:\\C#\\Algorithm\\Math\\LeetCode 461 - HammingDistance\\HammingDistance\\HammingDistance\\HammingDistance.csproj",
+      "projectPath": "F:\\C#\\Algorithm\\BitManipulation\\LeetCode 461 - HammingDistance\\HammingDistance\\HammingDistance\\HammingDistance.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\Math\\LeetCode 461 - HammingDistance\\HammingDistance\\HammingDistance\\obj\\",
+      "outputPath": "F:\\C#\\Algorithm\\BitManipulation\\LeetCode 461 - HammingDistance\\HammingDistance\\HammingDistance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -745,7 +745,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

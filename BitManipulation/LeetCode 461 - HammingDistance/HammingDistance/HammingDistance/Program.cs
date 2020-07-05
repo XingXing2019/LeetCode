@@ -16,6 +16,16 @@ namespace HammingDistance
         {
             return Convert.ToString(x ^ y, 2).Count(bit => bit == '1');
         }
-       
+        static int HammingDistance_bitManipulate(int x, int y)
+        {
+            int num = x ^ y;
+            int res = 0;
+            while (num != 0)
+            {
+                res += num & 1;
+                num >>= 1;
+            }
+            return res;
+        }
     }
 }
