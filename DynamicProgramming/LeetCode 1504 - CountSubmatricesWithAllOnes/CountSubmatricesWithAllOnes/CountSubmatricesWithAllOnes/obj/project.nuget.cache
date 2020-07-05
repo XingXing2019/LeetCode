@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+cIgBt1/r2XMynWnGB7d1FGPSeKlxqiWECAMx1Tj4zUyLu3aubxARid9PzyNApVM6rJghcuupQmdYMU1tEW5Uw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 1504 - CountSubmatricesWithAllOnes\\CountSubmatricesWithAllOnes\\CountSubmatricesWithAllOnes\\CountSubmatricesWithAllOnes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
