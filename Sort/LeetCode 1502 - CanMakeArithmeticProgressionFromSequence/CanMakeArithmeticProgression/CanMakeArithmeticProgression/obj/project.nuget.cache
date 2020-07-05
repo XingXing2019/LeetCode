@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3jaCMFv1lBOCI2Fu0kN51Z0Zoy0wX95tVGogXPprVhKwVvaseNb7d5uK5B9rNyBkdZv5pkh3tj2f14t0GXuiug==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1502 - CanMakeArithmeticProgressionFromSequence\\CanMakeArithmeticProgression\\CanMakeArithmeticProgression\\CanMakeArithmeticProgression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
