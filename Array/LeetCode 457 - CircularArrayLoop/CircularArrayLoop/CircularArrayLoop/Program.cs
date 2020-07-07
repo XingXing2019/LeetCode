@@ -7,13 +7,14 @@ namespace CircularArrayLoop
     {
         static void Main(string[] args)
         {
-            int[] nums = { -1, -1, -3};
+            int[] nums = { -1};
             Console.WriteLine(CircularArrayLoop(nums));
 
             Console.WriteLine(-7 % 5);
         }
         static bool CircularArrayLoop(int[] nums)
         {
+            if (nums.Length == 1) return false;
             for (int i = 0; i < nums.Length; i++)
             {
                 var index = new List<int>();
@@ -35,7 +36,7 @@ namespace CircularArrayLoop
                     if (next >= nums.Length)
                         next %= nums.Length;
                     else if (next < 0)
-                        next = next % nums.Length + cur + nums.Length;
+                        next = nums.Length - (-next % nums.Length);
                     if (nums[next] * nums[i] <= 0)
                     {
                         sameDirection = false;
