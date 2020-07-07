@@ -29,5 +29,29 @@ namespace IslandPerimeter
             }
             return perimeter;
         }
+
+        static int IslandPerimeter_DirectionArray(int[][] grid)
+        {
+            var perimeter = 0;
+            if (grid.Length == 0 || grid[0].Length == 0) return perimeter;
+            int[] dr = {-1, 1, 0, 0};
+            int[] dc = {0, 0, -1, 1};
+            for (int r = 0; r < grid.Length; r++)
+            {
+                for (int c = 0; c < grid[0].Length; c++)
+                {
+                    if(grid[r][c] == 0) continue;
+                    perimeter += 4;
+                    for (int i = 0; i < 4; i++)
+                    {
+                        int newR = dr[i] + r;
+                        int newC = dc[i] + c;
+                        if(newR < 0 || newR >= grid.Length || newC < 0 || newC >= grid[0].Length) continue;
+                        if (grid[newR][newC] == 1) perimeter--;
+                    }
+                }
+            }
+            return perimeter;
+        }
     }
 }

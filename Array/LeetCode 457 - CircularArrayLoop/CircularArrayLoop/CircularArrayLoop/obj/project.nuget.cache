@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0GXBECeAloj+h5oMsNxUMe6MbGR+1tcr3RebHe3oxhSSQP+7vUuQQEXlvi6/VE8ABDUrgtFuC96h4/+kDs3A4A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 457 - CircularArrayLoop\\CircularArrayLoop\\CircularArrayLoop\\CircularArrayLoop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
