@@ -16,44 +16,35 @@ namespace _3Sum
     {
         static void Main(string[] args)
         {
-            int[] nums = { 0, 0, 0 };
+            int[] nums = { 1, -2, -3, 4, 1, 3, 0, 3, -2, 1, -2, 2, -1, 1, -5, 4, -3 };
             ThreeSum(nums);
         }
         static IList<IList<int>> ThreeSum(int[] nums)
         {
-            List<IList<int>> res = new List<IList<int>>();
+            var res = new List<IList<int>>();
+            int lastI = 1;
             Array.Sort(nums);
-            int current = 1;
             for (int i = 0; i < nums.Length - 2; i++)
             {
-                if (nums[i] > 0)
-                    break;
-                if (nums[i] == current)
-                    continue;
-                int left = i + 1;
-                int right = nums.Length - 1;
-                current = nums[i];
-                while (left < right)
+                if (nums[i] > 0) break;
+                if (nums[i] == lastI) continue;
+                lastI = nums[i];
+                int li = i + 1, hi = nums.Length - 1, lastLi = int.MinValue;
+                while (li <  hi)
                 {
-                    int leftNum = nums[left];
-                    int rightNum = nums[right];
-                    int total = current + leftNum + rightNum;
-                    if (total == 0)
+                    int sum = nums[i] + nums[li] + nums[hi];
+                    if (sum > 0)
+                        hi--;
+                    else if (sum < 0)
+                        li++;
+                    else
                     {
-                        List<int> tri = new List<int>();
-                        tri.Add(current);
-                        tri.Add(leftNum);
-                        tri.Add(rightNum);
-                        while (nums[left] == leftNum && left < right)
-                            left++;
-                        while (nums[right] == rightNum && left < right)
-                            right--;
-                        res.Add(tri);
+                        if (nums[li] != lastLi)
+                            res.Add(new List<int> {nums[i], nums[li], nums[hi]});
+                        lastLi = nums[li];
+                        hi--;
+                        li++;
                     }
-                    else if (total < 0)
-                        left++;
-                    else if (total > 0)
-                        right--;
                 }
             }
             return res;
