@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PbLx1EqBVZSwIN8x6zHVrXgYGVcPSVSajBFns/kiyjaae1pFwUkQfe9HQeoy+gUaJh2TL84gogIToJjLUq2pdA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 542 - 01Matrix\\01Matrix\\01Matrix\\01Matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
