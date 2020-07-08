@@ -12,10 +12,10 @@ namespace _01Matrix
                 new int[]{0,1,1},
                 new int[]{1,0,1},
             };
-            Console.WriteLine(UpdateMatrix(matrix));
+            Console.WriteLine(UpdateMatrix_DFS(matrix));
         }
 
-        static int[][] UpdateMatrix(int[][] matrix)
+        static int[][] UpdateMatrix_DFS(int[][] matrix)
         {
             if (matrix.Length == 0 || matrix[0].Length == 0)
                 return matrix;
