@@ -1,6 +1,7 @@
-﻿using System;
+﻿//对于每个节点，如果他的index是x，那么他的左子树节点index就是2 * x，右子树节点index是2 * x + 1。
+//可以用滚动列表代替队列实现层级遍历。用keyValuePair记录每个节点的指针和index。
+using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace MaximumWidthOfBinaryTree
 {
@@ -29,8 +30,31 @@ namespace MaximumWidthOfBinaryTree
             a.right = c;
             b.left = d;
 
-            Console.WriteLine(WidthOfBinaryTree(a));
+            Console.WriteLine(WidthOfBinaryTree_List(a));
         }
+
+        static int WidthOfBinaryTree_List(TreeNode root)
+        {
+            if (root == null) return 0;
+            var curLayer = new List<KeyValuePair<TreeNode, int>>();
+            curLayer.Add(new KeyValuePair<TreeNode, int>(root, 1));
+            int maxWidth = 0;
+            while (curLayer.Count != 0)
+            {
+                maxWidth = Math.Max(maxWidth, curLayer[^1].Value - curLayer[0].Value + 1);
+                var nextLayer = new List<KeyValuePair<TreeNode, int>>();
+                foreach (var node in curLayer)
+                {
+                    if(node.Key.left != null)
+                        nextLayer.Add(new KeyValuePair<TreeNode, int>(node.Key.left, 2 * node.Value));
+                    if (node.Key.right != null)
+                        nextLayer.Add(new KeyValuePair<TreeNode, int>(node.Key.right, 2 * node.Value + 1));
+                }
+                curLayer = nextLayer;
+            }
+            return maxWidth;
+        }
+
         public class MyNode : TreeNode
         {
             public MyNode(TreeNode node, int index) : base(node.val)
