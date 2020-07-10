@@ -54,7 +54,7 @@ namespace FlattenAMultilevelDoublyLinkedList
                     head.child.prev = head;
                     head.child = null;
                 }
-                if (head.next == null )
+                if (head.next == null)
                 {
                     if (stack.Count == 0)
                         break;
