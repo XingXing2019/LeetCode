@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5dUKFYfB9u3nv2lYtdIF5HdS3JOfCrLu9lwKMNAPCoQCxDpGOoA5Bo4mejcJRxBIRe4gTCp45n6ABzqmaiYmg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\LinkedList\\LeetCode 430 - FlattenAMultilevelDoublyLinkedList\\FlattenAMultilevelDoublyLinkedList\\FlattenAMultilevelDoublyLinkedList\\FlattenAMultilevelDoublyLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
