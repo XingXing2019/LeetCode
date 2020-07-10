@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j4K9KutG6A1j7uF29jWx2RqkUKE2mQ9gibKgpoeGL6yvmT9SrtyhfgcP/zUQBvsT+w0bYhhM6+q6q1SGY10zcg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 553 - OptimalDivision\\OptimalDivision\\OptimalDivision\\OptimalDivision.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
