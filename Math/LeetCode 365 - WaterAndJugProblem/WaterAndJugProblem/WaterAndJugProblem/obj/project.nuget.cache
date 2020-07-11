@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLkFxi+OLOyuXk6B4Ai6srNoCc8W5tXyiJURwsTdihVIKPyLcZ3ASgCDz7u4Z+w7OUJ/H1pCLITakTtg55EfwQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 365 - WaterAndJugProblem\\WaterAndJugProblem\\WaterAndJugProblem\\WaterAndJugProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
