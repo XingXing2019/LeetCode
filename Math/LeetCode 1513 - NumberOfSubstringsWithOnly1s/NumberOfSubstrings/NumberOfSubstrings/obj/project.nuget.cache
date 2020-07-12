@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRniKuz+jhqK9wv1cs6hKLymElo/fP//LRtuKqkVJOwCM6vY9oXXQ3uneE8kkHgA3fJdmuKQMdc0m74AXqCbtg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1513 - NumberOfSubstringsWithOnly1s\\NumberOfSubstrings\\NumberOfSubstrings\\NumberOfSubstrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
