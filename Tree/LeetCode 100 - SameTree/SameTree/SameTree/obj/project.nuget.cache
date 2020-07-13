@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "POHW4AHLnrIl582lYsKUbVP9jktUOeYB8F+xsiW5FEMrQekN+8FSJkBOhfp8uxyYQbXAHUmCmGYnAUWQSTnx1g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 100 - SameTree\\SameTree\\SameTree\\SameTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
