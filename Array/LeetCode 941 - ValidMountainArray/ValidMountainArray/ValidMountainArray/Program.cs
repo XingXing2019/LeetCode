@@ -11,7 +11,8 @@ namespace ValidMountainArray
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] A = {2, 1};
+            Console.WriteLine(ValidMountainArray_TwoPointers(A));
         }
         public bool ValidMountainArray(int[] A)
         {
@@ -56,6 +57,15 @@ namespace ValidMountainArray
                 return true;
             else
                 return false;
+        }
+        static bool ValidMountainArray_TwoPointers(int[] A)
+        {
+            int left = 0, right = A.Length - 1;
+            while (left < right && A[left] < A[left + 1])
+                left++;
+            while (left < right && A[right] < A[right - 1])
+                right--;
+            return left != 0 && right != A.Length - 1 && left == right;
         }
     }
 }
