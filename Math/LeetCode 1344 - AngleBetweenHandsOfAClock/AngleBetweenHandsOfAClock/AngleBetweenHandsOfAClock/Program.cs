@@ -10,12 +10,11 @@ namespace AngleBetweenHandsOfAClock
         }
         static double AngleClock(int hour, int minutes)
         {
-            double hourPos = hour % 12 * 30 + (double) minutes / 60 * 30;
-            double minPos = minutes * 6;
-            double res = Math.Abs(hourPos - minPos) > 180
-                ? 360 - Math.Abs(hourPos - minPos)
-                : Math.Abs(hourPos - minPos);
-            return res;
+            var hourPos = hour % 12 * 30 + (double) minutes / 60 * 30;
+            var minPos = (double) minutes * 6;
+            return Math.Abs(hourPos - minPos) > 180 ? 
+                360 - Math.Abs(hourPos - minPos) :
+                Math.Abs(hourPos - minPos);
         }
     }
 }

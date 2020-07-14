@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pAUjZc4l0xlsH3PuvEwnJ6zyFqu2SHseCO2H+J8Pow81DueUpcVwT/Jyox+3/LFwuonAtRASiYED8BTTbtYBoA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1344 - AngleBetweenHandsOfAClock\\AngleBetweenHandsOfAClock\\AngleBetweenHandsOfAClock\\AngleBetweenHandsOfAClock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
