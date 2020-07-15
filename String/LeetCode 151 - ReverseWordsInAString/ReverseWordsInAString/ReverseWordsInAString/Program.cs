@@ -10,9 +10,9 @@ namespace ReverseWordsInAString
         static void Main(string[] args)
         {
             string s = "a good   example";
-            Console.WriteLine(ReverseWords1(s));
+            Console.WriteLine(ReverseWords_Manual1(s));
         }
-        static string ReverseWords1(string s)
+        static string ReverseWords_Manual1(string s)
         {
             string[] words = s.Split(' ');
             string res = "";
@@ -23,7 +23,7 @@ namespace ReverseWordsInAString
             }
             return res.Trim();
         }
-        static string ReverseWords2(string s)
+        static string ReverseWords_Manual2(string s)
         {
             string res = "";
             string tem = "";
@@ -43,6 +43,12 @@ namespace ReverseWordsInAString
                     res += tem;
             }
             return res.Trim();
+        }
+        static string ReverseWords(string s)
+        {
+            string[] words = s.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+            Array.Reverse(words);
+            return string.Join(' ', words);
         }
     }
 }
