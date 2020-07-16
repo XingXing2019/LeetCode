@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TuF4/6crjQFb8WY39FARdauC8ckuyZ9rLhoZ3QY1/fzTq0OPKjt5cG4GBLFRKMsOaUxElZ7/a9+3S4CLBLSYHQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 535 - EncodeAndDecodeTinyURL\\EncodeAndDecodeTinyURL\\EncodeAndDecodeTinyURL\\EncodeAndDecodeTinyURL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
