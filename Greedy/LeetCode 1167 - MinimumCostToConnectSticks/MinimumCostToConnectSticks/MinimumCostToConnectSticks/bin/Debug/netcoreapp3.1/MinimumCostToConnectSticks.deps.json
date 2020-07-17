@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MinimumCostToConnectSticks/1.0.0": {
+        "runtime": {
+          "MinimumCostToConnectSticks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinimumCostToConnectSticks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
