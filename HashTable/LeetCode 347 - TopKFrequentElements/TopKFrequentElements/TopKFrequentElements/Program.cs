@@ -14,22 +14,20 @@ namespace TopKFrequentElements
             int k = 1;
             Console.WriteLine(TopKFrequent(nums, k));
         }
-        static IList<int> TopKFrequent(int[] nums, int k)
+        static int[] TopKFrequent(int[] nums, int k)
         {
-            var numFrequency = new Dictionary<int, int>();
+            var numFreq = new Dictionary<int, int>();
             foreach (var num in nums)
             {
-                if (!numFrequency.ContainsKey(num))
-                    numFrequency[num] = 1;
+                if (!numFreq.ContainsKey(num))
+                    numFreq[num] = 1;
                 else
-                    numFrequency[num]++;
+                    numFreq[num]++;
             }
-            var frequencyOrder = new List<int>();
-            foreach (var kv in numFrequency)
-                frequencyOrder.Add(kv.Value);
-            frequencyOrder.Sort();
-            int tem = frequencyOrder[frequencyOrder.Count - k];
-            return numFrequency.Where(f => f.Value >= tem).Select(f => f.Key).ToList();
+            var freqOrder = numFreq.Select(x => x.Value).ToList();
+            freqOrder.Sort();
+            var threshold = freqOrder[freqOrder.Count - k];
+            return numFreq.Where(x => x.Value >= threshold).Select(x => x.Key).ToArray();
         }
     }
 }
