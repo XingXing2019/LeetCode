@@ -14,5 +14,15 @@ namespace RemoveVowelsFromAString
             var letters = S.Where(x => x != 'a' && x != 'e' && x != 'i' && x != 'o' && x != 'u').ToArray();
             return string.Join("", letters);
         }
+        public string RemoveVowels(string S)
+        {
+            var res = "";
+            foreach (var letter in S)
+            {
+                if (letter != 'a' && letter != 'e' && letter != 'i' && letter != 'o' && letter != 'u')
+                    res += letter;
+            }
+            return res;
+        }
     }
 }
