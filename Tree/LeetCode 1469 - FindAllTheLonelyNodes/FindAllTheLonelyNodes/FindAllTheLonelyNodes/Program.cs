@@ -31,12 +31,21 @@ namespace FindAllTheLonelyNodes
         static void DFS(TreeNode node, List<int> res)
         {
             if(node == null) return;
-            if(node.left == null && node.right != null)
+            if (node.left == null && node.right != null)
+            {
                 res.Add(node.right.val);
-            else if(node.left != null && node.right == null)
+                DFS(node.right, res);
+            }
+            else if (node.left != null && node.right == null)
+            {
                 res.Add(node.left.val);
-            DFS(node.left, res);
-            DFS(node.right, res);
+                DFS(node.left, res);
+            }
+            else
+            {
+                DFS(node.left, res);
+                DFS(node.right, res);
+            }
         }
     }
 }
