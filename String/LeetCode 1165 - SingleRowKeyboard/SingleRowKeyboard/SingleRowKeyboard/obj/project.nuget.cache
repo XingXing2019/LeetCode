@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LlYmCWGyAd+415oL+yARvHxyfdi4dt3QmsaK/YSOe5VNCgJas+36leZmJ5R7yvJeOVq1yGzEfUtPTXmb5dKuGQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 1165 - SingleRowKeyboard\\SingleRowKeyboard\\SingleRowKeyboard\\SingleRowKeyboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
