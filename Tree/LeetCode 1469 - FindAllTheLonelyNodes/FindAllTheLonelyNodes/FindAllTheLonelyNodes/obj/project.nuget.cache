@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3YnVTnydMOAB1pUNNyP1ViblmAs3o32rtKBkJpW5HqHPWeZUKB0K9XRW0SD9gje1YC2Hlq1tCN9SIezjJpfwXg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1469 - FindAllTheLonelyNodes\\FindAllTheLonelyNodes\\FindAllTheLonelyNodes\\FindAllTheLonelyNodes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
