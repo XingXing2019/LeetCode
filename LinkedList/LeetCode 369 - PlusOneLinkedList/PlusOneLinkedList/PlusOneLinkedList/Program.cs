@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace PlusOneLinkedList
 {
@@ -18,6 +19,28 @@ namespace PlusOneLinkedList
         {
             var head = Build(new[] {9, 9, 9});
             Console.WriteLine(PlusOne(head));
+        }
+
+        static ListNode PlusOne_Stack(ListNode head)
+        {
+            var nodes = new Stack<ListNode>();
+            while (head != null)
+            {
+                nodes.Push(head);
+                head = head.next;
+            }
+            ListNode res = null;
+            int car = 1;
+            while (nodes.Count != 0)
+            {
+                int cur = (nodes.Peek().val + car) % 10;
+                car = (nodes.Peek().val + car) / 10;
+                nodes.Peek().val = cur;
+                res = new ListNode(nodes.Pop().val) {next = res};
+            }
+            if (car != 0)
+                res = new ListNode(1) {next = res};
+            return res;
         }
         static ListNode PlusOne(ListNode head)
         {
