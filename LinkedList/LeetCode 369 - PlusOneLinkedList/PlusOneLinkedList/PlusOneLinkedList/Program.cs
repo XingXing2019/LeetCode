@@ -1,4 +1,7 @@
-﻿using System;
+﻿//利用Stack先进后出的特点将head中的nodes存入栈中。
+//在用过计算car和cur将栈中的node值更新。
+//最后要根据car判断一下是否需要再给res加一位。
+using System;
 using System.Collections.Generic;
 
 namespace PlusOneLinkedList
