@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O5zT3ILrDoIMcWKCnbEbhBjIkZ41txVnGnmPbKCZznGrLjcUsiicC2+/JiIZy2akB4TGig9iBCa5ht64JmkQyw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\LinkedList\\LeetCode 1474 - DeleteNNodesAfterMNodesOfALinkedList\\DeleteNNodesAfterMNodesOfALinkedList\\DeleteNNodesAfterMNodesOfALinkedList\\DeleteNNodesAfterMNodesOfALinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
