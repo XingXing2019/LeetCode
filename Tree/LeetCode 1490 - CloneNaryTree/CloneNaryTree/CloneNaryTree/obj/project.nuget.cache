@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gc3lKzzVUP5+nEwWXoXDaKD95h/R24oppg1uyh3gSt7Zi3TCM3dCuCjxw1jUJxkHVUfBfKEgUUKHXLc7eZHmiQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1490 - CloneNaryTree\\CloneNaryTree\\CloneNaryTree\\CloneNaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
