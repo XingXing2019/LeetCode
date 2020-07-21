@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 79 - WordSearch\\WordSearch\\WordSearch\\WordSearch.csproj",
-      "projectName": "WordSearch",
-      "projectPath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 79 - WordSearch\\WordSearch\\WordSearch\\WordSearch.csproj",
+      "projectUniqueName": "F:\\C#\\Algorithm\\Array\\LeetCode1085 - SumOfDigitsInTheMinimumNumber\\SumOfDigitsInTheMinimumNumber\\SumOfDigitsInTheMinimumNumber\\SumOfDigitsInTheMinimumNumber.csproj",
+      "projectName": "SumOfDigitsInTheMinimumNumber",
+      "projectPath": "F:\\C#\\Algorithm\\Array\\LeetCode1085 - SumOfDigitsInTheMinimumNumber\\SumOfDigitsInTheMinimumNumber\\SumOfDigitsInTheMinimumNumber\\SumOfDigitsInTheMinimumNumber.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 79 - WordSearch\\WordSearch\\WordSearch\\obj\\",
+      "outputPath": "F:\\C#\\Algorithm\\Array\\LeetCode1085 - SumOfDigitsInTheMinimumNumber\\SumOfDigitsInTheMinimumNumber\\SumOfDigitsInTheMinimumNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
