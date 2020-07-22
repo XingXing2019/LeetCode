@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6Agwt12eBxj0XexHc23rtegW4RUbu7DSltzeS6DZTTKyKCQW+2oGGAuAjgbqtZhdJF6sIzLNA43GQ+Oe4GZkg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 186 - ReverseWordsInAStringII\\ReverseWordsInAStringII\\ReverseWordsInAStringII\\ReverseWordsInAStringII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
