@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pikd1PPtiyk+eYL86vxSl+KzYHuW2UJZTWyguN/jEyPMY56G0fPoMNwsVJyGZT9uDSfGvB6v9AQLC1XqRwxdAg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1196 - HowManyApplesCanYouPutIntoTheBasket\\HowManyApples\\HowManyApples\\HowManyApples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
