@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hRM9Ypq8if1L4SDot6s7XEqu20ltG4b7vYwBHUGfU8qvqehSFui2lIwDYIdg+HaH7DZMozPP3NQZqmQ2r7Ybcg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1243 - ArrayTransformation\\ArrayTransformation\\ArrayTransformation\\ArrayTransformation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
