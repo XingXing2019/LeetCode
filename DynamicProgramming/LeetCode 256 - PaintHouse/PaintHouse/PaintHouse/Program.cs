@@ -23,7 +23,5 @@ namespace PaintHouse
             }
             return dp[^1].Min();
         }
-
-        
     }
 }
