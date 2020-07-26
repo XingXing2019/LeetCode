@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "my+9W4rtPtsUIkutWxOmblXgzFAd+z3JAuwpY+jxA8pyqcjAoA1S7mV71O3whUv8OCfKIgIC/4ipaZOjymBgbw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1524 - NumberOfSubArraysWithOddSum\\NumberOfSubArraysWithOddSum\\NumberOfSubArraysWithOddSum\\NumberOfSubArraysWithOddSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
