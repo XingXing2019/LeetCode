@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfGoodWaysToSplitAString", "NumberOfGoodWaysToSplitAString\NumberOfGoodWaysToSplitAString.csproj", "{993A9473-3A44-4FD0-B198-8192F149DBF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993A9473-3A44-4FD0-B198-8192F149DBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993A9473-3A44-4FD0-B198-8192F149DBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993A9473-3A44-4FD0-B198-8192F149DBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993A9473-3A44-4FD0-B198-8192F149DBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA49A09B-A943-4DE2-8E17-7AD36C608799}
+	EndGlobalSection
+EndGlobal

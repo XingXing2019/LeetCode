@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpOiVGQNxsHcsvfVNjiGIWXAujPZ0mv7Qz1amCbvWeGwRSB6pGP1/JXmOQmiJ39OJODSSI4WQA1SnT5/rhx+UA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 1525 - NumberOfGoodWaysToSplitAString\\NumberOfGoodWaysToSplitAString\\NumberOfGoodWaysToSplitAString\\NumberOfGoodWaysToSplitAString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
