@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CFYylsNsnVh14fAbQ4eAU7QUCpptdp9olTv4RuNOGf4sxzfe8ySf0BUM61vFwCocjnsfQm3yKh58vWFB7sWxRA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1528 - ShuffleString\\ShuffleString\\ShuffleString\\ShuffleString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
