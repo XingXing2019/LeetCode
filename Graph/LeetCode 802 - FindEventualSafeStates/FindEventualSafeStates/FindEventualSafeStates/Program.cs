@@ -21,13 +21,13 @@ namespace FindEventualSafeStates
                 new int[]{}, 
                 new int[]{} 
             };
-            Console.WriteLine(EventualSafeNodes_BFS(graph));
+            Console.WriteLine(EventualSafeNodes_DFS(graph));
         }
         static IList<int> EventualSafeNodes_BFS(int[][] graph)
         {
-            var outDegree = new int[graph.Length];
             var inDegree = new List<int>[graph.Length];
-            var safeNode = new bool[graph.Length];
+            var outDegree = new int[graph.Length];
+            var res = new List<int>();
             for (int i = 0; i < inDegree.Length; i++)
                 inDegree[i] = new List<int>();
             for (int i = 0; i < graph.Length; i++)
@@ -42,26 +42,50 @@ namespace FindEventualSafeStates
                 if (outDegree[i] == 0)
                 {
                     queue.Enqueue(i);
-                    safeNode[i] = true;
+                    res.Add(i);
                 }
             }
             while (queue.Count != 0)
             {
                 var cur = queue.Dequeue();
-                foreach (var next in inDegree[cur])
+                foreach (var pre in inDegree[cur])
                 {
-                    outDegree[next]--;
-                    if (outDegree[next] == 0)
+                    outDegree[pre]--;
+                    if (outDegree[pre] == 0)
                     {
-                        queue.Enqueue(next);
-                        safeNode[next] = true;
+                        queue.Enqueue(pre);
+                        res.Add(pre);
                     }
                 }
             }
-            var res = new List<int>();
-            for (int i = 0; i < safeNode.Length; i++)
-                if(safeNode[i]) res.Add(i);
+            res.Sort();
             return res;
+        }
+        
+        static IList<int> EventualSafeNodes_DFS(int[][] graph)
+        {
+            var states = new string[graph.Length];
+            var res = new List<int>();
+            for (int i = 0; i < graph.Length; i++)
+            {
+                if(DFS(graph, i, states))
+                    res.Add(i);
+            }
+            return res;
+        }
+
+        static bool DFS(int[][] graph, int cur, string[] states)
+        {
+            if (!string.IsNullOrEmpty(states[cur]))
+                return states[cur] == "Safe";
+            states[cur] = "Unsafe";
+            foreach (var next in graph[cur])
+            {
+                if (!DFS(graph, next, states))
+                    return false;
+            }
+            states[cur] = "Safe";
+            return true;
         }
     }
 }
