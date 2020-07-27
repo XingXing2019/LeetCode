@@ -23,13 +23,10 @@ namespace BulbSwitcherIV
                         state = '1';
                     }
                 }
-                else
+                else if (letter == '0')
                 {
-                    if (letter == '0')
-                    {
-                        res++;
-                        state = '0';
-                    }
+                    res++;
+                    state = '0';
                 }
             }
             return res;
