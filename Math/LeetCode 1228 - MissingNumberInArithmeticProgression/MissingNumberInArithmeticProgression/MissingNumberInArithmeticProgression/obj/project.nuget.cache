@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZT/nBqNUccYq98tb2bwMPsEGzsRkFOXfXZ+E8tLPnnApjcUS3vFX4JfEGbJmpwFeOSYpFFcjwLP1lRJt9BcYA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1228 - MissingNumberInArithmeticProgression\\MissingNumberInArithmeticProgression\\MissingNumberInArithmeticProgression\\MissingNumberInArithmeticProgression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
