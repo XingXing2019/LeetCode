@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FbBcjdgeR/gwq/SkbHT2xed58xlp2e+YP+/PU18balBHo0HH5ptvQs3G6qzOaqnPjuJmUipWflGLNJM8fwa5zA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 422 - ValidWordSquare\\ValidWordSquare\\ValidWordSquare\\ValidWordSquare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
