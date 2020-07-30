@@ -53,21 +53,16 @@ namespace EvaluateDivision
                 {
                     var visit = new HashSet<string>();
                     DFS(res, i, graph, queries[i][1], queries[i][0], 1, visit);
+                    res[i] = res[i] == 0 ? -1.0 : res[i];
                 }
             }
-            for (int i = 0; i < res.Length; i++)
-                res[i] = res[i] == 0 ? -1 : res[i];
             return res;
         }
 
-        static void DFS(double[] res, int index, Dictionary<string, Dictionary<string, double>> graph,
-            string target, string start, double num, HashSet<string> visit)
+        static void DFS(double[] res, int index, Dictionary<string, Dictionary<string, double>> graph, string target, string start, double num, HashSet<string> visit)
         {
             if (start == target)
-            {
                 res[index] = num;
-                return;
-            }
             foreach (var next in graph[start])
             {
                 if(!visit.Add(next.Key)) continue;
