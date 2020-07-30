@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l65mn9wmpICeBHcmI0hM7aRwMlW6wQ5mm0btcTy8FW5XSaqUIXOiitPycRO0XigclfCqEVYrBYhGrkSCAhxcqw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Design\\LeetCode 170 - TwoSumIII\\TwoSumIII\\TwoSumIII\\TwoSumIII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
