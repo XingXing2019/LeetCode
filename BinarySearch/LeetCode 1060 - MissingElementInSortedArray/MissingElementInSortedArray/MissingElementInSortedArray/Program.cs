@@ -8,12 +8,12 @@ namespace MissingElementInSortedArray
         {
             int[] nums = {1, 2, 4};
             int k = 3;
-            Console.WriteLine(MissingElement(nums, k));
+            Console.WriteLine(MissingElement_BinarySearch(nums, k));
         }
-        static int MissingElement(int[] nums, int k)
+        static int MissingElement_BinarySearch(int[] nums, int k)
         {
             int li = 0, hi = nums.Length - 1;
-            int missing = nums[hi] - nums[li] - (hi - li);
+            int missing = nums[^1] - nums[0] - (hi - li);
             if (missing < k)
                 return nums[^1] + k - missing;
             while (li + 1 < hi)
