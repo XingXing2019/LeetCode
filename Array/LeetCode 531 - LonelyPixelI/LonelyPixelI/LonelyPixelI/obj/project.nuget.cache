@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zV0wxoo3jZeMN2DnbZCcSssLxdapqozdbk0fVtBUg1bZyTY/9GO5rjZH/b+s0VMavvv01upbN9nRcYepgao1QQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 531 - LonelyPixelI\\LonelyPixelI\\LonelyPixelI\\LonelyPixelI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
