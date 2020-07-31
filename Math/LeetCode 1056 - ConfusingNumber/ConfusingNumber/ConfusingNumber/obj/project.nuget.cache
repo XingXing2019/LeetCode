@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vmi5wmVDDrA2x6WxZwv5QVPE1ArXbjmYRQ2euA4QpYQPH2/LJxSxPmlXJVpGKFwGNPL31bvUTC7D2TKbaJieKg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1056 - ConfusingNumber\\ConfusingNumber\\ConfusingNumber\\ConfusingNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
