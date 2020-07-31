@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uaAHVufY887IIilpvWCc4iT9VFqtfVZfePZyC14fZHzIIJA1MmJ1eqwLt6MO2o0NjDRm2Jo/6CWd0fycr+Becw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1099 - TwoSumLessThanK\\TwoSumLessThanK\\TwoSumLessThanK\\TwoSumLessThanK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
