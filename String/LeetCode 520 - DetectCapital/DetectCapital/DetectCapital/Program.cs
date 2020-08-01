@@ -1,5 +1,6 @@
 ﻿//遍历单词，按照要求检查字母大小写即可。
 using System;
+using System.Linq;
 
 namespace DetectCapital
 {
@@ -41,6 +42,13 @@ namespace DetectCapital
                 }
             }
             return true;
+        }
+        public bool DetectCapitalUse_Linq(string word)
+        {
+            if (word.All(x => char.IsUpper(x)) || word.All(x => char.IsLower(x)))
+                return true;
+            var temp = word.Substring(1);
+            return temp.All(x => char.IsLower(x));
         }
     }
 }
