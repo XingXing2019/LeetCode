@@ -16,7 +16,8 @@ namespace LongPressedName
         }
         static bool IsLongPressedName(string name, string typed)
         {
-            if (name[0] != typed[0]) return false;
+            if (name[0] != typed[0]) 
+                return false;
             int nPointer = 1, tPointer = 1;
             while (nPointer < name.Length && tPointer < typed.Length)
             {
@@ -25,13 +26,10 @@ namespace LongPressedName
                     nPointer++;
                     tPointer++;
                 }
-                else
-                {
-                    if (typed[tPointer] != typed[tPointer - 1])
-                        return false;
-                    while (tPointer < typed.Length && typed[tPointer] == typed[tPointer - 1])
-                        tPointer++;
-                }
+                else if (typed[tPointer] != typed[tPointer - 1])
+                    return false;
+                else if (tPointer < typed.Length)
+                    tPointer++;
             }
             if (nPointer < name.Length)
                 return false;
