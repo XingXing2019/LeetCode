@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QVQSopt45b/+LgpsHV5XyZqKJCRFOsIdT3SftYKnYR9Cb4m9qw3wa1kAkF0/F0g9AZCLS8IkjUxXWe6NckmBwA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Design\\LeetCode 359 - LoggerRateLimiter\\LoggerRateLimiter\\LoggerRateLimiter\\LoggerRateLimiter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

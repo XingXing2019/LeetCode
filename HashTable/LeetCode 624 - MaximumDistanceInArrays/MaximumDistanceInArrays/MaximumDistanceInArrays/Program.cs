@@ -11,20 +11,13 @@ namespace MaximumDistanceInArrays
         }
         public int MaxDistance(IList<IList<int>> arrays)
         {
-            var record = new int[arrays.Count][];
-            for (int r = 0; r < arrays.Count; r++)
-                record[r] = new int[]{arrays[r][0], int.MinValue};
-            for (int i = 0; i < arrays.Count; i++)
+            int min = arrays[0][0], max = arrays[0][^1], res = 0;
+            for (int i = 1; i < arrays.Count; i++)
             {
-                for (int j = 0; j < record.Length; j++)
-                {
-                    if(i == j) continue;
-                    record[j][1] = Math.Max(record[j][1], arrays[i][^1]);
-                }
+                res = Math.Max(res, Math.Max(Math.Abs(arrays[i][^1] - min), Math.Abs(max - arrays[i][0])));
+                min = Math.Min(min, arrays[i][0]);
+                max = Math.Max(max, arrays[i][^1]);
             }
-            var res = int.MinValue;
-            for (int i = 0; i < record.Length; i++)
-                res = Math.Max(res, record[i][1] - record[i][0]);
             return res;
         }
     }
