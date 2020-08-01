@@ -38,6 +38,7 @@ namespace LongPressedName
             {
                 if (typed[tPointer] != typed[tPointer - 1])
                     return false;
+                tPointer++;
             }
             return true;
         }
