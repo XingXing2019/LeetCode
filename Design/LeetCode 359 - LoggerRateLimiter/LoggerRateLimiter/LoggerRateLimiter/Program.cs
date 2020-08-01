@@ -17,26 +17,23 @@ namespace LoggerRateLimiter
     }
     public class Logger
     {
-        private List<HashSet<string>> logger;
+        private Dictionary<int, HashSet<string>> logger;
         public Logger()
         {
-            logger = new List<HashSet<string>>();
+            logger = new Dictionary<int, HashSet<string>>();
         }
 
         public bool ShouldPrintMessage(int timestamp, string message)
         {
-            if (timestamp > logger.Count)
+            if(!logger.ContainsKey(timestamp))
+                logger[timestamp] = new HashSet<string>();
+            for (int i = 0; i < 10; i++)
             {
-                int count = logger.Count;
-                for (int i = 0; i < timestamp - count; i++)
-                    logger.Add(new HashSet<string>());
-            }
-            for (int i = timestamp - 1; i >= 0 && i >= timestamp - 10; i--)
-            {
-                if (logger[i].Contains(message))
+                int time = timestamp - i;
+                if (logger.ContainsKey(time) && logger[time].Contains(message))
                     return false;
             }
-            logger[timestamp - 1].Add(message);
+            logger[timestamp].Add(message);
             return true;
         }
     }
