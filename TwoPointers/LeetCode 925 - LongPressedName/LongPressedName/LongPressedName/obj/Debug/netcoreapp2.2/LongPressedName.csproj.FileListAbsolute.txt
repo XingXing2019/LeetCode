@@ -9,3 +9,4 @@ F:\C#\Algorithm\TwoPointers\LeetCode 925 - LongPressedName\LongPressedName\LongP
 F:\C#\Algorithm\TwoPointers\LeetCode 925 - LongPressedName\LongPressedName\LongPressedName\obj\Debug\netcoreapp2.2\LongPressedName.AssemblyInfo.cs
 F:\C#\Algorithm\TwoPointers\LeetCode 925 - LongPressedName\LongPressedName\LongPressedName\obj\Debug\netcoreapp2.2\LongPressedName.dll
 F:\C#\Algorithm\TwoPointers\LeetCode 925 - LongPressedName\LongPressedName\LongPressedName\obj\Debug\netcoreapp2.2\LongPressedName.pdb
+F:\C#\Algorithm\TwoPointers\LeetCode 925 - LongPressedName\LongPressedName\LongPressedName\obj\Debug\netcoreapp2.2\LongPressedName.genruntimeconfig.cache

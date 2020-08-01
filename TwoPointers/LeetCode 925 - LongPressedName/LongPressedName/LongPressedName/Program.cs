@@ -10,20 +10,14 @@ namespace LongPressedName
     {
         static void Main(string[] args)
         {
-            string name = "pyplrz";
-            string typed = "ppyypllr";
+            string name = "alex";
+            string typed = "alexxr";
             Console.WriteLine(IsLongPressedName(name, typed));
         }
         static bool IsLongPressedName(string name, string typed)
         {
-            if ((name == "" && typed != "") || (name != "" && typed == ""))
-                return false;
-            if (name == "" && typed == "")
-                return true;
-            if (name[0] != typed[0])
-                return false;
-            int nPointer = 1;
-            int tPointer = 1;
+            if (name[0] != typed[0]) return false;
+            int nPointer = 1, tPointer = 1;
             while (nPointer < name.Length && tPointer < typed.Length)
             {
                 if (name[nPointer] == typed[tPointer])
@@ -35,13 +29,18 @@ namespace LongPressedName
                 {
                     if (typed[tPointer] != typed[tPointer - 1])
                         return false;
-                    else
-                        while (tPointer < typed.Length && typed[tPointer] == typed[tPointer - 1])
-                            tPointer++;
+                    while (tPointer < typed.Length && typed[tPointer] == typed[tPointer - 1])
+                        tPointer++;
                 }
             }
             if (nPointer < name.Length)
                 return false;
+            tPointer++;
+            while (tPointer < typed.Length)
+            {
+                if (typed[tPointer] != typed[tPointer - 1])
+                    return false;
+            }
             return true;
         }
     }
