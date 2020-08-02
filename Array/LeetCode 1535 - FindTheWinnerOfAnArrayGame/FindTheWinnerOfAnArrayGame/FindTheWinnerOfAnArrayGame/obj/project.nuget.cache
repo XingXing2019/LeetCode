@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "feZSe6opOwF6QqWbQy5BGiIsY+smr9JU7vEBX+bDHMmThw1DL3DMnndgiH5/eLY6LZeKvTabQr65zqpZISds4Q==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1535 - FindTheWinnerOfAnArrayGame\\FindTheWinnerOfAnArrayGame\\FindTheWinnerOfAnArrayGame\\FindTheWinnerOfAnArrayGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

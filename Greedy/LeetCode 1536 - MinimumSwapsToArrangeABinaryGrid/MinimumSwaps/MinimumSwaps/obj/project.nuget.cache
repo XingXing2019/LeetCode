@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3XizivzAWPBaM8qka2VH+cK3rcLbxUZCmIX8/pTtEZVrziFnsMshzV5VLSOF0YnBu9+gS2pay/zibW4h3EnAFw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1536 - MinimumSwapsToArrangeABinaryGrid\\MinimumSwaps\\MinimumSwaps\\MinimumSwaps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
