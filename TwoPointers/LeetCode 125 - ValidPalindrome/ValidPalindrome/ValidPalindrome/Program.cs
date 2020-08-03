@@ -44,5 +44,19 @@ namespace ValidPalindrome
             }
             return true;
         }
+        public bool IsPalindrome_BuildInMethod(string s)
+        {
+            int left = 0, right = s.Length - 1;
+            while (left < right)
+            {
+                while (left < right && !char.IsDigit(s[left]) && !char.IsLetter(s[left]))
+                    left++;
+                while (left < right && !char.IsDigit(s[right]) && !char.IsLetter(s[right]))
+                    right--;
+                if (char.ToLower(s[left++]) != char.ToLower(s[right--]))
+                    return false;
+            }
+            return true;
+        }
     }
 }
