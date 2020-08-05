@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wXVwguwdDnb235tNfLlc3XlEMTZB4WUAFPNOlL11cEGHfqmmcfSI60ixfLMphC3UG12b6TGC6OyTDjh3tIx99w==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1180 - CountSubstringsWithOnlyOneDistinctLetter\\CountSubstrings\\CountSubstrings\\CountSubstrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
