@@ -2,6 +2,7 @@
 //遍历record，将记录为2的数字加入res。
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace FindAllDuplicatesInAnArray
 {
@@ -9,7 +10,8 @@ namespace FindAllDuplicatesInAnArray
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] nums = {4, 3, 2, 7, 8, 2, 3, 1};
+            Console.WriteLine(FindDuplicates_NoExtraSpace(nums));
         }
         static IList<int> FindDuplicates(int[] nums)
         {
@@ -21,6 +23,31 @@ namespace FindAllDuplicatesInAnArray
                 if (record[i] == 2)
                     res.Add(i);
             return res;
+        }
+        static IList<int> FindDuplicates_NoExtraSpace(int[] nums)
+        {
+            var res = new HashSet<int>();
+            int index = 0;
+            while (index < nums.Length)
+            {
+                int num = nums[index];
+                if (num != index + 1)
+                {
+                    if (num == nums[num - 1])
+                    {
+                        res.Add(num);
+                        index++;
+                    }
+                    else
+                    {
+                        nums[index] = nums[num - 1];
+                        nums[num - 1] = num;
+                    }
+                }
+                else
+                    index++;
+            }
+            return res.ToList();
         }
     }
 }
