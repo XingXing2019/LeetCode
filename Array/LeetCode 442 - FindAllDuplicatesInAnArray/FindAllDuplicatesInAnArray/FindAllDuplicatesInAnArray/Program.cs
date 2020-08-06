@@ -11,7 +11,7 @@ namespace FindAllDuplicatesInAnArray
         static void Main(string[] args)
         {
             int[] nums = {4, 3, 2, 7, 8, 2, 3, 1};
-            Console.WriteLine(FindDuplicates_NoExtraSpace(nums));
+            Console.WriteLine(FindDuplicates_NoExtraSpace1(nums));
         }
         static IList<int> FindDuplicates(int[] nums)
         {
@@ -24,7 +24,7 @@ namespace FindAllDuplicatesInAnArray
                     res.Add(i);
             return res;
         }
-        static IList<int> FindDuplicates_NoExtraSpace(int[] nums)
+        static IList<int> FindDuplicates_NoExtraSpace1(int[] nums)
         {
             var res = new HashSet<int>();
             int index = 0;
@@ -48,6 +48,20 @@ namespace FindAllDuplicatesInAnArray
                     index++;
             }
             return res.ToList();
+        }
+
+        static IList<int> FindDuplicates_NoExtraSpace2(int[] nums)
+        {
+            var res = new List<int>();
+            for (int i = 0; i < nums.Length; i++)
+            {
+                var index = Math.Abs(nums[i]) - 1;
+                if (nums[index] < 0)
+                    res.Add(index + 1);
+                else
+                    nums[index] = -nums[index];
+            }
+            return res;
         }
     }
 }
