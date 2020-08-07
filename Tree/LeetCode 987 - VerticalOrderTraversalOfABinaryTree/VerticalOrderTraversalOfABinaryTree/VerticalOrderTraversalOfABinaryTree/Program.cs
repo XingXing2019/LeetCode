@@ -87,7 +87,7 @@ namespace VerticalOrderTraversalOfABinaryTree
             var res = new List<int>[index.Count];
             foreach (var kv in index)
             {
-                var nodes = kv.Value.OrderBy(x => dict[x][1]).ThenBy(x => x.val).ToList();
+                var nodes = kv.Value.OrderBy(x => dict[x][1]).ThenBy(x => x.val);
                 res[kv.Key - min] = nodes.Select(x => x.val).ToList();
             }
             return res;
