@@ -38,5 +38,4 @@ namespace ShortestWordDistanceII
             return res;
         }
     }
-
 }
