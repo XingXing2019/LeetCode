@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvY25iX0uQqPMngsZH6trt6AmWYeTDAfuNqx02wmjB4eeSW94fE5yDjPsk1BlMqSN85QMSCtSFeE7tTsQKGvQw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 243 - ShortestWordDistance\\ShortestWordDistance\\ShortestWordDistance\\ShortestWordDistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
