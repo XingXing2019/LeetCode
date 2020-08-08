@@ -42,5 +42,23 @@ namespace ClosestBinarySearchTreeValue
             }
             return res;
         }
+        static int ClosestValue_DFS(TreeNode root, double target)
+        {
+            min = double.MaxValue;
+            DFS(root, target);
+            return res;
+        }
+
+        private static double min;
+        private static int res;
+        static void DFS(TreeNode node, double target)
+        {
+            if (node == null) return;
+            min = Math.Min(min, Math.Abs(node.val - target));
+            if (Math.Abs(node.val - target) == min)
+                res = node.val;
+            DFS(node.left, target);
+            DFS(node.right, target);
+        }
     }
 }
