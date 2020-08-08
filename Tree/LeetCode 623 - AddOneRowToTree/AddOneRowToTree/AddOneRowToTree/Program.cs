@@ -63,5 +63,24 @@ namespace AddOneRowToTree
             }
             return root;
         }
+
+        static TreeNode AddOneRow_DFS(TreeNode root, int v, int d)
+        {
+            if (d == 1) return new TreeNode(v, root, null);
+            DFS(root, v, d);
+            return root;
+        }
+
+        static void DFS(TreeNode node, int v, int d)
+        {
+            if (node == null || d == 0) return;
+            if (d == 2)
+            {
+                node.left = new TreeNode(v, node.left, null);
+                node.right = new TreeNode(v, null, node.right);
+            }
+            DFS(node.left, v, d - 1);
+            DFS(node.right, v, d - 1);
+        }
     }
 }
