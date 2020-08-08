@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AddOneRowToTree/1.0.0": {
+        "runtime": {
+          "AddOneRowToTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddOneRowToTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
