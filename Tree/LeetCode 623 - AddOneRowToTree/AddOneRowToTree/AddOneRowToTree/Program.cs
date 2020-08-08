@@ -34,12 +34,11 @@ namespace AddOneRowToTree
 
             int val = 1, depth = 3;
 
-            Console.WriteLine(AddOneRow(a, val, depth));
+            Console.WriteLine(AddOneRow_BFS(a, val, depth));
         }
-        static TreeNode AddOneRow(TreeNode root, int v, int d)
+        static TreeNode AddOneRow_BFS(TreeNode root, int v, int d)
         {
-            if (d == 1)
-                return new TreeNode(v, root, null);
+            if (d == 1) return new TreeNode(v, root, null);
             var queue = new Queue<TreeNode>();
             queue.Enqueue(root);
             bool finish = false;
