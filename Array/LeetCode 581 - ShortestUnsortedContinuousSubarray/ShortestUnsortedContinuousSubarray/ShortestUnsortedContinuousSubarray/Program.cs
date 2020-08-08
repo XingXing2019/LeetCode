@@ -8,14 +8,13 @@ namespace ShortestUnsortedContinuousSubarray
     {
         static void Main(string[] args)
         {
-            int[] nums = { 1, 2, 3, 4 };
-            Console.WriteLine(FindUnsortedSubarray(nums));
+            int[] nums = { 2, 6, 4, 8, 10, 9, 15 };
+            Console.WriteLine(FindUnsortedSubarray_N(nums));
         }
-        static int FindUnsortedSubarray(int[] nums)
+        static int FindUnsortedSubarray_LogN(int[] nums)
         {
             int[] tem = new int[nums.Length];
-            for (int i = 0; i < nums.Length; i++)
-                tem[i] = nums[i];
+            Array.Copy(nums, tem, nums.Length);
             Array.Sort(nums);
             int start = 0, end = 0;
             for (int i = 0; i < nums.Length; i++)
@@ -34,9 +33,23 @@ namespace ShortestUnsortedContinuousSubarray
                     break;
                 }
             }
-            if (end == start)
-                return 0;
-            return end - start + 1;
+            return end == start ? 0 : end - start + 1;
+        }
+
+        static int FindUnsortedSubarray_N(int[] nums)
+        {
+            int start = 0, end = 0;
+            int min = int.MaxValue, max = int.MinValue;
+            for (int i = 0; i < nums.Length; i++)
+            {
+                max = Math.Max(max, nums[i]);
+                if (nums[i] < max)
+                    end = i;
+                min = Math.Min(min, nums[^(i + 1)]);
+                if (nums[^(i + 1)] > min)
+                    start = nums.Length - i - 1;
+            }
+            return start == end ? 0 : end - start + 1;
         }
     }
 }

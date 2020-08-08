@@ -9,3 +9,5 @@ F:\C#\Algorithm\Array\LeetCode 581 - ShortestUnsortedContinuousSubarray\Shortest
 F:\C#\Algorithm\Array\LeetCode 581 - ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\obj\Debug\netcoreapp3.0\ShortestUnsortedContinuousSubarray.AssemblyInfo.cs
 F:\C#\Algorithm\Array\LeetCode 581 - ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\obj\Debug\netcoreapp3.0\ShortestUnsortedContinuousSubarray.dll
 F:\C#\Algorithm\Array\LeetCode 581 - ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\obj\Debug\netcoreapp3.0\ShortestUnsortedContinuousSubarray.pdb
+F:\C#\Algorithm\Array\LeetCode 581 - ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\obj\Debug\netcoreapp3.0\ShortestUnsortedContinuousSubarray.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Array\LeetCode 581 - ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\ShortestUnsortedContinuousSubarray\obj\Debug\netcoreapp3.0\ShortestUnsortedContinuousSubarray.genruntimeconfig.cache
