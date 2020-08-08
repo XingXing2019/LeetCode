@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHJ4qXK1Ub37sLEctlSe3kWZA1BpOb+SeD/A2fMAijXxBdKcqC+MPdJy7Tfp21jadV1uBDHYsHmsOhirAzj+JQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 545 - BoundaryOfBinaryTree\\BoundaryOfBinaryTree\\BoundaryOfBinaryTree\\BoundaryOfBinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
