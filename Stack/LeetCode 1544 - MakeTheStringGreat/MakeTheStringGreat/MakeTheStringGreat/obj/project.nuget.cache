@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fP5oigs2Yd4Lndb7q0BWAgTFNEakeMVYCdE+HuNM0CnUxaH1A8k3LX0dxBg3ZhlMovPYWq2IHLKz3K0LGruZw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Stack\\LeetCode 1544 - MakeTheStringGreat\\MakeTheStringGreat\\MakeTheStringGreat\\MakeTheStringGreat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
