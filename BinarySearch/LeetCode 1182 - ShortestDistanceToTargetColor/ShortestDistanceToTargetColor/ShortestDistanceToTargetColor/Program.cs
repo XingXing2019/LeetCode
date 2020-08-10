@@ -7,12 +7,12 @@ namespace ShortestDistanceToTargetColor
     {
         static void Main(string[] args)
         {
-            int[] colors = {1, 1, 2, 1, 3, 2, 2, 3, 3};
+            int[] colors = { 1, 1, 2, 1, 3, 2, 2, 3, 3 };
             int[][] queries = new int[][]
             {
-                new int[]{1, 3}, 
-                new int[]{2, 2}, 
-                new int[]{6, 1}, 
+                new int[]{1, 3},
+                new int[]{2, 2},
+                new int[]{6, 1},
             };
             Console.WriteLine(ShortestDistanceColor(colors, queries));
         }
@@ -35,15 +35,13 @@ namespace ShortestDistanceToTargetColor
                 }
                 var indeics = dict[query[1]];
                 var pos = indeics.BinarySearch(query[0]);
-                if (pos < 0) pos = -(pos + 1);
-                var min = 0;
-                if (pos == 0) 
-                    min = indeics[0] - query[0];
+                pos = pos < 0 ? -(pos + 1) : pos;
+                if (pos == 0)
+                    res.Add(indeics[0] - query[0]);
                 else if (pos == indeics.Count)
-                    min = query[0] - indeics[^1];
-                else 
-                    min = Math.Min(query[0] - indeics[pos - 1], indeics[pos] - query[0]);
-                res.Add(min);
+                    res.Add(query[0] - indeics[^1]);
+                else
+                    res.Add(Math.Min(query[0] - indeics[pos - 1], indeics[pos] - query[0]));
             }
             return res;
         }
