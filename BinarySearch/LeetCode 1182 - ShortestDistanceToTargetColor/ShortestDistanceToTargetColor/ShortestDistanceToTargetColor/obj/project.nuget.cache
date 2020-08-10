@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mfn0obQ9FyP5jJxkd2zFk+va9UEo8G6mvhsuJ8xrpReO9cMC+6XTEX7KNu7J+aLQFchv+NYVTkwukTEaXN09tQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 1182 - ShortestDistanceToTargetColor\\ShortestDistanceToTargetColor\\ShortestDistanceToTargetColor\\ShortestDistanceToTargetColor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
