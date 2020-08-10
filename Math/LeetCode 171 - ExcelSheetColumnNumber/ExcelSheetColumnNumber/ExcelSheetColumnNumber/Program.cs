@@ -14,7 +14,7 @@ namespace ExcelSheetColumnNumber
         {
             int res = 0;
             for (int i = 0; i < s.Length; i++)
-                res = res * 26 + (s[i] - 'A' + 1);
+                res = res * 26 + s[i] - 'A' + 1;
             return res;
         }
     }
