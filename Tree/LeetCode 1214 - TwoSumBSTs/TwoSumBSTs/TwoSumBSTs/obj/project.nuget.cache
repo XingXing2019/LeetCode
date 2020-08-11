@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PrvYpF88znOy2hDhLjeizoUwd5Gfftjs0HU5HNmiljAq5e38kJ1kPdYHmRMpCDogC/m0eqRvSmgzDSE58PqeQQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1214 - TwoSumBSTs\\TwoSumBSTs\\TwoSumBSTs\\TwoSumBSTs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
