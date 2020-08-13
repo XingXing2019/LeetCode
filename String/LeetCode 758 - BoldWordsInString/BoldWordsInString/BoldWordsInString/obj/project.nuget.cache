@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "beEXKHd01JPnw+hNf/oCMt85iX+R6G472V4VQ1JbzSapzrttyq1/69PdtZQPzszr817yJEoO7aFwlmiVAHL6/Q==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 758 - BoldWordsInString\\BoldWordsInString\\BoldWordsInString\\BoldWordsInString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
