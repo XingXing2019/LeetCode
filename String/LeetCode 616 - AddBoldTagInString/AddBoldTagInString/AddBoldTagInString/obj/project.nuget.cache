@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ro6n28oX+GJw2VrlqHVJMOdXoASUJRRccIhQbVOqpLrjbVc+Wt3rySIu8/3lmAgcYnerCNV1cidzabvYTAO4Qw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 616 - AddBoldTagInString\\AddBoldTagInString\\AddBoldTagInString\\AddBoldTagInString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
