@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zMtXBg2zaQL0LlkufugiBYocFhVteHLMDNLcA8hpXQwONhpewqk60Q1wppSaRny3KLzg2B4BHvrtpM5sbKNZiw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 505 - TheMazeII\\TheMazeII\\TheMazeII\\TheMazeII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
