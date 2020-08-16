@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzs5Tk77mZno/O6Jt5/QyA2g2+orI97Ry7/nUwAnHWEwPg3NzfvAjaErIwT1c/6rsz19FkUUMfebzQCD5eULDg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1551 - MinimumOperationsToMakeArrayEqual\\MinimumOperationsToMakeArrayEqual\\MinimumOperationsToMakeArrayEqual\\MinimumOperationsToMakeArrayEqual.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
