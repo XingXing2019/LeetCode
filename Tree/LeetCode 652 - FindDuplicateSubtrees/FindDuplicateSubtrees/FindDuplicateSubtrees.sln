@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDuplicateSubtrees", "FindDuplicateSubtrees\FindDuplicateSubtrees.csproj", "{C1B7F8EF-9F1F-484A-9775-B73D26FF13AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B7F8EF-9F1F-484A-9775-B73D26FF13AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B7F8EF-9F1F-484A-9775-B73D26FF13AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B7F8EF-9F1F-484A-9775-B73D26FF13AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B7F8EF-9F1F-484A-9775-B73D26FF13AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19DB3ED-C33A-407D-8705-72A3D6BEF706}
+	EndGlobalSection
+EndGlobal
