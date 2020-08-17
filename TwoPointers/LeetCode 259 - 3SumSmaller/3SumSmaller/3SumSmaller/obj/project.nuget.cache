@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVBm6FkkXzQ0pa4FcbYODHwwqabeXE+RfxpVFOhX0nrel7xI1G3Xeq+l0eXg6BLfD41SUy3wf1slYMo6XekIDw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 259 - 3SumSmaller\\3SumSmaller\\3SumSmaller\\3SumSmaller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
