@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vc+FXEwti9F1AP7T5NATKCCv3gpHCwZnsanYgBiI8N6QYPOGaVPrN5Ynml0elaQyCPveojmG1/IosfOvMUT7UQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 967 - NumbersWithSameConsecutiveDifferences\\NumbersWithSameConsecutiveDifferences\\NumbersWithSameConsecutiveDifferences\\NumbersWithSameConsecutiveDifferences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
