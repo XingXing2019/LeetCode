@@ -9,3 +9,5 @@ F:\C#\Algorithm\String\LeetCode 824 - GoatLatin\GoatLatin\GoatLatin\obj\Debug\ne
 F:\C#\Algorithm\String\LeetCode 824 - GoatLatin\GoatLatin\GoatLatin\obj\Debug\netcoreapp3.1\GoatLatin.AssemblyInfo.cs
 F:\C#\Algorithm\String\LeetCode 824 - GoatLatin\GoatLatin\GoatLatin\obj\Debug\netcoreapp3.1\GoatLatin.dll
 F:\C#\Algorithm\String\LeetCode 824 - GoatLatin\GoatLatin\GoatLatin\obj\Debug\netcoreapp3.1\GoatLatin.pdb
+F:\C#\Algorithm\String\LeetCode 824 - GoatLatin\GoatLatin\GoatLatin\obj\Debug\netcoreapp3.1\GoatLatin.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\String\LeetCode 824 - GoatLatin\GoatLatin\GoatLatin\obj\Debug\netcoreapp3.1\GoatLatin.genruntimeconfig.cache

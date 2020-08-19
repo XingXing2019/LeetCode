@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/MnMiQBRnTl+nC2W8lc3/G6Lhl1jURvkBNV631penpH50xMEn5EY826PvxQgiNa2gdF4Rx3b/b9ECZs8o6Gpzg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 824 - GoatLatin\\GoatLatin\\GoatLatin\\GoatLatin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

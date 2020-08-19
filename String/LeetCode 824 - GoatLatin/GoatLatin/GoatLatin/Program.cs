@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace GoatLatin
@@ -12,35 +14,26 @@ namespace GoatLatin
         }
         static string ToGoatLatin(string S)
         {
-            var res = "";
+            var vowels = new HashSet<char> {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
             var words = S.Split(" ");
-            int count = 1;
-            foreach (var word in words)
+            var res = "";
+            for (int i = 0; i < words.Length; i++)
             {
-                var str = new StringBuilder(word);
-                if (isVowel(str[0]))
+                var str = new StringBuilder(words[i]);
+                if (vowels.Contains(words[i][0]))
                     str.Append("ma");
                 else
                 {
-                    str.Append(str[0] + "ma");
                     str.Remove(0, 1);
+                    str.Append($"{words[i][0]}ma");
                 }
-                for (int j = 0; j < count; j++)
-                    str.Append("a");
-                count++;
-                res += str.ToString() + " ";
+                for (int j = 0; j < i + 1; j++)
+                    str.Append('a');
+                res += str.ToString();
+                if (i != words.Length - 1)
+                    res += " ";
             }
-            return res.Trim();
-        }
-
-        static bool isVowel(char c)
-        {
-            char[] vowels = {'a', 'e', 'i', 'o', 'u'};
-            c = char.ToLower(c);
-            foreach (var vowel in vowels)
-                if (c == vowel)
-                    return true;
-            return false;
+            return res;
         }
     }
 }
