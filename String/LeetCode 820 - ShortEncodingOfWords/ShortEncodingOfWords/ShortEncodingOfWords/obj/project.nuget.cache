@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQkRtxW2kdAGDdrmAqt7XbwQ/+uHLMivdJFhg5s8u70Gkgnvtn5B7tz/enWWF+kikSmstSBQxIDeC3PBTY7bEw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 820 - ShortEncodingOfWords\\ShortEncodingOfWords\\ShortEncodingOfWords\\ShortEncodingOfWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
