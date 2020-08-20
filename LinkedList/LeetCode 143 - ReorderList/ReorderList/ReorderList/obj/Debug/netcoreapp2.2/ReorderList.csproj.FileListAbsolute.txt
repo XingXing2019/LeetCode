@@ -9,3 +9,15 @@ E:\C#\Algorithm\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\net
 E:\C#\Algorithm\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.AssemblyInfo.cs
 E:\C#\Algorithm\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.dll
 E:\C#\Algorithm\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.pdb
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\bin\Debug\netcoreapp2.2\ReorderList.deps.json
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\bin\Debug\netcoreapp2.2\ReorderList.runtimeconfig.json
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\bin\Debug\netcoreapp2.2\ReorderList.runtimeconfig.dev.json
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\bin\Debug\netcoreapp2.2\ReorderList.dll
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\bin\Debug\netcoreapp2.2\ReorderList.pdb
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.csprojAssemblyReference.cache
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.AssemblyInfoInputs.cache
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.AssemblyInfo.cs
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.dll
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.pdb
+F:\C#\Algorithm\LinkedList\LeetCode 143 - ReorderList\ReorderList\ReorderList\obj\Debug\netcoreapp2.2\ReorderList.genruntimeconfig.cache

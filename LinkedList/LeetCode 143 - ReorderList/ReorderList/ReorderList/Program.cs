@@ -2,6 +2,7 @@
 //遍历链表使两个链表的各个节点交叉相连。遍历中，需要设立l1的下一节点为tem节点作为辅助。
 //建立快慢指针从而找到链表中点，人为使链表的前后两部分断开。
 using System;
+using System.Collections.Generic;
 
 namespace ReorderList
 {
@@ -33,8 +34,8 @@ namespace ReorderList
         }
         static void Main(string[] args)
         {
-            ListNode head = CreateList(new int[] { });
-            ReorderList(head);
+            ListNode head = CreateList(new int[] {1, 2, 3, 4});
+            ReorderList_StackQueue(head);
             PrintList(head);
         }
         static void ReorderList(ListNode head)
@@ -72,6 +73,37 @@ namespace ReorderList
                 head = head.next;
             }
             return res;
+        }
+        
+        static void ReorderList_Array(ListNode head)
+        {
+            if(head == null) return;
+            var l1 = head;
+            var l2 = ReverseList(head);
+            int count = 0;
+            while (head != null)
+            {
+                count++;
+                head = head.next;
+            }
+            var reorder = new ListNode[count];
+            for (int i = 0; i < reorder.Length; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    reorder[i] = l1;
+                    l1 = l1.next;
+                }
+                else
+                {
+                    reorder[i] = l2;
+                    l2 = l2.next;
+                }
+            }
+            for (int i = 1; i < reorder.Length; i++)
+                reorder[i - 1].next = reorder[i];
+            reorder[reorder.Length - 1].next = null;
+            head = reorder[0];
         }
     }
 }
