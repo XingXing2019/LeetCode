@@ -35,7 +35,7 @@ namespace ReorderList
         static void Main(string[] args)
         {
             ListNode head = CreateList(new int[] {1, 2, 3, 4});
-            ReorderList_StackQueue(head);
+            ReorderList_Array(head);
             PrintList(head);
         }
         static void ReorderList(ListNode head)
