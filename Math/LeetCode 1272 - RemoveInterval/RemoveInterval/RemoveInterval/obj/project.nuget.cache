@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfquBK8bb7xSi10nrCWLd5Mb+07myt+udiNo1r42fC28YMbWC2VNnzpeqlCEW7yBfj1Pdm96RgNVe6bdOycVag==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1272 - RemoveInterval\\RemoveInterval\\RemoveInterval\\RemoveInterval.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
