@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpHTbfj9hvkizMyQOEF39tA9TYLPkCZh5Dbg5V3ONVJ+QI0mDXl+fg9PjEV2BYP3DFfJuIFnZxVVCd0tlyzTjg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1558 - MinimumNumbersOfFunctionCallsToMakeTargetArray\\MinimumNumbers\\MinimumNumbers\\MinimumNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
