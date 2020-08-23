@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0MUwOclnXwvRtTX1EVWfFSiKQjY5l+o+E44tt3TGsQIeGLGczv5NuT57wl8oIP2tsr3e+lEwDVe/A6x+vW+uHA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 1556 - ThousandSeparator\\ThousandSeparator\\ThousandSeparator\\ThousandSeparator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
