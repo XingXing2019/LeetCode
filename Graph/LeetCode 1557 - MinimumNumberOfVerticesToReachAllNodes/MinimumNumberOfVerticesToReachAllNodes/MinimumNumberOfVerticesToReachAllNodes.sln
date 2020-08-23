@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfVerticesToReachAllNodes", "MinimumNumberOfVerticesToReachAllNodes\MinimumNumberOfVerticesToReachAllNodes.csproj", "{C32BE365-8445-4B10-892F-001751C039EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C32BE365-8445-4B10-892F-001751C039EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32BE365-8445-4B10-892F-001751C039EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32BE365-8445-4B10-892F-001751C039EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32BE365-8445-4B10-892F-001751C039EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC042B71-E5F9-4428-92BB-CBFD2690D1FB}
+	EndGlobalSection
+EndGlobal
