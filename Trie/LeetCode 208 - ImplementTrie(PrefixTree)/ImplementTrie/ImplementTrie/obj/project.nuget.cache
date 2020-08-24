@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "naAt5oJu8Qjf/KdDu7Hu9/uUETPcIGuvm2xCYWro18WnpgD2fDbwyBDMeC8/h3S/n2hfEP0TK2ntPnC0ErJ8rQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Trie\\LeetCode 208 - ImplementTrie(PrefixTree)\\ImplementTrie\\ImplementTrie\\ImplementTrie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
