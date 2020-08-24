@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GeoQYfo8HRgbEBE6Osz9Si8LhSvF/uOBy8mIhg/kGnCSG/Z/0/olCEBReURw3ahiGPk30gV+Qp1Em8ymbMzgA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1561 - MaximumNumberOfCoinsYouCanGet\\MaximumNumberOfCoinsYouCanGet\\MaximumNumberOfCoinsYouCanGet\\MaximumNumberOfCoinsYouCanGet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
