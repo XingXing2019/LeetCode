@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cd2JIZh7N9whXk8sfGB9PCF+I4K1ofIcdBL37D6Aka4qkMVA+4P8eNzUIHCUM0V+jp/h2Amb3q+sOsC7fpaymQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 1034 - ColoringABorder\\ColoringABorder\\ColoringABorder\\ColoringABorder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
