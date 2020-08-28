@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementRand10UsingRand7", "ImplementRand10UsingRand7\ImplementRand10UsingRand7.csproj", "{36A413F2-1DEF-4328-AC53-EEA936740391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A413F2-1DEF-4328-AC53-EEA936740391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A413F2-1DEF-4328-AC53-EEA936740391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A413F2-1DEF-4328-AC53-EEA936740391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A413F2-1DEF-4328-AC53-EEA936740391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {763B5BD8-814D-4FA8-A310-667869F272CD}
+	EndGlobalSection
+EndGlobal

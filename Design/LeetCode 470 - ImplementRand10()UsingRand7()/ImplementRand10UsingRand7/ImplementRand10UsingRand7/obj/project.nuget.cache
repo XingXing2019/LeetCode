@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltpDiic6ApmZ/j60BKX8ct+qZCochhljBbPycTZK2KX5BMk0rIM16f0A07NlbmvLnym0Sas5696m/7GYRG3AkQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Design\\LeetCode 470 - ImplementRand10()UsingRand7()\\ImplementRand10UsingRand7\\ImplementRand10UsingRand7\\ImplementRand10UsingRand7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
