@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+kU2+jqwrvzWlX0wacRyCul6z/ndMig5Zuo/YxSHCWKxyek7guOHERO/HhkVS2bbyvdr5cQLhGbDHlJK6mgSA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 1100 - FindKLengthSubstringsWithNoRepeatedCharacters\\FindKLengthSubstrings\\FindKLengthSubstrings\\FindKLengthSubstrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
