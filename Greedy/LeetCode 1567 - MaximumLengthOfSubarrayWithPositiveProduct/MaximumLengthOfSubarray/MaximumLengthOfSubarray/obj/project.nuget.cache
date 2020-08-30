@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/7iXCo4/MMkoU2t92fuaOPubsSsYIiGPdiePLqz/1ViG1sOQGL26PU1Bk1lP2uDqx0rQwygE5dNqWNWlMRhxA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1567 - MaximumLengthOfSubarrayWithPositiveProduct\\MaximumLengthOfSubarray\\MaximumLengthOfSubarray\\MaximumLengthOfSubarray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
