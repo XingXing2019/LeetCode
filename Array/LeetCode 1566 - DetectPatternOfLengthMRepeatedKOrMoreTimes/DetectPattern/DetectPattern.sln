@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectPattern", "DetectPattern\DetectPattern.csproj", "{E434392B-FEC3-418B-8136-1359CA2FD5B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E434392B-FEC3-418B-8136-1359CA2FD5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E434392B-FEC3-418B-8136-1359CA2FD5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E434392B-FEC3-418B-8136-1359CA2FD5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E434392B-FEC3-418B-8136-1359CA2FD5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C2B9CC-112D-40AE-BA3F-4E0068AABB36}
+	EndGlobalSection
+EndGlobal
