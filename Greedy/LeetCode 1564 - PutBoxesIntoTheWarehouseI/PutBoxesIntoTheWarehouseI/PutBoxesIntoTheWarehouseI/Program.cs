@@ -33,9 +33,24 @@ namespace PutBoxesIntoTheWarehouseI
             return res;
         }
 
-        static int MaxBoxesInWarehouse(int[] boxes, int[] warehouse)
+        static int MaxBoxesInWarehouse_TwoPointers(int[] boxes, int[] warehouse)
         {
-
+            var maxHeight = new int[warehouse.Length];
+            var min = warehouse[0];
+            for (int i = 0; i < warehouse.Length; i++)
+            {
+                min = Math.Min(min, warehouse[i]);
+                maxHeight[i] = min;
+            }
+            Array.Sort(boxes);
+            int p1 = maxHeight.Length - 1, p2 = 0;
+            while (p1 >= 0 && p2 < boxes.Length)
+            {
+                if (boxes[p2] <= maxHeight[p1])
+                    p2++;
+                p1--;
+            }
+            return p2;
         }
     }
 }
