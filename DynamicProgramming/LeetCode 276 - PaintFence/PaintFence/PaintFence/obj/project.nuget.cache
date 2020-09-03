@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwvOgcKij4E6sFPK8LrvyUZNva6wJJVVJfuqBA3Of2lJVbIvcDvx6hdrRvEOQXYhUCopfrWqmU8uAoNbBcXavw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 276 - PaintFence\\PaintFence\\PaintFence\\PaintFence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
