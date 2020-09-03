@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EPtd4itmIS5CfwFBSjCEbYXQMltuFoTnOt4uZt1rF4rCZiu4AqEg0fMtzXaq6jdqZc2L18pgY9tDIW/XMnBH8A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 1379 - TimeNeededToInformAllEmployees\\TimeNeededToInformAllEmployees\\TimeNeededToInformAllEmployees\\TimeNeededToInformAllEmployees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
