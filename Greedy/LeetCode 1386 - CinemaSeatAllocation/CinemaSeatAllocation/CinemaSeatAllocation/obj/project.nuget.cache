@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+jgzeEgQLhiGAs8YRl6f9+A7Y5zmeW2T8XFaBmmnwh5+KoOnekDBiUtMWVgAW5K4z1NLCt+3jUjpnfCIEuXXg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1386 - CinemaSeatAllocation\\CinemaSeatAllocation\\CinemaSeatAllocation\\CinemaSeatAllocation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
