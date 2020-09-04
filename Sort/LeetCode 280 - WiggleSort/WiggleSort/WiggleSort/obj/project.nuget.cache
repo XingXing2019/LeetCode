@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DdJQWUp+VjsqqB/oYQNkwgdfPkGDeiD8Iu7839+yU4liaV44FRXTLhaoBUzwz9T25Ea6m+wG2KXKAqT6m/mrAg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 280 - WiggleSort\\WiggleSort\\WiggleSort\\WiggleSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
