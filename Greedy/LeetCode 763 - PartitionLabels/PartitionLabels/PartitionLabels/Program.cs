@@ -19,20 +19,19 @@ namespace PartitionLabels
         }
         static IList<int> PartitionLabels(string S)
         {
-            List<int> res = new List<int>();
-            int[] finalIndex = new int[26];
+            var res = new List<int>();
+            var finalIndex = new int[26];
             for (int i = 0; i < S.Length; i++)
                 finalIndex[S[i] - 'a'] = i;
-            int maxFinal = 0;
-            int mark = 0;
+            var maxIndex = 0;
+            var mark = -1;
             for (int i = 0; i < S.Length; i++)
-            {                
-                if (finalIndex[S[i] - 'a'] > maxFinal)
-                    maxFinal = finalIndex[S[i] - 'a'];
-                if (i == maxFinal)
+            {
+                maxIndex = Math.Max(maxIndex, finalIndex[S[i] - 'a']);
+                if (i == maxIndex)
                 {
-                    res.Add(i - mark + 1);
-                    mark = i + 1;
+                    res.Add(i - mark);
+                    mark = i;
                 }
             }
             return res;
