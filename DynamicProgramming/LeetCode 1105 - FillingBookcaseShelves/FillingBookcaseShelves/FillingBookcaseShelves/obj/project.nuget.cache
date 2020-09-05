@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VfQLhGJbXzf2EUzXGR/F9uh6YzPVgeo8ZZXDcSVJOZF464a2OHE4Pix1G/0c3u/bxgAn38yIvrNt/ulw42VGQg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\DynamicProgramming\\LeetCode 1105 - FillingBookcaseShelves\\FillingBookcaseShelves\\FillingBookcaseShelves\\FillingBookcaseShelves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FillingBookcaseShelves", "FillingBookcaseShelves\FillingBookcaseShelves.csproj", "{FF60F99D-40F1-480C-9DD4-75FDFE626DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF60F99D-40F1-480C-9DD4-75FDFE626DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF60F99D-40F1-480C-9DD4-75FDFE626DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF60F99D-40F1-480C-9DD4-75FDFE626DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF60F99D-40F1-480C-9DD4-75FDFE626DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0579A7FC-FAFD-4709-BB99-C9469CE1E79A}
+	EndGlobalSection
+EndGlobal
