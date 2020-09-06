@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FTUW3xcDK3tUiloDYA85JHULj4mMXCg8D8PFiiZ5RjvTDGZrLxvkK3zpHCR5WaSdSSFbk374VId86lgDzivTHQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1578 - MinimumDeletionCostToAvoidRepeatingLetters\\MinimumDeletionCost\\MinimumDeletionCost\\MinimumDeletionCost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

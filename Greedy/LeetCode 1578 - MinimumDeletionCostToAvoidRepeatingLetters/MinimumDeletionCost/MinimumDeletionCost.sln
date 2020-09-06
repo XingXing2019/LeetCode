@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDeletionCost", "MinimumDeletionCost\MinimumDeletionCost.csproj", "{DC1DD414-4554-46C2-AE61-0C0C666BBB8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1DD414-4554-46C2-AE61-0C0C666BBB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1DD414-4554-46C2-AE61-0C0C666BBB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1DD414-4554-46C2-AE61-0C0C666BBB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1DD414-4554-46C2-AE61-0C0C666BBB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5BBF34-4A58-43E8-9C3C-8350FD8C5925}
+	EndGlobalSection
+EndGlobal
