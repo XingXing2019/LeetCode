@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "paaZ0IVXQLCnRgFGatECXlSsGUn0JOie4BerUNwqN/lm511DNhJrqoC6lnw2DGJjyFrdlPX5+hP/syrZ7iax4g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1572 - MatrixDiagonalSum\\MatrixDiagonalSum\\MatrixDiagonalSum\\MatrixDiagonalSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
