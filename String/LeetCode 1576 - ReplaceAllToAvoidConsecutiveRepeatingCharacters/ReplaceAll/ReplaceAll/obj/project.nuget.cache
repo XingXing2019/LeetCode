@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sBp5GysRo/BdcUx1Z19ex6jeuqTwfk9wIYRKJbyJKRc7cCdQ4KSlINU+c57CBDz2pjqH/OXeK9nYI/Q3P9oKPg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 1576 - ReplaceAllToAvoidConsecutiveRepeatingCharacters\\ReplaceAll\\ReplaceAll\\ReplaceAll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
