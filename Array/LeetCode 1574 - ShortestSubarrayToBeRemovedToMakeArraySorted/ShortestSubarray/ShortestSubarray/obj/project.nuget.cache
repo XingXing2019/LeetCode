@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7gHIz+2QMOzQIdQiGDzSJ0KmUUFwkZcD4B1g5SG+zy8Ris8nP/5QyniytfYFh8ZW6hwGXSS4NTkJSuq3ziO6A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1574 - ShortestSubarrayToBeRemovedToMakeArraySorted\\ShortestSubarray\\ShortestSubarray\\ShortestSubarray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
