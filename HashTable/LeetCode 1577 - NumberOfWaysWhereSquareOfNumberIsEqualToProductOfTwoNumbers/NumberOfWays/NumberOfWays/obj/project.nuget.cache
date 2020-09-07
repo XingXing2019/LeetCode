@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0mJwvBtntVERrx40zK+IsN/BcOgFSHDXb+8PIq7XXn2k6N1sh5BBDz+Yj7429p9mBSz96bKr7QsOsL8ETpq2pA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 1577 - NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbers\\NumberOfWays\\NumberOfWays\\NumberOfWays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
