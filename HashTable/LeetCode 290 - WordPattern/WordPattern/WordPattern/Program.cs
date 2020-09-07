@@ -57,5 +57,24 @@ namespace WordPattern
             }
             return true;
         }
+        public bool WordPattern_Simplified(string pattern, string str)
+        {
+            var words = str.Split(" ");
+            if (words.Length != pattern.Length) return false;
+            var appearedWord = new HashSet<string>();
+            var dict = new Dictionary<char, string>();
+            for (int i = 0; i < pattern.Length; i++)
+            {
+                if (!dict.ContainsKey(pattern[i]))
+                {
+                    if (!appearedWord.Add(words[i]))
+                        return false;
+                    dict[pattern[i]] = words[i];
+                }
+                else if (dict[pattern[i]] != words[i])
+                    return false;
+            }
+            return true;
+        }
     }
 }
