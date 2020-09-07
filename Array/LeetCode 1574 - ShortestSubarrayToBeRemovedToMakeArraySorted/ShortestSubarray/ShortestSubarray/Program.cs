@@ -18,7 +18,7 @@ namespace ShortestSubarray
                 li++;
             while (hi >= 0 && arr[hi] <= arr[hi + 1])
                 hi--;
-            var prefix = arr[0..li];
+            var prefix = arr[..li];
             var suffix = arr[(hi + 1)..];
             if (prefix.Length == arr.Length) return 0;
             for (int i = 0; i < prefix.Length; i++)
