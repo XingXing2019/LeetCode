@@ -16,7 +16,6 @@ namespace MapSumPairs
 
     class TrieNode
     {
-        public bool IsWord { get; set; }
         public int Value { get; set; }
         public TrieNode[] Children { get; set; }
         public TrieNode()
@@ -41,7 +40,6 @@ namespace MapSumPairs
                     cur.Children[letter - 'a'] = new TrieNode();
                 cur = cur.Children[letter - 'a'];
             }
-            cur.IsWord = true;
             cur.Value = val;
         }
 
