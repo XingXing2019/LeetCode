@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace SumOfRootToLeafBinaryNumbers
 {
@@ -21,14 +22,13 @@ namespace SumOfRootToLeafBinaryNumbers
             Console.WriteLine("Hello World!");
         }
 
-        int num;
-        int sum;
         public int SumRootToLeaf(TreeNode root)
         {
-            GetNum(root);
+            int sum = 0;
+            GetNum(root, 0, ref sum);
             return sum;
         }
-        private void GetNum(TreeNode node)
+        private void GetNum(TreeNode node, int num, ref int sum)
         {
             if(node == null)
                 return;
@@ -36,8 +36,8 @@ namespace SumOfRootToLeafBinaryNumbers
             num += node.val;
             if (node.left == null && node.right == null)
                 sum += num;
-            GetNum(node.left);
-            GetNum(node.right);
+            GetNum(node.left, num, ref sum);
+            GetNum(node.right, num, ref sum);
             num -= node.val;
             num >>= 1;
         }

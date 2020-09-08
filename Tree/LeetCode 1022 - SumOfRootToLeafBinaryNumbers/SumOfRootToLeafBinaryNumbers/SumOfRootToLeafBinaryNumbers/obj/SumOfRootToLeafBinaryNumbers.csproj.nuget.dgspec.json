@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers.csproj": {}
+    "F:\\C#\\Algorithm\\Tree\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers.csproj": {}
   },
   "projects": {
-    "H:\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers.csproj": {
+    "F:\\C#\\Algorithm\\Tree\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers.csproj",
+        "projectUniqueName": "F:\\C#\\Algorithm\\Tree\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers.csproj",
         "projectName": "SumOfRootToLeafBinaryNumbers",
-        "projectPath": "H:\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "H:\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\obj\\",
+        "projectPath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers.csproj",
+        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
+        "outputPath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1022 - SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\SumOfRootToLeafBinaryNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,16 +42,23 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
