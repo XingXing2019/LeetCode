@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ftvimMshA0NXr9eJbK3DkBxPCfKxhFIhLS/PZb3UeyWTBTtK/hR8Ycz4K96UvVy2W2QfPuZEmp6sGhlJXi1bw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 1245 - TreeDiameter\\TreeDiameter\\TreeDiameter\\TreeDiameter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
