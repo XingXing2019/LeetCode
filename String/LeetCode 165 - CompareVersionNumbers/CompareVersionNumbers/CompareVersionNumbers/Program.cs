@@ -56,5 +56,33 @@ namespace CompareVersionNumbers
             }
             return 0;
         }
+        static int CompareVersion_Simplified(string version1, string version2)
+        {
+            var v1 = version1.Split('.');
+            var v2 = version2.Split('.');
+            int p1 = 0, p2 = 0;
+            while (p1 < v1.Length && p2 < v2.Length)
+            {
+                int num1 = int.Parse(v1[p1++]);
+                int num2 = int.Parse(v2[p2++]);
+                if (num1 < num2)
+                    return -1;
+                if (num1 > num2)
+                    return 1;
+            }
+            while (p1 < v1.Length)
+            {
+                int num = int.Parse(v1[p1++]);
+                if (num != 0)
+                    return 1;
+            }
+            while (p2 < v2.Length)
+            {
+                int num = int.Parse(v2[p2++]);
+                if (num != 0)
+                    return -1;
+            }
+            return 0;
+        }
     }
 }
