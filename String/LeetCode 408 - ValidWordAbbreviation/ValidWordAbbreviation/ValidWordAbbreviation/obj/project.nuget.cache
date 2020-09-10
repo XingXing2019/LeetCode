@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzbjATnd2lTODn8qaaYICren2OveA+PGtxDB9lPLKXWpXqHKeoDeUaLU7axIVWoMMWbMyH3BQHYKv0T1eqDPZQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 408 - ValidWordAbbreviation\\ValidWordAbbreviation\\ValidWordAbbreviation\\ValidWordAbbreviation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
