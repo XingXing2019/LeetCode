@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJBZz6EI5TJL04pqs0qibe4Fp8pLJ7iZsgfNsToHFBLRqfeiReRRZRZ2wfywxrm9a7JDzMMAgja+O3+L33re4Q==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 323 - NumberOfConnectedComponentsInAnUndirectedGraph\\NumberOfConnectedComponents\\NumberOfConnectedComponents\\NumberOfConnectedComponents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
