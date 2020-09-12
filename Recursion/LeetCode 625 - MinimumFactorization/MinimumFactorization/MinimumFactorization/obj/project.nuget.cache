@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xkk2B/dsTx8lxg8GK4tyU5RIpifNn3S5WrQK6PEnWj0f7DInLYCfySZwC3Hn8MKDg5dc9P+SQSIT+5AEHWKWQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Recursion\\LeetCode 625 - MinimumFactorization\\MinimumFactorization\\MinimumFactorization\\MinimumFactorization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
