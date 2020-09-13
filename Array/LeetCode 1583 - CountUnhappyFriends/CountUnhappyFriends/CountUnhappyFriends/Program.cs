@@ -54,7 +54,7 @@ namespace CountUnhappyFriends
                 }
                 if (secondPersonUnhappy) res++;
             }
-            return res;
+            return res / 2;
         }
     }
 }
