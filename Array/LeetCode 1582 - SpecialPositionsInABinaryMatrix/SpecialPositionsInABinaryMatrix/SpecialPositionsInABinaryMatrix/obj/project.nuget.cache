@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eW+KaJoB2mbYAqIKkpTrX/VxXIzSbA9EDgSfiseqf8RX5a1Q9cCbc8vZvqMooIhMrdOWI47vZNpmPMCBpwkzPg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1582 - SpecialPositionsInABinaryMatrix\\SpecialPositionsInABinaryMatrix\\SpecialPositionsInABinaryMatrix\\SpecialPositionsInABinaryMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
