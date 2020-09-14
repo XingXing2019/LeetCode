@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OneEditDistance/1.0.0": {
+        "runtime": {
+          "OneEditDistance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OneEditDistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
