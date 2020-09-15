@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4ju8UdkgT4HRuDGhW7kcPYyBM/DL7kzgESHKKt1faYCvAbF0bd7FrDV6uUnZaeGhT6VPL6f/VLIHknoyON7LQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 285 - InorderSuccessorInBST\\InorderSuccessorInBST\\InorderSuccessorInBST\\InorderSuccessorInBST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
