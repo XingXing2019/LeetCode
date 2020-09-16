@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GeNUSnN/hr4a0qmQFL8rxTTapHPW8ClLMILpbEuhKTvO1XodRVWLMiZWHpnEVoFW8n9mCemoW2lwKpjF+bwwhQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1366 - RankTeamsByVotes\\RankTeamsByVotes\\RankTeamsByVotes\\RankTeamsByVotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
