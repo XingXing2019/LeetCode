@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYeXa42wP8yjsZOguIhxBr4uJQdoElb+3ABSBCLopgU1Z2BhZ+Fyp+eXRQaxWqXnJgC8xp7cyDA65sbJDVk5Cg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 981 - TimeBasedKeyValueStore\\TimeBasedKeyValueStore\\TimeBasedKeyValueStore\\TimeBasedKeyValueStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
