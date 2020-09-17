@@ -1,5 +1,5 @@
 ﻿//记录一下最后机器人的方向，和向东西南北各个方向所走的距离。
-//最后如果方向不是向北，或者能回到原点(东西方向距离相等，南北方向距离相等)，则但会true。
+//最后如果方向不是向北，或者能回到原点(东西方向距离相等，南北方向距离相等)，则返回true。
 using System;
 
 namespace RobotBoundedInCircle
@@ -8,7 +8,8 @@ namespace RobotBoundedInCircle
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(-1 %4);
+            ;
         }
         static bool IsRobotBounded(string instructions)
         {
@@ -51,6 +52,25 @@ namespace RobotBoundedInCircle
                 }
             }
             return direction != "north" || North == South && East == West;
+        }
+        public bool IsRobotBounded_2(string instructions)
+        {
+            var direction = 0;
+            var pos = new[] {0, 0};
+            var next = new[] {new[] {-1, 0}, new[] { 0, -1 }, new[] {1, 0}, new[] {0, 1}};
+            foreach (var instruction in instructions)
+            {
+                if (instruction == 'L')
+                    direction = (direction + 1) % 4;
+                else if (instruction == 'R')
+                    direction = direction - 1 < 0 ? 3 : direction - 1;
+                else
+                {
+                    pos[0] += next[direction][0];
+                    pos[1] += next[direction][1];
+                }
+            }
+            return direction != 0 || pos[0] == 0 && pos[1] == 0;
         }
     }
 }
