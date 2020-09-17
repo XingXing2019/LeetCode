@@ -63,7 +63,7 @@ namespace RobotBoundedInCircle
                 if (instruction == 'L')
                     direction = (direction + 1) % 4;
                 else if (instruction == 'R')
-                    direction = direction - 1 < 0 ? 3 : direction - 1;
+                    direction = (direction + 3) % 4;
                 else
                 {
                     pos[0] += next[direction][0];
