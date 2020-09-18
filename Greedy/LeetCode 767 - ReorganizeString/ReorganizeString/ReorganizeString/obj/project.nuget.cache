@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jguc+60oxJ/oOuJlZJ5o2r6Kd+fDBioL0Ia+x5KOdn1vmyHXc+xB7FYTM/3l/XsATg151xf0GQSnVt5If7+ucA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 767 - ReorganizeString\\ReorganizeString\\ReorganizeString\\ReorganizeString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

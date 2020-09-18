@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReorganizeString", "ReorganizeString\ReorganizeString.csproj", "{897D3B16-0918-4766-8773-FBE657583D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{897D3B16-0918-4766-8773-FBE657583D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897D3B16-0918-4766-8773-FBE657583D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897D3B16-0918-4766-8773-FBE657583D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897D3B16-0918-4766-8773-FBE657583D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315A5F0F-9A5F-4B28-9E0E-75608A13494A}
+	EndGlobalSection
+EndGlobal
