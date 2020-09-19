@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "308jUn6WidJ5hP6eL5NqhGdrGecQQC8G6TlMupSvKaSV8nLTiHqZSYyiu+aQD8EYQ9m3g/NjrosxvQHYmvLs6g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1353 - MaximumNumberOfEventsThatCanBeAttended\\MaximumNumberOfEventsThatCanBeAttended\\MaximumNumberOfEventsThatCanBeAttended\\MaximumNumberOfEventsThatCanBeAttended.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
