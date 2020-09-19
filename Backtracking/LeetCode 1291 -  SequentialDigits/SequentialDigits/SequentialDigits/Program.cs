@@ -46,7 +46,7 @@ namespace SequentialDigits
                 }
             }
             res.Sort();
-            eturn res;
+            return res;
         }
     }
 }
