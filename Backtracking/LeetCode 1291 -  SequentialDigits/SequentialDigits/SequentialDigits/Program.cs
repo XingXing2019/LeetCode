@@ -15,23 +15,19 @@ namespace SequentialDigits
         static IList<int> SequentialDigits_BackTracking(int low, int high)
         {           
             List<int> record = new List<int>();
-            List<int> candidates = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            foreach (var c in candidates)
-                GetNums(low, high, record, c);
+            for (int i = 1; i <= 9; i++)
+                GetNums(low, high, record, i);
             record.Sort();
             return record;
         }
         static void GetNums(int low, int high, List<int> record, int num)
         {
-            int tem = num % 10 + 1;
-            if (tem > 9)
-                return;
-            num = num * 10 + tem;
-            if (num >= low && num <= high)
-                record.Add(num);
             if (num > high)
                 return;
-            GetNums(low, high, record, num);
+            if (num >= low)
+                record.Add(num);
+            if (num % 10 < 9)
+                GetNums(low, high, record, num * 10 + num % 10 + 1);
         }
 
         static IList<int> SequentialDigits_Traversal(int low, int high)
@@ -50,7 +46,7 @@ namespace SequentialDigits
                 }
             }
             res.Sort();
-            return res;
+            eturn res;
         }
     }
 }
