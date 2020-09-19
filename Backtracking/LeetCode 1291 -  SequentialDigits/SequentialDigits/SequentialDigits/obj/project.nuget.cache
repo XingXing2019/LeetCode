@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wpx1OIoe59xF1CI02lC9dozdgZftCCDd1Cy8sDSzfwWHvH79pqL+OIbIGkeccUuA2EdNzR7BIKn9YNr+2bglIA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 1291 -  SequentialDigits\\SequentialDigits\\SequentialDigits\\SequentialDigits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

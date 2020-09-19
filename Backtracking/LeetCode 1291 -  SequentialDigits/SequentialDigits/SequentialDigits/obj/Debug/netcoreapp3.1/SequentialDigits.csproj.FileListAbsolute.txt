@@ -9,3 +9,5 @@ F:\C#\Algorithm\Backtracking\LeetCode 1291 -  SequentialDigits\SequentialDigits\
 F:\C#\Algorithm\Backtracking\LeetCode 1291 -  SequentialDigits\SequentialDigits\SequentialDigits\obj\Debug\netcoreapp3.1\SequentialDigits.AssemblyInfo.cs
 F:\C#\Algorithm\Backtracking\LeetCode 1291 -  SequentialDigits\SequentialDigits\SequentialDigits\obj\Debug\netcoreapp3.1\SequentialDigits.dll
 F:\C#\Algorithm\Backtracking\LeetCode 1291 -  SequentialDigits\SequentialDigits\SequentialDigits\obj\Debug\netcoreapp3.1\SequentialDigits.pdb
+F:\C#\Algorithm\Backtracking\LeetCode 1291 -  SequentialDigits\SequentialDigits\SequentialDigits\obj\Debug\netcoreapp3.1\SequentialDigits.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Backtracking\LeetCode 1291 -  SequentialDigits\SequentialDigits\SequentialDigits\obj\Debug\netcoreapp3.1\SequentialDigits.genruntimeconfig.cache

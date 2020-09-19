@@ -10,9 +10,9 @@ namespace SequentialDigits
         {
             int low = 1000;
             int high = 13000;
-            Console.WriteLine(SequentialDigits(low, high));
+            Console.WriteLine(SequentialDigits_Traversal(low, high));
         }
-        static IList<int> SequentialDigits(int low, int high)
+        static IList<int> SequentialDigits_BackTracking(int low, int high)
         {           
             List<int> record = new List<int>();
             List<int> candidates = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
@@ -32,6 +32,25 @@ namespace SequentialDigits
             if (num > high)
                 return;
             GetNums(low, high, record, num);
+        }
+
+        static IList<int> SequentialDigits_Traversal(int low, int high)
+        {
+            var res = new List<int>();
+            for (int i = 1; i < 9; i++)
+            {
+                int num = i;
+                int pre = i;
+                while (num <= high && pre < 10)
+                {
+                    if (num >= low && num <= high)
+                        res.Add(num);
+                    num = num * 10 + pre + 1;
+                    pre++;
+                }
+            }
+            res.Sort();
+            return res;
         }
     }
 }
