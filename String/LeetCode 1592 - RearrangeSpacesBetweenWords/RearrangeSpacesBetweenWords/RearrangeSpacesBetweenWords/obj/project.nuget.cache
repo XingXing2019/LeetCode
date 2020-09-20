@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xD4r8+8X24OEiBxHb5QcpHC92wP7eptPlb9ICJvVp725XMj2RMgmaCI79JzBhH1SfWhbsI+GFNk8I9jscamHvQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 1592 - RearrangeSpacesBetweenWords\\RearrangeSpacesBetweenWords\\RearrangeSpacesBetweenWords\\RearrangeSpacesBetweenWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
