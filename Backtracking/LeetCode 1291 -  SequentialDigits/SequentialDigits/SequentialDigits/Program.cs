@@ -8,8 +8,8 @@ namespace SequentialDigits
     {
         static void Main(string[] args)
         {
-            int low = 1000;
-            int high = 13000;
+            int low = 10;
+            int high = 1000000000;
             Console.WriteLine(SequentialDigits_Traversal(low, high));
         }
         static IList<int> SequentialDigits_BackTracking(int low, int high)
