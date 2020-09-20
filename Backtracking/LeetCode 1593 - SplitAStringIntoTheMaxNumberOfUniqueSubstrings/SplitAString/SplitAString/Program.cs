@@ -23,11 +23,9 @@ namespace SplitAString
             for (int i = 1; i <= s.Length - cur; i++)
             {
                 var temp = s.Substring(cur, i);
-                if (record.Add(temp))
-                {
-                    DFS(s, cur + i, record, ref max);
-                    record.Remove(temp);
-                }
+                if (!record.Add(temp)) continue;
+                DFS(s, cur + i, record, ref max);
+                record.Remove(temp);
             }
         }
     }
