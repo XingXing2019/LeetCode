@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e+7FC1zGjUF6kaxD4AjCp++61ErXudgfE34zoVzTh2/v3eAl5+3u4CVNkFVEJolRYgpqH63CSP9pI7Mm2UQbxw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 1593 - SplitAStringIntoTheMaxNumberOfUniqueSubstrings\\SplitAString\\SplitAString\\SplitAString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
