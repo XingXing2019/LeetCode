@@ -24,16 +24,15 @@ namespace CarPooling
        
         static bool CarPooling(int[][] trips, int capacity)
         {
-            int[] distance = new int[1001];
+            var distance = new int[1001];
             foreach (var trip in trips)
             {
                 for (int i = trip[1]; i < trip[2]; i++)
+                {
                     distance[i] += trip[0];
-            }
-            for (int i = 0; i < distance.Length; i++)
-            {
-                if (distance[i] > capacity)
-                    return false;
+                    if (distance[i] > capacity)
+                        return false;
+                }
             }
             return true;
         }
