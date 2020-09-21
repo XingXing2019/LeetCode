@@ -19,10 +19,10 @@ namespace CarPooling
             trips[4] = new int[] { 5, 6, 8 };
             trips[5] = new int[] { 5, 4, 6 };
             int capacity = 14;
-            Console.WriteLine(CarPooling(trips, capacity));
+            Console.WriteLine(CarPooling_N2(trips, capacity));
         }
        
-        static bool CarPooling(int[][] trips, int capacity)
+        static bool CarPooling_N2(int[][] trips, int capacity)
         {
             var distance = new int[1001];
             foreach (var trip in trips)
@@ -33,6 +33,24 @@ namespace CarPooling
                     if (distance[i] > capacity)
                         return false;
                 }
+            }
+            return true;
+        }
+
+        static bool CarPooling_N(int[][] trips, int capacity)
+        {
+            var distance = new int[1001];
+            foreach (var trip in trips)
+            {
+                distance[trip[1]] += trip[0];
+                distance[trip[2]] -= trip[0];
+            }
+            int sum = 0;
+            for (int i = 0; i < distance.Length; i++)
+            {
+                sum += distance[i];
+                if (sum > capacity)
+                    return false;
             }
             return true;
         }
