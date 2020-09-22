@@ -12,8 +12,8 @@ namespace MajorityElementII
     {
         static void Main(string[] args)
         {
-            int[] nums = { 2 };
-            Console.WriteLine(MajorityElement(nums));
+            int[] nums = { 3, 2, 3 };
+            Console.WriteLine(MajorityElement2(nums));
         }
         static IList<int> MajorityElement(int[] nums)
         {
@@ -36,45 +36,41 @@ namespace MajorityElementII
         }
         static IList<int> MajorityElement2(int[] nums)
         {
-            List<int> res = new List<int>();
-            if (nums.Length == 0)
-                return res;
-            int n1 = nums[0], n2 = 0, c1 = 1, c2 = 0;
+            var res = new List<int>();
+            if (nums.Length == 0) return res;
+            int num1 = nums[0], count1 = 1;
+            int num2 = 0, count2 = 0;
             for (int i = 1; i < nums.Length; i++)
             {
-                if (nums[i] == n1)
-                    c1++;
-                else if (nums[i] == n2)
-                    c2++;
-                else if (c1 == 0)
+                if (nums[i] == num1)
+                    count1++;
+                else if (nums[i] == num2)
+                    count2++;
+                else if (count1 == 0)
                 {
-                    n1 = nums[i];
-                    c1 = 1;
+                    num1 = nums[i];
+                    count1 = 1;
                 }
-                else if(c2 == 0)
+                else if (count2 == 0)
                 {
-                    n2 = nums[i];
-                    c2 = 1;
+                    num2 = nums[i];
+                    count2 = 1;
                 }
                 else
                 {
-                    c1--;
-                    c2--;
+                    count1--;
+                    count2--;
                 }
             }
-            c1 = 0;
-            c2 = 0;
+            count1 = 0;
+            count2 = 0;
             foreach (var num in nums)
             {
-                if (num == n1)
-                    c1++;
-                else if (num == n2)
-                    c2++;
+                if (num == num1) count1++;
+                else if (num == num2) count2++;
             }
-            if (c1 > nums.Length / 3)
-                res.Add(n1);
-            if (c2 > nums.Length / 3)
-                res.Add(n2);
+            if(count1 > nums.Length / 3) res.Add(num1);
+            if(count2 > nums.Length / 3) res.Add(num2);
             return res;
         }
     }

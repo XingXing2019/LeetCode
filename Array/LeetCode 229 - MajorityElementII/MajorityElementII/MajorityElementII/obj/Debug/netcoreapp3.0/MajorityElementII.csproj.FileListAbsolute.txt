@@ -9,3 +9,5 @@ F:\C#\Algorithm\Array\LeetCode 229 - MajorityElementII\MajorityElementII\Majorit
 F:\C#\Algorithm\Array\LeetCode 229 - MajorityElementII\MajorityElementII\MajorityElementII\obj\Debug\netcoreapp3.0\MajorityElementII.AssemblyInfo.cs
 F:\C#\Algorithm\Array\LeetCode 229 - MajorityElementII\MajorityElementII\MajorityElementII\obj\Debug\netcoreapp3.0\MajorityElementII.dll
 F:\C#\Algorithm\Array\LeetCode 229 - MajorityElementII\MajorityElementII\MajorityElementII\obj\Debug\netcoreapp3.0\MajorityElementII.pdb
+F:\C#\Algorithm\Array\LeetCode 229 - MajorityElementII\MajorityElementII\MajorityElementII\obj\Debug\netcoreapp3.0\MajorityElementII.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Array\LeetCode 229 - MajorityElementII\MajorityElementII\MajorityElementII\obj\Debug\netcoreapp3.0\MajorityElementII.genruntimeconfig.cache
