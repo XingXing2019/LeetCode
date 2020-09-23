@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yzS5N3G3Y3XYMwcp7X4WrQ4dm7GHBeX+5ctSz5aA5dBEf6i/ICcd6Ex3nv+ItHtL6+/Nul+mT/PT4FbVmqzIzw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 1256 - EncodeNumber\\EncodeNumber\\EncodeNumber\\EncodeNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
