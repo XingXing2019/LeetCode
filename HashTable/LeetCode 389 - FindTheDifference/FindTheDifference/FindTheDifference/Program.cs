@@ -15,13 +15,15 @@ namespace FindTheDifference
         {
             int res = 0;
             int[] record = new int[26];
-            for (int i = 0; i < t.Length; i++)
-                record[t[i] - 'a']++;
-            for (int i = 0; i < s.Length; i++)
-                record[s[i] - 'a']--;
+            foreach (var letter in t)
+                record[letter - 'a']++;
+            foreach (var letter in s)
+                record[letter - 'a']--;
             for (int i = 0; i < record.Length; i++)
+            {
                 if (record[i] != 0)
-                    res = i + 97;
+                    return (char) (i + 'a');
+            }
             return (char)res;
         }
     }
