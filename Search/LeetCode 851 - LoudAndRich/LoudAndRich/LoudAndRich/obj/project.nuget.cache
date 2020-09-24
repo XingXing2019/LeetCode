@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aihMOJGV8AH0RtlJMHwxs/wbL0qS1j82yHihTo7cd3/myNQZtPxWBjVgbRPDwYS4DMb7MCpPCosn2WCJfEcJyw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 851 - LoudAndRich\\LoudAndRich\\LoudAndRich\\LoudAndRich.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
