@@ -8,7 +8,7 @@ namespace LargestNumber
         static void Main(string[] args)
         {
             int[] nums = { 3, 30, 34, 5, 9 };
-            Console.WriteLine(LargestNumber(nums));
+            Console.WriteLine(LargestNumber_Sort(nums));
         }
         static string LargestNumber(int[] nums)
         {
@@ -36,6 +36,16 @@ namespace LargestNumber
             string A = a.ToString();
             string B = b.ToString();
             return double.Parse(A + B) > double.Parse(B + A);
+        }
+
+        static string LargestNumber_Sort(int[] nums)
+        {
+            if (nums.All(n => n == 0)) return "0";
+            var res = new string[nums.Length];
+            for (int i = 0; i < nums.Length; i++)
+                res[i] = nums[i].ToString();
+            Array.Sort(res, (a, b) => (int) (double.Parse(b + a) - double.Parse(a + b)));
+            return string.Join("", res);
         }
     }
 }
