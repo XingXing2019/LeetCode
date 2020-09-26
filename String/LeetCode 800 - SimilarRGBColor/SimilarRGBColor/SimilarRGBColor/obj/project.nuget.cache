@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TayPi5/lMtPi1VJXrZBCQiPvmewio1TL39tzK0+gOab+KZvQGaKPp0h3NrCcGhiCxhOZG3PG6NCU8nM42TSFPA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 800 - SimilarRGBColor\\SimilarRGBColor\\SimilarRGBColor\\SimilarRGBColor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
