@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "owNPMEjg0q3MX/BPV7anX275YFK+Z979CfTYAQKFbnKuCv0kd2sKAyiNYgSsII0cTftEWsFZlPQcikCbWSIHag==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 750 - NumberOfCornerRectangles\\NumberOfCornerRectangles\\NumberOfCornerRectangles\\NumberOfCornerRectangles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
