@@ -31,43 +31,38 @@ namespace EvaluateDivision
         }
         static double[] CalcEquation(IList<IList<string>> equations, double[] values, IList<IList<string>> queries)
         {
+            var res = new double[queries.Count];
             var graph = new Dictionary<string, Dictionary<string, double>>();
             for (int i = 0; i < equations.Count; i++)
             {
                 string x = equations[i][0], y = equations[i][1];
                 if (!graph.ContainsKey(x))
-                    graph[x] = new Dictionary<string, double> {{y, values[i]}};
-                else
-                    graph[x].Add(y, values[i]); ;
-                if (!graph.ContainsKey(y))
-                    graph[y] = new Dictionary<string, double> {{x, 1 / values[i]}};
-                else
-                    graph[y].Add(x, 1 / values[i]);
+                    graph[x] = new Dictionary<string, double>();
+                graph[x].Add(y, values[i]);
+                if(!graph.ContainsKey(y))
+                    graph[y] = new Dictionary<string, double>();
+                graph[y].Add(x, 1 / values[i]);
             }
-            var res = new double[queries.Count];
             for (int i = 0; i < queries.Count; i++)
             {
-                if (!graph.ContainsKey(queries[i][0]) || !graph.ContainsKey(queries[i][1]))
-                    res[i] = -1.0;
-                else
-                {
-                    var visit = new HashSet<string>();
-                    DFS(res, i, graph, queries[i][1], queries[i][0], 1, visit);
-                    res[i] = res[i] == 0 ? -1.0 : res[i];
-                }
+                if(graph.ContainsKey(queries[i][0]) && graph.ContainsKey(queries[i][0])) 
+                    DFS(res, graph, new HashSet<string>(), queries[i][0], queries[i][1], 1, i);
+                if (res[i] == 0.0) res[i] = -1;
             }
             return res;
         }
 
-        static void DFS(double[] res, int index, Dictionary<string, Dictionary<string, double>> graph, string target, string start, double num, HashSet<string> visit)
+        static void DFS(double[] res, Dictionary<string, Dictionary<string, double>> graph, HashSet<string> visit, 
+            string start, string target, double num, int index)
         {
-            if (start == target)
-                res[index] = num;
+
+            if (start == target) res[index] = num;
             foreach (var next in graph[start])
             {
-                if(!visit.Add(next.Key)) continue;
-                DFS(res, index, graph, target, next.Key, num * graph[start][next.Key], visit);
+                if (!visit.Add(next.Key)) continue;
+                DFS(res, graph, visit, next.Key, target, num * next.Value, index);
             }
         }
+       
     }
 }
