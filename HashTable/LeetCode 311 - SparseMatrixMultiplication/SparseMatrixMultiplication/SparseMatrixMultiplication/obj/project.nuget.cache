@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T6yYY8JmB3m/MKGrwaLb4QVjSnhF2jT34mzjQQarjFh9EjS6VwVfOL1JKTvQa8wKge6kebgPs0fKnAlstQghsg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 311 - SparseMatrixMultiplication\\SparseMatrixMultiplication\\SparseMatrixMultiplication\\SparseMatrixMultiplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
