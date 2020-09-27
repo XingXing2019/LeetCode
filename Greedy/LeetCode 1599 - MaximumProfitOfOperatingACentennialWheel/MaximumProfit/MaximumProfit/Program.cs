@@ -36,5 +36,35 @@ namespace MaximumProfit
             }
             return max == 0 ? -1 : res;
         }
+
+        static int MinOperationsMaxProfit_O1Space(int[] customers, int boardingCost, int runningCost)
+        {
+            int max = 0, profit = 0, left = 0, res = 0, count = 1;
+            foreach (var customer in customers)
+            {
+                profit += Math.Min(customer + left, 4) * boardingCost - runningCost;
+                if (profit > max)
+                {
+                    max = profit;
+                    res = count;
+                }
+                left = Math.Max(0, customer + left - 4);
+                count++;
+            }
+            while (left - 4 > 0)
+            {
+                profit += 4 * boardingCost - runningCost;
+                if (profit > max)
+                {
+                    max = profit;
+                    res = count;
+                }
+                left -= 4;
+                count++;
+            }
+            if (boardingCost * left - runningCost > 0)
+                res++;
+            return max == 0 ? -1 : res;
+        }
     }
 }
