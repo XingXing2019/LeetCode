@@ -37,18 +37,14 @@ namespace TwoSum
         }
         public int[] TwoSum2(int[] nums, int target)
         {
-            int[] res = new int[2];
+            var dict = new Dictionary<int, int>();
             for (int i = 0; i < nums.Length; i++)
             {
-                for (int j = i + 1; j < nums.Length; j++)
-                {
-                    if (nums[i] + nums[j] == target)
-                    {
-                        return new int[2] { i, j };
-                    }
-                }
+                if (dict.ContainsKey(target - nums[i]))
+                    return new[] { dict[target - nums[i]], i };
+                dict[nums[i]] = i;
             }
-            return res;
+            return null;
         }
     }
 }
