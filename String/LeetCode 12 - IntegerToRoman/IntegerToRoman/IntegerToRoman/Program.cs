@@ -46,5 +46,25 @@ namespace IntegerToRoman
             }
             return res;
         }
+        static string IntToRoman_2(int num)
+        {
+            int[] nums = { 1000, 500, 100, 50, 10, 5, 1 };
+            char[] letters = { 'M', 'D', 'C', 'L', 'X', 'V', 'I' };
+            var res = "";
+            for (int i = 0; i < nums.Length; i += 2)
+            {
+                var count = num / nums[i];
+                if (count == 4)
+                    res += $"{letters[i]}{letters[i - 1]}";
+                else if (count >= 5 && count < 9)
+                    res += $"{letters[i - 1]}{new string(letters[i], Math.Max(0, count - 5))}";
+                else if (count == 9)
+                    res += $"{letters[i]}{letters[i - 2]}";
+                else
+                    res += new string(letters[i], count);
+                num %= nums[i];
+            }
+            return res;
+        }
     }
 }
