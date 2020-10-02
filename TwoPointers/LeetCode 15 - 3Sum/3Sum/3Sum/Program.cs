@@ -22,28 +22,28 @@ namespace _3Sum
         static IList<IList<int>> ThreeSum(int[] nums)
         {
             var res = new List<IList<int>>();
-            int lastI = 1;
+            if (nums.Length == 0) return res;
             Array.Sort(nums);
+            int lastOne = nums[0] - 1;
             for (int i = 0; i < nums.Length - 2; i++)
             {
-                if (nums[i] > 0) break;
-                if (nums[i] == lastI) continue;
-                lastI = nums[i];
-                int li = i + 1, hi = nums.Length - 1, lastLi = int.MinValue;
-                while (li <  hi)
+                if (nums[i] == lastOne) continue;
+                int target = -nums[i];
+                int li = i + 1, hi = nums.Length - 1;
+                while (li < hi)
                 {
-                    int sum = nums[i] + nums[li] + nums[hi];
-                    if (sum > 0)
-                        hi--;
-                    else if (sum < 0)
+                    if (nums[li] + nums[hi] < target)
                         li++;
+                    else if (nums[li] + nums[hi] > target)
+                        hi--;
                     else
                     {
-                        if (nums[li] != lastLi)
-                            res.Add(new List<int> {nums[i], nums[li], nums[hi]});
-                        lastLi = nums[li];
+                        var last = nums[li];
+                        res.Add(new List<int> { nums[i], nums[li], nums[hi] });
+                        lastOne = nums[i];
+                        while (li < hi && nums[li] == last)
+                            li++;
                         hi--;
-                        li++;
                     }
                 }
             }
