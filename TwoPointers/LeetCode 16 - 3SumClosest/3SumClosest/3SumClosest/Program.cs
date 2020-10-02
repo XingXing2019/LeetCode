@@ -18,26 +18,26 @@ namespace _3SumClosest
         }
         static int ThreeSumClosest(int[] nums, int target)
         {
-            int res = 0;
-            int closest = int.MaxValue;
             Array.Sort(nums);
-            for (int i = 0; i < nums.Length - 2; i++)
+            var gap = int.MaxValue;
+            var res = 0;
+            int last = nums[0] - 1;
+            for (int i = 0; i < nums.Length; i++)
             {
-                int current = nums[i];
-                int left = i + 1;
-                int right = nums.Length - 1;
-                while (left < right)
+                if (nums[i] == last) continue;
+                last = nums[i];
+                int li = i + 1, hi = nums.Length - 1;
+                while (li < hi)
                 {
-                    int total = current + nums[left] + nums[right];
-                    if (Math.Abs(total - target) < closest)
+                    int sum = nums[i] + nums[li] + nums[hi];
+                    if (sum == target) return target;
+                    if (Math.Abs(sum - target) < gap)
                     {
-                        closest = Math.Abs(total - target);
-                        res = total;
+                        gap = Math.Abs(sum - target);
+                        res = sum;
                     }
-                    if (total - target < 0)
-                        left++;
-                    else
-                        right--;
+                    if (sum > target) hi--;
+                    else li++;
                 }
             }
             return res;
