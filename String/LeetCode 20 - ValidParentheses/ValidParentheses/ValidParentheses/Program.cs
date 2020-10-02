@@ -16,31 +16,21 @@ namespace ValidParentheses
         }
         public bool IsValid(string s)
         {
-            if (s == "")
-                return true;
-            Dictionary<char, char> map = new Dictionary<char, char>();
-            map.Add('(', ')');
-            map.Add('[', ']');
-            map.Add('{', '}');
-            Stack parenthese = new Stack();
-            parenthese.Push(s[0]);
-            for (int i = 1; i < s.Length; i++)
+            var dict = new Dictionary<char, char> { { '(', ')' }, { '[', ']' }, { '{', '}' } };
+            var stack = new Stack<char>();
+            foreach (var letter in s)
             {
-                if (parenthese.Count == 0)
-                    parenthese.Push(s[i]);
+                if (stack.Count == 0 || dict.ContainsKey(letter))
+                    stack.Push(letter);
                 else
                 {
-                    char current = (char)parenthese.Peek();
-                    if (map.ContainsKey(current) && s[i] == map[current])
-                        parenthese.Pop();
+                    if (dict.ContainsKey(stack.Peek()) && letter == dict[stack.Peek()])
+                        stack.Pop();
                     else
-                        parenthese.Push(s[i]);
+                        stack.Push(letter);
                 }
             }
-            if (parenthese.Count == 0)
-                return true;
-            else
-                return false;
+            return stack.Count == 0;
         }
     }
 }
