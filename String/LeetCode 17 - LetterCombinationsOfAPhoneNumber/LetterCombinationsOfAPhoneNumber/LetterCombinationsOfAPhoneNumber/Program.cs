@@ -51,5 +51,29 @@ namespace LetterCombinationsOfAPhoneNumber
             }
             return res;
         }
+
+        static IList<string> LetterCombinations_BackTracking(string digits)
+        {
+            string[] board = { "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
+            var res = new List<string>();
+            DFS(digits, board, new List<char>(), res);
+            return res;
+        }
+
+        static void DFS(string remain, string[] board, List<char> path, List<string> res)
+        {
+            if (remain.Length == 0)
+            {
+                if (path.Count != 0)
+                    res.Add(string.Join("", path));
+                return;
+            }
+            foreach (var letter in board[remain[0] - '0'])
+            {
+                path.Add(letter);
+                DFS(remain.Substring(1), board, path, res);
+                path.RemoveAt(path.Count - 1);
+            }
+        }
     }
 }
