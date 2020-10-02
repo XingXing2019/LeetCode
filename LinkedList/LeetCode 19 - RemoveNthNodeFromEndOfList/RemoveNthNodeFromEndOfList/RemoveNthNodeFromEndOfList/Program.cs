@@ -16,30 +16,25 @@ namespace RemoveNthNodeFromEndOfList
         {
 
         }
-        static int GetLen(ListNode head)
-        {
-            int len = 0;
-            while (head != null)
-            {
-                len++;
-                head = head.next;
-            }
-            return len;
-        }
         static ListNode RemoveNthFromEnd(ListNode head, int n)
         {
-            ListNode point = new ListNode(0);
-            ListNode dummy = point;
-            int len = GetLen(head);
-            for (int i = 0; i < len - n; i++)
+            var pointer = head;
+            int count = 0;
+            while (pointer != null)
             {
-                point.next = head;
-                head = head.next;
-                point = point.next;
+                count++;
+                pointer = pointer.next;
             }
-            head = head.next;
-            point.next = head;
-            return dummy.next;
+            if (count == n) return head.next;
+            count -= n + 1;
+            pointer = head;
+            while (count > 0)
+            {
+                pointer = pointer.next;
+                count--;
+            }
+            pointer.next = pointer.next.next;
+            return head;
         }
     }
 }
