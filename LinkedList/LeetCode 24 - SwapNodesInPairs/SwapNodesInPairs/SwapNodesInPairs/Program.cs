@@ -43,5 +43,24 @@ namespace SwapNodesInPairs
             }
             return dummy.next;
         }
+        static ListNode SwapPairs_List(ListNode head)
+        {
+            var list = new List<ListNode>();
+            while (head != null)
+            {
+                list.Add(head);
+                head = head.next;
+            }
+            for (int i = 1; i < list.Count; i += 2)
+            {
+                var temp = list[i];
+                list[i] = list[i - 1];
+                list[i - 1] = temp;
+            }
+            list.Add(null);
+            for (int i = 1; i < list.Count; i++)
+                list[i - 1].next = list[i];
+            return list[0];
+        }
     }
 }
