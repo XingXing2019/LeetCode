@@ -57,5 +57,25 @@ namespace GenerateParentheses
             }
             return res;
         }
+
+        static IList<string> GenerateParenthesis_BackTracking(int n)
+        {
+            var res = new List<string>();
+            DFS(n, "", res, 0, 0);
+            return res;
+        }
+
+        static void DFS(int n, string parentheses, List<string> res, int open, int close)
+        {
+            if (parentheses.Length == n * 2)
+            {
+                res.Add(parentheses);
+                return;
+            }
+            if (open < n)
+                DFS(n, $"{parentheses}(", res, open + 1, close);
+            if (close < open)
+                DFS(n, $"{parentheses})", res, open, close + 1);
+        }
     }
 }

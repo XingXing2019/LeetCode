@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\String\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\GenerateParentheses.csproj": {}
+    "F:\\C#\\Algorithm\\Backtracking\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\GenerateParentheses.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\String\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\GenerateParentheses.csproj": {
+    "F:\\C#\\Algorithm\\Backtracking\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\GenerateParentheses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\String\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\GenerateParentheses.csproj",
+        "projectUniqueName": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\GenerateParentheses.csproj",
         "projectName": "GenerateParentheses",
-        "projectPath": "F:\\C#\\Algorithm\\String\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\GenerateParentheses.csproj",
+        "projectPath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\GenerateParentheses.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\String\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\obj\\",
+        "outputPath": "F:\\C#\\Algorithm\\Backtracking\\LeetCode 22 - GenerateParentheses\\GenerateParentheses\\GenerateParentheses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
