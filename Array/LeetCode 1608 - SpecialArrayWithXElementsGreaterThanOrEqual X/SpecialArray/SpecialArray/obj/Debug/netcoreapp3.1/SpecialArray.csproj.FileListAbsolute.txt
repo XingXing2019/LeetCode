@@ -1,0 +1,13 @@
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\bin\Debug\netcoreapp3.1\SpecialArray.exe
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\bin\Debug\netcoreapp3.1\SpecialArray.deps.json
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\bin\Debug\netcoreapp3.1\SpecialArray.runtimeconfig.json
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\bin\Debug\netcoreapp3.1\SpecialArray.runtimeconfig.dev.json
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\bin\Debug\netcoreapp3.1\SpecialArray.dll
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\bin\Debug\netcoreapp3.1\SpecialArray.pdb
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\obj\Debug\netcoreapp3.1\SpecialArray.csprojAssemblyReference.cache
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\obj\Debug\netcoreapp3.1\SpecialArray.AssemblyInfoInputs.cache
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\obj\Debug\netcoreapp3.1\SpecialArray.AssemblyInfo.cs
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\obj\Debug\netcoreapp3.1\SpecialArray.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\obj\Debug\netcoreapp3.1\SpecialArray.dll
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\obj\Debug\netcoreapp3.1\SpecialArray.pdb
+F:\C#\Algorithm\Array\LeetCode 1608 - SpecialArrayWithXElementsGreaterThanOrEqual X\SpecialArray\SpecialArray\obj\Debug\netcoreapp3.1\SpecialArray.genruntimeconfig.cache
