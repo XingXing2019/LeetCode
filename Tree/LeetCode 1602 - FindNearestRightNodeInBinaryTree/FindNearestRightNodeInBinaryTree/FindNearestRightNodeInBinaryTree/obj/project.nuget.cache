@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zb3cOTnqhMRUkKR3SDZ9MvjXl0T0u3ni90cPNXL2L8qv1hLJ9QQDLw4p8n97WHXs2HyyqxA+xC/CjLC/hwX51Q==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1602 - FindNearestRightNodeInBinaryTree\\FindNearestRightNodeInBinaryTree\\FindNearestRightNodeInBinaryTree\\FindNearestRightNodeInBinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
