@@ -2,6 +2,7 @@
 //当发现当前遍历到的字母和needle第一个字母相同时，从当前字母向后截取needle.Length的子串。如果该子串与needle相同，则将res设为当前i值，并停止遍历。
 //最后返回res。
 using System;
+using System.Text;
 
 namespace ImplementStrStr__
 {
@@ -30,5 +31,19 @@ namespace ImplementStrStr__
             }
             return res;
         }
+        static int StrStr_StringBuilder(string haystack, string needle)
+        {
+            if (haystack.Length < needle.Length) return -1;
+            var strH = new StringBuilder(haystack.Substring(0, needle.Length));
+            if (strH.Equals(needle)) return 0;
+            for (int i = needle.Length; i < haystack.Length; i++)
+            {
+                strH.Remove(0, 1);
+                strH.Append(haystack[i]);
+                if (strH.Equals(needle)) return i - needle.Length + 1;
+            }
+            return -1;
+        }
     }
 }
+
