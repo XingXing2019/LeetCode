@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4TVDcf8JoXQvhvxq2/3qTrKiVp2sx9GXHOVVEkPir/DP+sr//5DCupYcUkGIrwfMsJIq/aw6Jj6OzgsLQTD8A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1605 - FindValidMatrixGivenRowAndColumnSums\\FindValidMatrix\\FindValidMatrix\\FindValidMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
