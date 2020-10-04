@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace SpecialArray
 {
@@ -6,10 +7,10 @@ namespace SpecialArray
     {
         static void Main(string[] args)
         {
-            int[] nums = {3, 9, 7, 8, 3, 8, 6, 6};
-            Console.WriteLine(SpecialArray(nums));
+            int[] nums = {4, 5};
+            Console.WriteLine(SpecialArray_N(nums));
         }
-        static int SpecialArray(int[] nums)
+        static int SpecialArray_NlogN(int[] nums)
         {
             Array.Sort(nums);
             for (int i = 0; i <= nums.Length; i++)
@@ -25,6 +26,21 @@ namespace SpecialArray
                 }
                 if (nums[li] < i) li++;
                 if (nums.Length - li == i)
+                    return i;
+            }
+            return -1;
+        }
+        static int SpecialArray_N(int[] nums)
+        {
+            int max = nums.Max();
+            var record = new int[max + 1];
+            foreach (var num in nums)
+                record[num]++;
+            var count = 0;
+            for (int i = record.Length - 1; i >= 0; i--)
+            {
+                count += record[i];
+                if (count == i)
                     return i;
             }
             return -1;
