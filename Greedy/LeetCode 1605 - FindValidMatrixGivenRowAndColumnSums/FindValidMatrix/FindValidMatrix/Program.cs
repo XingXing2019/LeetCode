@@ -21,21 +21,15 @@ namespace FindValidMatrix
                 int c = 0, colMin = int.MaxValue;
                 for (int i = 0; i < rowSum.Length; i++)
                 {
-                    if(rowSum[i] == 0) continue;
-                    if (rowSum[i] < rowMin)
-                    {
-                        rowMin = rowSum[i];
-                        r = i;
-                    }
+                    if (rowSum[i] == 0 || rowSum[i] >= rowMin) continue;
+                    rowMin = rowSum[i];
+                    r = i;
                 }
                 for (int i = 0; i < colSum.Length; i++)
                 {
-                    if(colSum[i] == 0) continue;
-                    if (colSum[i] < colMin)
-                    {
-                        colMin = colSum[i];
-                        c = i;
-                    }
+                    if (colSum[i] == 0 || colSum[i] >= colMin) continue;
+                    colMin = colSum[i];
+                    c = i;
                 }
                 res[r][c] = Math.Min(rowMin, colMin);
                 rowSum[r] -= Math.Min(rowMin, colMin);
