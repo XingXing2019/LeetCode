@@ -46,5 +46,24 @@ namespace DivideTwoIntegers
             long sum = tem >> 1;
             return res + GetLongRes(dividend - sum, divisor);
         }
+
+        static int Divide_BinarySearch(int dividend, int divisor)
+        {
+            if (dividend == int.MinValue && divisor == -1) return int.MaxValue;
+            long dividendL = dividend < 0 ? -(long)dividend : (long)dividend;
+            long divisorL = divisor < 0 ? -(long)divisor : (long)divisor;
+            long li = 1, hi = dividendL;
+            while (li < hi)
+            {
+                long mid = li + (hi - li) / 2;
+                if (mid * divisorL > dividendL)
+                    hi = mid;
+                else
+                    li = mid + 1;
+            }
+            if (divisorL * li > dividendL)
+                li--;
+            return dividend < 0 && divisor > 0 || dividend > 0 && divisor < 0 ? -(int)li : (int)li;
+        }
     }
 }
