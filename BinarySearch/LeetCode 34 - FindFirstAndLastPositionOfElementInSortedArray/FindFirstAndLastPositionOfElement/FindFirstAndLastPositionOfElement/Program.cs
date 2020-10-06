@@ -35,5 +35,33 @@ namespace FindFirstAndLastPositionOfElement
             }
             return res;
         }
+        static int[] SearchRange_BinarySearch(int[] nums, int target)
+        {
+            int[] res = { -1, -1 };
+            int li = 0, hi = nums.Length - 1;
+            while (li <= hi)
+            {
+                int mid = li + (hi - li) / 2;
+                if (nums[mid] < target)
+                    li = mid + 1;
+                else
+                    hi = mid - 1;
+            }
+            if (hi + 1 <= nums.Length - 1 && nums[hi + 1] == target)
+                res[0] = hi + 1;
+            li = 0;
+            hi = nums.Length - 1;
+            while (li <= hi)
+            {
+                int mid = li + (hi - li) / 2;
+                if (nums[mid] <= target)
+                    li = mid + 1;
+                else
+                    hi = mid - 1;
+            }
+            if (li - 1 >= 0 && nums[li - 1] == target)
+                res[1] = li - 1;
+            return res;
+        }
     }
 }
