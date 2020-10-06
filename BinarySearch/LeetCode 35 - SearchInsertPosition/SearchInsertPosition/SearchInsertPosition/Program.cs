@@ -21,10 +21,26 @@ namespace SearchInsertPosition
             }
             return nums.Length;
         }
-        static int SearchInsert_BinarySearch(int[] nums, int target)
+        static int SearchInsert_BuildingInBinarySearch(int[] nums, int target)
         {
             var index = Array.BinarySearch(nums, target);
             return index < 0 ? -(index + 1) : index;
+        }
+        static int SearchInsert_BinarySearch(int[] nums, int target)
+        {
+            if (nums.Length == 1)
+                return nums[0] >= target ? 0 : 1;
+            int li = 0, hi = nums.Length - 1;
+            while (li < hi)
+            {
+                int mid = li + (hi - li) / 2;
+                if (nums[mid] == target) return mid;
+                if (nums[mid] > target)
+                    hi = mid;
+                else
+                    li = mid + 1;
+            }
+            return nums[li] >= target ? li : li + 1;
         }
     }
 }
