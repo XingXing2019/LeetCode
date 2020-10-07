@@ -43,5 +43,26 @@ namespace CountAndSay
             res += count.ToString() + str[str.Length - 1];
             return res;
         }
+        public string CountAndSay_O1Space(int n)
+        {
+            string pre = "1", cur = "";
+            for (int i = 0; i < n - 1; i++)
+            {
+                int count = 0;
+                for (int j = 0; j < pre.Length; j++)
+                {
+                    if (j != 0 && pre[j] != pre[j - 1])
+                    {
+                        cur += $"{count}{pre[j - 1]}";
+                        count = 0;
+                    }
+                    count++;
+                }
+                if (count > 0) cur += $"{count}{pre[pre.Length - 1]}";
+                pre = cur;
+                cur = "";
+            }
+            return pre;
+        }
     }
 }
