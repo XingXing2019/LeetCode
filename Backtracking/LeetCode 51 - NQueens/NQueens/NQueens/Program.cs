@@ -7,6 +7,7 @@
 //在主方法中调用Generate，将0作为k传入。
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace NQueens
@@ -20,64 +21,57 @@ namespace NQueens
         }
         static IList<IList<string>> SolveNQueens(int n)
         {
-            List<IList<string>> res = new List<IList<string>>();
-            int[][] mark = new int[n][];
-            StringBuilder[] location = new StringBuilder[n];
-            for (int i = 0; i < n; i++)
+            var res = new List<IList<string>>();
+            var locations = new char[n][];
+            var board = new int[n][];
+            for (int r = 0; r < n; r++)
             {
-                mark[i] = new int[n];
-                location[i] = new StringBuilder();
-                for (int j = 0; j < n; j++)
-                    location[i].Append('.');
+                board[r] = new int[n];
+                locations[r] = new char[n];
+                for (int c = 0; c < n; c++)
+                    locations[r][c] = '.';
             }
-            Generate(0, n, location, res, mark);
+            DFS(0, n, locations, board, res);
             return res;
         }
-        static void PutDownQueen(int x, int y, int[][] mark)
+
+        static void UpdateBoard(int r, int c, int n, int[][] board)
         {
-            int[] dx = { -1, 1, 0, 0, -1, -1, 1, 1 };
-            int[] dy = { 0, 0, -1, 1, -1, 1, -1, 1 };
-            mark[x][y] = 1;
-            for (int i = 0; i < mark.Length; i++)
+            int[] dx = {-1, 1, 0, 0, -1, 1, -1, 1};
+            int[] dy = {0, 0, -1, 1, -1, -1, 1, 1};
+            for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < 8; j++)
                 {
-                    int newX = x + dx[j] * i;
-                    int newY = y + dy[j] * i;
-                    if (newX >= 0 && newX < mark.Length && newY >= 0 && newY < mark[0].Length)
-                        mark[newX][newY] = 1;
+                    int newR = r + dx[j] * i;
+                    int newC = c + dy[j] * i;
+                    if(newR < 0 || newR >= n ||newC < 0 || newC >= n) continue;
+                    board[newR][newC] = 1;
                 }
             }
         }
-        static void Generate(int k, int n, StringBuilder[] location, List<IList<string>> res, int[][] mark)
+
+        static void DFS(int r, int n, char[][] locations, int[][] board, List<IList<string>> res)
         {
-            if(k == n)
+            if (r == n)
             {
-                List<string> tem = new List<string>();
-                foreach (var l in location)
-                    tem.Add(l.ToString());
-                res.Add(tem);
+                res.Add(locations.Select(location => string.Join("", location)).ToList());
                 return;
             }
-            for (int i = 0; i < n; i++)
+            for (int c = 0; c < n; c++)
             {
-                if(mark[k][i] == 0)
+                if(board[r][c] == 1) continue;
+                var record = new int[n][];
+                for (int j = 0; j < record.Length; j++)
                 {
-                    int[][] temMark = new int[n][];
-                    for (int x = 0; x < n; x++)
-                    {
-                        temMark[x] = new int[n];
-                        for (int y = 0; y < n; y++)
-                        {
-                            temMark[x][y] = mark[x][y];
-                        }
-                    }
-                    location[k][i] = 'Q';
-                    PutDownQueen(k, i, mark);
-                    Generate(k + 1, n, location, res, mark);
-                    mark = temMark;
-                    location[k][i] = '.';
+                    record[j] = new int[n];
+                    Array.Copy(board[j], record[j], n);
                 }
+                locations[r][c] = 'Q';
+                UpdateBoard(r, c, n, board);
+                DFS(r + 1, n, locations, board, res);
+                locations[r][c] = '.';
+                board = record;
             }
         }
     }

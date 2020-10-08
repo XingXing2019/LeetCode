@@ -64,7 +64,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.0.1, 3.0.1]"
+            "version": "[3.0.3, 3.0.3]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -80,7 +80,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
