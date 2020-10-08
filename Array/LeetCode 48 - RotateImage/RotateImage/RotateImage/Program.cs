@@ -29,5 +29,26 @@ namespace RotateImage
                 for (int r = 0; r < row; r++)
                     matrix[r][c] = record[index++];
         }
+        public void Rotate_InPlace(int[][] matrix)
+        {
+            for (int r = 0; r < matrix.Length; r++)
+            {
+                for (int c = r; c < matrix[0].Length; c++)
+                {
+                    int temp = matrix[r][c];
+                    matrix[r][c] = matrix[c][r];
+                    matrix[c][r] = temp;
+                }
+            }
+            for (int r = 0; r < matrix.Length; r++)
+            {
+                for (int c = 0; c < matrix[0].Length / 2; c++)
+                {
+                    int temp = matrix[r][c];
+                    matrix[r][c] = matrix[r][matrix[0].Length - c - 1];
+                    matrix[r][matrix[0].Length - c - 1] = temp;
+                }
+            }
+        }
     }
 }
