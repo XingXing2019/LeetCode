@@ -56,5 +56,32 @@ namespace SpiralMatrix
             }
             return res;
         }
+
+        static IList<int> SpiralOrder_DirectionArray(int[][] matrix)
+        {
+            if (matrix.Length == 0 || matrix[0].Length == 0)
+                return new int[0];
+            int[] dx = { 0, 1, 0, -1 };
+            int[] dy = { 1, 0, -1, 0 };
+            int direction = 0, index = 0;
+            int x = 0, y = 0;
+            var visited = new HashSet<string>();
+            var res = new int[matrix.Length * matrix[0].Length];
+            while (index != res.Length)
+            {
+                if (visited.Add($"{x}:{y}"))
+                    res[index++] = matrix[x][y];
+                int newX = x + dx[direction % 4];
+                int newY = y + dy[direction % 4];
+                if (newX < 0 || newX >= matrix.Length || newY < 0 || newY >= matrix[0].Length || visited.Contains($"{newX}:{newY}"))
+                    direction++;
+                else
+                {
+                    x = newX;
+                    y = newY;
+                }
+            }
+            return res;
+        }
     }
 }
