@@ -13,50 +13,49 @@ namespace NQueensII
         }
         static int TotalNQueens(int n)
         {
-            int[] res = new int[1];
-            int[][] mark = new int[n][];
-            for (int i = 0; i < n; i++)
-                mark[i] = new int[n];
-            Generate(0, n, res, mark);
-            return res[0];
+            var board = new int[n][];
+            for (int i = 0; i < board.Length; i++)
+                board[i] = new int[n];
+            var res = 0;
+            DFS(0, n, board, ref res);
+            return res;
         }
-        static void PutDownQueen(int n, int x, int y, int[][] mark)
+
+        static void UpdateBoard(int r, int c, int n, int[][] board)
         {
-            int[] dx = { -1, 1, 0, 0, 1, -1, 1, -1 };
-            int[] dy = { 0, 0, -1, 1, 1, -1, -1, 1 };
+            int[] dr = { -1, 1, 0, 0, -1, 1, -1, 1 };
+            int[] dc = { 0, 0, -1, 1, -1, -1, 1, 1 };
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < 8; j++)
                 {
-                    int newX = x + dx[j] * i;
-                    int newY = y + dy[j] * i;
-                    if (newX >= 0 && newX < n && newY >= 0 && newY < n)
-                        mark[newX][newY] = 1;
+                    int newR = r + dr[j] * i;
+                    int newC = c + dc[j] * i;
+                    if (newR < 0 || newR >= n || newC < 0 || newC >= n) continue;
+                    board[newR][newC] = 1;
                 }
             }
         }
-        static void Generate(int k, int n, int[] res, int[][] mark)
+
+        static void DFS(int r, int n, int[][] board, ref int res)
         {
-            if(k == n)
+            if (r == n)
             {
-                res[0]++;
+                res++;
                 return;
             }
-            for (int i = 0; i < n; i++)
+            for (int c = 0; c < n; c++)
             {
-                if(mark[k][i] == 0)
+                if (board[r][c] == 1) continue;
+                var record = new int[n][];
+                for (int i = 0; i < record.Length; i++)
                 {
-                    int[][] temMark = new int[n][];
-                    for (int x = 0; x < n; x++)
-                    {
-                        temMark[x] = new int[n];
-                        for (int y = 0; y < n; y++)
-                            temMark[x][y] = mark[x][y];
-                    }
-                    PutDownQueen(n, k, i, mark);
-                    Generate(k + 1, n, res, mark);
-                    mark = temMark;
+                    record[i] = new int[n];
+                    Array.Copy(board[i], record[i], n);
                 }
+                UpdateBoard(r, c, n, board);
+                DFS(r + 1, n, board, ref res);
+                board = record;
             }
         }
     }

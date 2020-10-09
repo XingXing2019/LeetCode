@@ -9,3 +9,15 @@ E:\C#\LeetCode\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2
 E:\C#\LeetCode\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.AssemblyInfo.cs
 E:\C#\LeetCode\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.dll
 E:\C#\LeetCode\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.pdb
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\bin\Debug\netcoreapp2.1\NQueensII.deps.json
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\bin\Debug\netcoreapp2.1\NQueensII.runtimeconfig.json
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\bin\Debug\netcoreapp2.1\NQueensII.runtimeconfig.dev.json
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\bin\Debug\netcoreapp2.1\NQueensII.dll
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\bin\Debug\netcoreapp2.1\NQueensII.pdb
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.csprojAssemblyReference.cache
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.AssemblyInfoInputs.cache
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.AssemblyInfo.cs
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.dll
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.pdb
+F:\C#\Algorithm\Backtracking\LeetCode 52 - NQueensII\NQueensII\NQueensII\obj\Debug\netcoreapp2.1\NQueensII.genruntimeconfig.cache
