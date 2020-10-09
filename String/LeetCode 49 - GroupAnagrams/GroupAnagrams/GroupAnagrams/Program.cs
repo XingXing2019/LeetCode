@@ -15,7 +15,7 @@ namespace GroupAnagrams
             string[] strs = { "eat", "tea", "tan", "ate", "nat", "bat" };
             GroupAnagrams(strs);
         }
-        static IList<IList<string>> GroupAnagrams(string[] strs)
+        static IList<IList<string>> GroupAnagrams_Sort(string[] strs)
         {
             var hashMap = new Dictionary<string, List<string>>();
             foreach (var word in strs)
@@ -39,6 +39,22 @@ namespace GroupAnagrams
                 res[i] = words.Value;
                 i++;
             }
+            return res;
+        }
+        static IList<IList<string>> GroupAnagrams(string[] strs)
+        {
+            var dict = new Dictionary<string, List<string>>();
+            foreach (var str in strs)
+            {
+                var letters = new int[26];
+                foreach (var letter in str)
+                    letters[letter - 'a']++;
+                var key = letters.Aggregate("", (current, letter) => current + '-' + letter);
+                if (!dict.ContainsKey(key))
+                    dict[key] = new List<string>();
+                dict[key].Add(str);
+            }
+            var res = dict.Select(kv => kv.Value).Cast<IList<string>>().ToList();
             return res;
         }
     }
