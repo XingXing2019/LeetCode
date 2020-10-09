@@ -10,7 +10,7 @@ namespace PowXN
             double x = 2;
             int n = 10;
         }
-        public double MyPow(double x, int n)
+        public double MyPow_Recursion(double x, int n)
         {
             if (x == 0) return x;
             if( n < 0)
@@ -28,6 +28,26 @@ namespace PowXN
             double temp = Recursion(x, n / 2);
             if (n % 2 == 0) return temp * temp;
             return temp * temp * x;
+        }
+        static double MyPow(double x, int n)
+        {
+            if (n == 0 || x == 1) return 1;
+            if (x == 0) return 0;
+            long N = n;
+            if (N < 0)
+            {
+                x = 1 / x;
+                N = -N;
+            }
+            double res = x, left = 1;
+            while (N != 1)
+            {
+                if (N % 2 != 0)
+                    left *= res;
+                res *= res;
+                N /= 2;
+            }
+            return res * left;
         }
     }
 }
