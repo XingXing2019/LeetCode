@@ -5,6 +5,7 @@
 //根据tem的大小创建res数组。将tem中的数组存入res。
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace MergeIntervals
 {
@@ -55,6 +56,27 @@ namespace MergeIntervals
             for (int i = 0; i < res.Length; i++)
                 res[i] = tem[i];
             return res;
+        }
+
+        static int[][] Merge_Linq(int[][] intervals)
+        {
+            if (intervals.Length <= 1) return intervals;
+            var res = new List<int[]>();
+            intervals = intervals.OrderBy(x => x[0]).ThenBy(x => x[1]).ToArray();
+            int li = intervals[0][0], hi = intervals[0][1];
+            for (int i = 1; i < intervals.Length; i++)
+            {
+                if (li <= intervals[i][0] && intervals[i][0] <= hi)
+                    hi = Math.Max(hi, intervals[i][1]);
+                else
+                {
+                    res.Add(new[] { li, hi });
+                    li = intervals[i][0];
+                    hi = intervals[i][1];
+                }
+            }
+            res.Add(new[] { li, hi });
+            return res.ToArray();
         }
     }
 }
