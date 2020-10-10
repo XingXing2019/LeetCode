@@ -9,7 +9,7 @@ namespace LengthOfLastWord
     {
         static void Main(string[] args)
         {
-            string s = " Hello World "
+            string s = " Hello World ";
             Console.WriteLine(LengthOfLastWord(s));
         }
         static int LengthOfLastWord(string s)
