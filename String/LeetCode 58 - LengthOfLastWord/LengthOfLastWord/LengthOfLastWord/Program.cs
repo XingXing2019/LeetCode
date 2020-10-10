@@ -29,7 +29,7 @@ namespace LengthOfLastWord
         static int LengthOfLastWord_BuildingIn(string s)
         {
             var words = s.Split(" ", StringSplitOptions.RemoveEmptyEntries);
-            return words.Length > 0 ? words[^1].Length : 0;
+            return words.Length > 0 ? words[words.Length - 1].Length : 0;
         }
     }
 }
