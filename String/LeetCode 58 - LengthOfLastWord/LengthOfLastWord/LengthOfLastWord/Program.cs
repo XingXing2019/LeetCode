@@ -25,5 +25,11 @@ namespace LengthOfLastWord
             }
             return len;
         }
+
+        static int LengthOfLastWord_BuildingIn(string s)
+        {
+            var words = s.Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            return words.Length > 0 ? words[^1].Length : 0;
+        }
     }
 }
