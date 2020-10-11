@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfTwoExpressionTreesAreEquivalent", "CheckIfTwoExpressionTreesAreEquivalent\CheckIfTwoExpressionTreesAreEquivalent.csproj", "{2A3F41C9-279E-4273-A2A1-257B64D53F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3F41C9-279E-4273-A2A1-257B64D53F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3F41C9-279E-4273-A2A1-257B64D53F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3F41C9-279E-4273-A2A1-257B64D53F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3F41C9-279E-4273-A2A1-257B64D53F05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB840ABA-0C63-4216-9E80-0901629BA4A9}
+	EndGlobalSection
+EndGlobal
