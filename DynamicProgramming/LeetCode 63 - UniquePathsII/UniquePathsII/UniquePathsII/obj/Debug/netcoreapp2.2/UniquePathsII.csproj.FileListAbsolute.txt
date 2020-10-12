@@ -20,3 +20,4 @@ F:\C#\Algorithm\DynamicProgramming\LeetCode 63 - UniquePathsII\UniquePathsII\Uni
 F:\C#\Algorithm\DynamicProgramming\LeetCode 63 - UniquePathsII\UniquePathsII\UniquePathsII\obj\Debug\netcoreapp2.2\UniquePathsII.AssemblyInfo.cs
 F:\C#\Algorithm\DynamicProgramming\LeetCode 63 - UniquePathsII\UniquePathsII\UniquePathsII\obj\Debug\netcoreapp2.2\UniquePathsII.dll
 F:\C#\Algorithm\DynamicProgramming\LeetCode 63 - UniquePathsII\UniquePathsII\UniquePathsII\obj\Debug\netcoreapp2.2\UniquePathsII.pdb
+F:\C#\Algorithm\DynamicProgramming\LeetCode 63 - UniquePathsII\UniquePathsII\UniquePathsII\obj\Debug\netcoreapp2.2\UniquePathsII.genruntimeconfig.cache
