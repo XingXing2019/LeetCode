@@ -29,27 +29,24 @@ namespace RotateList
         }
         static ListNode RotateRigth(ListNode head, int k)
         {
-            if (head == null)
+            if (head == null) return null;
+            var pointer = head;
+            int count = 0;
+            while (pointer.next != null)
             {
-                return null;
+                pointer = pointer.next;
+                count++;
             }
-            else
-            {
-                int len = GetLen(head);
-                ListNode point = head;
-                for (int i = 0; i < len - 1; i++)
-                {
-                    point = point.next;
-                }
-                point.next = head;
-                for (int i = 0; i < len - k % len - 1; i++)
-                {
-                    head = head.next;
-                }
-                ListNode res = head.next;
-                head.next = null;
-                return res;
-            }
+            k %= count + 1;
+            if (k == 0) return head;
+            count -= k;
+            var dummy = head;
+            for (int i = 0; i < count; i++)
+                dummy = dummy.next;
+            var res = dummy.next;
+            dummy.next = null;
+            pointer.next = head;
+            return res;
         }
     }
 }
