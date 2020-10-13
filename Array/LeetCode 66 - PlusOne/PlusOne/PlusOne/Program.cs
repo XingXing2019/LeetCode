@@ -17,24 +17,20 @@ namespace PlusOne
         }
         static int[] PlusOne(int[] digits)
         {
-            int car = 0;
-            digits[digits.Length - 1] += 1;
+            int car = 0, cur = 0;
+            digits[digits.Length - 1]++;
+            var record = "";
             for (int i = digits.Length - 1; i >= 0; i--)
             {
-                var cur = (digits[i] + car) % 10;
+                cur = (digits[i] + car) % 10;
                 car = (digits[i] + car) / 10;
-                digits[i] = cur;
-                if(car == 0)
-                    break;
+                record = cur + record;
             }
-            if (car != 0)
-            {
-                var res = new int[digits.Length + 1];
-                res[0] = 1;
-                Array.Copy(digits, 0, res, 1, digits.Length);
-                return res;
-            }
-            return digits;
+            if (car != 0) record = car + record;
+            var res = new int[record.Length];
+            for (int i = 0; i < record.Length; i++)
+                res[i] = record[i] - '0';
+            return res;
         }
     }
 }
