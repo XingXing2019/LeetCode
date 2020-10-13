@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "frcz/UXh6MXzN4lY135f9lX7ak8DyjF0PG8BvTBh3w6983LHhuqzQpA/d/YzwuROyBVWJzv9q+LNMZiPp4owoQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\String\\LeetCode 71 - SimplifyPath\\SimplifyPath\\SimplifyPath\\SimplifyPath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

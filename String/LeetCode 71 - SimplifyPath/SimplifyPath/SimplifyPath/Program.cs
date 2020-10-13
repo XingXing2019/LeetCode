@@ -13,23 +13,17 @@ namespace SimplifyPath
         }
         static string SimplifyPath(string path)
         {
-            var paths = path.Split("/", StringSplitOptions.RemoveEmptyEntries);
-            var stack = new Stack<string>();
-            foreach (var p in paths)
+            var parts = path.Split('/', StringSplitOptions.RemoveEmptyEntries);
+            var record = new List<string>();
+            foreach (var part in parts)
             {
-                if(p == ".")
-                    continue;
-                if (p != "..")
-                    stack.Push(p);
-                else if (stack.Count != 0)
-                    stack.Pop();
+                if (part == ".") continue;
+                if (part != "..")
+                    record.Add(part);
+                else if (record.Count != 0)
+                    record.RemoveAt(record.Count - 1);
             }
-            if (stack.Count == 0)
-                return "/";
-            var res = "";
-            foreach (var str in stack)
-                res = "/" + str + res;
-            return res;
+            return $"/{string.Join('/', record)}";
         }
     }
 }
