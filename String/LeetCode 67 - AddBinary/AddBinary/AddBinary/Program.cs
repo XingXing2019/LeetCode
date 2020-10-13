@@ -17,45 +17,28 @@ namespace AddBinary
         }
         static string AddBinary(string a, string b)
         {
-            int indexA = a.Length - 1;
-            int indexB = b.Length - 1;
-            int current = 0;
-            int carry = 0;
-            string res = "";
+            int car = 0, cur = 0;
+            int indexA = a.Length - 1, indexB = b.Length - 1;
+            var res = "";
             while (indexA >= 0 && indexB >= 0)
             {
-                int numA = a[indexA] - '0';
-                int numB = b[indexB] - '0';
-                current = (numA + numB + carry) % 2;
-                carry = (numA + numB + carry) / 2;
-                res = current + res;
-                indexA--;
-                indexB--;
+                cur = ((a[indexA] - '0') + (b[indexB] - '0') + car) % 2;
+                car = ((a[indexA--] - '0') + (b[indexB--] - '0') + car) / 2;
+                res = cur + res;
             }
-            if (a.Length > b.Length)
+            while (indexA >= 0)
             {
-                while (indexA >= 0)
-                {
-                    int numA = a[indexA] - '0';
-                    current = (numA + carry) % 2;
-                    carry = (numA + carry) / 2;
-                    res = current + res;
-                    indexA--;
-                }
+                cur = ((a[indexA] - '0') + car) % 2;
+                car = ((a[indexA--] - '0') + car) / 2;
+                res = cur + res;
             }
-            else
+            while (indexB >= 0)
             {
-                while (indexB >= 0)
-                {
-                    int numB = b[indexB] - '0';
-                    current = (numB + carry) % 2;
-                    carry = (numB + carry) / 2;
-                    res = current + res;
-                    indexB--;
-                }
+                cur = ((b[indexB] - '0') + car) % 2;
+                car = ((b[indexB--] - '0') + car) / 2;
+                res = cur + res;
             }
-            if (carry != 0)
-                res = carry + res;
+            if (car != 0) res = car + res;
             return res;
         }
     }
