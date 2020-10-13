@@ -14,19 +14,19 @@ namespace Sqrt_x_
         }
         static int MySqrt(int x)
         {
-            if (x == 1)
-                return 1;
-            int li = 1;
-            int hi = x;
+            if (x <= 1) return x;
+            long li = 0, hi = x;
             while (li < hi)
             {
-                int mid = li + (hi - li) / 2;
-                if (x / mid < mid)
+                var mid = li + (hi - li) / 2;
+                if (mid * mid == x)
+                    return (int)mid;
+                if (mid * mid > x)
                     hi = mid;
                 else
                     li = mid + 1;
             }
-            return li - 1;
+            return (int)li - 1;
         }
     }
 }
