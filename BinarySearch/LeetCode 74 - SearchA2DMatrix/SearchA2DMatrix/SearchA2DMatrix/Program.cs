@@ -54,5 +54,22 @@ namespace SearchA2DMatrix
                     return true;
             return false;
         }
+
+        static bool SearchMatrix_BinarySearch(int[][] matrix, int target)
+        {
+            if (matrix.Length == 0 || matrix[0].Length == 0) return false;
+            if (matrix.Length == 1) return Array.BinarySearch(matrix[0], target) >= 0;
+            int li = 1, hi = matrix.Length - 1;
+            while (li <= hi)
+            {
+                int mid = li + (hi - li) / 2;
+                if (matrix[mid][0] == target) return true;
+                if (matrix[mid][0] > target)
+                    hi = mid - 1;
+                else
+                    li = mid + 1;
+            }
+            return Array.BinarySearch(matrix[hi], target) >= 0;
+        }
     }
 }
