@@ -13,15 +13,15 @@ namespace ClimbingStairs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(ClimbStairs2(1));
+            Console.WriteLine(ClimbStairs_Dp(1));
         }
-        static int ClimbStairs1(int n)
+        static int ClimbStairs_Recursion(int n)
         {
             if (n == 1 || n == 2)
                 return n;
-            return ClimbStairs1(n - 1) + ClimbStairs1(n - 2);
+            return ClimbStairs_Recursion(n - 1) + ClimbStairs_Recursion(n - 2);
         }
-        static int ClimbStairs2(int n)
+        static int ClimbStairs_Dp(int n)
         {
             if (n == 0)
                 return 1;
@@ -33,6 +33,18 @@ namespace ClimbingStairs
             for (int i = 3; i < dp.Length; i++)
                 dp[i] = dp[i - 1] + dp[i - 2];
             return dp[n];
+        }
+        public int ClimbStairs_O1Space(int n)
+        {
+            if (n < 2) return 1;
+            int count1 = 1, count2 = 2, res = 2;
+            for (int i = 2; i < n; i++)
+            {
+                res = count1 + count2;
+                count1 = count2;
+                count2 = res;
+            }
+            return res;
         }
     }
 }
