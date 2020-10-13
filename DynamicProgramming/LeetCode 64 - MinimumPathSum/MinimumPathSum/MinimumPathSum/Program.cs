@@ -14,18 +14,19 @@ namespace MinimumPathSum
         }
         static int MinPathSum(int[][] grid)
         {
-            int row = grid.Length;
-            if (row == 0)
-                return 0;
-            int col = grid[0].Length;
-            for (int r = 1; r < row; r++)
-                grid[r][0] += grid[r - 1][0];
-            for (int c = 1; c < col; c++)
-                grid[0][c] += grid[0][c - 1];
-            for (int r = 1; r < row; r++)
-                for (int c = 1; c < col; c++)
-                    grid[r][c] = grid[r][c] + Math.Min(grid[r][c - 1], grid[r - 1][c]);
-            return grid[row - 1][col - 1];
+            if (grid.Length == 0 || grid[0].Length == 0) return 0;
+            for (int i = 1; i < grid.Length; i++)
+                grid[i][0] += grid[i - 1][0];
+            for (int i = 1; i < grid[0].Length; i++)
+                grid[0][i] += grid[0][i - 1];
+            for (int i = 1; i < grid.Length; i++)
+            {
+                for (int j = 1; j < grid[0].Length; j++)
+                {
+                    grid[i][j] += Math.Min(grid[i - 1][j], grid[i][j - 1]);
+                }
+            }
+            return grid[grid.Length - 1][grid[0].Length - 1];
         }
     }
 }
