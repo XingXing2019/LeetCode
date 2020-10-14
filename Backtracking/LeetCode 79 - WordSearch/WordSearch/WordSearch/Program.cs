@@ -5,6 +5,7 @@
 //创建isExist，使他等于递归条用index+1和当前坐标上下左右四个位置。
 //回溯时将board[x][y]复原。并返回isExist。
 using System;
+using System.Collections.Generic;
 
 namespace WordSearch
 {
@@ -50,6 +51,39 @@ namespace WordSearch
                           IsExist(board, word, index + 1, x, y + 1);
             board[x][y] = record;
             return isExist;
+        }
+
+        public bool Exist_DirectionArray(char[][] board, string word)
+        {
+            for (int x = 0; x < board.Length; x++)
+            {
+                for (int y = 0; y < board[0].Length; y++)
+                {
+                    if (board[x][y] == word[0] && DFS(word, x, y, 0, board, new HashSet<string> { $"{x}:{y}" }))
+                        return true;
+                }
+            }
+            return false;
+        }
+
+        static bool DFS(string word, int x, int y, int cur, char[][] board, HashSet<string> visited)
+        {
+            if (word[cur] != board[x][y]) return false;
+            if (cur == word.Length - 1) return true;
+            int[] dx = { -1, 1, 0, 0 };
+            int[] dy = { 0, 0, -1, 1 };
+            var found = false;
+            for (int i = 0; i < 4; i++)
+            {
+                int newX = dx[i] + x;
+                int newY = dy[i] + y;
+                if (newX < 0 || newX >= board.Length || newY < 0 || newY >= board[0].Length) continue;
+                if (cur >= word.Length - 1 || visited.Contains($"{newX}:{newY}")) continue;
+                visited.Add($"{newX}:{newY}");
+                found = found || DFS(word, newX, newY, cur + 1, board, visited);
+                visited.Remove($"{newX}:{newY}");
+            }
+            return found;
         }
     }
 }
