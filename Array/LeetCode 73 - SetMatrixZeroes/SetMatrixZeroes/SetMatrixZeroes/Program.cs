@@ -34,5 +34,39 @@ namespace SetMatrixZeroes
                 for (int i = 0; i < matrix.Length; i++)
                     matrix[i][col] = 0;
         }
+        static void SetZeroes_O1Space(int[][] matrix)
+        {
+            var isZero = false;
+            for (int r = 0; r < matrix.Length; r++)
+            {
+                isZero = isZero || matrix[r][0] == 0;
+                for (int c = 1; c < matrix[0].Length; c++)
+                {
+                    if (matrix[r][c] == 0)
+                    {
+                        matrix[r][0] = 0;
+                        matrix[0][c] = 0;
+                    }
+                }
+            }
+            for (int r = 1; r < matrix.Length; r++)
+            {
+                for (int c = 1; c < matrix[0].Length; c++)
+                {
+                    if (matrix[r][0] == 0 || matrix[0][c] == 0)
+                        matrix[r][c] = 0;
+                }
+            }
+            if (matrix[0][0] == 0)
+            {
+                for (int c = 0; c < matrix[0].Length; c++)
+                    matrix[0][c] = 0;
+            }
+            if (isZero)
+            {
+                for (int r = 0; r < matrix.Length; r++)
+                    matrix[r][0] = 0;
+            }
+        }
     }
 }
