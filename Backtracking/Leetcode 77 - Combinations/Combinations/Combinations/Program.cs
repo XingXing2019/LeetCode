@@ -14,24 +14,20 @@ namespace Combinations
         }
         static IList<IList<int>> Combine(int n, int k)
         {
-            List<IList<int>> res = new List<IList<int>>();
-            List<int> item = new List<int>();
-            Generate(1, res, item, n, k);
+            var res = new List<IList<int>>();
+            DFS(n, k, 1, new List<int>(), res);
             return res;
         }
-        static void Generate(int m, List<IList<int>> res, List<int> item, int n, int k)
+
+        static void DFS(int n, int k, int cur, List<int> item, List<IList<int>> res)
         {
-            if (k == 0)
-            {
+            if (item.Count == k)
                 res.Add(new List<int>(item));
-                return;
-            }
-            for (int i = m; i <= n; i++)
+            for (int i = cur; i <= n; i++)
             {
-                if (k != 0)
-                    item.Add(i);
-                Generate(i + 1, res, item, n, k - 1);
-                item.Remove(i);
+                item.Add(i);
+                DFS(n, k, i + 1, item, res);
+                item.RemoveAt(item.Count - 1);
             }
         }
     }
