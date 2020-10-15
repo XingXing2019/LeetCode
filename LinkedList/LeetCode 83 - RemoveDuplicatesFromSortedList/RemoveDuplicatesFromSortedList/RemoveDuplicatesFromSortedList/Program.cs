@@ -17,16 +17,19 @@ namespace RemoveDuplicatesFromSortedList
         }
         static ListNode DeleteDuplicates(ListNode head)
         {
-            ListNode res = head, point = head;
-            while (head != null)
+            if (head == null) return null;
+            ListNode pre = head, pointer = head.next;
+            while (pointer != null)
             {
-                int val = head.val;
-                while (head != null && head.val == val)
-                    head = head.next;
-                point.next = head;
-                point = point.next;
+                if (pointer.val != pre.val)
+                {
+                    pre.next = pointer;
+                    pre = pre.next;
+                }
+                pointer = pointer.next;
             }
-            return res;
+            pre.next = pointer;
+            return head;
         }
     }
 }
