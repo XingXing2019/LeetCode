@@ -19,27 +19,25 @@ namespace PartitionList
 
         static ListNode Partition(ListNode head, int x)
         {
-            ListNode more = new ListNode(0);
-            ListNode moreHead = more;
-            ListNode less = new ListNode(0);
-            ListNode lessHead = less;
+            ListNode smallHead = new ListNode(), largeHear = new ListNode();
+            ListNode pointS = smallHead, pointL = largeHear;
             while (head != null)
             {
-                if (head.val >= x)
+                if (head.val < x)
                 {
-                    more.next = head;
-                    more = more.next;
+                    pointS.next = head;
+                    pointS = pointS.next;
                 }
                 else
                 {
-                    less.next = head;
-                    less = less.next;
+                    pointL.next = head;
+                    pointL = pointL.next;
                 }
                 head = head.next;
             }
-            more.next = null;
-            less.next = moreHead.next;
-            return lessHead.next;
+            pointL.next = null;
+            pointS.next = largeHear.next;
+            return smallHead.next;
         }
     }
 }
