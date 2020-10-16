@@ -19,25 +19,18 @@ namespace MergeSortedArray
         }
         static void Merge(int[] nums1, int m, int[] nums2, int n)
         {
-            int resEnd = m + n - 1;
-            int p1End = m - 1;
-            int p2End = n - 1;
-            if (m == 0)
-                while (p2End >= 0 && resEnd >= 0)
-                    nums1[resEnd--] = nums2[p2End--];
-            else
+            int point1 = m - 1, point2 = n - 1, index = m + n - 1;
+            while (point1 >= 0 && point2 >= 0)
             {
-                while (p1End >= 0 && p2End >= 0)
-                {
-                    if (nums1[p1End] > nums2[p2End])
-                        nums1[resEnd] = nums1[p1End--];
-                    else
-                        nums1[resEnd] = nums2[p2End--];
-                    resEnd--;
-                }
-                while (p2End >= 0 && resEnd >= 0)
-                    nums1[resEnd--] = nums2[p2End--];
-            } 
+                if (nums1[point1] > nums2[point2])
+                    nums1[index--] = nums1[point1--];
+                else
+                    nums1[index--] = nums2[point2--];
+            }
+            while (point1 >= 0)
+                nums1[index--] = nums1[point1--];
+            while (point2 >= 0)
+                nums1[index--] = nums2[point2--];
         }
     }
 }
