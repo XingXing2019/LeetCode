@@ -5,13 +5,14 @@ using System;
 
 namespace ReverseLinkedListII
 {
-    class ListNode
+    public class ListNode
     {
         public int val;
         public ListNode next;
-        public ListNode(int x)
+        public ListNode(int val = 0, ListNode next = null)
         {
-            val = x;
+            this.val = val;
+            this.next = next;
         }
     }
     class Program
@@ -21,7 +22,7 @@ namespace ReverseLinkedListII
             ListNode head = CreateList(new int[] { 1, 2, 3, 4, 5 });
             PrintList(head);
             Console.WriteLine("");
-            ListNode res1 = ReverseBetween(head, 2, 4);
+            ListNode res1 = ReverseBetween_ReverseInPlace(head, 2, 4);
             PrintList(res1);
         }
         static ListNode CreateList(int[] nums)
@@ -42,7 +43,7 @@ namespace ReverseLinkedListII
             }
             Console.Write("null");
         }
-        static ListNode ReverseBetween(ListNode head, int m, int n)
+        static ListNode ReverseBetween_ReverseInPlace(ListNode head, int m, int n)
         {
             if (head == null)
                 return null;
@@ -65,5 +66,24 @@ namespace ReverseLinkedListII
             return dummy.next;
         }
 
+        public ListNode ReverseBetween_CreateNewNode(ListNode head, int m, int n)
+        {
+            ListNode pre = new ListNode(0, head), dummy = pre;
+            ListNode pointer = head, reverse = null, last = null;
+            for (int i = 1; i < m; i++)
+            {
+                pre = pre.next;
+                pointer = pointer.next;
+            }
+            for (int i = 0; i <= n - m; i++)
+            {
+                reverse = new ListNode(pointer.val, reverse);
+                if (last == null) last = reverse;
+                pointer = pointer.next;
+            }
+            pre.next = reverse;
+            last.next = pointer;
+            return dummy.next;
+        }
     }
 }
