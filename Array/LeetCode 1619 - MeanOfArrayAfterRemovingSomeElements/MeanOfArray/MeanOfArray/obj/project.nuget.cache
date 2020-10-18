@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYX6CMXB0rTsrkyPfqSo1Y3Zo6Do0djjlRgfPX78C+3sFXLpWqmgAiaG5Met6X66DnpvWWJOEgkgMYc8hA3x3w==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Array\\LeetCode 1619 - MeanOfArrayAfterRemovingSomeElements\\MeanOfArray\\MeanOfArray\\MeanOfArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
