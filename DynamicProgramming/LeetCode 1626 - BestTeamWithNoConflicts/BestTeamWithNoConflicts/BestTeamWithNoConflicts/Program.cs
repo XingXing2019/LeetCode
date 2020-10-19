@@ -23,10 +23,8 @@ namespace BestTeamWithNoConflicts
             {
                 dp[i] = record[i][1];
                 for (int j = 0; j < i; j++)
-                {
-                    if (record[i][0] == record[j][0] || record[j][1] <= record[i][1])
-                        dp[i] = Math.Max(dp[i], dp[j] + record[i][1]);
-                }
+                    dp[i] = record[i][0] == record[j][0] || record[j][1] <= record[i][1] 
+                        ? dp[i] = Math.Max(dp[i], dp[j] + record[i][1]) : dp[i];
                 res = Math.Max(res, dp[i]);
             }
             return res;
