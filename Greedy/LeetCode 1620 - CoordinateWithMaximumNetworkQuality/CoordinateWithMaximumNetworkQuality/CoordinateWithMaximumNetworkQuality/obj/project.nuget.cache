@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gudKKU+d33dbVBiH5fTSvRRF7wJM8SL2NVmdmsVj61jMhF3UvfIcjvtXq7Fh0DOjSjobOR/YvEHUqsrFMG5sQA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1620 - CoordinateWithMaximumNetworkQuality\\CoordinateWithMaximumNetworkQuality\\CoordinateWithMaximumNetworkQuality\\CoordinateWithMaximumNetworkQuality.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
