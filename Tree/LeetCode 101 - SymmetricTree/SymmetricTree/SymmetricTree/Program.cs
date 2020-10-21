@@ -39,8 +39,7 @@ namespace SymmetricTree
         {
             if (left != null && right != null)
                 return left.val == right.val && CheckSymmetric(left.left, right.right) && CheckSymmetric(left.right, right.left);
-            else
-                return left == null && right == null;
+            return left == null && right == null;
         }
         static bool IsSymmetric_Queue(TreeNode root)
         {
@@ -53,8 +52,7 @@ namespace SymmetricTree
                 var left = queue.Dequeue();
                 var right = queue.Dequeue();
                 if (left == right) continue;
-                if (left == null && right != null || left != null && right == null) return false;
-                if (left.val != right.val) return false;
+                if (left == null || right == null || left.val != right.val) return false;
                 queue.Enqueue(left.left);
                 queue.Enqueue(right.right);
                 queue.Enqueue(left.right);
