@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace MaximumDepthOfBinaryTree
 {
@@ -32,14 +33,34 @@ namespace MaximumDepthOfBinaryTree
 
         int maxDepth;
         int depth;
-        public int MaxDepth(TreeNode root)
+        public int MaxDepth_DFS(TreeNode root)
         {            
             if (root == null) return depth;
             depth++;
-            maxDepth = Math.Max(maxDepth, MaxDepth(root.left));
-            maxDepth = Math.Max(maxDepth, MaxDepth(root.right));
+            maxDepth = Math.Max(maxDepth, MaxDepth_DFS(root.left));
+            maxDepth = Math.Max(maxDepth, MaxDepth_DFS(root.right));
             depth--;
             return maxDepth;
+        }
+
+        public int MaxDepth_BFS(TreeNode root)
+        {
+            int depth = 0;
+            if (root == null) return depth;
+            var queue = new Queue<TreeNode>();
+            queue.Enqueue(root);
+            while (queue.Count != 0)
+            {
+                var count = queue.Count;
+                depth++;
+                for (int i = 0; i < count; i++)
+                {
+                    var cur = queue.Dequeue();
+                    if (cur.left != null) queue.Enqueue(cur.left);
+                    if (cur.right != null) queue.Enqueue(cur.right);
+                }
+            }
+            return depth;
         }
     }
 }
