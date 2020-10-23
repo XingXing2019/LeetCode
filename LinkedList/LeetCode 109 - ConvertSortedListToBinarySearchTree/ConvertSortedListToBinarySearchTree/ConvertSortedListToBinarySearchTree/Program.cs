@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Dynamic;
 using System.Runtime.InteropServices.WindowsRuntime;
 
@@ -92,6 +93,29 @@ namespace ConvertSortedListToBinarySearchTree
             var isHead = pre.next == head;
             pre.next = null;
             root.left = SortedListToBST_Recursion(isHead ? null : head);
+            return root;
+        }
+
+        static TreeNode SortedListToBST_ToArray(ListNode head)
+        {
+            var vals = new List<int>();
+            while (head != null)
+            {
+                vals.Add(head.val);
+                head = head.next;
+            }
+            return DFS(vals.ToArray());
+        }
+
+        static TreeNode DFS(int[] vals)
+        {
+            if (vals.Length == 0) return null;
+            var index = vals.Length / 2;
+            var root = new TreeNode(vals[index]);
+            var left = vals[..index];
+            var right = vals[(index + 1)..];
+            root.left = DFS(left);
+            root.right = DFS(right);
             return root;
         }
 
