@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace BalancedBinaryTree
 {
@@ -33,15 +34,35 @@ namespace BalancedBinaryTree
         static bool IsBalanced(TreeNode root)
         {
             if (root == null) return true;
-            var left = GetDepth(root.left);
-            var rigth = GetDepth(root.right);
+            var left = BFS(root.left);
+            var rigth = BFS(root.right);
             return Math.Abs(left - rigth) <=1 && IsBalanced(root.left) && IsBalanced(root.right);
         }
 
-        static int GetDepth(TreeNode node)
+        static int DFS(TreeNode node)
         {
             if (node == null) return 0;
-            return Math.Max(GetDepth(node.left), GetDepth(node.right)) + 1;
+            return Math.Max(DFS(node.left), DFS(node.right)) + 1;
+        }
+
+        static int BFS(TreeNode node)
+        {
+            if (node == null) return 0;
+            var queue = new Queue<TreeNode>();
+            queue.Enqueue(node);
+            int depth = 0;
+            while (queue.Count != 0)
+            {
+                var count = queue.Count;
+                depth++;
+                for (int i = 0; i < count; i++)
+                {
+                    var cur = queue.Dequeue();
+                    if(cur.left != null) queue.Enqueue(cur.left);
+                    if (cur.right != null) queue.Enqueue(cur.right);
+                }
+            }
+            return depth;
         }
     }
 }
