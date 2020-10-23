@@ -17,7 +17,7 @@ namespace MinimumDepthOfBinaryTree
         {
             Console.WriteLine("Hello World!");
         }
-        static int MinDepth(TreeNode root)
+        static int MinDepth_DFS(TreeNode root)
         {
             if (root == null)
                 return 0;
@@ -39,6 +39,26 @@ namespace MinimumDepthOfBinaryTree
             GetDepth(node.left, record, depth);
             GetDepth(node.right, record, depth);
             depth--;
+        }
+        public int MinDepth_BFS(TreeNode root)
+        {
+            if (root == null) return 0;
+            int depth = 0;
+            var queue = new Queue<TreeNode>();
+            queue.Enqueue(root);
+            while (queue.Count != 0)
+            {
+                var count = queue.Count;
+                depth++;
+                for (int i = 0; i < count; i++)
+                {
+                    var cur = queue.Dequeue();
+                    if (cur.left == cur.right) return depth;
+                    if (cur.left != null) queue.Enqueue(cur.left);
+                    if (cur.right != null) queue.Enqueue(cur.right);
+                }
+            }
+            return depth;
         }
     }
 }
