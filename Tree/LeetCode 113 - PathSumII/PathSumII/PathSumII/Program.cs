@@ -45,25 +45,19 @@ namespace PathSumII
         static IList<IList<int>> PathSum(TreeNode root, int sum)
         {
             var res = new List<IList<int>>();
-            var path = new List<int>();
-            DFS(root, res, path, sum);
+            DFS(root, sum, new List<int>(), res);
             return res;
         }
 
-        static void DFS(TreeNode node, List<IList<int>> res, List<int> path, int sum)
+        static void DFS(TreeNode node, int sum, List<int> item, List<IList<int>> res)
         {
             if (node == null) return;
-            path.Add(node.val);
-            sum -= node.val;
-            if (node.left == node.right && sum == 0)
-            {
-                var temp = new List<int>(path);
-                res.Add(temp);
-            }
-            DFS(node.left, res, path, sum);
-            DFS(node.right, res, path, sum);
-            path.RemoveAt(path.Count - 1);
-            sum += node.val;
+            item.Add(node.val);
+            if (node.left == node.right && sum - node.val == 0)
+                res.Add(new List<int>(item));
+            DFS(node.left, sum - node.val, item, res);
+            DFS(node.right, sum - node.val, item, res);
+            item.RemoveAt(item.Count - 1);
         }
     }
 }
