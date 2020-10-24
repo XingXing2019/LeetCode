@@ -57,5 +57,11 @@ namespace PathSum
             Preorder(node.right, sum, pathValue, count);
             pathValue -= node.val;
         }
+        static bool HasPathSum_Recursion(TreeNode root, int sum)
+        {
+            if (root == null) return false;
+            if (root.left == root.right) return sum - root.val == 0;
+            return HasPathSum(root.left, sum - root.val) || HasPathSum(root.right, sum - root.val);
+        }
     }
 }
