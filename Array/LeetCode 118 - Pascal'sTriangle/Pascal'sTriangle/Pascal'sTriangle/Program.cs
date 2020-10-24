@@ -14,17 +14,18 @@ namespace Pascal_sTriangle
         }
         static IList<IList<int>> Generate(int numRows)
         {
-            List<IList<int>> res = new List<IList<int>>();
-            for (int r = 0; r < numRows; r++)
-                res.Add(new int[r + 1]);
-            for (int r = 0; r < numRows; r++)
-                for (int c = 0; c <= r; c++)
+            var res = new int[numRows][];
+            if (numRows == 0) return res;
+            res[0] = new[] { 1 };
+            for (int i = 1; i < numRows; i++)
+            {
+                res[i] = new int[i + 1];
+                for (int j = 0; j < res[i].Length; j++)
                 {
-                    if (c == 0 || c == r)
-                        res[r][c] = 1;
-                    else
-                        res[r][c] = res[r - 1][c - 1] + res[r - 1][c];
+                    if (j != 0) res[i][j] += res[i - 1][j - 1];
+                    if (j != res[i].Length - 1) res[i][j] += res[i - 1][j];
                 }
+            }
             return res;
         }
     }
