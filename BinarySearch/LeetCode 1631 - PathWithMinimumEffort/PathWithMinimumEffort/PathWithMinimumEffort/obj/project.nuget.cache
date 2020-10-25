@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjEDW13Q2oA2xGuTDIIyWpfe+GVMHYmur+rXSnKlS7x24m300BHY8A/NdDQYRZwHsVMi8VyzIhnPvmk/oMBgYQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 1631 - PathWithMinimumEffort\\PathWithMinimumEffort\\PathWithMinimumEffort\\PathWithMinimumEffort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
