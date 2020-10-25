@@ -16,13 +16,12 @@ namespace SlowestKey
             var max = releaseTimes[0];
             for (int i = 1; i < releaseTimes.Length; i++)
             {
-                if (releaseTimes[i] - releaseTimes[i - 1] > max)
+                if (releaseTimes[i] - releaseTimes[i - 1] > max || 
+                    releaseTimes[i] - releaseTimes[i - 1] == max && keysPressed[i] > res)
                 {
                     max = releaseTimes[i] - releaseTimes[i - 1];
                     res = keysPressed[i];
                 }
-                else if(releaseTimes[i] - releaseTimes[i - 1] == max && keysPressed[i] > res)
-                    res = keysPressed[i];
             }
             return res;
         }
