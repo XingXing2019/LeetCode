@@ -35,5 +35,20 @@ namespace BestTimeToBuyAndSellStockII
             }
             return dp[prices.Length - 1][0];
         }
+
+        static int MaxProfit_Dp(int[] prices)
+        {
+            if (prices.Length < 2) return 0;
+            var has = new int[prices.Length];
+            var doNotHas = new int[prices.Length];
+            has[0] = -prices[0];
+            doNotHas[0] = 0;
+            for (int i = 1; i < prices.Length; i++)
+            {
+                has[i] = Math.Max(has[i - 1], doNotHas[i - 1] - prices[i]);
+                doNotHas[i] = Math.Max(doNotHas[i - 1], has[i - 1] + prices[i]);
+            }
+            return doNotHas[doNotHas.Length - 1];
+        }
     }
 }
