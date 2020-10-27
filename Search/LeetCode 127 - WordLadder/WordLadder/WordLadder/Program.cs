@@ -19,55 +19,55 @@ namespace WordLadder
         }
         static int LadderLength(string beginWord, string endWord, IList<string> wordList)
         {
-            Dictionary<string, List<string>> graph = new Dictionary<string, List<string>>();
-            ConstructGraph(beginWord, wordList, graph);
-            var q = new Queue<Dictionary<string, int>>();
-            Dictionary<string, int> visit = new Dictionary<string, int> { { beginWord, 1 } };
-            q.Enqueue(new Dictionary<string, int>() { { beginWord, 1 } });
-            while (q.Count != 0)
+            var res = 0;
+            if (!wordList.Contains(endWord)) return res;
+            var dict = new Dictionary<string, List<string>>();
+            dict[beginWord] = new List<string>();
+            foreach (var word in wordList)
             {
-                var tem = q.Dequeue();
-                if (tem.ContainsKey(endWord))
-                    return tem[endWord];
-                foreach (var kv in tem)
+                if (CheckValidPath(beginWord, word))
+                    dict[beginWord].Add(word);
+            }
+            foreach (var word1 in wordList)
+            {
+                dict[word1] = new List<string>();
+                foreach (var word2 in wordList)
                 {
-                    var k = kv.Key;
-                    foreach (var word in graph[k])
+                    if (CheckValidPath(word1, word2))
+                        dict[word1].Add(word2);
+                }
+            }
+            var queue = new Queue<string>();
+            queue.Enqueue(beginWord);
+            var visited = new HashSet<string>();
+            visited.Add(beginWord);
+            while (queue.Count != 0)
+            {
+                var count = queue.Count;
+                res++;
+                for (int i = 0; i < count; i++)
+                {
+                    var cur = queue.Dequeue();
+                    if (cur == endWord) return res;
+                    foreach (var next in dict[cur])
                     {
-                        if (!visit.ContainsKey(word))
-                        {
-                            q.Enqueue(new Dictionary<string, int>() { { word, kv.Value + 1 } });
-                            visit.Add(word, 1);
-                        }
+                        if (visited.Add(next))
+                            queue.Enqueue(next);
                     }
                 }
             }
             return 0;
         }
-        static bool CheckConnect(string w1, string w2)
+
+        static bool CheckValidPath(string word1, string word2)
         {
             int count = 0;
-            for (int i = 0; i < w1.Length; i++)
-                if (w1[i] != w2[i])
-                    count++;
-            return count == 1;
-        }
-        static void ConstructGraph(string beginWord, IList<string> wordList, Dictionary<string, List<string>> graph)
-        {
-            wordList.Add(beginWord);
-            for (int i = 0; i < wordList.Count; i++)
-                graph[wordList[i]] = new List<string>();
-            for (int i = 0; i < wordList.Count; i++)
+            for (int i = 0; i < word1.Length; i++)
             {
-                for (int j = i + 1; j < wordList.Count; j++)
-                {
-                    if(CheckConnect(wordList[i], wordList[j]))
-                    {
-                        graph[wordList[i]].Add(wordList[j]);
-                        graph[wordList[j]].Add(wordList[i]);
-                    }                        
-                }
+                if (word1[i] != word2[i])
+                    count++;
             }
+            return count == 1;
         }
     }
 }
