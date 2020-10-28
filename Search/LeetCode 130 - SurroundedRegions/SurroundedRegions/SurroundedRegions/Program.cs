@@ -15,7 +15,7 @@ namespace SurroundedRegions
             board[2] = new char[5] { 'X', 'O', 'X', 'O', 'X' };
             board[3] = new char[5] { 'O', 'X', 'O', 'O', 'O' };
             board[4] = new char[5] { 'X', 'X', 'O', 'X', 'O' };
-            Solve(board);
+            Solve_BFS(board);
         }
         static void Solve_DFS(char[][] board)
         {
