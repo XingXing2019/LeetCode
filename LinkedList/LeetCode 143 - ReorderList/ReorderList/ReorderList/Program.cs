@@ -105,5 +105,23 @@ namespace ReorderList
             reorder[reorder.Length - 1].next = null;
             head = reorder[0];
         }
+        static void ReorderList_List(ListNode head)
+        {
+            if (head == null) return;
+            var nodes = new List<ListNode>();
+            var pointer = head;
+            while (pointer != null)
+            {
+                nodes.Add(pointer);
+                pointer = pointer.next;
+            }
+            int li = 0, hi = nodes.Count - 1;
+            while (li < hi)
+            {
+                nodes[li++].next = nodes[hi];
+                nodes[hi--].next = nodes[li];
+            }
+            nodes[li].next = null;
+        }
     }
 }
