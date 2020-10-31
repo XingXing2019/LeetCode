@@ -20,27 +20,27 @@ namespace InsertionSortList
         }
         static ListNode InsertionSortList(ListNode head)
         {
-            if (head == null)
-                return head;
-            ListNode dummyHead = new ListNode(0);
-            dummyHead.next = head;
-            ListNode point = head;
-            while (point.next != null)
+            public ListNode InsertionSortList(ListNode head)
             {
-                if (point.val <= point.next.val)
-                    point = point.next;
-                else
+                if (head == null) return null;
+                ListNode dummy = new ListNode(0, head), cur = head;
+                while (cur.next != null)
                 {
-                    ListNode tem = point.next;
-                    ListNode q = dummyHead;
-                    point.next = point.next.next;
-                    while (q.next.val < tem.val)
-                        q = q.next;
-                    tem.next = q.next;
-                    q.next = tem;
+                    if (cur.val < cur.next.val)
+                        cur = cur.next;
+                    else
+                    {
+                        var temp = cur.next;
+                        cur.next = temp.next;
+                        var pos = dummy;
+                        while (pos.next.val < temp.val)
+                            pos = pos.next;
+                        temp.next = pos.next;
+                        pos.next = temp;
+                    }
                 }
+                return dummy.next;
             }
-            return dummyHead.next;
         }
     }
 }
