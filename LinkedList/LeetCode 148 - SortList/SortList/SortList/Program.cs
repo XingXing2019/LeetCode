@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace SortList
 {
@@ -37,6 +39,20 @@ namespace SortList
                 }
             }
             return dummy.next;
+        }
+        public ListNode SortList_Linq(ListNode head)
+        {
+            if (head == null) return null;
+            var nodes = new List<ListNode>();
+            while (head != null)
+            {
+                nodes.Add(head);
+                head = head.next;
+            }
+            nodes = nodes.OrderBy(x => x.val).ToList();
+            for (int i = 0; i < nodes.Count; i++)
+                nodes[i].next = i == nodes.Count - 1 ? null : nodes[i + 1];
+            return nodes[0];
         }
     }
 }
