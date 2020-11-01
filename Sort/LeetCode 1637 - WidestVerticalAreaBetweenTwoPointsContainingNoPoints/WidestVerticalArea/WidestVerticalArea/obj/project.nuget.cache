@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzP/sa45CiVBfhLq5lxHb2aIaMyOpjznmggbDEiOYKrruczJ4zLBQz1uz6pIkfHsJBqvJEOZVYJ8OoVrIQC/tA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1637 - WidestVerticalAreaBetweenTwoPointsContainingNoPoints\\WidestVerticalArea\\WidestVerticalArea\\WidestVerticalArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
