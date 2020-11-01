@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ds8WKDzF7r9QhuBCq7gg7j0hDfTJRm4hZWttDPO/pRRkKxxySwPrmiFpGXg/UEnFHy0BEJ4AzUvkCcLl2l1HSg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
