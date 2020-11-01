@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+hBVtaRw0Lv28MVQihpDu628rXLCH7VD8tB33C9l0JehYfocjjjwJR+h8VDEcXleVKOianDYAUdHT60x+nnfw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1640 - CheckArrayFormationThroughConcatenation\\CheckArray\\CheckArray\\CheckArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
