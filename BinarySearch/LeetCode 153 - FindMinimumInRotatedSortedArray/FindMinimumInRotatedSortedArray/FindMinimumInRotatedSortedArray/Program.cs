@@ -24,5 +24,18 @@ namespace FindMinimumInRotatedSortedArray
             }
             return nums[li];
         }
+        static int FindMin_2(int[] nums)
+        {
+            int li = 0, hi = nums.Length - 1;
+            while (li < hi)
+            {
+                int mid = li + (hi - li) / 2;
+                if (nums[mid] < nums[hi])
+                    hi = mid;
+                else
+                    li = mid + 1;
+            }
+            return nums[li];
+        }
     }
 }
