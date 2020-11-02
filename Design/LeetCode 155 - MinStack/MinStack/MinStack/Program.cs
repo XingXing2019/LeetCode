@@ -12,37 +12,34 @@ namespace MinStack
     }
     public class MinStack
     {
-        private Stack data = new Stack();
-        private Stack minStack = new Stack();
+        private Stack<int> nums;
+        private Stack<int> min;
         public MinStack()
         {
-
+            nums = new Stack<int>();
+            min = new Stack<int>();
         }
         public void Push(int x)
         {
-            data.Push(x);
-            if (minStack.Count == 0)
-                minStack.Push(x);
-            else
-            {
-                if (x > (int)minStack.Peek())
-                    x = (int)minStack.Peek();
-                minStack.Push(x);
-            }
+            nums.Push(x);
+            if (min.Count != 0 && x >= min.Peek())
+                x = min.Peek();
+            min.Push(x);
         }
         public void Pop()
         {
-            data.Pop();
-            minStack.Pop();
+            nums.Pop();
+            min.Pop();
         }
 
         public int Top()
         {
-            return (int)data.Peek();
+            return nums.Peek();
         }
+
         public int GetMin()
         {
-            return (int)minStack.Peek();
+            return min.Peek();
         }
     }
 }

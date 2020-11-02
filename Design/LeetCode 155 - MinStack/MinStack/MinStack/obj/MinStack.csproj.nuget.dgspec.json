@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Stack\\LeetCode 155 - MinStack\\MinStack\\MinStack\\MinStack.csproj": {}
+    "F:\\C#\\Algorithm\\Design\\LeetCode 155 - MinStack\\MinStack\\MinStack\\MinStack.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Stack\\LeetCode 155 - MinStack\\MinStack\\MinStack\\MinStack.csproj": {
+    "F:\\C#\\Algorithm\\Design\\LeetCode 155 - MinStack\\MinStack\\MinStack\\MinStack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Stack\\LeetCode 155 - MinStack\\MinStack\\MinStack\\MinStack.csproj",
+        "projectUniqueName": "F:\\C#\\Algorithm\\Design\\LeetCode 155 - MinStack\\MinStack\\MinStack\\MinStack.csproj",
         "projectName": "MinStack",
-        "projectPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 155 - MinStack\\MinStack\\MinStack\\MinStack.csproj",
+        "projectPath": "F:\\C#\\Algorithm\\Design\\LeetCode 155 - MinStack\\MinStack\\MinStack\\MinStack.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 155 - MinStack\\MinStack\\MinStack\\obj\\",
+        "outputPath": "F:\\C#\\Algorithm\\Design\\LeetCode 155 - MinStack\\MinStack\\MinStack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
