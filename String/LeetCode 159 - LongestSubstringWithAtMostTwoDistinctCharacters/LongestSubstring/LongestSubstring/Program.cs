@@ -41,5 +41,24 @@ namespace LongestSubstring
             }
             return res;
         }
+
+        static int LengthOfLongestSubstringTwoDistinct_Linq(string s)
+        {
+            int li = 0, hi = 0, res = 0;
+            var record = new int[128];
+            while (hi < s.Length)
+            {
+                record[s[hi]]++;
+                if (record.Count(x => x != 0) < 3)
+                    res = Math.Max(res, hi - li + 1);
+                else
+                {
+                    while (li < hi && record.Count(x => x != 0) > 2)
+                        record[s[li++]]--;
+                }
+                hi++;
+            }
+            return res;
+        }
     }
 }
