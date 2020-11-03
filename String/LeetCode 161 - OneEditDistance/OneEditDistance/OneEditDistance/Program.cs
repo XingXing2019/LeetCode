@@ -42,5 +42,31 @@ namespace OneEditDistance
             return false;
         }
 
+        static bool IsOneEditDistance_2(string s, string t)
+        {
+            if (s.Length <= t.Length)
+                return s != t && Check(s, t);
+            return Check(t, s);
+        }
+
+        static bool Check(string s, string t)
+        {
+            if (Math.Abs(s.Length - t.Length) > 1) return false;
+            if (s == "" || t == "") return true;
+            int p1 = 0, p2 = 0, count = 0;
+            while (p1 < s.Length && p2 < t.Length)
+            {
+                if (s[p1] != t[p2])
+                {
+                    count++;
+                    if (s.Length != t.Length)
+                        p1--;
+                }
+                if (count > 1) return false;
+                p1++;
+                p2++;
+            }
+            return count <= 1;
+        }
     }
 }
