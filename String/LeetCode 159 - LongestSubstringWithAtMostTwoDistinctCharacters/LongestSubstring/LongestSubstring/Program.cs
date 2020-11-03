@@ -1,5 +1,6 @@
 ﻿//维护一个滑窗，用一个字典记录字母及其个数。使滑窗内最多只有两个不同的字母。
 using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace LongestSubstring
@@ -10,9 +11,9 @@ namespace LongestSubstring
         {
             //          012345678
             string s = "abcabcabc";
-            Console.WriteLine(LengthOfLongestSubstringTwoDistinct(s));
+            Console.WriteLine(LengthOfLongestSubstringTwoDistinct_Dictionary(s));
         }
-        static int LengthOfLongestSubstringTwoDistinct(string s)
+        static int LengthOfLongestSubstringTwoDistinct_Dictionary(string s)
         {
             int left = 0, right = 0, res = 0;
             if (s.Length == 0)
