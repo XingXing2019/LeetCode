@@ -14,22 +14,16 @@ namespace ExcelSheetColumnTitle
         }
         static string ConvertToTitle(int n)
         {
-            string res = "";
-            if (n == 0)
-                return res;
+            var res = "";
             while (n > 26)
             {
-                int tem = n % 26;
-                if (tem == 0)
-                {
-                    tem = 26;
-                    n--;
-                }
-                res = (char)(tem + 64) + res;
+                var temp = n % 26 - 1;
+                if (temp < 0) temp += 26;
+                res = (char)(temp + 'A') + res;
+                if (n % 26 == 0) n--;
                 n /= 26;
             }
-            res = (char)(n + 64) + res;
-            return res;
+            return (char)(n - 1 + 'A') + res;
         }
     }
 }
