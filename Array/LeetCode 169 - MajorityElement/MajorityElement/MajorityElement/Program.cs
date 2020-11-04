@@ -13,23 +13,23 @@ namespace MajorityElement
         {
             Console.WriteLine("Hello World!");
         }
-        public int MajorityElement(int[] nums)
+        static int MajorityElement_HashMap(int[] nums)
         {
-            Dictionary<int, int> map = new Dictionary<int, int>();
-            int res = 0;
-            for (int i = 0; i < nums.Length; i++)
+            var dict = new Dictionary<int, int>();
+            foreach (var num in nums)
             {
-                if (!map.ContainsKey(nums[i]))
-                    map.Add(nums[i], 1);
-                else
-                    map[nums[i]]++;
-                if (map[nums[i]] > nums.Length / 2)
-                {
-                    res = nums[i];
-                    break;
-                }
+                if (!dict.ContainsKey(num))
+                    dict[num] = 0;
+                dict[num]++;
+                if (dict[num] > nums.Length / 2)
+                    return num;
             }
-            return res;
+            return -1;
+        }
+        public int MajorityElement_Sort(int[] nums)
+        {
+            Array.Sort(nums);
+            return nums[nums.Length / 2];
         }
     }
 }
