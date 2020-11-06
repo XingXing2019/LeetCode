@@ -15,12 +15,11 @@ namespace FactorialTrailingZeroes
         }
         static int TrailingZeroes(int n)
         {
-            int res = 0;
-            long tem = 5;
-            while (n >= tem)
+            int res = 0, num = 5;
+            while (n >= num)
             {
-                res += (int)(n / tem);
-                tem *= 5;
+                res += n / num;
+                num *= 5;
             }
             return res;
         }
