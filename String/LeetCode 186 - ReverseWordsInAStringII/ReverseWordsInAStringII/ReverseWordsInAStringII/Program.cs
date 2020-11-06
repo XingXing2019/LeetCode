@@ -35,5 +35,23 @@ namespace ReverseWordsInAStringII
             for (int i = 0; i < reversed.Length; i++)
                 s[i] = reversed[i] == 0 ? ' ' : reversed[i];
         }
+        static void ReverseWords_InPlace(char[] s)
+        {
+            Array.Reverse(s);
+            var word = "";
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (s[i] != ' ')
+                    word += s[i];
+                else
+                {
+                    for (int j = 0; j < word.Length; j++)
+                        s[i - j - 1] = word[j];
+                    word = "";
+                }
+            }
+            for (int i = 0; i < word.Length; i++)
+                s[^(i + 1)] = word[i];
+        }
     }
 }
