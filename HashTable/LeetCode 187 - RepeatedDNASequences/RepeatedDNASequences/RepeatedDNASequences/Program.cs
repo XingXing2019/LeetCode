@@ -5,6 +5,7 @@
 //设置List<string>保存res，遍历字典把所有value大于1的key加入res。
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace RepeatedDNASequences
 {
@@ -31,6 +32,17 @@ namespace RepeatedDNASequences
                 if (kvPair.Value > 1)
                     res.Add(kvPair.Key);
             return res;
+        }
+        public IList<string> FindRepeatedDnaSequences_HashSet(string s)
+        {
+            var set = new HashSet<string>();
+            var res = new HashSet<string>();
+            for (int i = 0; i <= s.Length - 10; i++)
+            {
+                if (!set.Add(s.Substring(i, 10)))
+                    res.Add(s.Substring(i, 10));
+            }
+            return res.ToList();
         }
     }
 }
