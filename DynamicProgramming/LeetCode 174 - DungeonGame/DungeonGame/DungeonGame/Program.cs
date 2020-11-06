@@ -40,5 +40,21 @@ namespace DungeonGame
                     dp[r][c] = Math.Max(1, Math.Min(dp[r + 1][c], dp[r][c + 1]) - dungeon[r][c]);
             return dp[0][0];
         }
+        static int CalculateMinimumHP_O1Space(int[][] dungeon)
+        {
+            dungeon[^1][^1] = Math.Max(1, 1 - dungeon[^1][^1]);
+            for (int i = dungeon.Length - 2; i >= 0; i--)
+                dungeon[i][^1] = Math.Max(1, dungeon[i + 1][^1] - dungeon[i][^1]);
+            for (int i = dungeon[0].Length - 2; i >= 0; i--)
+                dungeon[^1][i] = Math.Max(1, dungeon[^1][i + 1] - dungeon[^1][i]);
+            for (int i = dungeon.Length - 2; i >= 0; i--)
+            {
+                for (int j = dungeon[0].Length - 2; j >= 0; j--)
+                {
+                    dungeon[i][j] = Math.Max(1, Math.Min(dungeon[i + 1][j], dungeon[i][j + 1]) - dungeon[i][j]);
+                }
+            }
+            return dungeon[0][0];
+        }
     }
 }
