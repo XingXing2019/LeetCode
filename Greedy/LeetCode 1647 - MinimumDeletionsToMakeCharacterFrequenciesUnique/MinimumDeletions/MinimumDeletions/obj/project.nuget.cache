@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QAG56ZOQ5eo0C4/+HuAI5wZ0Z6J+8FRz6HNMqn47S9f7k6rTNj3CBOD1l1h7VkK6rbNtCx1ltgWVsLCekAy97w==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1647 - MinimumDeletionsToMakeCharacterFrequenciesUnique\\MinimumDeletions\\MinimumDeletions\\MinimumDeletions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
