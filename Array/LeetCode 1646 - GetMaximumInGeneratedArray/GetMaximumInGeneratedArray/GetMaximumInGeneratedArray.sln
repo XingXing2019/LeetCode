@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMaximumInGeneratedArray", "GetMaximumInGeneratedArray\GetMaximumInGeneratedArray.csproj", "{844AA5D7-4C3C-40B9-AC74-BFE83B73B0E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844AA5D7-4C3C-40B9-AC74-BFE83B73B0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844AA5D7-4C3C-40B9-AC74-BFE83B73B0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844AA5D7-4C3C-40B9-AC74-BFE83B73B0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844AA5D7-4C3C-40B9-AC74-BFE83B73B0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85AB4344-872D-436A-8F28-D1931FC60717}
+	EndGlobalSection
+EndGlobal
