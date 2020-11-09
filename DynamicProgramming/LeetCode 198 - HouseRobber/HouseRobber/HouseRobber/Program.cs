@@ -30,5 +30,15 @@ namespace HouseRobber
             }
             return dpMaxProfit[dpMaxProfit.Length - 1];
         }
+        static int Rob_O1Space(int[] nums)
+        {
+            if (nums.Length == 0) return 0;
+            for (int i = 1; i < nums.Length; i++)
+            {
+                int temp = i == 1 ? 0 : nums[i - 2];
+                nums[i] = Math.Max(temp + nums[i], nums[i - 1]);
+            }
+            return nums[nums.Length - 1];
+        }
     }
 }
