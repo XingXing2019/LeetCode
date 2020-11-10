@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace RemoveLinkedListElements
 {
@@ -32,6 +33,19 @@ namespace RemoveLinkedListElements
             }
             slow.next = null;
             return res.next;
+        }
+        public ListNode RemoveElements_List(ListNode head, int val)
+        {
+            var nodes = new List<ListNode>();
+            while (head != null)
+            {
+                if (head.val != val)
+                    nodes.Add(head);
+                head = head.next;
+            }
+            for (int i = 0; i < nodes.Count; i++)
+                nodes[i].next = i == nodes.Count - 1 ? null : nodes[i + 1];
+            return nodes.Count == 0 ? null : nodes[0];
         }
     }
 }
