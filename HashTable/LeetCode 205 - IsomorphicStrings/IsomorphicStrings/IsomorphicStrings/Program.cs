@@ -3,6 +3,7 @@
 //当dict中存在s[i]时，如果s[i]对应的字母不是t[i]，则证明s[i]对应了多个t中的字母，则返回false。
 //遍历结束后但会true。
 using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace IsomorphicStrings
@@ -31,6 +32,21 @@ namespace IsomorphicStrings
                 }
             }
             return true;
+        }
+        public bool IsIsomorphic_Linq(string s, string t)
+        {
+            var dict = new Dictionary<char, HashSet<char>>();
+            var set = new HashSet<char>();
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (!dict.ContainsKey(s[i]))
+                {
+                    dict[s[i]] = new HashSet<char>();
+                    if (!set.Add(t[i])) return false;
+                }
+                dict[s[i]].Add(t[i]);
+            }
+            return dict.All(x => x.Value.Count == 1);
         }
     }
 }
