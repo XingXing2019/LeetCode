@@ -42,5 +42,22 @@ namespace HappyNumber
             }
             return res;
         }
+        public bool IsHappy_HashSet(int n)
+        {
+            var set = new HashSet<int>();
+            while (set.Add(n))
+            {
+                var num = 0;
+                while (n != 0)
+                {
+                    int temp = n % 10;
+                    num += temp * temp;
+                    n /= 10;
+                }
+                if (num == 1) return true;
+                n = num;
+            }
+            return false;
+        }
     }
 }
