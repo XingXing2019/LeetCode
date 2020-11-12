@@ -15,51 +15,56 @@ namespace ImplementTrie
     }
     public class Trie
     {
-        private class TrieNode
+        class Node
         {
             public bool IsWord { get; set; }
-            public TrieNode[] Children { get; set; }
-            public TrieNode()
+            public Node[] Children { get; set; }
+
+            public Node()
             {
-                Children = new TrieNode[26];
+                Children = new Node[26];
             }
         }
 
-        private TrieNode root;
+        private Node root;
+
         public Trie()
         {
-            root = new TrieNode();
+            root = new Node();
         }
+
         public void Insert(string word)
         {
-            var current = root;
+            var point = root;
             foreach (var letter in word)
             {
-                if (current.Children[letter - 'a'] == null)
-                    current.Children[letter - 'a'] = new TrieNode();
-                current = current.Children[letter - 'a'];
+                if (point.Children[letter - 'a'] == null)
+                    point.Children[letter - 'a'] = new Node();
+                point = point.Children[letter - 'a'];
             }
-            current.IsWord = true;
+            point.IsWord = true;
         }
+
         public bool Search(string word)
         {
-            var current = root;
+            var point = root;
             foreach (var letter in word)
             {
-                current = current.Children[letter - 'a'];
-                if (current == null)
+                if (point.Children[letter - 'a'] == null)
                     return false;
+                point = point.Children[letter - 'a'];
             }
-            return current.IsWord;
+            return point.IsWord;
         }
+
         public bool StartsWith(string prefix)
         {
-            var current = root;
+            var point = root;
             foreach (var letter in prefix)
             {
-                current = current.Children[letter - 'a'];
-                if (current == null)
+                if (point.Children[letter - 'a'] == null)
                     return false;
+                point = point.Children[letter - 'a'];
             }
             return true;
         }
