@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCg9SHYjZCGqCbZ2omFcMvW3voqx4Vc0L14QjOH3LlQP7MjXOB33ShvoDw1o1NT/USE2va6772K2SwMw5maLPw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1261 - FindElementsInAContaminatedBinaryTree\\FindElementsInAContaminatedBinaryTree\\FindElementsInAContaminatedBinaryTree\\FindElementsInAContaminatedBinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
