@@ -16,25 +16,21 @@ namespace HouseRobberII
         }
         static int Rob(int[] nums)
         {
-            int len = nums.Length;
-            if (len == 0)
-                return 0;
-            if (len == 1)
-                return nums[0];
-            if (len == 2)
-                return Math.Max(nums[0], nums[1]);
-            int[] firstNotIn = new int[len];
-            int[] firstIn = new int[len];
-            firstIn[0] = firstIn[1] = nums[0];
+            if (nums.Length == 1) return nums[0];
+            if (nums.Length == 2) return Math.Max(nums[0], nums[1]);
+            var firstIn = new int[nums.Length];
+            var firstNotIn = new int[nums.Length];
+            int res = 0;
+            firstIn[0] = nums[0];
+            firstIn[1] = nums[0];
             firstNotIn[1] = nums[1];
-            for (int i = 2; i < len - 1; i++)
+            for (int i = 2; i < nums.Length; i++)
             {
-                firstIn[i] = Math.Max(firstIn[i - 2] + nums[i], firstIn[i - 1]);
-                firstNotIn[i] = Math.Max(firstNotIn[i - 2] + nums[i], firstNotIn[i - 1]);
+                firstIn[i] = i == nums.Length - 1 ? firstIn[i - 1] : Math.Max(nums[i] + firstIn[i - 2], firstIn[i - 1]);
+                firstNotIn[i] = Math.Max(nums[i] + firstNotIn[i - 2], firstNotIn[i - 1]);
+                res = Math.Max(firstIn[i], firstNotIn[i]);
             }
-            firstIn[len - 1] = firstIn[len - 2];
-            firstNotIn[len - 1] = Math.Max(firstNotIn[len - 3] + nums[len - 1], firstNotIn[len - 2]);
-            return Math.Max(firstNotIn[len - 1], firstIn[len - 1]);
+            return res;
         }
     }
 }
