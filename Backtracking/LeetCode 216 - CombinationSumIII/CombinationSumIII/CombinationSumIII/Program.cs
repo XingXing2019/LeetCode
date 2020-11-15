@@ -13,33 +13,20 @@ namespace CombinationSumIII
         static IList<IList<int>> CombinationSum3(int k, int n)
         {
             var res = new List<IList<int>>();
-            for (int i = 1; i <= 9; i++)
-            {
-                var visit = new bool[10];
-                var path = new List<int>();
-                if (i <= n)
-                    DFS(i, path, res, k - 1, n - i, visit);
-            }
+            DFS(k, n, 1, new List<int>(), res);
             return res;
         }
 
-        static void DFS(int cur, List<int> path, List<IList<int>> res, int k, int n, bool[] visit)
+        static void DFS(int k, int n, int start, List<int> nums, IList<IList<int>> res)
         {
-            path.Add(cur);
-            visit[cur] = true;
-            if (n < 0 || k < 0) return;
-            if (n == 0 && k == 0)
+            if (k < 0 || n < 0) return;
+            if (k == 0 && n == 0)
+                res.Add(new List<int>(nums));
+            for (int i = start; i <= 9; i++)
             {
-                var temp = new List<int>(path);
-                res.Add(temp);
-            }
-            for (int i = cur; i <= 9; i++)
-            {
-                if(visit[i]) continue;
-                if (k == 0) break;
-                DFS(i, path, res, k - 1, n - i, visit);
-                path.Remove(i);
-                visit[i] = false;
+                nums.Add(i);
+                DFS(k - 1, n - i, i + 1, nums, res);
+                nums.RemoveAt(nums.Count - 1);
             }
         }
     }
