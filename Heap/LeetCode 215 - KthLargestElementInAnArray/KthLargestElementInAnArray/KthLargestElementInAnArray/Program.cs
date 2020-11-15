@@ -56,5 +56,10 @@ namespace KthLargestElementInAnArray
             }
             return maxHeap[^1];
         }
+        public int FindKthLargest_Sort(int[] nums, int k)
+        {
+            Array.Sort(nums);
+            return nums[^k];
+        }
     }
 }
