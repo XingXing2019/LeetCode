@@ -32,7 +32,7 @@ namespace KthLargestElementInAnArray
             }
             return maxHeap[0];
         }
-        static int FindKthLargest(int[] nums, int k)
+        static int FindKthLargest_List(int[] nums, int k)
         {
             var maxHeap = new List<int>();
             maxHeap.Add(nums[0]);
@@ -60,6 +60,46 @@ namespace KthLargestElementInAnArray
         {
             Array.Sort(nums);
             return nums[^k];
+        }
+
+        class ListNode
+        {
+            public int val;
+            public ListNode next;
+
+            public ListNode(int val = 0, ListNode next = null)
+            {
+                this.val = val;
+                this.next = next;
+            }
+        }
+        static int FindKthLargest_LinkedList(int[] nums, int k)
+        {
+            var head = new ListNode(nums[0]);
+            for (int i = 1; i < nums.Length; i++)
+            {
+                if (nums[i] >= head.val)
+                {
+                    var temp = new ListNode(nums[i], head);
+                    head = temp;
+                }
+                else
+                {
+                    var point = head;
+                    var pre = new ListNode(0, head);
+                    while (point != null && point.val > nums[i])
+                    {
+                        point = point.next;
+                        pre = pre.next;
+                    }
+                    var temp = new ListNode(nums[i], point);
+                    pre.next = temp;
+
+                }
+            }
+            for (int i = 1; i < k; i++)
+                head = head.next;
+            return head.val;
         }
     }
 }
