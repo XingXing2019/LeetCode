@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gHmIvOjQPgCd+N6jw4/5gTz9WtC7UX3ZzIKCQMIBUJbWpBx6ghaukyhz1KZb/6I4ZHlEwN+WTLYlHy5xC5m8g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1657 - DetermineIfTwoStringsAreClose\\DetermineIfTwoStringsAreClose\\DetermineIfTwoStringsAreClose\\DetermineIfTwoStringsAreClose.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
