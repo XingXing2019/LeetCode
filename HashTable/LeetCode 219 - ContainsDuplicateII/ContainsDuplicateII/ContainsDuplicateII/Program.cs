@@ -31,18 +31,12 @@ namespace ContainsDuplicateII
         }
         static bool ContainsNearbyDuplicate2(int[] nums, int k)
         {
-            var record = new Dictionary<int, int>();
+            var dict = new Dictionary<int, int>();
             for (int i = 0; i < nums.Length; i++)
             {
-                if (!record.ContainsKey(nums[i]))
-                    record[nums[i]] = i;
-                else
-                {
-                    if (i - record[nums[i]] <= k)
-                        return true;
-                    else
-                        record[nums[i]] = i;
-                }
+                if (dict.ContainsKey(nums[i]) && i - dict[nums[i]] <= k)
+                    return true;
+                dict[nums[i]] = i;
             }
             return false;
         }
