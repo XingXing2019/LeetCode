@@ -16,7 +16,7 @@ namespace CountCompleteTreeNodes
         {
             Console.WriteLine("Hello World!");
         }
-        static int CountNodes(TreeNode root)
+        static int CountNodes_BFS(TreeNode root)
         {
             if (root == null) return 0;
             var queue = new Queue<TreeNode>();
@@ -30,6 +30,17 @@ namespace CountCompleteTreeNodes
                 if(cur.right != null) queue.Enqueue(cur.right);
             }
             return count;
+        }
+
+        static int CountNodes_DFS(TreeNode root)
+        {
+            return DFS(root);
+        }
+
+        static int DFS(TreeNode node)
+        {
+            if (node == null) return 0;
+            return DFS(node.left) + DFS(node.right) + 1;
         }
     }
 }
