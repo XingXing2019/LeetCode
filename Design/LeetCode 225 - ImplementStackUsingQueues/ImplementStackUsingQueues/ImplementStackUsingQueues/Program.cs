@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 
 namespace ImplementStackUsingQueues
 {
@@ -13,35 +14,36 @@ namespace ImplementStackUsingQueues
 
     public class MyStack
     {
-        private Queue data = new Queue();
+        private Queue<int> queue;
         public MyStack()
         {
-
+            queue = new Queue<int>();
         }
+
         public void Push(int x)
         {
-            Queue tem = new Queue();
-            tem.Enqueue(x);
-            while (data.Count != 0)
-            {
-                tem.Enqueue((int)data.Dequeue());
-            }
-            while (tem.Count != 0)
-            {
-                data.Enqueue((int)tem.Dequeue());
-            }
+            var temp = new Queue<int>();
+            temp.Enqueue(x);
+            while (queue.Count != 0)
+                temp.Enqueue(queue.Dequeue());
+            while (temp.Count != 0)
+                queue.Enqueue(temp.Dequeue());
         }
+
         public int Pop()
         {
-            return (int)data.Dequeue();
+            return queue.Dequeue();
         }
+
         public int Top()
         {
-            return (int)data.Peek();
+            return queue.Peek();
         }
+
         public bool Empty()
         {
-            return data.Count == 0 ? true : false;
+            return queue.Count == 0;
         }
     }
+
 }
