@@ -4,6 +4,8 @@
 //将计算的数字都存入，数字栈。最后将数字栈中的数字相加即为结果。
 using System;
 using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace BasicCalculatorII
 {
