@@ -16,43 +16,29 @@ namespace BasicCalculatorII
         }
         static int Calculate(string s)
         {
+            var numbers = s.Split(new[] { ' ', '+', '-', '*', '/' }, StringSplitOptions.RemoveEmptyEntries);
+            var operators = new Stack<char>();
+            var nums = new Stack<int>();
+            int index = 0, num = 0;
             s += '@';
-            Stack numStack = new Stack();
-            Stack operatorStack = new Stack();
-            string tem = "";
-            for (int i = 0; i < s.Length; i++)
+            foreach (var letter in s)
             {
-                if (s[i] - '0' >= 0 && s[i] - '0' <= 9)
-                    tem += s[i];
-                else if (s[i] == '+' || s[i] == '-' || s[i] == '*' || s[i] == '/' || s[i] == '@')
+                if (char.IsDigit(letter) || letter == ' ') continue;
+                num = int.Parse(numbers[index++]);
+                if (operators.Count != 0)
                 {
-                    if (tem != "")
-                    {
-                        numStack.Push(int.Parse(tem));
-                        tem = "";
-                    }
-                    if (s[i] == '+' || s[i] == '-')
-                        tem = s[i] + tem;
-                    if (operatorStack.Count != 0 && (char)operatorStack.Peek() == '*')
-                    {
-                        numStack.Push((int)numStack.Pop() * (int)numStack.Pop());
-                        operatorStack.Pop();
-                    }
-                    else if (operatorStack.Count != 0 && (char)operatorStack.Peek() == '/')
-                    {
-                        int tem1 = (int)numStack.Pop();
-                        int tem2 = (int)numStack.Pop();
-                        numStack.Push(tem2 / tem1);
-                        operatorStack.Pop();
-                    }
-                    if (s[i] == '*' || s[i] == '/')
-                        operatorStack.Push(s[i]);
+                    if (operators.Peek() == '-')
+                        num = -num;
+                    else if (operators.Peek() == '/')
+                        num = nums.Pop() / num;
+                    else
+                        num = nums.Pop() * num;
+                    operators.Pop();
                 }
+                nums.Push(num);
+                if (letter != '+') operators.Push(letter);
             }
-            int res = 0;
-            while (numStack.Count != 0)
-                res += (int)numStack.Pop();
-            return res;
+            return nums.Sum(x => x);
         }
     }
 }
