@@ -31,24 +31,19 @@ namespace KthSmallestElementInABST
 
             int k = 3;
         }
-
-        private int res;
-        private int count;
         public int KthSmallest(TreeNode root, int k)
         {
-            DFS(root, k);
+            int res = 0, count = 0;
+            DFS(root, ref count, k, ref res);
             return res;
         }
-        private void DFS(TreeNode node, int k)
+
+        static void DFS(TreeNode node, ref int count, int k, ref int res)
         {
-            if(node == null) return;
-            DFS(node.left, k);
-            if (++count == k)
-            {
-                res = node.val;
-                return;
-            }
-            DFS(node.right, k);
+            if (node == null || count > k) return;
+            DFS(node.left, ref count, k, ref res);
+            if (k == ++count) res = node.val;
+            DFS(node.right, ref count, k, ref res);
         }
     }
 }
