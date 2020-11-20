@@ -20,17 +20,13 @@ namespace ValidParenthesisString
         }
         static bool CheckValidString(string s)
         {
-            int scannedLOrS = 0;
+            int extraLeftOrStar = 0, extraRightOrStar = 0; 
             for (int i = 0; i < s.Length; i++)
             {
-                scannedLOrS += s[i] != ')' ? 1 : -1;
-                if (scannedLOrS < 0) return false;
-            }
-            int scannedROrS = 0;
-            for (int i = s.Length - 1; i >= 0; i--)
-            {
-                scannedROrS += s[i] != '(' ? 1 : -1;
-                if (scannedROrS < 0) return false;
+                extraLeftOrStar += s[i] != ')' ? 1 : -1;
+                if (extraLeftOrStar < 0) return false;
+                extraRightOrStar += s[s.Length - i - 1] != '(' ? 1 : -1;
+                if (extraRightOrStar < 0) return false;
             }
             return true;
         }
