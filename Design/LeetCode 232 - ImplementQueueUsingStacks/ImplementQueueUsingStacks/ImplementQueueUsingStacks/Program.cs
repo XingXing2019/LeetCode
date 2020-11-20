@@ -12,36 +12,31 @@ namespace ImplementQueueUsingStacks
     }
     public class MyQueue
     {
-        private Stack data = new Stack();
-        /** Initialize your data structure here. */
+        private Stack<int> queue;
         public MyQueue()
         {
-
+            queue = new Stack<int>();
         }
-        /** Push element x to the back of queue. */
         public void Push(int x)
         {
-            Stack tem = new Stack();
-            while (data.Count != 0)
-                tem.Push((int)data.Pop());
-            tem.Push(x);
-            while (tem.Count != 0)
-                data.Push((int)tem.Pop());
+            var temp = new Stack<int>();
+            while (queue.Count != 0)
+                temp.Push(queue.Pop());
+            queue.Push(x);
+            while (temp.Count != 0)
+                queue.Push(temp.Pop());
         }
-        /** Removes the element from in front of queue and returns that element. */
         public int Pop()
         {
-            return (int)data.Pop();
+            return queue.Pop();
         }
-        /** Get the front element. */
         public int Peek()
         {
-            return (int)data.Peek();
+            return queue.Peek();
         }
-        /** Returns whether the queue is empty. */
         public bool Empty()
         {
-            return data.Count == 0 ? true : false;
+            return queue.Count == 0;
         }
     }
 

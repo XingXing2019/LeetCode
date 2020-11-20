@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\Stack\\LeetCode 232 - ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks.csproj",
+      "projectUniqueName": "F:\\C#\\Algorithm\\Design\\LeetCode 232 - ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks.csproj",
       "projectName": "ImplementQueueUsingStacks",
-      "projectPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 232 - ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks.csproj",
+      "projectPath": "F:\\C#\\Algorithm\\Design\\LeetCode 232 - ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 232 - ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\obj\\",
+      "outputPath": "F:\\C#\\Algorithm\\Design\\LeetCode 232 - ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\ImplementQueueUsingStacks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -743,7 +743,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
