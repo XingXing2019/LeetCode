@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFhVCOnYVdIdsc3SlMJ7TdLijdQH3QwO5ZizP0qusJ+gmj3bquOqWdIxToiWZaCrLmaJPQVDa++f0TJFPFRtnw==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 1162 - AsFarFromLandAsPossible\\AsFarFromLandAsPossible\\AsFarFromLandAsPossible\\AsFarFromLandAsPossible.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
