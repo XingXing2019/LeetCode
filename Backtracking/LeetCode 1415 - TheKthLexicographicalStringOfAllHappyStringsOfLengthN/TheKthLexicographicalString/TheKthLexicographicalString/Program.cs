@@ -21,20 +21,15 @@ namespace TheKthLexicographicalString
 
         static void DFS(int n, int k, char[] letters, StringBuilder str, List<string> words)
         {
-            if(words.Count == k) return;
+            if(words.Count == k || str.Length > n) return;
             if (str.Length == n)
-            {
                 words.Add(str.ToString());
-                return;
-            }
-            for (int i = 0; i < letters.Length; i++)
+            foreach (var letter in letters)
             {
-                if (str.Length == 0 || letters[i] != str[^1])
-                {
-                    str.Append(letters[i]);
-                    DFS(n, k, letters, str, words);
-                    str.Remove(str.Length - 1, 1);
-                }
+                if (str.Length != 0 && letter == str[^1]) continue;
+                str.Append(letter);
+                DFS(n, k, letters, str, words);
+                str.Remove(str.Length - 1, 1);
             }
         }
     }
