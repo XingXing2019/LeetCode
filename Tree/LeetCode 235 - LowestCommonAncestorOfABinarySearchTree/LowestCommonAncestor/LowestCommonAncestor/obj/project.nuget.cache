@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XOd9G3BXIbS0TlAFWyqKrL22h6wUTR05XKe7yYF4bVe9q92qV3JR0DMYYdlG2k4LlmHyGZM16ES2eL59LcPzBw==",
+  "dgSpecHash": "8DT2FIfIHZZk+HNkcn36xn8AYCuYNKujyswgYmEM3EMzHvbq8s84IqDzAAjItE69yEC8mf0Mb+LI0okntcYBlQ==",
   "success": true,
   "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 235 - LowestCommonAncestorOfABinarySearchTree\\LowestCommonAncestor\\LowestCommonAncestor\\LowestCommonAncestor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
