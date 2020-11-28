@@ -9,3 +9,15 @@ F:\C#\Algorithm\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Su
 F:\C#\Algorithm\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.AssemblyInfo.cs
 F:\C#\Algorithm\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.dll
 F:\C#\Algorithm\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.pdb
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\bin\Debug\netcoreapp2.2\Subsets.deps.json
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\bin\Debug\netcoreapp2.2\Subsets.runtimeconfig.json
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\bin\Debug\netcoreapp2.2\Subsets.runtimeconfig.dev.json
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\bin\Debug\netcoreapp2.2\Subsets.dll
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\bin\Debug\netcoreapp2.2\Subsets.pdb
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.csprojAssemblyReference.cache
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.AssemblyInfoInputs.cache
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.AssemblyInfo.cs
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.csproj.CoreCompileInputs.cache
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.dll
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.pdb
+F:\C#\Algorithm\Backtracking\LeetCode 78 - Subsets\Subsets\Subsets\obj\Debug\netcoreapp2.2\Subsets.genruntimeconfig.cache
