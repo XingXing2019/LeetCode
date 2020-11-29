@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9tlQVB4kVFG9HaFqjZTzBi4vNZcGP1C3kG9TMSEtK9MzmPFNVVHbwnjZ4XdpBsNLGLRwnOo6N2Ycez/HZonKg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Design\\LeetCode 1670 - DesignFrontMiddleBackQueue\\DesignFrontMiddleBackQueue\\DesignFrontMiddleBackQueue\\DesignFrontMiddleBackQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
