@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FindTheMostCompetitiveSubsequence/1.0.0": {
+        "runtime": {
+          "FindTheMostCompetitiveSubsequence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindTheMostCompetitiveSubsequence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
