@@ -22,10 +22,8 @@ namespace FindTheMostCompetitiveSubsequence
                 if (stack.Count < k)
                     stack.Push(nums[i]);
             }
-            var res = new int[k];
-            int index = k - 1;
-            while (stack.Count != 0)
-                res[index--] = stack.Pop();
+            var res = stack.ToArray();
+            Array.Reverse(res);
             return res;
         }
     }
