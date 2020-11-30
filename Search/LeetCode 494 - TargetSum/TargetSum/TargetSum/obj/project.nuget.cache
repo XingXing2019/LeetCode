@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VIJeZJH3L4mfHj89Y49Y/NrkzGONTtB1EwbwvvU9tteg8OUwyJRctw49O9WVDmBaUyO54EcyhU05rW4vIjQH1A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 494 - TargetSum\\TargetSum\\TargetSum\\TargetSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
