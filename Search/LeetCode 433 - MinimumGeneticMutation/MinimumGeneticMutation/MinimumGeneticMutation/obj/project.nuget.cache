@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6v+PieD5vvKSY8AY1eDS3oqQjFgvDyXjELORzPJHllfrcq12GFq3G+JfrdRB5UDjOuU56GPXyCJTZxtbYrVP5A==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 433 - MinimumGeneticMutation\\MinimumGeneticMutation\\MinimumGeneticMutation\\MinimumGeneticMutation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
