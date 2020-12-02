@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfSubarraysWithBoundedMaximum", "NumberOfSubarraysWithBoundedMaximum\NumberOfSubarraysWithBoundedMaximum.csproj", "{261F0D4F-A8D4-4A87-B371-362E971E7CE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261F0D4F-A8D4-4A87-B371-362E971E7CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261F0D4F-A8D4-4A87-B371-362E971E7CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261F0D4F-A8D4-4A87-B371-362E971E7CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261F0D4F-A8D4-4A87-B371-362E971E7CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF5A224F-432E-4955-B22F-D54C1259450A}
+	EndGlobalSection
+EndGlobal
