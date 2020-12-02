@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBwy1dzNN0B8X4k82IbxyQ+u4HgU2Sb3RqIoHDvGXxEPVro4FjxaXDekhXR24HGkpLQchQvm8iTPgZVwUnozLQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 742 - ClosestLeafInABinaryTree\\ClosestLeafInABinaryTree\\ClosestLeafInABinaryTree\\ClosestLeafInABinaryTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
