@@ -16,7 +16,17 @@ namespace LinkedListRandomNode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var head = Generate(new[] {1, 2, 3});
+            var s = new Solution(head);
+            s.GetRandom();
+        }
+
+        static ListNode Generate(int[] nums)
+        {
+            ListNode res = null;
+            for (int i = nums.Length - 1; i >= 0; i--)
+                res = new ListNode(nums[i], res);
+            return res;
         }
     }
     public class Solution
@@ -31,17 +41,18 @@ namespace LinkedListRandomNode
         }
         public int GetRandom()
         {
-            var dummy = _head;
-            int count = 0;
-            int res = -1;
+            var dummy = _head.next;
+            int count = 1, res = _head.val;
             while (dummy != null)
             {
-                if (_random.Next(++count) == 0)
+                count++;
+                if (_random.Next(count) == 0)
                     res = dummy.val;
                 dummy = dummy.next;
             }
             return res;
         }
     }
+
 
 }
