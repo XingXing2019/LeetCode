@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgvkhRi/vcirNs8OKTvdM0wPQgHNuCErZ8BTw7LshKdom0XlenNLc2Fn9D7Lu9gtrp9x0vbN5XBsHgilRySDrg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1676 - LowestCommonAncestorOfABinaryTreeIV\\LowestCommonAncestorOfABinaryTreeIV\\LowestCommonAncestorOfABinaryTreeIV\\LowestCommonAncestorOfABinaryTreeIV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
