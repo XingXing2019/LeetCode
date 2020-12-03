@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestBridge", "ShortestBridge\ShortestBridge.csproj", "{BECE90E8-CB93-4F9B-AD67-0D144B8F3A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECE90E8-CB93-4F9B-AD67-0D144B8F3A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECE90E8-CB93-4F9B-AD67-0D144B8F3A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECE90E8-CB93-4F9B-AD67-0D144B8F3A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECE90E8-CB93-4F9B-AD67-0D144B8F3A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FDBAD14-D7AC-45EA-A745-8E1103622F7C}
+	EndGlobalSection
+EndGlobal
