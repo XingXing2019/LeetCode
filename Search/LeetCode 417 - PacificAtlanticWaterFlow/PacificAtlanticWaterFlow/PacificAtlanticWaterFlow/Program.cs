@@ -80,15 +80,11 @@ namespace PacificAtlanticWaterFlow
             int[] direction = { 0, 1, 0, -1, 0 };
             for (int i = 0; i < matrix[0].Length; i++)
             {
-                reachPacific[0, i] = true;
-                reachAtlantic[matrix.Length - 1, i] = true;
                 DFS(matrix, 0, i, direction, reachPacific);
                 DFS(matrix, matrix.Length - 1, i, direction, reachAtlantic);
             }
             for (int i = 0; i < matrix.Length; i++)
             {
-                reachPacific[i, 0] = true;
-                reachAtlantic[i, matrix[0].Length - 1] = true;
                 DFS(matrix, i, 0, direction, reachPacific);
                 DFS(matrix, i, matrix[0].Length - 1, direction, reachAtlantic);
             }
@@ -104,16 +100,14 @@ namespace PacificAtlanticWaterFlow
         }
         static void DFS(int[][] matrix, int x, int y, int[] direction, bool[,] visit)
         {
+            visit[x, y] = true;
             for (int i = 0; i < 4; i++)
             {
                 int newX = direction[i] + x, newY = direction[i + 1] + y;
                 if (newX < 0 || newX >= matrix.Length || newY < 0 || newY >= matrix[0].Length)
                     continue;
                 if (matrix[newX][newY] >= matrix[x][y] && !visit[newX, newY])
-                {
-                    visit[newX, newY] = true;
                     DFS(matrix, newX, newY, direction, visit);
-                }
             }
         }
     }
