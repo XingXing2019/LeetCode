@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZIHn+OPuEb1OGXvlbemLJFmZ6fZ102aPOq1Osd7wcsKE29IZDxZrtsx54QHsyOCK+l2ddSFKg5cm9z9xA0Bnww==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 1679 - MaxNumberOfKSumPairs\\MaxNumberOfKSumPairs\\MaxNumberOfKSumPairs\\MaxNumberOfKSumPairs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
