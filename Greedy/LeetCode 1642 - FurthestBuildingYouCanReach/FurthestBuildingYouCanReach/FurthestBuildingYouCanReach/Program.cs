@@ -7,11 +7,11 @@ namespace FurthestBuildingYouCanReach
     {
         static void Main(string[] args)
         {
-            int[] height = {14, 3, 19, 3};
-            int bricks = 17, ladders = 0;
-            Console.WriteLine(FurthestBuilding(height, bricks, ladders));
+            int[] height = { 4, 12, 2, 7, 3, 18, 20, 3, 19 };
+            int bricks = 10, ladders = 2;
+            Console.WriteLine(FurthestBuilding_NLogN(height, bricks, ladders));
         }
-        static int FurthestBuilding(int[] heights, int bricks, int ladders)
+        static int FurthestBuilding_NLogN(int[] heights, int bricks, int ladders)
         {
             var record = new List<int>();
             for (int i = 1; i < heights.Length; i++)
