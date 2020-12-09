@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "17KOFwEwLhnfoV6bhanSOxQqFv6dOytiXF5iJUVLIQc5i80O+eD4LSvQEwNEKinJGFJPFs2+eH78Ajy5Zktdvg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 1292 - MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold\\MaximumSideLength\\MaximumSideLength\\MaximumSideLength.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
