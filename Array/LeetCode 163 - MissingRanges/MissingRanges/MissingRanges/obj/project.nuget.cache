@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fA+Tw1G/8eIuvoi8wCVS6iClUqKHnEeTR6ZvTe+7fQdolekIZFAji+KX6KqAWvALLp6u1ELUbtICCckGShqAPQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\Array\\LeetCode 163 - MissingRanges\\MissingRanges\\MissingRanges\\MissingRanges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
