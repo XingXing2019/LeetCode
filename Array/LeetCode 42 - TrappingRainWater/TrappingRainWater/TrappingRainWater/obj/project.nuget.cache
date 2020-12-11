@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rNZV8exgbIwcuc4UcHDc5OJSXFsCV2kH6gnJBxg2372ga35DCsV6/nLvgdQhpPV/UnTeNqMx/OnfJBu2EwMeUA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\Array\\LeetCode 42 - TrappingRainWater\\TrappingRainWater\\TrappingRainWater\\TrappingRainWater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
