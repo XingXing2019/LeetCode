@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "izEPQOdNFq6y6eXCS2soc3yzV7EkdKqEx/03qrrvEnUE2sNhSESw/8dB+xzdb3ma6BOMTYQjauqRpApgsmHLwQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\Sort\\LeetCode 853 - CarFleet\\CarFleet\\CarFleet\\CarFleet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
