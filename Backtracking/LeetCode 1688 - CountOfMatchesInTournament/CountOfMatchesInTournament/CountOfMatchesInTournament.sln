@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountOfMatchesInTournament", "CountOfMatchesInTournament\CountOfMatchesInTournament.csproj", "{5927FB43-51D7-41CE-B8CC-1ED8464A3952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5927FB43-51D7-41CE-B8CC-1ED8464A3952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5927FB43-51D7-41CE-B8CC-1ED8464A3952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5927FB43-51D7-41CE-B8CC-1ED8464A3952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5927FB43-51D7-41CE-B8CC-1ED8464A3952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {295A09A9-1323-4AEA-8492-687FEF00D8BA}
+	EndGlobalSection
+EndGlobal

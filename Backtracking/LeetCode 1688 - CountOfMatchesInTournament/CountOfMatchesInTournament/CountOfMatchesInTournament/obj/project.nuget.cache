@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pbBGnIXgghVe64Aa9s0SGNf2za4XFfeWBmZG3KwFbvyOTss80rVMSxEYRk7+jDc44OiLNyTDlHuzkV7MHmOhA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\Backtracking\\LeetCode 1688 - CountOfMatchesInTournament\\CountOfMatchesInTournament\\CountOfMatchesInTournament\\CountOfMatchesInTournament.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
