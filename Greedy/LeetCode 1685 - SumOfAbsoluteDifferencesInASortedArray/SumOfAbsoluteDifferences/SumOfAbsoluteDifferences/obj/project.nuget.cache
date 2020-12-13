@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMxa7ImiTm1Jnr9DSfKJ2zhdSbhLMNKlvVLRo8qxcqW4TzuhDqXQD19pE1/Er/jbjtJipMkhHuusTV0+7BIWfA==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1685 - SumOfAbsoluteDifferencesInASortedArray\\SumOfAbsoluteDifferences\\SumOfAbsoluteDifferences\\SumOfAbsoluteDifferences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
