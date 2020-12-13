@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVOw9oY3lnbmVmsMEP8Nt1/vYWEQZBF4iVQQycrjP+j7+TB4JPNhvci74A02lHClgOF5jcNskNiGeJmPf6jk9g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1689 - PartitioningIntoMinimumNumberOfDeciBinaryNumbers\\PartitioningIntoMinimumNumber\\PartitioningIntoMinimumNumber\\PartitioningIntoMinimumNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
