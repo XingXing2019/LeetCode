@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wtjg9cRD9Bi8viDfErEb1GjwH61QETBIJ3Y4TXh5c+MUGXPWkYu0w+GsMRELGUTxUE5cBm85Y0+x06SFXQbntQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\String\\LeetCode 1684 - CountTheNumberOfConsistentStrings\\CountTheNumberOfConsistentStrings\\CountTheNumberOfConsistentStrings\\CountTheNumberOfConsistentStrings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
