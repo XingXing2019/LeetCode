@@ -18,5 +18,10 @@ namespace CountOfMatchesInTournament
             }
             return res;
         }
+
+        public int NumberOfMatches_O1(int n)
+        {
+            return n - 1;
+        }
     }
 }
