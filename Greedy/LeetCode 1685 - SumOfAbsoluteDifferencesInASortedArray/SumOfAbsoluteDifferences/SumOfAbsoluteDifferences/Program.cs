@@ -17,8 +17,8 @@ namespace SumOfAbsoluteDifferences
                 prefix[i] = i == 0 ? nums[i] : nums[i] + prefix[i - 1];
             for (int i = 0; i < len; i++)
             {
-                var before = i == 0 ? 0 : Math.Abs(prefix[i - 1] - nums[i] * i);
-                var after = i == len - 1 ? 0 : Math.Abs(prefix[^1] - prefix[i] - nums[i] * (len - 1 - i));
+                var before = i == 0 ? 0 : nums[i] * i - prefix[i - 1];
+                var after = i == len - 1 ? 0 : prefix[^1] - prefix[i] - nums[i] * (len - 1 - i);
                 res[i] = before + after;
             }
             return res;
