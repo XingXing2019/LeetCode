@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q56lI8X3aCAVqPERNxjnb7OVrE9XASyDLc8GdPO13Ib1RwVNMIXSDWp0Y/UUkKGJraL2L8QQuSb1NfMjwzAgCQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\Tree\\LeetCode 1382 - BalanceABinarySearchTree\\BalanceABinarySearchTree\\BalanceABinarySearchTree\\BalanceABinarySearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
