@@ -11,7 +11,7 @@ namespace MoveZeroes
         {
             Console.WriteLine("Hello World!");
         }
-        public void MoveZeroes(int[] nums)
+        public void MoveZeroes_Swap(int[] nums)
         {
             int li = 0;
             for (int hi = 1; hi < nums.Length; hi++)
@@ -25,6 +25,17 @@ namespace MoveZeroes
                 if(nums[li] != 0)
                     li++;
             }
+        }
+        public void MoveZeroes_NonSwap(int[] nums)
+        {
+            int li = 0;
+            for (int hi = 0; hi < nums.Length; hi++)
+            {
+                if (nums[hi] != 0)
+                    nums[li++] = nums[hi];
+            }
+            for (int i = li; i < nums.Length; i++)
+                nums[i] = 0;
         }
     }
 }
