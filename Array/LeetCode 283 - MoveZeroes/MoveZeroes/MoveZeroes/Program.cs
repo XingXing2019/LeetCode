@@ -13,17 +13,17 @@ namespace MoveZeroes
         }
         public void MoveZeroes(int[] nums)
         {
-            int pos = 0;
-            for (int i = 1; i < nums.Length; i++)
+            int li = 0;
+            for (int hi = 1; hi < nums.Length; hi++)
             {
-                if (nums[i] != 0 && nums[pos] == 0)
+                if (nums[hi] != 0 && nums[li] == 0)
                 {
-                    int tem = nums[i];
-                    nums[i] = nums[pos];
-                    nums[pos++] = tem;
+                    int temp = nums[hi];
+                    nums[hi] = nums[li];
+                    nums[li++] = temp;
                 }
-                if(nums[pos] != 0)
-                    pos++;
+                if(nums[li] != 0)
+                    li++;
             }
         }
     }
