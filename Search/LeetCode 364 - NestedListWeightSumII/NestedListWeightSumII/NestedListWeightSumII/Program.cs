@@ -21,13 +21,15 @@ namespace NestedListWeightSumII
         // Return null if this NestedInteger holds a single integer
         IList<NestedInteger> GetList();
     }
+
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
-        static int DepthSumInverse(IList<NestedInteger> nestedList)
+
+        static int DepthSumInverse_DFS(IList<NestedInteger> nestedList)
         {
             int maxHeight = 0, res = 0;
             var record = new List<int[]>();
@@ -43,10 +45,40 @@ namespace NestedListWeightSumII
             if (integer.IsInteger())
             {
                 maxHeight = Math.Max(maxHeight, height);
-                record.Add(new []{integer.GetInteger(), height});
+                record.Add(new[] {integer.GetInteger(), height});
             }
+
             foreach (var nestedInteger in integer.GetList())
                 DFS(nestedInteger, height + 1, record, ref maxHeight);
         }
+
+        static int DepthSumInverse_BFS(IList<NestedInteger> nestedList)
+        {
+            int maxHeight = 0, res = 0, height = 1;
+            var record = new List<int[]>();
+            var queue = new Queue<NestedInteger>();
+            foreach (var nestedInteger in nestedList)
+                queue.Enqueue(nestedInteger);
+            while (queue.Count != 0)
+            {
+                var count = queue.Count;
+                for (int i = 0; i < count; i++)
+                {
+                    var cur = queue.Dequeue();
+                    if (cur.IsInteger())
+                    {
+                        maxHeight = Math.Max(maxHeight, height);
+                        record.Add(new[] { cur.GetInteger(), height });
+                    }
+                    foreach (var next in cur.GetList())
+                        queue.Enqueue(next);
+                }
+                height++;
+            }
+            foreach (var pair in record)
+                res += pair[0] * (maxHeight - pair[1] + 1);
+            return res;
+        }
     }
 }
+
