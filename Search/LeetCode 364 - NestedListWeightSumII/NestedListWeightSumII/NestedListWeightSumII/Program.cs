@@ -47,7 +47,6 @@ namespace NestedListWeightSumII
                 maxHeight = Math.Max(maxHeight, height);
                 record.Add(new[] {integer.GetInteger(), height});
             }
-
             foreach (var nestedInteger in integer.GetList())
                 DFS(nestedInteger, height + 1, record, ref maxHeight);
         }
