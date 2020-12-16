@@ -1,1 +1,1 @@
-select class from courses group by class having count(*) >= 5;
+select name, population, area from world where area > 3000000 or population > 25000000;
