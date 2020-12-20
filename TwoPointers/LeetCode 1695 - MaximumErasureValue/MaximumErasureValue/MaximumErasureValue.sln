@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumErasureValue", "MaximumErasureValue\MaximumErasureValue.csproj", "{71DA3777-759F-4DFF-9089-1E25B70367CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71DA3777-759F-4DFF-9089-1E25B70367CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DA3777-759F-4DFF-9089-1E25B70367CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DA3777-759F-4DFF-9089-1E25B70367CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DA3777-759F-4DFF-9089-1E25B70367CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624DB2BD-8EA9-4D30-8F7B-72D5AFBB5637}
+	EndGlobalSection
+EndGlobal
