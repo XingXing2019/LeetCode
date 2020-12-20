@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLY0HJZ5UM8scRbCqH4pO3HL1+el6sY5SMX8VNbkhCg59pOIOjS4kRdbqvBccPzHNdpCUWSXu6MQ1a9cZh0Shg==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\String\\LeetCode 1694 - ReformatPhoneNumber\\ReformatPhoneNumber\\ReformatPhoneNumber\\ReformatPhoneNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
