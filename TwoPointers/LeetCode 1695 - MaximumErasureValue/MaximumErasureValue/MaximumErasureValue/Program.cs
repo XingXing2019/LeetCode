@@ -16,13 +16,10 @@ namespace MaximumErasureValue
             var set = new HashSet<int>();
             while (hi < nums.Length)
             {
-                if (set.Contains(nums[hi]))
+                while (set.Contains(nums[hi]))
                 {
-                    while (set.Contains(nums[hi]))
-                    {
-                        set.Remove(nums[li]);
-                        sum -= nums[li++];
-                    }
+                    set.Remove(nums[li]);
+                    sum -= nums[li++];
                 }
                 sum += nums[hi];
                 set.Add(nums[hi++]);
