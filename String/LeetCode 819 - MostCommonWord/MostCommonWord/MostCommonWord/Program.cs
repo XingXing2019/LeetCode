@@ -5,6 +5,7 @@
 //最后遍历字典，找到出现最多的单词。
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace MostCommonWord
 {
@@ -18,29 +19,22 @@ namespace MostCommonWord
         }
         static string MostCommonWord(string paragraph, string[] banned)
         {
-            char[] seperators = new char[] { ' ', '!', '?', '\'', ',', ';', '.'};
-            string[] words = paragraph.Split(seperators);
-            Dictionary<string, int> records = new Dictionary<string, int>();
+            var set = new HashSet<string>(banned);
+            var words = paragraph.Split(new[] { ' ', '!', '?', '\'', ',', ';', '.' }, StringSplitOptions.RemoveEmptyEntries);
+            var dict = new Dictionary<string, int>();
+            var max = 0;
             foreach (var word in words)
             {
-                if (word != "" && !records.ContainsKey(word.ToLower()))
-                    records.Add(word.ToLower(), 1);
-                else if (word != "" && records.ContainsKey(word.ToLower()))
-                    records[word.ToLower()]++;
-            }
-            foreach (var word in banned)
-                records.Remove(word);
-            string res = "";
-            int max = 0;
-            foreach (var record in records)
-            {
-                if(record.Value > max)
+                var temp = word.ToLower();
+                if (!set.Contains(temp))
                 {
-                    max = record.Value;
-                    res = record.Key;
+                    if (!dict.ContainsKey(temp))
+                        dict[temp] = 0;
+                    dict[temp]++;
+                    max = Math.Max(max, dict[temp]);
                 }
             }
-            return res;
+            return dict.First(x => x.Value == max).Key;
         }
     }
 }
