@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6v6tArylEu3CkJHpzx4WW4jIFk0VkoGf604hr/M9WjXgIWh9UJMFXjjYXfmFHWnM3TQz8R7IUCdjXb5IvqAM/g==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\Array\\LeetCode 1010 - PairsOfSongsWithTotalDurationsDivisibleBy60\\PairsOfSongsWithTotalDurations\\PairsOfSongsWithTotalDurations\\PairsOfSongsWithTotalDurations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
