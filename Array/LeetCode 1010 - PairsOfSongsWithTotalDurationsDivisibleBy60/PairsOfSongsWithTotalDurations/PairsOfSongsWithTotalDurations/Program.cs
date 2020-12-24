@@ -10,19 +10,18 @@ namespace PairsOfSongsWithTotalDurations
         static void Main(string[] args)
         {
             int[] time = { 30, 20, 150, 100, 40 };
-            Console.WriteLine(NumPairsDivisibleBy60(time));
+            Console.WriteLine(NumPairsDivisibleBy60_Array(time));
         }
         static int NumPairsDivisibleBy60_Array(int[] time)
         {
             var seconds = new int[60];
-            int count = 0;
+            int res = 0;
             foreach (var t in time)
             {
-                int sec = t % 60;
-                count += sec == 0 ? seconds[sec] : seconds[60 - sec];
-                seconds[sec]++;
+                res += t % 60 == 0 ? seconds[t % 60] : seconds[60 - t % 60];
+                seconds[t % 60]++;
             }
-            return count;
+            return res;
         }
         static int NumPairsDivisibleBy60_Dictionary(int[] time)
         {
