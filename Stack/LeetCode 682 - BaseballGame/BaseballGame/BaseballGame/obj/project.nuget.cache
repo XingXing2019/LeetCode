@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E9uR9ToAyhNctXVondLDVdcNB+48YkkFuh/c8HEQFMqdA/8bOn1XQXQARbmRIiNITXmEQHOV6KOQ3mwtyq7oDQ==",
+  "success": true,
+  "projectFilePath": "F:\\C#\\LeetCode\\Stack\\LeetCode 682 - BaseballGame\\BaseballGame\\BaseballGame\\BaseballGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

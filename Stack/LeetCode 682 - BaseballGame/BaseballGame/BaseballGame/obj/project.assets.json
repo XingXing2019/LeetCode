@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\Stack\\LeetCode 682 - BaseballGame\\BaseballGame\\BaseballGame\\BaseballGame.csproj",
+      "projectUniqueName": "F:\\C#\\LeetCode\\Stack\\LeetCode 682 - BaseballGame\\BaseballGame\\BaseballGame\\BaseballGame.csproj",
       "projectName": "BaseballGame",
-      "projectPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 682 - BaseballGame\\BaseballGame\\BaseballGame\\BaseballGame.csproj",
+      "projectPath": "F:\\C#\\LeetCode\\Stack\\LeetCode 682 - BaseballGame\\BaseballGame\\BaseballGame\\BaseballGame.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 682 - BaseballGame\\BaseballGame\\BaseballGame\\obj\\",
+      "outputPath": "F:\\C#\\LeetCode\\Stack\\LeetCode 682 - BaseballGame\\BaseballGame\\BaseballGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,12 +57,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

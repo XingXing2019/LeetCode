@@ -1,6 +1,7 @@
 ﻿//用一个列表实现栈，然后按要求将数字存入列表，在计算列表中数字和。
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace BaseballGame
 {
@@ -13,23 +14,19 @@ namespace BaseballGame
         }
         static int CalPoints(string[] ops)
         {
-            List<int> record = new List<int>();
+            var nums = new List<int>();
             foreach (var op in ops)
             {
-                int len = record.Count;
-                if (op == "+")
-                    record.Add(record[len - 1] + record[len - 2]);
-                else if (op == "D")
-                    record.Add((record[len - 1] * 2));
+                if (int.TryParse(op, out var num))
+                    nums.Add(num);
+                else if (op == "+")
+                    nums.Add(nums[^1] + nums[^2]);
                 else if (op == "C")
-                    record.RemoveAt(len - 1);
+                    nums.RemoveAt(nums.Count - 1);
                 else
-                    record.Add(int.Parse(op));
+                    nums.Add(nums[^1] * 2);
             }
-            int res = 0;
-            foreach (var num in record)
-                res += num;
-            return res;
+            return nums.Sum();
         }
     }
 }
