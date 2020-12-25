@@ -28,12 +28,10 @@ namespace SnakesAndLadders
             {
                 dict[i] = new[] { r, c };
                 c += increase ? 1 : -1;
-                if (c == board.Length || c == -1)
-                {
-                    c += increase ? -1 : 1;
-                    increase = !increase;
-                    r--;
-                }
+                if (c != board.Length && c != -1) continue;
+                c += increase ? -1 : 1;
+                increase = !increase;
+                r--;
             }
             var queue = new Queue<int[]>();
             queue.Enqueue(new[] { 1, 0 });
