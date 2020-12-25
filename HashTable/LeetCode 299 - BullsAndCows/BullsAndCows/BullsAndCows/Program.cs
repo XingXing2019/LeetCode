@@ -12,7 +12,7 @@ namespace BullsAndCows
         {
             string secret = "1807";
             string guess = "7810";
-            Console.WriteLine(GetHint(secret, guess));
+            Console.WriteLine(GetHint_Array(secret, guess));
         }
         static string GetHint_Array(string secret, string guess)
         {
