@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace HighFive
 {
@@ -21,9 +22,14 @@ namespace HighFive
                 new int[]{2, 100}, 
                 new int[]{2, 76}
             };
-            Console.WriteLine(HighFive(items));
+            Console.WriteLine(HighFive_Linq(items));
         }
-        static int[][] HighFive(int[][] items)
+        static int[][] HighFive_Linq(int[][] items)
+        {
+            return items.GroupBy(x => x[0]).ToDictionary(x => x.Key, x => x.Select(y => y[1]).OrderByDescending(y => y).Take(5).Sum() / 5).Select(x => new[] { x.Key, x.Value }).OrderBy(x => x[0]).ToArray();
+        }
+
+        static int[][] HighFive_HashTable(int[][] items)
         {
             var scores = new Dictionary<int, List<int>>();
             foreach (var item in items)

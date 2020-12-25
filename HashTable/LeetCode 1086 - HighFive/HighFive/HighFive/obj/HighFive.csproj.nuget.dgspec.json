@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\HighFive.csproj": {}
+    "F:\\C#\\LeetCode\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\HighFive.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\HighFive.csproj": {
+    "F:\\C#\\LeetCode\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\HighFive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\HighFive.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\HighFive.csproj",
         "projectName": "HighFive",
-        "projectPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\HighFive.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\HighFive.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\HashTable\\LeetCode 1086 - HighFive\\HighFive\\HighFive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
