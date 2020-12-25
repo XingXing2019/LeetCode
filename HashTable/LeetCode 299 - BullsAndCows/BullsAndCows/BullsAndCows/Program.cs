@@ -14,7 +14,25 @@ namespace BullsAndCows
             string guess = "7810";
             Console.WriteLine(GetHint(secret, guess));
         }
-        static string GetHint(string secret, string guess)
+        static string GetHint_Array(string secret, string guess)
+        {
+            var digits = new int[10];
+            int bulls = 0, cows = 0;
+            for (int i = 0; i < secret.Length; i++)
+            {
+                if (secret[i] == guess[i])
+                    bulls++;
+                digits[secret[i] - '0']++;
+            }
+            for (int i = 0; i < guess.Length; i++)
+            {
+                if (digits[guess[i] - '0'] > 0)
+                    cows++;
+                digits[guess[i] - '0']--;
+            }
+            return $"{bulls}A{cows - bulls}B";
+        }
+        static string GetHint_Dictionary(string secret, string guess)
         {
             Dictionary<char, Dictionary<int, int>> sDict = new Dictionary<char, Dictionary<int, int>>();
             Dictionary<char, Dictionary<int, int>> gDict = new Dictionary<char, Dictionary<int, int>>();
