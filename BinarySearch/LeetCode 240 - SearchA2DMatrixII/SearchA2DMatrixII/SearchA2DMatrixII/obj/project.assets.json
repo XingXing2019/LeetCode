@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 240 - SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII.csproj",
+      "projectUniqueName": "F:\\C#\\LeetCode\\BinarySearch\\LeetCode 240 - SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII.csproj",
       "projectName": "SearchA2DMatrixII",
-      "projectPath": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 240 - SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII.csproj",
+      "projectPath": "F:\\C#\\LeetCode\\BinarySearch\\LeetCode 240 - SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 240 - SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII\\obj\\",
+      "outputPath": "F:\\C#\\LeetCode\\BinarySearch\\LeetCode 240 - SearchA2DMatrixII\\SearchA2DMatrixII\\SearchA2DMatrixII\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,12 +57,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

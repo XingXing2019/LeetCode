@@ -11,26 +11,31 @@ namespace SearchA2DMatrixII
         {
             int[,] matrix = new int[1,1] { { -5 } };
             int target = -5;
-            Console.WriteLine(SearchMatrix(matrix, target));
+            Console.WriteLine(SearchMatrix_TwoPointers(matrix, target));
 
         }
-        static bool SearchMatrix(int[,] matrix, int target)
+        static bool SearchMatrix_TwoPointers(int[][] matrix, int target)
         {
-            int row = matrix.GetLength(0);
-            int col = matrix.GetLength(1);
-            int r = 0;
-            int c = col - 1;
-            while (r <= row-1 && c >= 0)
+            int row = 0, col = matrix[0].Length - 1;
+            while (row < matrix.Length && col >= 0)
             {
-                if (matrix[r, c] == target)
-                    return true;
-                else if (matrix[r, c] > target)
-                    c--;
-                else
-                    r++;
+                if (matrix[row][col] == target) return true;
+                if (matrix[row][col] > target) col--;
+                else row++;
             }
             return false;
         }
+        static bool SearchMatrix_BinarySearch(int[][] matrix, int target)
+        {
+            foreach (var row in matrix)
+            {
+                if (row[0] > target) break;
+                if (Array.BinarySearch(row, target) >= 0)
+                    return true;
+            }
+            return false;
+        }
+
         static bool SearchMatrix2(int[,] matrix, int target)
         {
             int row = matrix.GetLength(0);
