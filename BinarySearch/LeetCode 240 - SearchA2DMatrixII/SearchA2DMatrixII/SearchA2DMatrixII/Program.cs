@@ -9,9 +9,7 @@ namespace SearchA2DMatrixII
     {
         static void Main(string[] args)
         {
-            int[,] matrix = new int[1,1] { { -5 } };
-            int target = -5;
-            Console.WriteLine(SearchMatrix_TwoPointers(matrix, target));
+            
 
         }
         static bool SearchMatrix_TwoPointers(int[][] matrix, int target)
