@@ -35,6 +35,29 @@ namespace SearchA2DMatrixII
             }
             return false;
         }
+        static bool SearchMatrix_DivideAndConquer(int[][] matrix, int target)
+        {
+            if (matrix.Length == 1) return Array.BinarySearch(matrix[0], target) >= 0;
+            return DivideAndConquer(matrix, 0, matrix[0].Length - 1, target);
+        }
+        static bool DivideAndConquer(int[][] matrix, int x, int y, int target)
+        {
+            if (x >= matrix.Length || y < 0) return false;
+            if (matrix[x][y] == target) return true;
+            var newY = Array.BinarySearch(matrix[x], 0, y + 1, target);
+            if (newY >= 0) return true;
+            newY = -(1 + newY) - 1;
+            int li = x, hi = matrix.Length;
+            while (li < hi)
+            {
+                int mid = li + (hi - li) / 2;
+                if (matrix[mid][y] == target) return true;
+                if (matrix[mid][y] > target) hi = mid;
+                else li = mid + 1;
+            }
+            if (y == 0) return li < matrix.Length && matrix[li][y] == target;
+            return DivideAndConquer(matrix, li, newY, target);
+        }
 
         static bool SearchMatrix2(int[,] matrix, int target)
         {
