@@ -10,9 +10,9 @@ namespace TopKFrequentElements
     {
         static void Main(string[] args)
         {
-            int[] nums = { 1 };
-            int k = 1;
-            Console.WriteLine(TopKFrequent(nums, k));
+            int[] nums = { 1, 1, 1, 2, 2, 2, 3 };
+            int k = 2;
+            Console.WriteLine(TopKFrequent_Linq(nums, k));
         }
         static int[] TopKFrequent(int[] nums, int k)
         {
@@ -28,6 +28,11 @@ namespace TopKFrequentElements
             freqOrder.Sort();
             var threshold = freqOrder[freqOrder.Count - k];
             return numFreq.Where(x => x.Value >= threshold).Select(x => x.Key).ToArray();
+        }
+
+        static int[] TopKFrequent_Linq(int[] nums, int k)
+        {
+            return nums.GroupBy(x => x).ToDictionary(x => x.Key, x => x.Count()).OrderByDescending(x => x.Value).Select(x => x.Key).Take(k).ToArray();
         }
     }
 }
