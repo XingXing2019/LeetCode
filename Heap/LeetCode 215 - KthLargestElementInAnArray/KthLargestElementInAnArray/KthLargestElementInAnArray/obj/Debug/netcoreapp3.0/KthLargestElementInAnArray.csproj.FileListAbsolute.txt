@@ -11,3 +11,16 @@ F:\C#\Algorithm\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElement
 F:\C#\Algorithm\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.pdb
 F:\C#\Algorithm\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.csproj.CoreCompileInputs.cache
 F:\C#\Algorithm\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.genruntimeconfig.cache
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.csprojAssemblyReference.cache
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.AssemblyInfoInputs.cache
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.AssemblyInfo.cs
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.csproj.CoreCompileInputs.cache
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.dll
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.pdb
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\bin\Debug\netcoreapp3.0\KthLargestElementInAnArray.exe
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\bin\Debug\netcoreapp3.0\KthLargestElementInAnArray.deps.json
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\bin\Debug\netcoreapp3.0\KthLargestElementInAnArray.runtimeconfig.json
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\bin\Debug\netcoreapp3.0\KthLargestElementInAnArray.runtimeconfig.dev.json
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\bin\Debug\netcoreapp3.0\KthLargestElementInAnArray.dll
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\bin\Debug\netcoreapp3.0\KthLargestElementInAnArray.pdb
+F:\C#\LeetCode\Heap\LeetCode 215 - KthLargestElementInAnArray\KthLargestElementInAnArray\KthLargestElementInAnArray\obj\Debug\netcoreapp3.0\KthLargestElementInAnArray.genruntimeconfig.cache

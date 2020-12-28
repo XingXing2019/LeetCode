@@ -4,6 +4,7 @@
 //遍历结束后maxHeap队尾数字即为结果。
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace KthLargestElementInAnArray
 {
@@ -11,9 +12,9 @@ namespace KthLargestElementInAnArray
     {
         static void Main(string[] args)
         {
-            int[] nums = { 3, 2, 1, 5, 6, 4 };
-            int k = 2;
-            Console.WriteLine(FindKthLargest_BinarySearch(nums, k));
+            int[] nums = {3, 2, 3, 1, 2, 4, 5, 5, 6};
+            int k = 4;
+            Console.WriteLine(FindKthLargest_SortedList(nums, k));
         }
         static int FindKthLargest_BinarySearch(int[] nums, int k)
         {
@@ -100,6 +101,19 @@ namespace KthLargestElementInAnArray
             for (int i = 1; i < k; i++)
                 head = head.next;
             return head.val;
+        }
+        static int FindKthLargest_SortedList(int[] nums, int k)
+        {
+            var dict = nums.GroupBy(x => x).ToDictionary(x => x.Key, x => x.Count());
+            var list = new SortedList<int, int>();
+            foreach (var kv in dict)
+                list[kv.Key] = kv.Value;
+            for (int i = list.Count - 1; i >= 0; i--)
+            {
+                k -= list[list.Keys[i]];
+                if (k <= 0) return list.Keys[i];
+            }
+            return -1;
         }
     }
 }
