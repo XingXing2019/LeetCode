@@ -47,18 +47,7 @@ namespace TopKFrequentWords
         }
         public IList<string> TopKFrequent_Linq(string[] words, int k)
         {
-            var dict = new Dictionary<string, int>();
-            foreach (var word in words)
-            {
-                if (!dict.ContainsKey(word))
-                    dict[word] = 0;
-                dict[word]++;
-            }
-            var orderedWords = dict.OrderByDescending(x => x.Value).ThenBy(x => x.Key).Select(x => x.Key).ToList();
-            var res = new List<string>();
-            for (int i = 0; i < k; i++)
-                res.Add(orderedWords[i]);
-            return res;
+            return words.GroupBy(x => x).ToDictionary(x => x.Key, x => x.Count()).OrderByDescending(x => x.Value).ThenBy(x => x.Key).Take(k).Select(x => x.Key).ToArray();
         }
     }
 }
