@@ -35,7 +35,7 @@ namespace SnakesAndLadders
             }
             var queue = new Queue<int[]>();
             queue.Enqueue(new[] { 1, 0 });
-            var visited = new HashSet<int>();
+            var visited = new HashSet<int> { 1 };
             while (queue.Count != 0)
             {
                 var cur = queue.Dequeue();

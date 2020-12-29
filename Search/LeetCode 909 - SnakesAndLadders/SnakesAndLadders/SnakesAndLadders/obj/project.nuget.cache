@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ICBN2a8bkZIz1pSMjibbK0FO8Z2lpUHR+7Cui1pTM+Nf4jm3SkNNUmGdE0SAOloaShqF8GNTWkttLkpxeLoq1g==",
+  "dgSpecHash": "0Dw08/JhKZ3DTRZOctEj0pgFMPP3E/zeCkRTFdNGwMARTWwbqAK8RRcEE8rv3gHUwFU1Z6uo/dk78bsAvzsh+Q==",
   "success": true,
   "projectFilePath": "F:\\C#\\LeetCode\\Search\\LeetCode 909 - SnakesAndLadders\\SnakesAndLadders\\SnakesAndLadders\\SnakesAndLadders.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
