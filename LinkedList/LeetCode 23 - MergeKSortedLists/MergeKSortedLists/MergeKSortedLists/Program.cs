@@ -34,8 +34,7 @@ namespace MergeKSortedLists
                     list[listNode.val] = new List<ListNode>();
                 list[listNode.val].Add(listNode);
             }
-            var res = new ListNode();
-            var point = res;
+            ListNode res = new ListNode(), point = res;
             while (list.Count != 0)
             {
                 point.next = list[list.Keys[0]][^1];
