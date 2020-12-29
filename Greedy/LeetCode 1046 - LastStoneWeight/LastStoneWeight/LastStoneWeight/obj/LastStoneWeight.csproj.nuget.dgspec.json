@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj": {}
+    "F:\\C#\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj": {
+    "F:\\C#\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj",
         "projectName": "LastStoneWeight",
-        "projectPath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -58,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
