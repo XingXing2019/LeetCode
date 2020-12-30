@@ -59,8 +59,9 @@ namespace TopKFrequentWords
             {
                 if (!list.ContainsKey(kv.Value))
                     list[kv.Value] = new List<string>();
-                list[kv.Value].Add(kv.Key);
-                list[kv.Value].Sort();
+                var index = list[kv.Value].BinarySearch(kv.Key);
+                if (index < 0) index = ~index;
+                list[kv.Value].Insert(index, kv.Key);
                 count++;
                 while (count > k)
                 {
