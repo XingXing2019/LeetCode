@@ -1,0 +1,2 @@
+select b.book_id, b.name from books b where b.available_from < adddate('2019-06-23', interval -1 month) and b.book_id not in
+(select o.book_id from orders o where o.dispatch_date > adddate('2019-06-23', interval -1 year) group by o.book_id having sum(o.quantity) >= 10);
