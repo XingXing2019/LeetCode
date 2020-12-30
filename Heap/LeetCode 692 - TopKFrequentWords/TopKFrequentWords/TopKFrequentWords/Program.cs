@@ -12,7 +12,7 @@ namespace TopKFrequentWords
         {
             string[] words = { "i", "love", "leetcode", "i", "love", "coding" };
             int k = 3;
-            Console.WriteLine(TopKFrequent(words, k));
+            Console.WriteLine(TopKFrequent_SortedList(words, k));
         }
         static IList<string> TopKFrequent(string[] words, int k)
         {
@@ -48,6 +48,32 @@ namespace TopKFrequentWords
         public IList<string> TopKFrequent_Linq(string[] words, int k)
         {
             return words.GroupBy(x => x).ToDictionary(x => x.Key, x => x.Count()).OrderByDescending(x => x.Value).ThenBy(x => x.Key).Take(k).Select(x => x.Key).ToArray();
+        }
+
+        static IList<string> TopKFrequent_SortedList(string[] words, int k)
+        {
+            var dict = words.GroupBy(x => x).ToDictionary(x => x.Key, x => x.Count());
+            var list = new SortedList<int, List<string>>();
+            int count = 0;
+            foreach (var kv in dict)
+            {
+                if (!list.ContainsKey(kv.Value))
+                    list[kv.Value] = new List<string>();
+                list[kv.Value].Add(kv.Key);
+                list[kv.Value].Sort();
+                count++;
+                while (count > k)
+                {
+                    list[list.Keys[0]].RemoveAt(list[list.Keys[0]].Count - 1);
+                    count--;
+                    if (list[list.Keys[0]].Count == 0)
+                        list.RemoveAt(0);
+                }
+            }
+            var res = new List<string>();
+            for (int i = list.Count - 1; i >= 0; i--)
+                res.AddRange(list[list.Keys[i]]);
+            return res;
         }
     }
 }

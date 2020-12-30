@@ -9,3 +9,15 @@ E:\C#\LeetCode\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWo
 E:\C#\LeetCode\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.AssemblyInfo.cs
 E:\C#\LeetCode\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.dll
 E:\C#\LeetCode\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.pdb
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.csprojAssemblyReference.cache
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.AssemblyInfoInputs.cache
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.AssemblyInfo.cs
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.csproj.CoreCompileInputs.cache
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.dll
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.pdb
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\bin\Debug\netcoreapp2.1\TopKFrequentWords.deps.json
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\bin\Debug\netcoreapp2.1\TopKFrequentWords.runtimeconfig.json
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\bin\Debug\netcoreapp2.1\TopKFrequentWords.runtimeconfig.dev.json
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\bin\Debug\netcoreapp2.1\TopKFrequentWords.dll
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\bin\Debug\netcoreapp2.1\TopKFrequentWords.pdb
+F:\C#\LeetCode\Heap\LeetCode 692 - TopKFrequentWords\TopKFrequentWords\TopKFrequentWords\obj\Debug\netcoreapp2.1\TopKFrequentWords.genruntimeconfig.cache
