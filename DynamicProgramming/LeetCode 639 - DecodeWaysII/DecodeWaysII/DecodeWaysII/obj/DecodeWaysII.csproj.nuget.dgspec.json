@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 91 - DecodeWays\\DecodeWays\\DecodeWays\\DecodeWays.csproj": {}
+    "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 639 - DecodeWaysII\\DecodeWaysII\\DecodeWaysII\\DecodeWaysII.csproj": {}
   },
   "projects": {
-    "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 91 - DecodeWays\\DecodeWays\\DecodeWays\\DecodeWays.csproj": {
+    "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 639 - DecodeWaysII\\DecodeWaysII\\DecodeWaysII\\DecodeWaysII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 91 - DecodeWays\\DecodeWays\\DecodeWays\\DecodeWays.csproj",
-        "projectName": "DecodeWays",
-        "projectPath": "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 91 - DecodeWays\\DecodeWays\\DecodeWays\\DecodeWays.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 639 - DecodeWaysII\\DecodeWaysII\\DecodeWaysII\\DecodeWaysII.csproj",
+        "projectName": "DecodeWaysII",
+        "projectPath": "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 639 - DecodeWaysII\\DecodeWaysII\\DecodeWaysII\\DecodeWaysII.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 91 - DecodeWays\\DecodeWays\\DecodeWays\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 639 - DecodeWaysII\\DecodeWaysII\\DecodeWaysII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.1"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.1": {
-            "targetAlias": "netcoreapp2.1",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,16 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.1": {
-          "targetAlias": "netcoreapp2.1",
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.1.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,6 +49,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
