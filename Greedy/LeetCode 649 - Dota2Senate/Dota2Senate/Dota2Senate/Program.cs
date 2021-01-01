@@ -14,9 +14,9 @@ namespace Dota2Senate
         static void Main(string[] args)
         {
             string senate = "DRRDRDRDRDDRDRDR";
-            Console.WriteLine(PredictPartyVictory(senate));
+            Console.WriteLine(PredictPartyVictory_Queue(senate));
         }
-        static string PredictPartyVictory(string senate)
+        static string PredictPartyVictory_List(string senate)
         {
             List<int> rPos = new List<int>();
             List<int> dPos = new List<int>();
@@ -45,6 +45,30 @@ namespace Dota2Senate
                 }
             }
             return dPos.Count == 0 ? "Radiant" : "Dire";
+        }
+        static string PredictPartyVictory_Queue(string senate)
+        {
+            var radiant = new Queue<int>();
+            var dire = new Queue<int>();
+            for (int i = 0; i < senate.Length; i++)
+            {
+                if(senate[i] == 'R') radiant.Enqueue(i);
+                else dire.Enqueue(i);
+            }
+            while (radiant.Count != 0 && dire.Count != 0)
+            {
+                if (radiant.Peek() < dire.Peek())
+                {
+                    dire.Dequeue();
+                    radiant.Enqueue(radiant.Dequeue() + senate.Length);
+                }
+                else
+                {
+                    radiant.Dequeue();
+                    dire.Enqueue(dire.Dequeue() + senate.Length);
+                }
+            }
+            return radiant.Count != 0 ? "Radiant" : "Dire";
         }
     }
 }
