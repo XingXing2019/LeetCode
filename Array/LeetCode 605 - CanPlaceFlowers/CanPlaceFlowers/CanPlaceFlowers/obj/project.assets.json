@@ -8,21 +8,17 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\xxing\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\xxing\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\Array\\LeetCode 605 - CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers.csproj",
+      "projectUniqueName": "F:\\C#\\LeetCode\\Array\\LeetCode 605 - CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers.csproj",
       "projectName": "CanPlaceFlowers",
-      "projectPath": "F:\\C#\\Algorithm\\Array\\LeetCode 605 - CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers.csproj",
+      "projectPath": "F:\\C#\\LeetCode\\Array\\LeetCode 605 - CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\Array\\LeetCode 605 - CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers\\obj\\",
+      "outputPath": "F:\\C#\\LeetCode\\Array\\LeetCode 605 - CanPlaceFlowers\\CanPlaceFlowers\\CanPlaceFlowers\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -36,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "projectReferences": {}
         }
       },
@@ -47,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
         "imports": [
           "net461",
           "net462",
@@ -57,12 +55,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
