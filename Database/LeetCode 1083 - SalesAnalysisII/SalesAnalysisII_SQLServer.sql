@@ -1,0 +1,2 @@
+select distinct buyer_id from sales s1 where s1.product_id = (select product_id from product where product_name = 'S8')
+except (select distinct buyer_id from sales s2 where s2.product_id = (select product_id from product where product_name = 'iPhone'));
