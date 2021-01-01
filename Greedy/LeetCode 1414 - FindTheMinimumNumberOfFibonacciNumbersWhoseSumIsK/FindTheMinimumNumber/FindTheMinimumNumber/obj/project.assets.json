@@ -8,21 +8,17 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\xxing\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\xxing\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1414 - FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK\\FindTheMinimumNumber\\FindTheMinimumNumber\\FindTheMinimumNumber.csproj",
+      "projectUniqueName": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1414 - FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK\\FindTheMinimumNumber\\FindTheMinimumNumber\\FindTheMinimumNumber.csproj",
       "projectName": "FindTheMinimumNumber",
-      "projectPath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1414 - FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK\\FindTheMinimumNumber\\FindTheMinimumNumber\\FindTheMinimumNumber.csproj",
+      "projectPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1414 - FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK\\FindTheMinimumNumber\\FindTheMinimumNumber\\FindTheMinimumNumber.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\Greedy\\LeetCode 1414 - FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK\\FindTheMinimumNumber\\FindTheMinimumNumber\\obj\\",
+      "outputPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1414 - FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK\\FindTheMinimumNumber\\FindTheMinimumNumber\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -36,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -62,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

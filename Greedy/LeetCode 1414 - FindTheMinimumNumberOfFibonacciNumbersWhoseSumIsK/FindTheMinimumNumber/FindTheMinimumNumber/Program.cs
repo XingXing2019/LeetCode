@@ -34,5 +34,22 @@ namespace FindTheMinimumNumber
             }
             return count;
         }
+        public int FindMinFibonacciNumbers_BinarySearch(int k)
+        {
+            var fib = new List<int> {1};
+            int cur = 1, res = 0;
+            while (cur <= k)
+            {
+                fib.Add(cur);
+                cur += fib[^2];
+            }
+            while (k > 0)
+            {
+                var index = fib.BinarySearch(k);
+                k -= index >= 0 ? fib[index] : fib[~index - 1];
+                res++;
+            }
+            return res;
+        }
     }
 }
