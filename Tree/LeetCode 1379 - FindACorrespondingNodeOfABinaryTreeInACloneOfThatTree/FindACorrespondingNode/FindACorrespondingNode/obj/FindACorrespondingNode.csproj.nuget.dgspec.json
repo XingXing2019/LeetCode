@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\FindACorrespondingNode.csproj": {}
+    "F:\\C#\\LeetCode\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\FindACorrespondingNode.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\FindACorrespondingNode.csproj": {
+    "F:\\C#\\LeetCode\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\FindACorrespondingNode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\FindACorrespondingNode.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\FindACorrespondingNode.csproj",
         "projectName": "FindACorrespondingNode",
-        "projectPath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\FindACorrespondingNode.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\FindACorrespondingNode.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\Tree\\LeetCode 1379 - FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree\\FindACorrespondingNode\\FindACorrespondingNode\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
