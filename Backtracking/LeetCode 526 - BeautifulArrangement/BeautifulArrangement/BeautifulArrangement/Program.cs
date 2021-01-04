@@ -13,19 +13,20 @@ namespace BeautifulArrangement
         static int CountArrangement(int n)
         {
             var res = 0;
-            DFS(n, 1, new HashSet<int>(), ref res);
+            DFS(n, 1, new bool[n + 1], ref res);
             return res;
         }
 
-        static void DFS(int n, int count, HashSet<int> visited, ref int res)
+        static void DFS(int n, int count, bool[] visited, ref int res)
         {
             if (count == n + 1) res++;
             for (int i = 1; i <= n; i++)
             {
-                if ((i % count == 0 || count % i == 0) && visited.Add(i))
+                if (!visited[i] && (i % count == 0 || count % i == 0))
                 {
+                    visited[i] = true;
                     DFS(n, count + 1, visited, ref res);
-                    visited.Remove(i);
+                    visited[i] = false;
                 }
             }
         }
