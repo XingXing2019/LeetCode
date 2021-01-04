@@ -10,7 +10,7 @@ namespace PartitionEqualSubsetSum
     {
         static void Main(string[] args)
         {
-            int[] nums = { 5, 11, 5, 1 };
+            int[] nums = { 14, 9, 8, 4, 3, 2 };
             Console.WriteLine(CanPartition(nums));
         }
         static bool CanPartition(int[] nums)

@@ -9,3 +9,16 @@ F:\C#\Algorithm\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\Partit
 F:\C#\Algorithm\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.AssemblyInfo.cs
 F:\C#\Algorithm\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.dll
 F:\C#\Algorithm\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.pdb
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\bin\Debug\netcoreapp3.0\PartitionEqualSubsetSum.exe
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\bin\Debug\netcoreapp3.0\PartitionEqualSubsetSum.deps.json
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\bin\Debug\netcoreapp3.0\PartitionEqualSubsetSum.runtimeconfig.json
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\bin\Debug\netcoreapp3.0\PartitionEqualSubsetSum.runtimeconfig.dev.json
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\bin\Debug\netcoreapp3.0\PartitionEqualSubsetSum.dll
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\bin\Debug\netcoreapp3.0\PartitionEqualSubsetSum.pdb
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.csprojAssemblyReference.cache
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.AssemblyInfoInputs.cache
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.AssemblyInfo.cs
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.csproj.CoreCompileInputs.cache
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.dll
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.pdb
+F:\C#\LeetCode\DynamicProgramming\LeetCode 416 - PartitionEqualSubsetSum\PartitionEqualSubsetSum\PartitionEqualSubsetSum\obj\Debug\netcoreapp3.0\PartitionEqualSubsetSum.genruntimeconfig.cache
