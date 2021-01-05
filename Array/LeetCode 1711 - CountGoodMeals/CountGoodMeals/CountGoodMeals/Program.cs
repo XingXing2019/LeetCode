@@ -10,19 +10,10 @@ namespace CountGoodMeals
         {
             int[] deliciousness = { 32 };
             Console.WriteLine(CountPairs(deliciousness));
-
-           long a = 100000, b = 100000;
-           Console.WriteLine(a * b);
         }
         static int CountPairs(int[] deliciousness)
         {
-            var dict = new Dictionary<int, long>();
-            foreach (var num in deliciousness)
-            {
-                if (!dict.ContainsKey(num))
-                    dict[num] = 0;
-                dict[num]++;
-            }
+            var dict = deliciousness.GroupBy(x => x).ToDictionary(x => x.Key, x => Convert.ToInt64(x.Count()));
             long res = 0; 
             int mod = 1_000_000_000 + 7;
             foreach (var kv in dict)
