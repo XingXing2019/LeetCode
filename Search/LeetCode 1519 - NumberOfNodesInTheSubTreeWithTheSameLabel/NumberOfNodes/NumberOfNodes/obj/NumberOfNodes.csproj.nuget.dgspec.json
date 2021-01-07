@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\LeetCode\\Graph\\LeetCode 399 - EvaluateDivision\\EvaluateDivision\\EvaluateDivision\\EvaluateDivision.csproj": {}
+    "F:\\C#\\LeetCode\\Search\\LeetCode 1519 - NumberOfNodesInTheSubTreeWithTheSameLabel\\NumberOfNodes\\NumberOfNodes\\NumberOfNodes.csproj": {}
   },
   "projects": {
-    "F:\\C#\\LeetCode\\Graph\\LeetCode 399 - EvaluateDivision\\EvaluateDivision\\EvaluateDivision\\EvaluateDivision.csproj": {
+    "F:\\C#\\LeetCode\\Search\\LeetCode 1519 - NumberOfNodesInTheSubTreeWithTheSameLabel\\NumberOfNodes\\NumberOfNodes\\NumberOfNodes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\LeetCode\\Graph\\LeetCode 399 - EvaluateDivision\\EvaluateDivision\\EvaluateDivision\\EvaluateDivision.csproj",
-        "projectName": "EvaluateDivision",
-        "projectPath": "F:\\C#\\LeetCode\\Graph\\LeetCode 399 - EvaluateDivision\\EvaluateDivision\\EvaluateDivision\\EvaluateDivision.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\Search\\LeetCode 1519 - NumberOfNodesInTheSubTreeWithTheSameLabel\\NumberOfNodes\\NumberOfNodes\\NumberOfNodes.csproj",
+        "projectName": "NumberOfNodes",
+        "projectPath": "F:\\C#\\LeetCode\\Search\\LeetCode 1519 - NumberOfNodesInTheSubTreeWithTheSameLabel\\NumberOfNodes\\NumberOfNodes\\NumberOfNodes.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\LeetCode\\Graph\\LeetCode 399 - EvaluateDivision\\EvaluateDivision\\EvaluateDivision\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\Search\\LeetCode 1519 - NumberOfNodesInTheSubTreeWithTheSameLabel\\NumberOfNodes\\NumberOfNodes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
