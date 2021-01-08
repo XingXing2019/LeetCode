@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers.csproj": {}
+    "F:\\C#\\LeetCode\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers.csproj": {
+    "F:\\C#\\LeetCode\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers.csproj",
         "projectName": "MaximumProductOfThreeNumbers",
-        "projectPath": "F:\\C#\\Algorithm\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\Math\\LeetCode 628 - MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\MaximumProductOfThreeNumbers\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -58,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

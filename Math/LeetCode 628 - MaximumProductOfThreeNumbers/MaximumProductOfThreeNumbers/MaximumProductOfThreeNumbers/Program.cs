@@ -9,39 +9,43 @@ namespace MaximumProductOfThreeNumbers
         static void Main(string[] args)
         {
             int[] nums = { 1, 2, 3, 4 };
-            Console.WriteLine(MaximumProduct(nums));
+            Console.WriteLine(MaximumProduct_N(nums));
         }
-        static int MaximumProduct(int[] nums)
+        static int MaximumProduct_N(int[] nums)
         {
-            int firstlarge = int.MinValue, secondLarge = int.MinValue, thirdLarge = int.MinValue;
-            int firstSmall = int.MaxValue, secondSmall = int.MaxValue;
-            for (int i = 0; i < nums.Length; i++)
+            int max1 = int.MinValue, max2 = int.MinValue, max3 = int.MinValue;
+            int min1 = int.MaxValue, min2 = int.MaxValue;
+            foreach (var num in nums)
             {
-                if (nums[i] > firstlarge)
+                if (num > max1)
                 {
-                    thirdLarge = secondLarge;
-                    secondLarge = firstlarge;
-                    firstlarge = nums[i];
+                    max3 = max2;
+                    max2 = max1;
+                    max1 = num;
                 }
-                else if (nums[i] > secondLarge)
+                else if (num > max2)
                 {
-                    thirdLarge = secondLarge;
-                    secondLarge = nums[i];
+                    max3 = max2;
+                    max2 = num;
                 }
-                else if (nums[i] > thirdLarge)
-                    thirdLarge = nums[i];
+                else if (num > max3)
+                    max3 = num;
+                if (num < min1)
+                {
+                    min2 = min1;
+                    min1 = num;
+                }
+                else if (num < min2)
+                    min2 = num;
             }
-            for (int i = 0; i < nums.Length; i++)
-            {
-                if (nums[i] < firstSmall)
-                {
-                    secondSmall = firstSmall;
-                    firstSmall = nums[i];
-                }
-                else if (nums[i] < secondSmall)
-                    secondSmall = nums[i];
-            }
-            return Math.Max(firstlarge * secondLarge * thirdLarge, firstlarge * firstSmall * secondSmall);
+            return Math.Max(min1 * min2 * max1, max1 * max2 * max3);
+        }
+
+        static int MaximumProduct_NLogN(int[] nums)
+        {
+            Array.Sort(nums);
+            return Math.Max(nums[0] * nums[1] * nums[nums.Length - 1],
+                nums[nums.Length - 1] * nums[nums.Length - 2] * nums[nums.Length - 3]);
         }
     }
 }
