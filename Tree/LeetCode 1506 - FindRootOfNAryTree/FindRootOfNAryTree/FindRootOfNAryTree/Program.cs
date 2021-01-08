@@ -47,5 +47,21 @@ namespace FindRootOfNAryTree
             }
             return null;
         }
+        public Node FindRoot_O1Space(List<Node> tree)
+        {
+            int sum = 0, childernSum = 0;
+            foreach (var node in tree)
+            {
+                sum += node.val;
+                foreach (var child in node.children)
+                    childernSum += child.val;
+            }
+            foreach (var node in tree)
+            {
+                if (node.val == sum - childernSum)
+                    return node;
+            }
+            return null;
+        }
     }
 }
