@@ -1,7 +1,8 @@
-﻿// ++: (1i + 2i + i) - (1j + 2j + j)
-// +-: (1i - 2i + i) - (1j - 2j + j)
-// --: (1j + 2j - j) - (1i + i2 - i)
-// -+: (1j - 2j - j) - (1i - 2i - i)
+﻿// ++: (1i + 2i + i) - (1j + 2j + j)    arr1[i] + arr2[i] + i
+// +-: (1i - 2i + i) - (1j - 2j + j)    arr1[i] + arr2[i] - i
+// --: (1j + 2j - j) - (1i + i2 - i)    arr1[i] - arr2[i] - i
+// -+: (1j - 2j - j) - (1i - 2i - i)    arr1[i] - arr2[i] + i
+
 // 遍历数组，找到这四种情况的最大值和最小值分别是什么，存入max和min
 using System;
 
