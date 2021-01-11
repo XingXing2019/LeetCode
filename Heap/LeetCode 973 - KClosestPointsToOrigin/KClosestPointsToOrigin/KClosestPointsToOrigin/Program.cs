@@ -24,5 +24,9 @@ namespace KClosestPointsToOrigin
                 res[i] = orderedPoints[i];
             return res;
         }
+        public int[][] KClosest_Linq(int[][] points, int K)
+        {
+            return points.OrderBy(x => x[0] * x[0] + x[1] * x[1]).Take(K).ToArray();
+        }
     }
 }
