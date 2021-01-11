@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles.csproj": {}
+    "F:\\C#\\LeetCode\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles.csproj": {
+    "F:\\C#\\LeetCode\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles.csproj",
         "projectName": "ReorderDataInLogFiles",
-        "projectPath": "F:\\C#\\Algorithm\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\String\\LeetCode 937 - ReorderDataInLogFiles\\ReorderDataInLogFiles\\ReorderDataInLogFiles\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

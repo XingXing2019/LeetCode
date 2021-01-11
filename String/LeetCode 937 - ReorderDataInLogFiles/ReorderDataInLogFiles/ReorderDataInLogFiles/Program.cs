@@ -9,9 +9,9 @@ namespace ReorderDataInLogFiles
         static void Main(string[] args)
         {
             string[] logs = { "a1 9 2 3 1", "g1 act car", "zo4 4 7", "ab1 off key dog", "a8 act zoo", "a2 act car" };
-            Console.WriteLine(ReorderLogFiles(logs));
+            Console.WriteLine(ReorderLogFiles_Linq(logs));
         }
-        static string[] ReorderLogFiles(string[] logs)
+        static string[] ReorderLogFiles_Sort(string[] logs)
         {
             var let = logs.Where(x => char.IsLetter(x[x.IndexOf(' ') + 1])).ToList();
             var dig = logs.Where(x => char.IsDigit(x[x.IndexOf(' ') + 1])).ToList();
@@ -28,6 +28,13 @@ namespace ReorderDataInLogFiles
             res.AddRange(let);
             res.AddRange(dig);
             return res.ToArray();
+        }
+        public string[] ReorderLogFiles_Linq(string[] logs)
+        {
+            var lets = logs.Where(x => !char.IsDigit(x[^1])).OrderBy(x => x.Substring(x.IndexOf(' '))).ThenBy(x => x).ToList();
+            var digs = logs.Where(x => char.IsDigit(x[^1]));
+            lets.AddRange(digs);
+            return lets.ToArray();
         }
     }
 }
