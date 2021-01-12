@@ -11,3 +11,16 @@ F:\C#\Algorithm\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\
 F:\C#\Algorithm\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.dll
 F:\C#\Algorithm\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.pdb
 F:\C#\Algorithm\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.genruntimeconfig.cache
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\bin\Debug\netcoreapp3.1\PowXN.exe
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\bin\Debug\netcoreapp3.1\PowXN.deps.json
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\bin\Debug\netcoreapp3.1\PowXN.runtimeconfig.json
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\bin\Debug\netcoreapp3.1\PowXN.runtimeconfig.dev.json
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\bin\Debug\netcoreapp3.1\PowXN.dll
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\bin\Debug\netcoreapp3.1\PowXN.pdb
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.csprojAssemblyReference.cache
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.AssemblyInfoInputs.cache
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.AssemblyInfo.cs
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.csproj.CoreCompileInputs.cache
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.dll
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.pdb
+F:\C#\LeetCode\Math\LeetCode 50 - Pow(x,n)\PowXN\PowXN\obj\Debug\netcoreapp3.1\PowXN.genruntimeconfig.cache

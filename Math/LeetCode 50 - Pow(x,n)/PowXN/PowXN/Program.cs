@@ -9,11 +9,12 @@ namespace PowXN
         {
             double x = 2;
             int n = 10;
+            Console.WriteLine(MyPow_Recurrence(x, n));
         }
         public double MyPow_Recursion(double x, int n)
         {
             if (x == 0) return x;
-            if( n < 0)
+            if (n < 0)
             {
                 x = 1 / x;
                 n = -n;
@@ -29,15 +30,15 @@ namespace PowXN
             if (n % 2 == 0) return temp * temp;
             return temp * temp * x;
         }
-        static double MyPow(double x, int n)
+        static double MyPow_Recurrence(double x, int n)
         {
             if (n == 0 || x == 1) return 1;
-            if (x == 0) return 0;
+            if (n == 1) return x;
             long N = n;
             if (N < 0)
             {
-                x = 1 / x;
                 N = -N;
+                x = 1 / x;
             }
             double res = x, left = 1;
             while (N != 1)
@@ -45,7 +46,7 @@ namespace PowXN
                 if (N % 2 != 0)
                     left *= res;
                 res *= res;
-                N /= 2;
+                N >>= 1;
             }
             return res * left;
         }

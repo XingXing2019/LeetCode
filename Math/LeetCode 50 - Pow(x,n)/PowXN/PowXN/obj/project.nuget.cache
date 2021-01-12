@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0D2YScqNZmYfT3E2aHclowFg+O+EOTb+xnjV8OmPRAev9sL+npNJgva0UlqKMp+k6/syPVmHgpzbYohpGnskOg==",
+  "dgSpecHash": "pvALjDLogazPkbALH6FVzsmu7dvYCsxBFOIvukclie9zl/5LDzwUDAL5AyyHs1Rb/7/XR09CBL3sELXOCrUkDA==",
   "success": true,
-  "projectFilePath": "F:\\C#\\Algorithm\\Math\\LeetCode 50 - Pow(x,n)\\PowXN\\PowXN\\PowXN.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\C#\\LeetCode\\Math\\LeetCode 50 - Pow(x,n)\\PowXN\\PowXN\\PowXN.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
