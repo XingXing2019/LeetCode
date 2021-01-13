@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29009.5
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{998EB7C1-5217-4E9B-A8B5-F6E69EC70F10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{0CB73F84-6BB9-4A0F-B498-F5D7EF52FBD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{998EB7C1-5217-4E9B-A8B5-F6E69EC70F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{998EB7C1-5217-4E9B-A8B5-F6E69EC70F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{998EB7C1-5217-4E9B-A8B5-F6E69EC70F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{998EB7C1-5217-4E9B-A8B5-F6E69EC70F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB73F84-6BB9-4A0F-B498-F5D7EF52FBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB73F84-6BB9-4A0F-B498-F5D7EF52FBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB73F84-6BB9-4A0F-B498-F5D7EF52FBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB73F84-6BB9-4A0F-B498-F5D7EF52FBD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {48B710CD-5B92-49DA-BC12-89D8E0523375}
+		SolutionGuid = {1F78C7D7-B6E2-44CC-B926-E39E3792710D}
 	EndGlobalSection
 EndGlobal
