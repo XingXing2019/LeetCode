@@ -13,29 +13,15 @@ namespace BoatsToSavePeople
         static int NumRescueBoats(int[] people, int limit)
         {
             Array.Sort(people);
-            int boat = 0;
-            int light = 0;
-            int heavy = people.Length - 1;
-            while (light < heavy)
+            int li = 0, hi = people.Length - 1, res = 0;
+            while (li < hi)
             {
-                if(people[light] + people[heavy] > limit)
-                {
-                    boat++;
-                    heavy--;
-                }
-                else
-                {
-                    if (heavy - light != 1)
-                    {
-                        boat++;
-                        light++;
-                        heavy--;
-                    }
-                    else
-                        break;
-                }
+                if (people[li] + people[hi] <= limit)
+                    li++;
+                res++;
+                hi--;
             }
-            return boat + 1;
+            return li > hi ? res : res + 1;
         }
     }
 }

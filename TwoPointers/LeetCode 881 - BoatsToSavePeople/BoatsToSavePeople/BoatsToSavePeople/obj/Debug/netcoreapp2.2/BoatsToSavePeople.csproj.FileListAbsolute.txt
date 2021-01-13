@@ -9,3 +9,15 @@ F:\C#\Algorithm\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\B
 F:\C#\Algorithm\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.AssemblyInfo.cs
 F:\C#\Algorithm\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.dll
 F:\C#\Algorithm\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.pdb
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\bin\Debug\netcoreapp2.2\BoatsToSavePeople.deps.json
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\bin\Debug\netcoreapp2.2\BoatsToSavePeople.runtimeconfig.json
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\bin\Debug\netcoreapp2.2\BoatsToSavePeople.runtimeconfig.dev.json
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\bin\Debug\netcoreapp2.2\BoatsToSavePeople.dll
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\bin\Debug\netcoreapp2.2\BoatsToSavePeople.pdb
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.csprojAssemblyReference.cache
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.AssemblyInfoInputs.cache
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.AssemblyInfo.cs
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.csproj.CoreCompileInputs.cache
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.dll
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.pdb
+F:\C#\LeetCode\TwoPointers\LeetCode 881 - BoatsToSavePeople\BoatsToSavePeople\BoatsToSavePeople\obj\Debug\netcoreapp2.2\BoatsToSavePeople.genruntimeconfig.cache
