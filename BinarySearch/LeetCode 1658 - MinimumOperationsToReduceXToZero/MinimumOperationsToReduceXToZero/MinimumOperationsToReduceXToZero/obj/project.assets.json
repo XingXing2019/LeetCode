@@ -8,21 +8,17 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\xxing\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\xxing\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 1658 - MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero.csproj",
+      "projectUniqueName": "F:\\C#\\LeetCode\\BinarySearch\\LeetCode 1658 - MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero.csproj",
       "projectName": "MinimumOperationsToReduceXToZero",
-      "projectPath": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 1658 - MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero.csproj",
+      "projectPath": "F:\\C#\\LeetCode\\BinarySearch\\LeetCode 1658 - MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\BinarySearch\\LeetCode 1658 - MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\obj\\",
+      "outputPath": "F:\\C#\\LeetCode\\BinarySearch\\LeetCode 1658 - MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\MinimumOperationsToReduceXToZero\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -36,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -57,18 +55,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
