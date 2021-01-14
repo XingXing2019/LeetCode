@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace MinimumOperationsToReduceXToZero
 {
@@ -6,8 +7,8 @@ namespace MinimumOperationsToReduceXToZero
     {
         static void Main(string[] args)
         {
-            int[] nums = { 8828, 9581, 49, 9818, 9974, 9869, 9991, 10000, 10000, 10000, 9999, 9993, 9904, 8819, 1231, 6309 };
-            int x = 134365;
+            int[] nums = { 1, 1, 4, 2, 3 };
+            int x = 5;
             Console.WriteLine(MinOperations_Prefix(nums, x));
         }
         static int MinOperations_Suffix(int[] nums, int x)
