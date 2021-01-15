@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lVAUl7NwdW8sxK9T7nMxvZ+K2gnmDbDs1pG7OTvzWCjlmNoXehgs4Kb4YvWAUfBXCrHJJFqJKyWrRRRCoswVrQ==",
+  "dgSpecHash": "/Wl7D6bDqOmB4OqTar/KE1EWnnoNpFm7drtFb7Z7Jdjk3EWy0d74lGX1nTVqJ20he/7nl3x4gIlw7RFWhhXFJg==",
   "success": true,
   "projectFilePath": "F:\\C#\\LeetCode\\Search\\LeetCode 364 - NestedListWeightSumII\\NestedListWeightSumII\\NestedListWeightSumII\\NestedListWeightSumII.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

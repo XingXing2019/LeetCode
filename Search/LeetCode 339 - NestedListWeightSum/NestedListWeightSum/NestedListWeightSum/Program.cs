@@ -28,7 +28,7 @@ namespace NestedListWeightSum
         {
             Console.WriteLine("Hello World!");
         }
-        static int DepthSum(IList<NestedInteger> nestedList)
+        static int DepthSum_DFS(IList<NestedInteger> nestedList)
         {
             var res = 0;
             foreach (var nestedInteger in nestedList)
@@ -49,6 +49,31 @@ namespace NestedListWeightSum
             }
             foreach (var nestedInteger in integer.GetList())
                 DFS(nestedInteger, depth + 1, ref res);
+        }
+
+        static int DepthSum_BFS(IList<NestedInteger> nestedList)
+        {
+            var queue = new Queue<NestedInteger>();
+            foreach (var node in nestedList)
+                queue.Enqueue(node);
+            int res = 0, depth = 0;
+            while (queue.Count != 0)
+            {
+                var count = queue.Count;
+                depth++;
+                for (int i = 0; i < count; i++)
+                {
+                    var cur = queue.Dequeue();
+                    if (cur.IsInteger())
+                        res += depth * cur.GetInteger();
+                    else
+                    {
+                        foreach (var node in cur.GetList())
+                            queue.Enqueue(node);
+                    }
+                }
+            }
+            return res;
         }
     }
 }
