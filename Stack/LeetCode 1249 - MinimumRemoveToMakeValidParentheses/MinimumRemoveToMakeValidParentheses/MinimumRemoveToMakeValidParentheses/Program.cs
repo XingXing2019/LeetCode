@@ -11,7 +11,7 @@ namespace MinimumRemoveToMakeValidParentheses
     {
         static void Main(string[] args)
         {
-            string s = "))((";
+            string s = "))a((";
             Console.WriteLine(MinRemoveToMakeValid(s));
         }
         static string MinRemoveToMakeValid(string s)

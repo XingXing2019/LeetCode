@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses.csproj": {}
+    "F:\\C#\\LeetCode\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses.csproj": {
+    "F:\\C#\\LeetCode\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses.csproj",
         "projectName": "MinimumRemoveToMakeValidParentheses",
-        "projectPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\Stack\\LeetCode 1249 - MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\MinimumRemoveToMakeValidParentheses\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "imports": [
             "net461",
             "net462",
@@ -50,12 +49,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -46,5 +46,20 @@ namespace MinimumOperationsToReduceXToZero
             }
             return res == int.MaxValue ? -1 : res;
         }
+        public int MinOperations_SlidingWindow(int[] nums, int x)
+        {
+            int max = 0, sum = 0, li = 0, hi = 0;
+            int target = nums.Sum() - x;
+            if (target == 0) return nums.Length;
+            while (hi < nums.Length)
+            {
+                sum += nums[hi++];
+                while (sum > target && li < hi)
+                    sum -= nums[li++];
+                if (sum == target)
+                    max = Math.Max(max, hi - li);
+            }
+            return max == 0 ? -1 : nums.Length - max;
+        }
     }
 }
