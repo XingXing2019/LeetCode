@@ -11,39 +11,30 @@ namespace LargestDivisibleSubset
     {
         static void Main(string[] args)
         {
-            int[] nums = { 4, 8, 10, 240 };
+            int[] nums = { 5, 9, 18, 54, 108, 540, 90, 180, 360, 720 };
             Console.WriteLine(LargestDivisibleSubset(nums));
         }
         static IList<int> LargestDivisibleSubset(int[] nums)
         {
-            var res = new List<int>();
-            if (nums.Length == 0) return res;
+            if (nums.Length == 0) return new List<int>();
             Array.Sort(nums);
             var dp = new List<int>[nums.Length];
-            dp[0] = new List<int> { nums[0] };
-            int max = 1, pos = 0;
-            for (int i = 1; i < dp.Length; i++)
+            dp[0] = new List<int> {nums[0]};
+            int max = 1;
+            for (int i = 1; i < nums.Length; i++)
             {
-                dp[i] = new List<int>();
                 int longest = 0, index = -1;
                 for (int j = i - 1; j >= 0; j--)
                 {
-                    if (nums[i] % nums[j] == 0 && dp[j].Count + 1 > longest)
-                    {
-                        longest = dp[j].Count + 1;
-                        index = j;
-                    }
+                    if (nums[i] % nums[j] != 0 || dp[j].Count + 1 <= longest) continue;
+                    index = j;
+                    longest = dp[j].Count + 1;
                 }
-                if (index != -1)
-                    dp[i] = new List<int>(dp[index]);
-                dp[i].Add(nums[i]);
-                if (longest > max)
-                {
-                    max = longest;
-                    pos = i;
-                }
+                dp[i] = new List<int> {nums[i]};
+                if(index != -1) dp[i].AddRange(dp[index]);
+                max = Math.Max(max, dp[i].Count);
             }
-            return dp[pos];
+            return dp.First(x => x.Count == max);
         }
     }
 }
