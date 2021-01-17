@@ -9,3 +9,15 @@ F:\C#\Algorithm\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCom
 F:\C#\Algorithm\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.AssemblyInfo.cs
 F:\C#\Algorithm\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.dll
 F:\C#\Algorithm\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.pdb
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp2.2\LongestCommonPrefix.deps.json
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp2.2\LongestCommonPrefix.runtimeconfig.json
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp2.2\LongestCommonPrefix.runtimeconfig.dev.json
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp2.2\LongestCommonPrefix.dll
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\bin\Debug\netcoreapp2.2\LongestCommonPrefix.pdb
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.csprojAssemblyReference.cache
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.AssemblyInfoInputs.cache
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.AssemblyInfo.cs
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.csproj.CoreCompileInputs.cache
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.dll
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.pdb
+F:\C#\LeetCode\String\LeetCode 14 - LongestCommonPrefix\LongestCommonPrefix\LongestCommonPrefix\obj\Debug\netcoreapp2.2\LongestCommonPrefix.genruntimeconfig.cache
