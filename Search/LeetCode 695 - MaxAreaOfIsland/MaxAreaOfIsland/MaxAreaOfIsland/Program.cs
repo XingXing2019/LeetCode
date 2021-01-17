@@ -15,7 +15,7 @@ namespace MaxAreaOfIsland
             grid[3] = new int[5] { 0, 0, 0, 1, 1 };
             Console.WriteLine(MaxAreaOfIsland(grid));
         }
-        static int MaxAreaOfIsland(int[][] grid)
+        static int MaxAreaOfIsland_DFS(int[][] grid)
         {
             int res = 0;
             int area = 0;
@@ -48,6 +48,45 @@ namespace MaxAreaOfIsland
                    area = Math.Max(area, DFS(grid, mark, newX, newY, area));
             }
             return area;
+        }
+
+        static int MaxAreaOfIsland(int[][] grid)
+        {
+            if (grid.Length == 0 || grid[0].Length == 0) return 0;
+            var mark = new int[grid.Length][];
+            for (int i = 0; i < grid.Length; i++)
+                mark[i] = new int[grid[0].Length];
+            var res = 0;
+            for (int x = 0; x < grid.Length; x++)
+            {
+                for (int y = 0; y < grid[0].Length; y++)
+                {
+                    if (mark[x][y] == 0 && grid[x][y] == 1)
+                    {
+                        var area = 0;
+                        GetArea(grid, mark, x, y, ref area);
+                        res = Math.Max(res, area);
+                    }
+                }
+            }
+            return res;
+        }
+
+        static void GetArea(int[][] grid, int[][] mark, int x, int y, ref int area)
+        {
+            mark[x][y] = 1;
+            area++;
+            int[] dx = { -1, 1, 0, 0 };
+            int[] dy = { 0, 0, -1, 1 };
+            for (int i = 0; i < 4; i++)
+            {
+                int newX = dx[i] + x;
+                int newY = dy[i] + y;
+                if (newX < 0 || newX >= grid.Length || newY < 0 || newY >= grid[0].Length)
+                    continue;
+                if (grid[newX][newY] == 1 && mark[newX][newY] == 0)
+                    GetArea(grid, mark, newX, newY, ref area);
+            }
         }
     }
 }

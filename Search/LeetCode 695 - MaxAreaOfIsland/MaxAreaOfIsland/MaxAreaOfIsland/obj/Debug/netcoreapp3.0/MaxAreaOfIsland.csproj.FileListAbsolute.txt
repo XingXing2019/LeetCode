@@ -9,3 +9,16 @@ F:\C#\Algorithm\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfI
 F:\C#\Algorithm\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.AssemblyInfo.cs
 F:\C#\Algorithm\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.dll
 F:\C#\Algorithm\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.pdb
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.csprojAssemblyReference.cache
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.AssemblyInfoInputs.cache
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.AssemblyInfo.cs
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.csproj.CoreCompileInputs.cache
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.dll
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.pdb
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\bin\Debug\netcoreapp3.0\MaxAreaOfIsland.exe
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\bin\Debug\netcoreapp3.0\MaxAreaOfIsland.deps.json
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\bin\Debug\netcoreapp3.0\MaxAreaOfIsland.runtimeconfig.json
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\bin\Debug\netcoreapp3.0\MaxAreaOfIsland.runtimeconfig.dev.json
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\bin\Debug\netcoreapp3.0\MaxAreaOfIsland.dll
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\bin\Debug\netcoreapp3.0\MaxAreaOfIsland.pdb
+F:\C#\LeetCode\Search\LeetCode 695 - MaxAreaOfIsland\MaxAreaOfIsland\MaxAreaOfIsland\obj\Debug\netcoreapp3.0\MaxAreaOfIsland.genruntimeconfig.cache
