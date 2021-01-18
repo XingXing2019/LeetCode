@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\PowerOfThree.csproj": {}
+    "F:\\C#\\LeetCode\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\PowerOfThree.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\PowerOfThree.csproj": {
+    "F:\\C#\\LeetCode\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\PowerOfThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\PowerOfThree.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\PowerOfThree.csproj",
         "projectName": "PowerOfThree",
-        "projectPath": "F:\\C#\\Algorithm\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\PowerOfThree.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\PowerOfThree.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\Math\\LeetCode 326 - PowerOfThree\\PowerOfThree\\PowerOfThree\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
