@@ -12,16 +12,10 @@ namespace KthMissingPositiveNumber
         }
         static int FindKthPositive(int[] arr, int k)
         {
-            if (arr[0] > k) return k;
-            k -= arr[0] - 1;
-            for (int i = 1; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
-                if (arr[i] - arr[i - 1] != 1)
-                {
-                    if (k - (arr[i] - arr[i - 1] - 1) <= 0)
-                        return arr[i - 1] + k;
-                    k -= arr[i] - arr[i - 1] - 1;
-                }
+                k -= i == 0 ? arr[i] - 1 : arr[i] - arr[i - 1] - 1;
+                if (k <= 0) return arr[i] + k - 1;
             }
             return arr[^1] + k;
         }
