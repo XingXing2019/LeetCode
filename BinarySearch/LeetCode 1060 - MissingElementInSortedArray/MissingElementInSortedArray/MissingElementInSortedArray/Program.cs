@@ -30,5 +30,14 @@ namespace MissingElementInSortedArray
             }
             return nums[li] + k;
         }
+        public int MissingElement(int[] nums, int k)
+        {
+            for (int i = 1; i < nums.Length; i++)
+            {
+                k -= nums[i] - nums[i - 1] - 1;
+                if (k <= 0) return nums[i] + k - 1;
+            }
+            return nums[^1] + k;
+        }
     }
 }
