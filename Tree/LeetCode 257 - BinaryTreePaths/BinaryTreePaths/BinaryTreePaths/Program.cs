@@ -28,28 +28,17 @@ namespace BinaryTreePaths
         }
         static IList<string> BinaryTreePaths(TreeNode root)
         {
-            var record = new List<string>();
-            var nums = new List<int>();
-            PreOrder(root, record, nums);
-            return record;
+            var res = new List<string>();
+            DFS(root, "", res);
+            return res;
         }
-        static void PreOrder(TreeNode node, List<string> record, List<int> nums)
+        static void DFS(TreeNode node, string path, List<string> res)
         {
-            if(node == null)
-                return;
-            nums.Add(node.val);
-            if (node.left == null && node.right == null)
-            {
-                StringBuilder str = new StringBuilder();
-                foreach (var n in nums)
-                    str.Append(n + "->");
-                if (str.Length >= 2)
-                    str.Remove(str.Length - 2, 2);
-                record.Add(str.ToString());
-            }                     
-            PreOrder(node.left, record, nums);
-            PreOrder(node.right, record, nums);
-            nums.RemoveAt(nums.Count - 1);            
+            if(node == null) return;
+            if(node.left == node.right)
+                res.Add($"{path}{node.val}");
+            DFS(node.left, path + $"{node.val}->", res);
+            DFS(node.right, path + $"{node.val}->", res);
         }
     }
 }
