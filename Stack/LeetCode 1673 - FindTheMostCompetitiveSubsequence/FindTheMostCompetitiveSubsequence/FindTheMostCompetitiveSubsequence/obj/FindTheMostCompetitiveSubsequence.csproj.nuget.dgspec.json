@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence.csproj": {}
+    "F:\\C#\\LeetCode\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence.csproj": {
+    "F:\\C#\\LeetCode\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence.csproj",
         "projectName": "FindTheMostCompetitiveSubsequence",
-        "projectPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\Stack\\LeetCode 1673 - FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\FindTheMostCompetitiveSubsequence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -50,18 +49,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
