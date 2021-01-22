@@ -20,4 +20,14 @@ public class Main {
         }
         return res;
     }
+
+    public int numIdenticalPairs_Array(int[] nums) {
+        int[] map = new int[101];
+        var res = 0;
+        for (int num : nums){
+            res += map[num];
+            map[num]++;
+        }
+        return res;
+    }
 }
