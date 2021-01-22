@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace NumberOfGoodPairs
 {
@@ -16,6 +17,23 @@ namespace NumberOfGoodPairs
             {
                 res += frequencies[num];
                 frequencies[num]++;
+            }
+            return res;
+        }
+
+        static int NumIdenticalPairs_Dictionary(int[] nums)
+        {
+            var dict = new Dictionary<int, int>();
+            var res = 0;
+            foreach (var num in nums)
+            {
+                if (!dict.ContainsKey(num))
+                    dict[num] = 1;
+                else
+                {
+                    res += dict[num];
+                    dict[num]++;
+                }
             }
             return res;
         }
