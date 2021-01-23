@@ -24,7 +24,8 @@ public class Main {
                     res.add(new ArrayList<>(){{add(num1); add(num2); add(num3);}});
                     while(li < hi && nums[li] == num2)
                         li++;
-                    hi--;
+                    while(li < hi && nums[hi] == num3)
+                        hi--;
                 }
                 else if (nums[li] + nums[hi] > target)
                     hi--;
