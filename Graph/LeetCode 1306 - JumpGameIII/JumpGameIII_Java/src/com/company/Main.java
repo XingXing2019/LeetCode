@@ -40,4 +40,11 @@ public class Main {
         visited.add(cur);
         return dfs(arr, cur - arr[cur], visited) || dfs(arr, cur + arr[cur], visited);
     }
+
+    public boolean canReach_Recursion(int[] arr, int start) {
+        if(start < 0 || start >= arr.length || arr[start] < 0) return false;
+        if(arr[start] == 0) return true;
+        arr[start] = -1;
+        return canReach_Recursion(arr, start - arr[start]) || canReach_Recursion(arr, start + arr[start]);
+    }
 }
