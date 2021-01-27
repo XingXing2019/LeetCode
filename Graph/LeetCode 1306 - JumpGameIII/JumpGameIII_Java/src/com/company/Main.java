@@ -10,7 +10,7 @@ public class Main {
 	// write your code here
     }
 
-    public boolean canReach(int[] arr, int start) {
+    public boolean canReach_BFS(int[] arr, int start) {
         ArrayList<Integer> graph[] = new ArrayList[arr.length];
         for (int i = 0; i < arr.length; i++){
             if(graph[i] == null) graph[i] = new ArrayList<>();
@@ -28,5 +28,16 @@ public class Main {
             }
         }
         return false;
+    }
+
+    public boolean canReach_DFS(int[] arr, int start) {
+        return dfs(arr, start, new HashSet<>());
+    }
+
+    public boolean dfs(int[] arr, int cur, HashSet<Integer> visited){
+        if(cur >= arr.length || cur < 0 || visited.contains(cur)) return false;
+        if(arr[cur] == 0) return true;
+        visited.add(cur);
+        return dfs(arr, cur - arr[cur], visited) || dfs(arr, cur + arr[cur], visited);
     }
 }
