@@ -15,7 +15,6 @@ public class Main {
             if(!map.containsKey(num))
                 map.put(num, 0);
             map.put(num, map.get(num) + 1);
-            k = Math.max(k, map.get(num));
         }
         for (var kv : map.entrySet())
             k = gcd(k, kv.getValue());
