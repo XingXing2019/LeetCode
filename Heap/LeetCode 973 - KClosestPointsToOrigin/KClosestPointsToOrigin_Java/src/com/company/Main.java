@@ -14,22 +14,12 @@ public class Main {
         kClosest(points, K);
     }
     public static int[][] kClosest(int[][] points, int K) {
-        PriorityQueue<Integer> queue = new PriorityQueue<>(Comparator.reverseOrder());
+        PriorityQueue<int[]> queue = new PriorityQueue<>((a, b) -> b[0] * b[0] + b[1] * b[1] - a[0] * a[0] - a[1] * a[1]);
         for (int[] point : points){
-            int distance = point[0] * point[0] + point[1] * point[1];
-            if(queue.size() < K)
-                queue.offer(distance);
-            else if (distance < queue.peek()){
-                queue.poll();
-                queue.offer(distance);
-            }
+            queue.offer(point);
+            if(queue.size() > K) queue.poll();
         }
         int[][] res = new int[K][];
-        int index = 0;
-        for (int[] point : points){
-            if(point[0] * point[0] + point[1] * point[1] <= queue.peek())
-                res[index++] = point;
-        }
-        return res;
+        return queue.toArray(res);
     }
 }
