@@ -20,6 +20,8 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
+        String s = "";
+        s.c
     }
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
