@@ -11,15 +11,15 @@ public class Main {
     }
     public List<List<String>> groupAnagrams(String[] strs) {
         HashMap<String, List<String>> map = new HashMap<>();
+        List<List<String>> res = new ArrayList<>();
         for (String str : strs){
             String code = encode(str.toCharArray());
-            if(!map.containsKey(code))
+            if(!map.containsKey(code)){
                 map.put(code, new ArrayList<>());
+                res.add(map.get(code));
+            }
             map.get(code).add(str);
         }
-        List<List<String>> res = new ArrayList<>();
-        for(var kv : map.entrySet())
-            res.add(kv.getValue());
         return res;
     }
     public String encode(char[] str){
