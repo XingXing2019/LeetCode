@@ -24,19 +24,16 @@ class KthLargest {
     public KthLargest(int k, int[] nums) {
         queue = new PriorityQueue<>();
         size = k;
-        for(int num : nums)
-            queue.add(num);
-        while (queue.size() > k)
-            queue.poll();
+        for(int num : nums){
+            queue.offer(num);
+            if(queue.size() > k)
+                queue.poll();
+        }
     }
 
     public int add(int val) {
-        if(queue.size() < size)
-            queue.add(val);
-        else if(val > queue.peek()){
-            queue.poll();
-            queue.add(val);
-        }
+        queue.offer(val);
+        if(queue.size() > size) queue.poll();
         return queue.peek();
     }
 }
