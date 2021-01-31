@@ -38,11 +38,9 @@ namespace RestoreTheArrayFromAdjacentPairs
                 var cur = queue.Dequeue();
                 foreach (var next in graph[cur])
                 {
-                    if (set.Add(next))
-                    {
-                        queue.Enqueue(next);
-                        res.Add(next);
-                    }
+                    if (!set.Add(next)) continue;
+                    queue.Enqueue(next);
+                    res.Add(next);
                 }
             }
             return res.ToArray();
