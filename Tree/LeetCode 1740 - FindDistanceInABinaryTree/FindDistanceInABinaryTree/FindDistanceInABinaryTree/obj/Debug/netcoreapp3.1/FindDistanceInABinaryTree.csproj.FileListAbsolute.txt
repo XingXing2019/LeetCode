@@ -1,0 +1,4 @@
+F:\C#\LeetCode\Tree\LeetCode 1740 - FindDistanceInABinaryTree\FindDistanceInABinaryTree\FindDistanceInABinaryTree\obj\Debug\netcoreapp3.1\FindDistanceInABinaryTree.csprojAssemblyReference.cache
+F:\C#\LeetCode\Tree\LeetCode 1740 - FindDistanceInABinaryTree\FindDistanceInABinaryTree\FindDistanceInABinaryTree\obj\Debug\netcoreapp3.1\FindDistanceInABinaryTree.AssemblyInfoInputs.cache
+F:\C#\LeetCode\Tree\LeetCode 1740 - FindDistanceInABinaryTree\FindDistanceInABinaryTree\FindDistanceInABinaryTree\obj\Debug\netcoreapp3.1\FindDistanceInABinaryTree.AssemblyInfo.cs
+F:\C#\LeetCode\Tree\LeetCode 1740 - FindDistanceInABinaryTree\FindDistanceInABinaryTree\FindDistanceInABinaryTree\obj\Debug\netcoreapp3.1\FindDistanceInABinaryTree.csproj.CoreCompileInputs.cache
