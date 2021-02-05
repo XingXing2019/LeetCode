@@ -11,12 +11,11 @@ namespace FindRightInterval
     {
         static void Main(string[] args)
         {
-            int[][] intervals = new int[4][];
-            intervals[0] = new int[2] { 5, 6 };
-            intervals[1] = new int[2] { 4, 7 };
-            intervals[2] = new int[2] { 9, 10 };
-            intervals[3] = new int[2] { 7, 8 };
-            Console.WriteLine(FindRightInterval(intervals));
+            int[][] intervals = new int[3][];
+            intervals[0] = new int[2] { 3, 4 };
+            intervals[1] = new int[2] { 2, 3 };
+            intervals[2] = new int[2] { 1, 2 };
+            Console.WriteLine(FindRightInterval_BuildingIn(intervals));
         }
         static int[] FindRightInterval(int[][] intervals)
         {
@@ -40,6 +39,22 @@ namespace FindRightInterval
                     res[dict[intervals[i]]] = -1;
                 else
                     res[dict[intervals[i]]] = dict[intervals[li]];
+            }
+            return res;
+        }
+
+        static int[] FindRightInterval_BuildingIn(int[][] intervals)
+        {
+            var dict = new Dictionary<int, int>();
+            for (int i = 0; i < intervals.Length; i++)
+                dict[intervals[i][0]] = i;
+            var starts = intervals.Select(x => x[0]).OrderBy(x => x).ToArray();
+            var res = new int[intervals.Length];
+            for (int i = 0; i < intervals.Length; i++)
+            {
+                var index = Array.BinarySearch(starts, intervals[i][1]);
+                if (index < 0) index = ~index;
+                res[i] = index < starts.Length ? dict[starts[index]] : -1;
             }
             return res;
         }
