@@ -55,4 +55,25 @@ public class Main {
         }
         return parent != 0 && depth == 0;
     }
+
+    TreeNode xParent;
+    TreeNode yParent;
+    int depth = 0;
+    public boolean isCousins_dfs(TreeNode root, int x, int y) {
+        dfs(root, null, x, y, 0);
+        return xParent != yParent && depth == 0;
+    }
+    public void dfs(TreeNode node, TreeNode parent, int x, int y, int level){
+        if(node == null) return;
+        if(node.val == x){
+            xParent = parent;
+            depth += level;
+        }
+        if(node.val == y){
+            yParent = parent;
+            depth -= level;
+        }
+        dfs(node.left, node, x, y, level + 1);
+        dfs(node.right, node, x, y, level + 1);
+    }
 }
