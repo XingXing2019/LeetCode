@@ -38,5 +38,5 @@ public class Main {
         dfs(node.left);
         heap.offer(node.val);
         dfs(node.right);
-    }    
+    }
 }
