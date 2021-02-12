@@ -1,0 +1,2 @@
+SELECT s.product_id, first_year, quantity, price FROM sales s RIGHT JOIN 
+(SELECT product_id, MIN(year) first_year FROM sales GROUP BY product_id) t ON s.year = t.first_year AND s.product_id = t.product_id
