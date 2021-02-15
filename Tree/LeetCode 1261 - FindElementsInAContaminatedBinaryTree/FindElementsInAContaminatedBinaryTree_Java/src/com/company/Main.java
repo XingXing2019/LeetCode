@@ -33,14 +33,11 @@ class FindElements {
 
     private TreeNode dfs(TreeNode root){
         if(root == null) return null;
-        if(root.left != null){
+        nodes.add(root.val);
+        if(root.left != null)
             root.left.val = root.val * 2 + 1;
-            nodes.add(root.left.val);
-        }
-        if(root.right != null){
+        if(root.right != null)
             root.right.val = root.val * 2 + 2;
-            nodes.add(root.right.val);
-        }
         dfs(root.left);
         dfs(root.right);
         return root;
