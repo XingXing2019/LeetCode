@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLeavesOfBinaryTree", "FindLeavesOfBinaryTree\FindLeavesOfBinaryTree.csproj", "{2FCB5FD3-BE29-437F-8EF2-F8A0EF570D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FCB5FD3-BE29-437F-8EF2-F8A0EF570D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCB5FD3-BE29-437F-8EF2-F8A0EF570D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCB5FD3-BE29-437F-8EF2-F8A0EF570D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCB5FD3-BE29-437F-8EF2-F8A0EF570D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6016835D-F5E8-4D6C-A9AD-1BB61DF4D5A9}
+	EndGlobalSection
+EndGlobal
