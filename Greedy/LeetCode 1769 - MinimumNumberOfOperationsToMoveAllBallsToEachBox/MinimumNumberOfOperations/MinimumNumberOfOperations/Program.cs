@@ -23,25 +23,22 @@ namespace MinimumNumberOfOperations
 
         public int[] MinOperations_N(string boxes)
         {
-            int[][] left = new int[boxes.Length][], right = new int[boxes.Length][];
             var res = new int[boxes.Length];
             int prefix = 0, suffix = 0, prefixCount = 0, suffixCount = 0;
             for (int i = 0; i < boxes.Length; i++)
             {
-                left[i] = new[] { prefix, prefixCount };
+                res[i] += prefixCount * i - prefix;
                 if (boxes[i] == '1')
                 {
                     prefix += i;
                     prefixCount++;
                 }
-                res[i] += left[i][1] * i - left[i][0];
-                right[boxes.Length - i - 1] = new[] { suffix, suffixCount };
+                res[boxes.Length - i - 1] += suffix - suffixCount * (boxes.Length - i - 1);
                 if (boxes[boxes.Length - i - 1] == '1')
                 {
                     suffix += boxes.Length - i - 1;
                     suffixCount++;
                 }
-                res[boxes.Length - i - 1] += right[boxes.Length - i - 1][0] - right[boxes.Length - i - 1][1] * (boxes.Length - i - 1);
             }
             return res;
         }
