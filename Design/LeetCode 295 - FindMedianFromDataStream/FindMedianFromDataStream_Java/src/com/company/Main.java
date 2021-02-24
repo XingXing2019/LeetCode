@@ -1,6 +1,6 @@
 package com.company;
 
-import java.util.PriorityQueue;
+import java.util.*;
 
 public class Main {
 
@@ -9,7 +9,7 @@ public class Main {
     }
 }
 
-public class MedianFinder {
+public class MedianFinder_Heap {
 
     PriorityQueue<Integer> minHeap;
     PriorityQueue<Integer> maxHeap;
@@ -27,5 +27,23 @@ public class MedianFinder {
 
     public double findMedian() {
         return (maxHeap.size() + minHeap.size()) % 2 == 0 ? ((double) minHeap.peek() + maxHeap.peek()) / 2 : maxHeap.peek();
+    }
+}
+
+public class MedianFinder_BinarySearch {
+
+    List<Integer> nums;
+    public MedianFinder() {
+        nums = new ArrayList<>();
+    }
+
+    public void addNum(int num) {
+        int index = Collections.binarySearch(nums, num);
+        if(index < 0) index = ~index;
+        nums.add(index, num);
+    }
+
+    public double findMedian() {
+        return nums.size() % 2 == 0 ? ((double) nums.get(nums.size() / 2) + nums.get(nums.size() / 2 - 1)) / 2 : nums.get(nums.size() / 2);
     }
 }
