@@ -1,5 +1,24 @@
-package com.company;
+/*      arr1[i] - arr1[j] + arr2[i] - arr2[j] + i - j
+        arr1[i] - arr1[j] - arr2[i] + arr2[j] + i - j
+        arr1[i] - arr1[j] + arr2[i] - arr2[j] - i + j
+        arr1[i] - arr1[j] - arr2[i] + arr2[j] - i + j
+        -arr1[i] + arr1[j] + arr2[i] - arr2[j] + i - j
+        -arr1[i] + arr1[j] - arr2[i] + arr2[j] + i - j
+        -arr1[i] + arr1[j] + arr2[i] - arr2[j] - i + j
+        -arr1[i] + arr1[j] - arr2[i] + arr2[j] - i + j
 
+        arr1[i] + arr2[i] + i - ( arr1[j] + arr2[j] + j )
+        arr1[i] - arr2[i] + i - ( arr1[j] - arr2[j] + j )
+        arr1[i] + arr2[i] - i - ( arr1[j] + arr2[j] - j )
+        arr1[i] - arr2[i] - i - ( arr1[j] - arr2[j] - j )
+
+        arr1[i] + arr2[i] + i
+        arr1[i] - arr2[i] + i
+        arr1[i] + arr2[i] - i
+        arr1[i] - arr2[i] - i
+*/
+
+package com.company;
 public class Main {
 
     public static void main(String[] args) {
