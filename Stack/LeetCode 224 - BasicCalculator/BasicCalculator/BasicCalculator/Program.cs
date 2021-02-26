@@ -14,7 +14,6 @@ namespace BasicCalculator
         }
         public static int Calculate(string s)
         {
-            s += '@';
             var num = "";
             var nums = new Stack<int>();
             var operators = new Stack<char>();
@@ -36,10 +35,11 @@ namespace BasicCalculator
                         operators.Pop();
                         nums.Push(temp);
                     }
-                    else if (l != '@')
+                    else 
                         operators.Push(l);
                 }
             }
+            if (num != "") nums.Push(int.Parse(num));
             int res = 0;
             while (nums.Count != 0)
                 res += operators.Count == 0 || operators.Pop() == '+' ? nums.Pop() : -nums.Pop();
