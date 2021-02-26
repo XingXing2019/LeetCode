@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DYehSt/XoIgPhSBH6TalmZiXfb+fU6Q7aW/UHl4djA6E+kI/OGIGUOx5xXhCrqCSZqOGAYmXfbRWbm+FtmUWOg==",
+  "dgSpecHash": "9L+qzL4ArFeCK9dYw18u0AK0hMqdSAfz72m6VOXveUUqOkbB6/UR/bVlidq6huKpFEysNHgDMQDUR29pX/L8ag==",
   "success": true,
-  "projectFilePath": "F:\\C#\\LeetCode\\Math\\LeetCode 1131 - MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression.csproj",
+  "projectFilePath": "F:\\C#\\LeetCode\\Math\\LeetCode 1131 - MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression_C#\\MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

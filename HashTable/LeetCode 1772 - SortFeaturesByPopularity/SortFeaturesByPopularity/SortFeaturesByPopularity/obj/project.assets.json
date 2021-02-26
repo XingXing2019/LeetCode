@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\LeetCode\\Math\\LeetCode 1131 - MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression_C#\\MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression.csproj",
-      "projectName": "MaximumOfAbsoluteValueExpression",
-      "projectPath": "F:\\C#\\LeetCode\\Math\\LeetCode 1131 - MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression_C#\\MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression.csproj",
+      "projectUniqueName": "F:\\C#\\LeetCode\\HashTable\\LeetCode 1772 - SortFeaturesByPopularity\\SortFeaturesByPopularity\\SortFeaturesByPopularity\\SortFeaturesByPopularity.csproj",
+      "projectName": "SortFeaturesByPopularity",
+      "projectPath": "F:\\C#\\LeetCode\\HashTable\\LeetCode 1772 - SortFeaturesByPopularity\\SortFeaturesByPopularity\\SortFeaturesByPopularity\\SortFeaturesByPopularity.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\LeetCode\\Math\\LeetCode 1131 - MaximumOfAbsoluteValueExpression\\MaximumOfAbsoluteValueExpression_C#\\MaximumOfAbsoluteValueExpression\\obj\\",
+      "outputPath": "F:\\C#\\LeetCode\\HashTable\\LeetCode 1772 - SortFeaturesByPopularity\\SortFeaturesByPopularity\\SortFeaturesByPopularity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
