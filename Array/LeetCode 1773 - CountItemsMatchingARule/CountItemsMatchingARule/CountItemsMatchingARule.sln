@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountItemsMatchingARule", "CountItemsMatchingARule\CountItemsMatchingARule.csproj", "{C7FD86D2-F857-4992-9DFB-55C3FAF9818B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FD86D2-F857-4992-9DFB-55C3FAF9818B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FD86D2-F857-4992-9DFB-55C3FAF9818B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FD86D2-F857-4992-9DFB-55C3FAF9818B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FD86D2-F857-4992-9DFB-55C3FAF9818B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64857C7B-B964-4750-A519-51C597FE2B5A}
+	EndGlobalSection
+EndGlobal
