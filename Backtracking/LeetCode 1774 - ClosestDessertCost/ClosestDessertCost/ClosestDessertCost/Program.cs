@@ -20,8 +20,6 @@ namespace ClosestDessertCost
         {
             if (Math.Abs(target - res) > Math.Abs(target - cost))
                 res = cost;
-            else if (Math.Abs(target - res) > Math.Abs(target - cost))
-                res = Math.Min(res, cost);
             if (index == toppingCosts.Length || cost > target)
                 return;
             for (int i = 0; i <= 2; i++)
