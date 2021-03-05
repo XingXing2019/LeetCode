@@ -18,4 +18,14 @@ public class Main {
         }
         return -1;
     }
+
+    public static int findPeakElement_binarySearch(int[] nums) {
+        int li = 0, hi = nums.length - 1;
+        while (li < hi) {
+            int mid = li + (hi - li) / 2;
+            if(nums[mid] < nums[mid + 1]) li = mid + 1;
+            else hi = mid;
+        }
+        return hi;
+    }
 }
