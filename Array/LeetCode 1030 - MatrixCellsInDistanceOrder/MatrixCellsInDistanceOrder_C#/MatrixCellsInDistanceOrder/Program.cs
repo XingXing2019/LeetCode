@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace MatrixCellsInDistanceOrder
 {
@@ -34,6 +35,20 @@ namespace MatrixCellsInDistanceOrder
                 foreach (var pos in record[i])
                     res[index++] = pos;
             }
+            return res;
+        }
+        public int[][] AllCellsDistOrder_Linq(int R, int C, int r0, int c0)
+        {
+            var res = new int[R * C][];
+            var index = 0;
+            for (int r = 0; r < R; r++)
+            {
+                for (int c = 0; c < C; c++)
+                {
+                    res[index++] = new int[] { r, c };
+                }
+            }
+            res = res.OrderBy(x => Math.Abs(x[0] - r0) + Math.Abs(x[1] - c0)).ToArray();
             return res;
         }
     }

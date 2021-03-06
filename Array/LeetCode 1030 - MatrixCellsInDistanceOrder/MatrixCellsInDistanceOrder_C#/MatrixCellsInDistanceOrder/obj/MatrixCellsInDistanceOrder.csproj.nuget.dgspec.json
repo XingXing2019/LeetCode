@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder.csproj": {}
+    "F:\\C#\\LeetCode\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder_C#\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder.csproj": {
+    "F:\\C#\\LeetCode\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder_C#\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder_C#\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder.csproj",
         "projectName": "MatrixCellsInDistanceOrder",
-        "projectPath": "F:\\C#\\Algorithm\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder_C#\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\Array\\LeetCode 1030 - MatrixCellsInDistanceOrder\\MatrixCellsInDistanceOrder_C#\\MatrixCellsInDistanceOrder\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
