@@ -23,14 +23,10 @@ public class Main {
             res.add(matrix[x][y]);
             mark[x][y] = true;
             int newX = x + dir[index % 4][0], newY = y + dir[index % 4][1];
-            if (newX < 0 || newX >= mark.length || newY < 0 || newY >= mark[0].length || mark[newX][newY]) {
+            if (newX < 0 || newX >= mark.length || newY < 0 || newY >= mark[0].length || mark[newX][newY])
                 index++;
-                x += dir[index % 4][0];
-                y += dir[index % 4][1];
-            } else {
-                x = newX;
-                y = newY;
-            }
+            x += dir[index % 4][0];
+            y += dir[index % 4][1];
         }
         return res;
     }
