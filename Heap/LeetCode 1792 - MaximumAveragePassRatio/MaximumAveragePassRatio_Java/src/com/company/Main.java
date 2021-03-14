@@ -1,17 +1,13 @@
 package com.company;
 
-import java.util.Comparator;
 import java.util.PriorityQueue;
 
 public class Main {
 
     public static void main(String[] args) {
-        int[][] classes = {{1, 2}, {3, 5}, {2, 2}};
-        int extraStudents = 2;
-        System.out.println(maxAverageRatio(classes, extraStudents));
+	// write your code here
     }
-
-    public static double maxAverageRatio(int[][] classes, int extraStudents) {
+    public double maxAverageRatio(int[][] classes, int extraStudents) {
         PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a, b) -> compare(a, b));
         for (int[] c : classes)
             maxHeap.offer(c);

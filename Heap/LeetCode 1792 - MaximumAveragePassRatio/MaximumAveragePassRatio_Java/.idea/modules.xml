@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LeetCode 1792 - MaximumAveragePassRatio.iml" filepath="$PROJECT_DIR$/LeetCode 1792 - MaximumAveragePassRatio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaximumAveragePassRatio_Java.iml" filepath="$PROJECT_DIR$/MaximumAveragePassRatio_Java.iml" />
     </modules>
   </component>
 </project>
