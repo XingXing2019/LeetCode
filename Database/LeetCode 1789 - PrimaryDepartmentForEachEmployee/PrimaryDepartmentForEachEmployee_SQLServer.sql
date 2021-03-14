@@ -1,0 +1,2 @@
+WITH primaryDep AS (SELECT employee_id, department_id, RANK() OVER(PARTITION BY employee_id ORDER BY primary_flag DESC) AS primaryDep FROM employee)
+SELECT employee_id, department_id FROM primaryDep WHERE primaryDep = 1
