@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountPairsOfEqualSubstrings", "CountPairsOfEqualSubstrings\CountPairsOfEqualSubstrings.csproj", "{AB7981A3-0CA6-494D-B351-797CE5E00BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB7981A3-0CA6-494D-B351-797CE5E00BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7981A3-0CA6-494D-B351-797CE5E00BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7981A3-0CA6-494D-B351-797CE5E00BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7981A3-0CA6-494D-B351-797CE5E00BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8828E2FC-2943-4A43-8431-6FAFCB0505E8}
+	EndGlobalSection
+EndGlobal
