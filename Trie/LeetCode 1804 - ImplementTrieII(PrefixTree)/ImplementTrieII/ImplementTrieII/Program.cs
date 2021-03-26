@@ -36,7 +36,6 @@ namespace ImplementTrieII
             foreach (var l in word)
             {
                 if (point.children[l - 'a'] == null)
-
                     point.children[l - 'a'] = new TreeNode();
                 point = point.children[l - 'a'];
                 point.count++;
