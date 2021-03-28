@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReconstructOriginalDigitsFromEnglish", "ReconstructOriginalDigitsFromEnglish\ReconstructOriginalDigitsFromEnglish.csproj", "{EBACCC33-1927-47E0-9241-7BD3ED80A174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBACCC33-1927-47E0-9241-7BD3ED80A174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBACCC33-1927-47E0-9241-7BD3ED80A174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBACCC33-1927-47E0-9241-7BD3ED80A174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBACCC33-1927-47E0-9241-7BD3ED80A174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5560D9A3-C5D5-4138-84EB-CCF9426E7D0C}
+	EndGlobalSection
+EndGlobal
