@@ -25,7 +25,10 @@ namespace ParallelCourses
             for (int i = 1; i < inDegree.Length; i++)
             {
                 if (inDegree[i] == 0)
+                {
                     queue.Enqueue(new[] { i, 1 });
+                    n--;
+                }
             }
             int res = 0;
             while (queue.Count != 0)
@@ -36,10 +39,13 @@ namespace ParallelCourses
                 {
                     inDegree[next]--;
                     if (inDegree[next] == 0)
+                    {
                         queue.Enqueue(new[] { next, cur[1] + 1 });
+                        n--;
+                    }
                 }
             }
-            return inDegree.All(x => x == 0) ? res : -1;
+            return n == 0 ? res : -1;
         }
     }
 }
