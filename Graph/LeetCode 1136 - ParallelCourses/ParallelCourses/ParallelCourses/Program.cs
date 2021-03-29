@@ -24,11 +24,9 @@ namespace ParallelCourses
             var queue = new Queue<int[]>();
             for (int i = 1; i < inDegree.Length; i++)
             {
-                if (inDegree[i] == 0)
-                {
-                    queue.Enqueue(new[] { i, 1 });
-                    n--;
-                }
+                if (inDegree[i] != 0) continue;
+                queue.Enqueue(new[] { i, 1 });
+                n--;
             }
             int res = 0;
             while (queue.Count != 0)
@@ -38,11 +36,9 @@ namespace ParallelCourses
                 foreach (var next in graph[cur[0]])
                 {
                     inDegree[next]--;
-                    if (inDegree[next] == 0)
-                    {
-                        queue.Enqueue(new[] { next, cur[1] + 1 });
-                        n--;
-                    }
+                    if (inDegree[next] != 0) continue;
+                    queue.Enqueue(new[] { next, cur[1] + 1 });
+                    n--;
                 }
             }
             return n == 0 ? res : -1;
