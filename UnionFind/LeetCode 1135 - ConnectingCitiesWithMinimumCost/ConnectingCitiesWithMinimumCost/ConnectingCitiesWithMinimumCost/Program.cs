@@ -15,7 +15,7 @@ namespace ConnectingCitiesWithMinimumCost
                 new[] {1, 3, 6},
                 new[] {2, 3, 1},
             };
-            Console.WriteLine(MinimumCost_Kruskal(N, connections));
+            Console.WriteLine(MinimumCost_Prim(N, connections));
         }
         public static int MinimumCost_Kruskal(int N, int[][] connections)
         {
@@ -39,7 +39,7 @@ namespace ConnectingCitiesWithMinimumCost
 
         public static int Find(int x, int[] parents)
         {
-            if (parents[x] != x)s
+            if (parents[x] != x)
                 parents[x] = Find(parents[x], parents);
             return parents[x];
         }
@@ -53,6 +53,40 @@ namespace ConnectingCitiesWithMinimumCost
                 parents[rootY] = rootX;
                 rank[rootX]++;
             }
+        }
+
+        public static int MinimumCost_Prim(int N, int[][] connections)
+        {
+            var graph = new List<int[]>[N + 1];
+            for (int i = 0; i < graph.Length; i++)
+                graph[i] = new List<int[]>();
+            foreach (var connection in connections)
+            {
+                graph[connection[0]].Add(new []{connection[1], connection[2]});
+                graph[connection[1]].Add(new []{connection[0], connection[2]});
+            }
+            var list = new SortedList<int, Queue<int>>();
+            list.Add(0, new Queue<int>());
+            list[0].Enqueue(1);
+            var visited = new HashSet<int>();
+            var res = 0;
+            while (list.Count != 0)
+            {
+                var top = list[list.Keys[0]];
+                var cost = list.Keys[0];
+                var cur = top.Dequeue();
+                if(top.Count == 0)
+                    list.RemoveAt(0);
+                if (!visited.Add(cur)) continue;
+                res += cost;
+                foreach (var next in graph[cur])
+                {
+                    if (!list.ContainsKey(next[1]))
+                        list[next[1]] = new Queue<int>();
+                    list[next[1]].Enqueue(next[0]);
+                }
+            }
+            return visited.Count == N ? res : -1;
         }
     }
 }
