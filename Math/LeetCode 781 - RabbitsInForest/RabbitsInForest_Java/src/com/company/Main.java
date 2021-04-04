@@ -10,12 +10,12 @@ public class Main {
         System.out.println(numRabbits(answers));
     }
     public static int numRabbits(int[] answers) {
-        Map<Integer, Double> map = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
         for (int a : answers)
-            map.put(a, map.getOrDefault(a, 0.0) + 1);
+            map.put(a, map.getOrDefault(a, 0) + 1);
         int res = 0;
         for (int key : map.keySet())
-            res += (key + 1) * Math.ceil(map.get(key) / (key + 1));
+            res += (key + 1) * (map.get(key) % (key + 1) == 0 ? map.get(key) / (key + 1) : map.get(key) / (key + 1) + 1);
         return res;
     }
 }
