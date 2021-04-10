@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AccountsMerge/1.0.0": {
+        "runtime": {
+          "AccountsMerge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccountsMerge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
