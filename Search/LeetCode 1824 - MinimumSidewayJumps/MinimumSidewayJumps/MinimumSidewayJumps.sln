@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSidewayJumps", "MinimumSidewayJumps\MinimumSidewayJumps.csproj", "{EBA22347-17A6-4B02-BE05-BFD3ED244F4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA22347-17A6-4B02-BE05-BFD3ED244F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA22347-17A6-4B02-BE05-BFD3ED244F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA22347-17A6-4B02-BE05-BFD3ED244F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA22347-17A6-4B02-BE05-BFD3ED244F4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2AF80E-E235-4030-B6F9-41E3ECD7A9C5}
+	EndGlobalSection
+EndGlobal
