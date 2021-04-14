@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostStonesRemovedWithSameRowOrColumn", "MostStonesRemovedWithSameRowOrColumn\MostStonesRemovedWithSameRowOrColumn.csproj", "{42DA8C4D-18D5-4AAB-AA0F-85E9D19E44A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42DA8C4D-18D5-4AAB-AA0F-85E9D19E44A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42DA8C4D-18D5-4AAB-AA0F-85E9D19E44A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42DA8C4D-18D5-4AAB-AA0F-85E9D19E44A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42DA8C4D-18D5-4AAB-AA0F-85E9D19E44A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FEC9FD3-FBEB-434D-8993-81CC7D873A64}
+	EndGlobalSection
+EndGlobal
