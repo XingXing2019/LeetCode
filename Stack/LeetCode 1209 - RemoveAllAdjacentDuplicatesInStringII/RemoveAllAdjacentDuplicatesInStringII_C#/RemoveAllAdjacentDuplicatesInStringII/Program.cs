@@ -16,7 +16,7 @@ namespace RemoveAllAdjacentDuplicatesInStringII
         {
             string s = "deeedbbcccbdaa";
             int k = 3;
-            Console.WriteLine(RemoveDuplicates1(s, k));
+            Console.WriteLine(RemoveDuplicates_Recursion(s, k));
         }
         static string RemoveDuplicates1(string s, int k)
         {
@@ -71,6 +71,25 @@ namespace RemoveAllAdjacentDuplicatesInStringII
                     res.Remove(res.Length - k, k);
             }
             return res.ToString();
+        }
+        public static string RemoveDuplicates_Recursion(string s, int k)
+        {
+	        if (s == "") return s;
+	        char cur = s[0];
+	        int count = 0;
+	        for (int i = 0; i < s.Length; i++)
+	        {
+		        if (s[i] == cur)
+			        count++;
+		        else
+		        {
+			        cur = s[i];
+                    count = 1;
+		        }
+		        if (count == k)
+			        s = RemoveDuplicates_Recursion(s.Substring(0, i - k + 1) + s.Substring(i + 1), k);
+	        }
+	        return s;
         }
     }
 }
