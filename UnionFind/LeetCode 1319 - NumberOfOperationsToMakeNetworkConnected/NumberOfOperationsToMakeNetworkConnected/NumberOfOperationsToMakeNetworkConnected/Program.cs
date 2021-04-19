@@ -6,14 +6,7 @@ namespace NumberOfOperationsToMakeNetworkConnected
 	{
 		static void Main(string[] args)
 		{
-			int n = 5;
-			int[][] connections = {
-				new[] {0, 1},
-				new[] {0, 2},
-				new[] {3, 4},
-				new[] {2, 3},
-			};
-			Console.WriteLine(MakeConnected(n, connections));
+			
 		}
 
 		private int[] parent;
