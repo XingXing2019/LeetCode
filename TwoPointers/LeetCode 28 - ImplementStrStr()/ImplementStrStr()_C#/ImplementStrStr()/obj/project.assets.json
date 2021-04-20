@@ -686,21 +686,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xxing\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\xxing\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 28 - ImplementStrStr()\\ImplementStrStr()\\ImplementStrStr()\\ImplementStrStr().csproj",
+      "projectUniqueName": "F:\\C#\\LeetCode\\TwoPointers\\LeetCode 28 - ImplementStrStr()\\ImplementStrStr()_C#\\ImplementStrStr()\\ImplementStrStr().csproj",
       "projectName": "ImplementStrStr()",
-      "projectPath": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 28 - ImplementStrStr()\\ImplementStrStr()\\ImplementStrStr()\\ImplementStrStr().csproj",
+      "projectPath": "F:\\C#\\LeetCode\\TwoPointers\\LeetCode 28 - ImplementStrStr()\\ImplementStrStr()_C#\\ImplementStrStr()\\ImplementStrStr().csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 28 - ImplementStrStr()\\ImplementStrStr()\\ImplementStrStr()\\obj\\",
+      "outputPath": "F:\\C#\\LeetCode\\TwoPointers\\LeetCode 28 - ImplementStrStr()\\ImplementStrStr()_C#\\ImplementStrStr()\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -714,6 +710,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {}
         }
       },
@@ -725,6 +722,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
@@ -743,7 +741,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
