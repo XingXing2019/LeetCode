@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UglyNumberIII/1.0.0": {
+        "runtime": {
+          "UglyNumberIII.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UglyNumberIII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
