@@ -8,27 +8,27 @@ public class Main {
     }
 
     public static int strStr(String haystack, String needle) {
-        int prime = 101, power = 1;
+        if (haystack.length() < needle.length()) return -1;
+        int pow = 1, time = 256, prime = 101, hHash = 0, nHash = 0;
         for (int i = 0; i < needle.length() - 1; i++)
-            power = power * 265 % prime;
-        int needleHash = 0, hayHash = 0;
+            pow = pow * time % prime;
         for (int i = 0; i < needle.length(); i++) {
-            needleHash = (needleHash * 256 + needle.charAt(i)) % prime;
-            hayHash = (hayHash * 256 + haystack.charAt(i)) % prime;
+            nHash = (nHash * time + needle.charAt(i)) % prime;
+            hHash = (hHash * time + haystack.charAt(i)) % prime;
         }
         for (int i = 0; i <= haystack.length() - needle.length(); i++) {
-            if (hayHash == needleHash) {
-                boolean same = true;
-                for (int j = 0; j < needle.length(); j++) {
-                    if (haystack.charAt(i + j) != needle.charAt(j)) {
-                        same = false;
+            if (nHash == hHash) {
+                int len = 0;
+                while (len < needle.length()) {
+                    if (needle.charAt(len) != haystack.charAt(len + i))
                         break;
-                    }
+                    len++;
                 }
-                if (same) return i;
+                if (len == needle.length()) return i;
             } else {
-                hayHash = ((hayHash - haystack.charAt(i) * power) * 256 + haystack.charAt(i + needle.length())) % prime;
-                if (hayHash < 0) hayHash += prime;
+                if (i + needle.length() >= haystack.length()) break;
+                hHash = ((hHash - haystack.charAt(i) * pow) * time + haystack.charAt(i + needle.length())) % prime;
+                if (hHash < 0) hHash += prime;
             }
         }
         return -1;
