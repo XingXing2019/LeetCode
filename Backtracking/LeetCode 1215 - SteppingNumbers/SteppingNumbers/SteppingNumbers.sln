@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteppingNumbers", "SteppingNumbers\SteppingNumbers.csproj", "{21F55ED8-0241-47CD-A2B3-C02EB8FF0E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F55ED8-0241-47CD-A2B3-C02EB8FF0E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F55ED8-0241-47CD-A2B3-C02EB8FF0E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F55ED8-0241-47CD-A2B3-C02EB8FF0E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F55ED8-0241-47CD-A2B3-C02EB8FF0E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E7D6FE4-477A-4930-88BF-48EF8A3C80E2}
+	EndGlobalSection
+EndGlobal
