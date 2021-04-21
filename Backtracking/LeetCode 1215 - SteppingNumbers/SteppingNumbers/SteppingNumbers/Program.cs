@@ -13,24 +13,23 @@ namespace SteppingNumbers
 		}
 		public static IList<int> CountSteppingNumbers(int low, int high)
 		{
-			var res = new List<int>();
-			if (low == 0) res.Add(0);
-			for (int i = 1; i < 10; i++)
-				DFS(i, low, high, res);
+			var nums = new HashSet<int>();
+			for (int i = 0; i < 10; i++)
+				DFS(i, i, low, high, nums);
+			var res = nums.ToList();
 			res.Sort();
 			return res;
 		}
 
-		public static void DFS(long num, int low, int high, List<int> res)
+		public static void DFS(long num, int lastDigit, int low, int high, HashSet<int> nums)
 		{
 			if (num > high) return;
-			if (num >= low && num <= high)
-				res.Add((int)num);
-			var lastDigit = num % 10;
+			if (num >= low)
+				nums.Add((int)num);
 			if (lastDigit != 9)
-				DFS(num * 10 + lastDigit + 1, low, high, res);
+				DFS(num * 10 + lastDigit + 1, lastDigit + 1, low, high, nums);
 			if (lastDigit != 0)
-				DFS(num * 10 + lastDigit - 1, low, high, res);
+				DFS(num * 10 + lastDigit - 1, lastDigit - 1, low, high, nums);
 		}
 	}
 }
