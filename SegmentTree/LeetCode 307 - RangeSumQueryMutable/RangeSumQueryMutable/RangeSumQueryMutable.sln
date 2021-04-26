@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeSumQueryMutable", "RangeSumQueryMutable\RangeSumQueryMutable.csproj", "{48CD4259-FB5F-4216-9373-C6B268FEE140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CD4259-FB5F-4216-9373-C6B268FEE140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CD4259-FB5F-4216-9373-C6B268FEE140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CD4259-FB5F-4216-9373-C6B268FEE140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CD4259-FB5F-4216-9373-C6B268FEE140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E40398-D3BF-4824-B591-210C2829715B}
+	EndGlobalSection
+EndGlobal
