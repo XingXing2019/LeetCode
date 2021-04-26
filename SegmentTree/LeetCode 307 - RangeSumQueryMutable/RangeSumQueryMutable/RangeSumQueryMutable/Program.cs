@@ -58,10 +58,7 @@ namespace RangeSumQueryMutable
 				return;
 			}
 			int mid = root.start + (root.end - root.start) / 2;
-			if(index <= mid)
-				Update(index, val, root.left);
-			else
-				Update(index, val, root.right);
+			Update(index, val, index <= mid ? root.left : root.right);
 			root.sum = root.left.sum + root.right.sum;
 		}
 
