@@ -30,7 +30,7 @@ namespace ReverseNodesInKGroup
 			point = dummy;
 			for (int i = 0; i < len / k; i++)
 			{
-				for (int j = 1; j < k; j++)
+				for (int j = 0; j < k - 1; j++)
 				{
 					var next = head.next;
 					head.next = next.next;
