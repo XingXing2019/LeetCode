@@ -24,12 +24,12 @@ namespace ThroneInheritance
 		class Person
 		{
 			public string name;
-			public Dictionary<string, Person> children;
+			public List<Person> children;
 			public bool isAlive;
 			public Person(string name)
 			{
 				this.name = name;
-				children = new Dictionary<string, Person>();
+				children = new List<Person>();
 				isAlive = true;
 			}
 		}
@@ -46,7 +46,7 @@ namespace ThroneInheritance
 		{
 			var parent = dict[parentName];
 			var child = new Person(childName);
-			parent.children[childName] = child;
+			parent.children.Add(child);
 			dict[childName] = child;
 		}
 
@@ -67,7 +67,7 @@ namespace ThroneInheritance
 			if (person.isAlive)
 				order.Add(person.name);
 			foreach (var child in person.children)
-				DFS(child.Value, order);
+				DFS(child, order);
 		}
 	}
 }
