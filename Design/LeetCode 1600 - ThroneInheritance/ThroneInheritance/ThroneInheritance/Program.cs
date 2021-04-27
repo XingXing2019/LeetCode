@@ -25,12 +25,12 @@ namespace ThroneInheritance
 		{
 			public string name;
 			public Dictionary<string, Person> children;
-			public bool alive;
+			public bool isAlive;
 			public Person(string name)
 			{
 				this.name = name;
 				children = new Dictionary<string, Person>();
-				alive = true;
+				isAlive = true;
 			}
 		}
 
@@ -52,7 +52,7 @@ namespace ThroneInheritance
 
 		public void Death(string name)
 		{
-			dict[name].alive = false;
+			dict[name].isAlive = false;
 		}
 
 		public IList<string> GetInheritanceOrder()
@@ -62,11 +62,11 @@ namespace ThroneInheritance
 			return res;
 		}
 
-		private void DFS(Person king, List<string> order)
+		private void DFS(Person person, List<string> order)
 		{
-			if (king.alive)
-				order.Add(king.name);
-			foreach (var child in king.children)
+			if (person.isAlive)
+				order.Add(person.name);
+			foreach (var child in person.children)
 				DFS(child.Value, order);
 		}
 	}
