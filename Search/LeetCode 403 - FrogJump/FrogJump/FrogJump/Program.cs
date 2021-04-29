@@ -7,7 +7,7 @@ namespace FrogJump
 	{
 		static void Main(string[] args)
 		{
-			
+
 		}
 
 		private HashSet<int> stonePos;
@@ -19,7 +19,7 @@ namespace FrogJump
 			stonePos = new HashSet<int>(stones);
 			target = stones[^1];
 			failedPos = new Dictionary<int, HashSet<int>>();
-			dir = new[] {-1, 1, 0};
+			dir = new[] { -1, 1, 0 };
 			return DFS(0, 0);
 		}
 
@@ -28,11 +28,10 @@ namespace FrogJump
 			if (pos == target) return true;
 			if (!stonePos.Contains(pos)) return false;
 			if (failedPos.ContainsKey(pos) && failedPos[pos].Contains(jump)) return false;
-			for (int i = 0; i < dir.Length; i++)
+			foreach (var d in dir)
 			{
-				int nextJump = jump + dir[i];
-				if(nextJump < 1) continue;
-				if (DFS(pos + nextJump, nextJump))
+				if (jump + d < 1) continue;
+				if (DFS(pos + jump + d, jump + d))
 					return true;
 			}
 			if (!failedPos.ContainsKey(pos))
