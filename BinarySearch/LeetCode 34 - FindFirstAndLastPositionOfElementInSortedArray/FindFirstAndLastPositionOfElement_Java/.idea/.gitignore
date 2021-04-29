@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\C#\LeetCode\BinarySearch\LeetCode 34 - FindFirstAndLastPositionOfElementInSortedArray\FindFirstAndLastPositionOfElement_Java\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
