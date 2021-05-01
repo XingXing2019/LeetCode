@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump\\FrogJump\\FrogJump.csproj": {}
+    "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump_C#\\FrogJump\\FrogJump.csproj": {}
   },
   "projects": {
-    "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump\\FrogJump\\FrogJump.csproj": {
+    "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump_C#\\FrogJump\\FrogJump.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump\\FrogJump\\FrogJump.csproj",
+        "projectUniqueName": "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump_C#\\FrogJump\\FrogJump.csproj",
         "projectName": "FrogJump",
-        "projectPath": "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump\\FrogJump\\FrogJump.csproj",
+        "projectPath": "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump_C#\\FrogJump\\FrogJump.csproj",
         "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump\\FrogJump\\obj\\",
+        "outputPath": "F:\\C#\\LeetCode\\Search\\LeetCode 403 - FrogJump\\FrogJump_C#\\FrogJump\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
