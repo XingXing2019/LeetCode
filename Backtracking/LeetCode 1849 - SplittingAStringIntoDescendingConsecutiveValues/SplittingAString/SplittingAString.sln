@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplittingAString", "SplittingAString\SplittingAString.csproj", "{AA6F8B4A-B8B4-44D1-894F-48A0A74F75E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA6F8B4A-B8B4-44D1-894F-48A0A74F75E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6F8B4A-B8B4-44D1-894F-48A0A74F75E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6F8B4A-B8B4-44D1-894F-48A0A74F75E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6F8B4A-B8B4-44D1-894F-48A0A74F75E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC959CB-E857-46A8-AE71-4488DD0D493C}
+	EndGlobalSection
+EndGlobal
