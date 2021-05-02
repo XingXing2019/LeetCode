@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDistanceToTheTargetElement", "MinimumDistanceToTheTargetElement\MinimumDistanceToTheTargetElement.csproj", "{610F46B1-E5F3-4F63-9237-03802D5A167D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610F46B1-E5F3-4F63-9237-03802D5A167D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610F46B1-E5F3-4F63-9237-03802D5A167D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610F46B1-E5F3-4F63-9237-03802D5A167D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610F46B1-E5F3-4F63-9237-03802D5A167D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7E6F6BF-8706-465A-917D-12B45C968E74}
+	EndGlobalSection
+EndGlobal
