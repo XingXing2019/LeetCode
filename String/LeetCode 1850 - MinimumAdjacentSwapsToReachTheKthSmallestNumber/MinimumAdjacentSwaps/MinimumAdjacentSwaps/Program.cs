@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace MinimumAdjacentSwaps
 {
@@ -13,52 +14,27 @@ namespace MinimumAdjacentSwaps
 
 		public static int GetMinSwaps(string num, int k)
 		{
-			int[] src = new int[num.Length], target = new int[num.Length];
-			for (int i = 0; i < num.Length; i++)
-			{
-				src[i] = num[i] - '0';
-				target[i] = src[i];
-			}
+			var src = num.Select(x => x - '0').ToArray();
+			var target = num.Select(x => x - '0').ToArray();
 			for (int i = 0; i < k; i++)
 				NextPermutation(target);
 			return CountSteps(src, target);
 		}
-
-		public static void Swap(int[] num, int a, int b)
-		{
-			int temp = num[a];
-			num[a] = num[b];
-			num[b] = temp;
-		}
-
-		public static void Reverse(int[] num, int i)
-		{
-			int j = num.Length - 1;
-			while (i < j)
-			{
-				int temp = num[i];
-				num[i] = num[j];
-				num[j] = temp;
-				i++;
-				j--;
-			}
-		}
-
 		public static void NextPermutation(int[] num)
 		{
-			int len = num.Length;
-			for (int i = len - 1; i >= 1; i--)
+			for (int i = num.Length - 1; i >= 1; i--)
 			{
 				if (num[i] <= num[i - 1]) continue;
-				Reverse(num, i);
-				for (int j = i; j < len; j++)
+			 	Array.Reverse(num, i, num.Length - i);
+				for (int j = i; j < num.Length; j++)
 				{
 					if (num[j] <= num[i - 1]) continue;
-					Swap(num, i - 1, j);
+					int temp = num[i - 1];
+					num[i - 1] = num[j];
+					num[j] = temp;
 					return;
 				}
 			}
-			Reverse(num, 0);
 		}
 
 		public static int CountSteps(int[] src, int[] target)
