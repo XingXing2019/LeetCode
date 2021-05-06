@@ -28,9 +28,10 @@ class ListNode {
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        ListNode head = generate(new int[]{-10, -3, 0, 5, 9});
+        sortedListToBST(head);
     }
-    public static TreeNode sortedListToBST(ListNode head) {
+    public static TreeNode sortedListToBST_list(ListNode head) {
         List<Integer> nums = new ArrayList<>();
         while (head != null){
             nums.add(head.val);
@@ -45,5 +46,28 @@ public class Main {
         root.left = dfs(nums, li, mid - 1);
         root.right = dfs(nums, mid + 1, hi);
         return root;
+    }
+
+    public static TreeNode sortedListToBST(ListNode head) {
+        if (head == null) return null;
+        if (head.next == null) return new TreeNode(head.val);
+        ListNode pre = new ListNode(0, head), fast = head, slow = head;
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+            pre = pre.next;
+        }
+        TreeNode root = new TreeNode(slow.val);
+        pre.next = null;
+        root.right = sortedListToBST(slow.next);
+        root.left = sortedListToBST(head);
+        return root;
+    }
+
+    public static ListNode generate(int[] nums){
+        ListNode res = null;
+        for (int i = nums.length - 1; i >= 0; i--)
+            res = new ListNode(nums[i], res);
+        return res;
     }
 }
