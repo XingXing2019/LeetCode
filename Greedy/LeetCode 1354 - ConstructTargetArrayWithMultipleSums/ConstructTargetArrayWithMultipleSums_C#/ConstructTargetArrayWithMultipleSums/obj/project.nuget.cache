@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8x2Mp2OaflCG8POM2WJXYVu4XcGFB7GqCIYgd1x1C3vBQzzQyPmu4g2i9q7Zv0joaw5a4cWpnKRr7gpi5nl04A==",
+  "dgSpecHash": "CjFL1iUAZJPINOzKsfzLfIcwAGTpQ5d4hsQYx8Xdu7L0ngjXWFQ+aOM4lOTO/J39ljuSU/5XoCdXcEl32MZ34g==",
   "success": true,
-  "projectFilePath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1354 - ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums.csproj",
+  "projectFilePath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1354 - ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums_C#\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

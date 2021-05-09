@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1354 - ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums.csproj",
+      "projectUniqueName": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1354 - ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums_C#\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums.csproj",
       "projectName": "ConstructTargetArrayWithMultipleSums",
-      "projectPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1354 - ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums.csproj",
+      "projectPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1354 - ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums_C#\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums.csproj",
       "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1354 - ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums\\obj\\",
+      "outputPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1354 - ConstructTargetArrayWithMultipleSums\\ConstructTargetArrayWithMultipleSums_C#\\ConstructTargetArrayWithMultipleSums\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace ConstructTargetArrayWithMultipleSums
 {
@@ -11,15 +13,26 @@ namespace ConstructTargetArrayWithMultipleSums
 		}
 		public static bool IsPossible(int[] target)
 		{
-			Array.Sort(target);
-			var prefix = new int[target.Length];
-			for (int i = 0; i < prefix.Length; i++)
-				prefix[i] = i == 0 ? target[0] : prefix[i - 1] + target[i];
-			for (int i = target.Length - 1; i >= 0; i--)
+			long sum = 0;
+			var maxHeap = new List<long>();
+			foreach (var num in target)
 			{
-				int prefixSum = i == 0 ? 0 : prefix[i - 1];
-				if (target[i] - prefixSum - (target.Length - i - 1) != 1)
-					return false;
+				sum += num;
+				maxHeap.Add(num);
+			}
+			maxHeap.Sort();
+			sum -= maxHeap[^1];
+			while (maxHeap[^1] != 1)
+			{
+				long max = maxHeap[^1];
+				maxHeap.RemoveAt(maxHeap.Count - 1);
+				if (sum == 0 || max <= sum) return false;
+				max %= sum;
+				if (max < maxHeap[^1])
+					sum = sum - maxHeap[^1] + max;
+				var index = maxHeap.BinarySearch(max);
+				if (index < 0) index = ~index;
+				maxHeap.Insert(index, max);
 			}
 			return true;
 		}
