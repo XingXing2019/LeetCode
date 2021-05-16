@@ -31,10 +31,8 @@ namespace ValidNumber
 				}
 				else if ((s[i] == '+' || s[i] == '-') && (i != 0 && s[i - 1] != 'e' && s[i - 1] != 'E' || i == s.Length - 1))
 					return false;
-				if (countE > 1 || countDot > 1)
-					return false;
 			}
-			return countNum > 0;
+			return countNum > 0 && countE < 2 && countDot < 2;
 		}
 	}
 }
