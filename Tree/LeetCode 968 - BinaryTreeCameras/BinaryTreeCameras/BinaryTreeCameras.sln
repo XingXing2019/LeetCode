@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeCameras", "BinaryTreeCameras\BinaryTreeCameras.csproj", "{9741252D-1725-449B-B975-C6669BBCC097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9741252D-1725-449B-B975-C6669BBCC097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9741252D-1725-449B-B975-C6669BBCC097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9741252D-1725-449B-B975-C6669BBCC097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9741252D-1725-449B-B975-C6669BBCC097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01A29571-568C-49AF-A076-ABF5537647D6}
+	EndGlobalSection
+EndGlobal
