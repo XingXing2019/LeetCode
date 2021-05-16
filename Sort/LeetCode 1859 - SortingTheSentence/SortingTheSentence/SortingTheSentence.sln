@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingTheSentence", "SortingTheSentence\SortingTheSentence.csproj", "{5A47ED3D-0170-4595-B316-630F0D1A449D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A47ED3D-0170-4595-B316-630F0D1A449D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A47ED3D-0170-4595-B316-630F0D1A449D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A47ED3D-0170-4595-B316-630F0D1A449D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A47ED3D-0170-4595-B316-630F0D1A449D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC7AC44-5B0B-46B0-93EC-CDC843C100B6}
+	EndGlobalSection
+EndGlobal
