@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNumberOfAcceptedInvitations", "MaximumNumberOfAcceptedInvitations\MaximumNumberOfAcceptedInvitations.csproj", "{429F8775-C0A1-418E-930A-3F553159ADEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429F8775-C0A1-418E-930A-3F553159ADEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429F8775-C0A1-418E-930A-3F553159ADEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429F8775-C0A1-418E-930A-3F553159ADEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429F8775-C0A1-418E-930A-3F553159ADEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D8E8CF-5D51-49D6-BCAE-1557C9A7A1CD}
+	EndGlobalSection
+EndGlobal
