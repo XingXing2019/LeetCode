@@ -39,7 +39,8 @@ namespace FindKthLargestXORCoordinateValue
 					nums.Add(matrix[i][j]);
 				}
 			}
-			return nums.OrderByDescending(x => x).Take(k).ToList()[^1];
+			nums.Sort((a, b) => b - a);
+			return nums[k - 1];
 		}
     }
 }
