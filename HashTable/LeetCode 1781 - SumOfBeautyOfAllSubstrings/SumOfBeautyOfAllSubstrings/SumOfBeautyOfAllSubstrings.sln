@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfBeautyOfAllSubstrings", "SumOfBeautyOfAllSubstrings\SumOfBeautyOfAllSubstrings.csproj", "{D62245CA-85A1-424A-878A-8C150CDB5522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D62245CA-85A1-424A-878A-8C150CDB5522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62245CA-85A1-424A-878A-8C150CDB5522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62245CA-85A1-424A-878A-8C150CDB5522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62245CA-85A1-424A-878A-8C150CDB5522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50FB1371-CDEC-4F3F-AA5C-0D51CEA7DE15}
+	EndGlobalSection
+EndGlobal
