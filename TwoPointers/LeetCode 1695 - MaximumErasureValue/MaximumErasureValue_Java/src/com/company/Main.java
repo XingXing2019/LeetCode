@@ -1,6 +1,7 @@
 package com.company;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 
 public class Main {
@@ -9,7 +10,7 @@ public class Main {
         // write your code here
     }
 
-    public int maximumUniqueSubarray(int[] nums) {
+    public int maximumUniqueSubarray_map(int[] nums) {
         int li = 0, hi = 0, sum = 0, res = 0;
         Map<Integer, Integer> map = new HashMap<>();
         while (hi < nums.length) {
@@ -26,6 +27,21 @@ public class Main {
             hi++;
         }
         res = Math.max(res, sum);
+        return res;
+    }
+
+    public int maximumUniqueSubarray_set(int[] nums) {
+        int li = 0, hi = 0, sum = 0, res = 0;
+        HashSet<Integer> set = new HashSet<>();
+        while (hi < nums.length) {
+            while (set.contains(nums[hi])){
+                set.remove(nums[li]);
+                sum -= nums[li++];
+            }
+            set.add(nums[hi]);
+            sum += nums[hi++];
+            res = Math.max(res, sum);
+        }
         return res;
     }
 }
