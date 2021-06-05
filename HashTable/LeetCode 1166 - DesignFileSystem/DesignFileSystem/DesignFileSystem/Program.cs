@@ -17,20 +17,14 @@ namespace DesignFileSystem
 		private Dictionary<string, int> dict;
 		public FileSystem()
 		{
-			dict = new Dictionary<string, int>();
+			dict = new Dictionary<string, int> {{"", -1}};
 		}
 
 		public bool CreatePath(string path, int value)
 		{
-			if (dict.ContainsKey(path)) return false;
-			var parts = path.Split("/", StringSplitOptions.RemoveEmptyEntries);
-			var dir = "";
-			for (int i = 0; i < parts.Length - 1; i++)
-			{
-				dir += $"/{parts[i]}";
-				if (!dict.ContainsKey(dir))
-					return false;
-			}
+			int index = path.LastIndexOf('/');
+			if (dict.ContainsKey(path) || !dict.ContainsKey(path.Substring(0, index))) 
+				return false;
 			dict[path] = value;
 			return true;
 		}
