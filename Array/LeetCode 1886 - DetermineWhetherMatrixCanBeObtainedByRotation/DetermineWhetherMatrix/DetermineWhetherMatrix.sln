@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetermineWhetherMatrix", "DetermineWhetherMatrix\DetermineWhetherMatrix.csproj", "{846ED5AA-57D5-4A76-9282-E1D3EB4ED8A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{846ED5AA-57D5-4A76-9282-E1D3EB4ED8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846ED5AA-57D5-4A76-9282-E1D3EB4ED8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846ED5AA-57D5-4A76-9282-E1D3EB4ED8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846ED5AA-57D5-4A76-9282-E1D3EB4ED8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAD2B62-830D-4238-BDAA-ED53BD8C24AD}
+	EndGlobalSection
+EndGlobal
