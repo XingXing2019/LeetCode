@@ -13,7 +13,7 @@ namespace MinimumNumberOfFlips
 		public static int MinFlips(string s)
 		{
 			int evenZero = 0, oddOne = 0, evenOne = 0, oddZero = 0;
-			int li = 0, hi = s.Length, res = int.MaxValue;
+			int n = s.Length, res = int.MaxValue;
 			for (int i = 0; i < s.Length; i++)
 			{
 				if (s[i] == '0')
@@ -28,27 +28,25 @@ namespace MinimumNumberOfFlips
 				}
 			}
 			s += s;
-			while (hi < s.Length)
+			for (int i = 0; i < n; i++)
 			{
 				res = Math.Min(res, Math.Min(evenZero + oddOne, evenOne + oddZero));
-				if (s[li] == '1')
+				if (s[i] == '1')
 					evenOne--;
 				else
 					evenZero--;
-				li++;
 				Swap(ref oddZero, ref evenZero);
 				Swap(ref oddOne, ref evenOne);
-				if (s[hi] == '1')
+				if (s[i + n] == '1')
 				{
-					if (s.Length / 2 % 2 == 0) oddOne++;
+					if (n % 2 == 0) oddOne++;
 					else evenOne++;
 				}
 				else
 				{
-					if (s.Length / 2 % 2 == 0) oddZero++;
+					if (n % 2 == 0) oddZero++;
 					else evenZero++;
 				}
-				hi++;
 			}
 			res = Math.Min(res, Math.Min(evenZero + oddOne, evenOne + oddZero));
 			return res;
