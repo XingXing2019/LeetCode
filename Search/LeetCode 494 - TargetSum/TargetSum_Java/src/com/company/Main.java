@@ -4,11 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         int[] nums = {1, 1, 1, 1};
-        System.out.println(findTargetSumWays_dp(nums, 3));
-    }
-
-    public int findTargetSumWays_dp(int[] nums, int target) {
-
     }
 
     int res = 0;
@@ -26,6 +21,5 @@ public class Main {
             dfs(nums, index + 1, S - nums[index]);
         }
     }
-    
-    
+
 }
