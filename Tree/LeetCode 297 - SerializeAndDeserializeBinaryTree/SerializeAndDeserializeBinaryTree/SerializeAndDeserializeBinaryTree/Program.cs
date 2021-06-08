@@ -9,21 +9,21 @@ namespace SerializeAndDeserializeBinaryTree
 	{
 		static void Main(string[] args)
 		{
-			var a = new TreeNode(3);
-			var b = new TreeNode(9);
-			var c = new TreeNode(20);
-			var d = new TreeNode(15);
-			var e = new TreeNode(7);
-
-			a.left = b;
-			a.right = c;
-			c.left = d;
-			c.right = e;
-
+			var nodes = "1,null,2,3,null,null,null";
+			var root = Build(nodes.Split(","));
 			var codec = new Codec();
-			var data = codec.serialize(a);
+			var data = codec.serialize(root);
 			Console.WriteLine(data);
 			Console.WriteLine(codec.deserialize(data));
+		}
+
+		static int index = 0;
+		private static TreeNode Build(string[] nodes)
+		{
+			var first = nodes[index++];
+			if (first == "null") return null;
+			var root = new TreeNode(int.Parse(first)) {left = Build(nodes), right = Build(nodes)};
+			return root;
 		}
 	}
 
@@ -65,7 +65,7 @@ namespace SerializeAndDeserializeBinaryTree
 		{
 			string first = data[index++];
 			if (first == "#") return null;
-			var root = new TreeNode(int.Parse(first)) {left = Build(data), right = Build(data)};
+			var root = new TreeNode(int.Parse(first)) { left = Build(data), right = Build(data) };
 			return root;
 		}
 	}
