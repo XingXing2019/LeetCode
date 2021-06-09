@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace JumpGameVI
 {
@@ -8,20 +9,23 @@ namespace JumpGameVI
 		{
 			Console.WriteLine("Hello World!");
 		}
-
-		// LTE
+		
 		public int MaxResult(int[] nums, int k)
 		{
 			var dp = new int[nums.Length];
-			dp[^1] = nums[^1];
-			for (int i = dp.Length - 2; i >= 0; i--)
+			dp[0] = nums[0];
+			var queue = new LinkedList<int>();
+			queue.AddLast(0);
+			for (int i = 1; i < dp.Length; i++)
 			{
-				int max = int.MinValue;
-				for (int j = i + 1; j <= i + k && j < dp.Length; j++)
-					max = Math.Max(max, dp[j]);
-				dp[i] = nums[i] + max;
+				while (i - queue.First.Value > k)
+					queue.RemoveFirst();
+				dp[i] = dp[queue.First.Value] + nums[i];
+				while (queue.Count > 0 && dp[i] >= dp[queue.Last.Value])
+					queue.RemoveLast();
+				queue.AddLast(i);
 			}
-			return dp[0];
+			return dp[^1];
 		}
 	}
 }
