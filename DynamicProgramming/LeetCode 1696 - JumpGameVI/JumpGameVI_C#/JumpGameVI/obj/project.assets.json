@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\xxing\\.nuget\\packages\\": {}
+    "C:\\Users\\61425\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\JumpGameVI.csproj",
+      "projectUniqueName": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\JumpGameVI.csproj",
       "projectName": "JumpGameVI",
-      "projectPath": "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\JumpGameVI.csproj",
-      "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\obj\\",
+      "projectPath": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\JumpGameVI.csproj",
+      "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

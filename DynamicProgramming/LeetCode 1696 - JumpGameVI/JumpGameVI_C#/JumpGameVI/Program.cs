@@ -8,6 +8,8 @@ namespace JumpGameVI
 		{
 			Console.WriteLine("Hello World!");
 		}
+
+		// LTE
 		public int MaxResult(int[] nums, int k)
 		{
 			var dp = new int[nums.Length];
