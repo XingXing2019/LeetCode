@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestMagicSquare", "LargestMagicSquare\LargestMagicSquare.csproj", "{3889E325-F49C-404A-9FE6-70D8D65DA56D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3889E325-F49C-404A-9FE6-70D8D65DA56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3889E325-F49C-404A-9FE6-70D8D65DA56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3889E325-F49C-404A-9FE6-70D8D65DA56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3889E325-F49C-404A-9FE6-70D8D65DA56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C253D1-F392-4AAF-85E8-0AC8F36D11D2}
+	EndGlobalSection
+EndGlobal
