@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedistributeCharacters", "RedistributeCharacters\RedistributeCharacters.csproj", "{2D53936A-2568-4202-BC9A-1EFFE4C20285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D53936A-2568-4202-BC9A-1EFFE4C20285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D53936A-2568-4202-BC9A-1EFFE4C20285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D53936A-2568-4202-BC9A-1EFFE4C20285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D53936A-2568-4202-BC9A-1EFFE4C20285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A375D59D-67CC-496E-BC3D-9ACC20B0222F}
+	EndGlobalSection
+EndGlobal
