@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTripletsToFormTargetTriplet", "MergeTripletsToFormTargetTriplet\MergeTripletsToFormTargetTriplet.csproj", "{60920848-9DD8-4B66-8D46-F9B479C7D6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60920848-9DD8-4B66-8D46-F9B479C7D6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60920848-9DD8-4B66-8D46-F9B479C7D6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60920848-9DD8-4B66-8D46-F9B479C7D6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60920848-9DD8-4B66-8D46-F9B479C7D6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CFA86AF-1257-44D1-8BA2-F464A5338CF7}
+	EndGlobalSection
+EndGlobal
