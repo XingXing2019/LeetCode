@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable\\RangeSumQueryMutable\\RangeSumQueryMutable.csproj": {}
+    "D:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable_C#\\RangeSumQueryMutable\\RangeSumQueryMutable.csproj": {}
   },
   "projects": {
-    "F:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable\\RangeSumQueryMutable\\RangeSumQueryMutable.csproj": {
+    "D:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable_C#\\RangeSumQueryMutable\\RangeSumQueryMutable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable\\RangeSumQueryMutable\\RangeSumQueryMutable.csproj",
+        "projectUniqueName": "D:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable_C#\\RangeSumQueryMutable\\RangeSumQueryMutable.csproj",
         "projectName": "RangeSumQueryMutable",
-        "projectPath": "F:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable\\RangeSumQueryMutable\\RangeSumQueryMutable.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable\\RangeSumQueryMutable\\obj\\",
+        "projectPath": "D:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable_C#\\RangeSumQueryMutable\\RangeSumQueryMutable.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\LeetCode\\SegmentTree\\LeetCode 307 - RangeSumQueryMutable\\RangeSumQueryMutable_C#\\RangeSumQueryMutable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

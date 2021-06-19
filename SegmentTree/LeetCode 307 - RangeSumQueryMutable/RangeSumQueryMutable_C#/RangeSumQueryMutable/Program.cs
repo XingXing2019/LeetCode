@@ -21,7 +21,8 @@ namespace RangeSumQueryMutable
 		public int end;
 		public SegmentTreeNode left;
 		public SegmentTreeNode right;
-		public SegmentTreeNode(int start, int end, int sum, SegmentTreeNode left = null, SegmentTreeNode right = null)
+
+		public SegmentTreeNode(int sum, int start, int end, SegmentTreeNode left = null, SegmentTreeNode right = null)
 		{
 			this.sum = sum;
 			this.start = start;
@@ -42,11 +43,11 @@ namespace RangeSumQueryMutable
 		private SegmentTreeNode Build(int[] nums, int start, int end)
 		{
 			if (start == end)
-				return new SegmentTreeNode(start, end, nums[start]);
-			var mid = start + (end - start) / 2;
+				return new SegmentTreeNode(nums[start], start, end);
+			int mid = start + (end - start) / 2;
 			var left = Build(nums, start, mid);
 			var right = Build(nums, mid + 1, end);
-			return new SegmentTreeNode(start, end, left.sum + right.sum, left, right);
+			return new SegmentTreeNode(left.sum + right.sum, start, end, left, right);
 		}
 
 		public void Update(int index, int val, SegmentTreeNode root = null)
@@ -68,9 +69,9 @@ namespace RangeSumQueryMutable
 			if (root.start == left && root.end == right)
 				return root.sum;
 			int mid = root.start + (root.end - root.start) / 2;
-			if (right <= mid)
+			if (mid >= right)
 				return SumRange(left, right, root.left);
-			if (left > mid)
+			if (mid < left)
 				return SumRange(left, right, root.right);
 			return SumRange(left, mid, root.left) + SumRange(mid + 1, right, root.right);
 		}
