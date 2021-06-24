@@ -39,4 +39,15 @@ LeetCode Algorithms with C# and Java
 |38 | [Count and Say](https://leetcode.com/problems/count-and-say/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%2038%20-%20CountAndSay/CountAndSay/CountAndSay/Program.cs) |
 |39 | [Combination Sum](https://leetcode.com/problems/combination-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%2039%20-%20CombinationSum/CombinationSum/CombinationSum/Program.cs) |
 |40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%2040%20-%20CombinationSumII/CombinationSumII/CombinationSumII/Program.cs) |
-|3 | []()|  | [C#](), [Java]() |
+|41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2041%20-%20FirstMissingPositive/FirstMissingPositive/FirstMissingPositive/Program.cs) |
+|42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2042%20-%20TrappingRainWater/TrappingRainWater_C%23/TrappingRainWater/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2042%20-%20TrappingRainWater/TrappingRainWater_Java/src/com/company/Main.java) |
+|43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%2043%20-%20MultiplyStrings/MultiplyStrings/MultiplyStrings/Program.cs) |
+|45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%2045%20-%20JumpGameII/JumpGameII_C%23/JumpGameII/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%2045%20-%20JumpGameII/JumpGameII_Java/src/com/company/Main.java) |
+|46 | [Permutations](https://leetcode.com/problems/permutations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%2046%20-%20Permutations/Permutations/Permutations/Program.cs) |
+|47 | [Permutations II](https://leetcode.com/problems/permutations-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%2047%20-%20PermutationsII/PermutationsII/PermutationsII/Program.cs) |
+|48 | [Rotate Image](https://leetcode.com/problems/rotate-image/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2048%20-%20RotateImage/RotateImage/RotateImage/Program.cs) |
+|49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%2049%20-%20GroupAnagrams/GroupAnagrams_C%23/GroupAnagrams/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%2049%20-%20GroupAnagrams/GroupAnagrams_Java/src/com/company/Main.java) |
+|50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%2050%20-%20Pow(x%2Cn)/PowXN/PowXN/Program.cs) |
+|4 | []()|  | [C#](), [Java]() |
+
+
