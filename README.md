@@ -1,8 +1,8 @@
 # LeetCode
 LeetCode Algorithms with C# and Java
-|No.|Question|Difficulty|Solution|
-| --- | --- | --- | --- |
-|1 | [Two Sum](https://leetcode.com/problems/two-sum/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201%20-%20TwoSum/TwoSum_C%23/TwoSum/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201%20-%20TwoSum/TwoSum_Java/src/com/company/Main.java) |
+|No.|Question|Difficulty|Solution|Status|
+| --- | --- | --- | --- | --- |
+|1 | [Two Sum](https://leetcode.com/problems/two-sum/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201%20-%20TwoSum/TwoSum_C%23/TwoSum/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201%20-%20TwoSum/TwoSum_Java/src/com/company/Main.java) |✔️|
 |2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202%20-%20AddTwoNumbers/AddTwoNumbers_C%23/AddTwoNumbers/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202%20-%20AddTwoNumbers/AddTwoNumbers_Java/src/com/company/Main.java) |
 |3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%203%20-%20LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters_C%23/LongestSubstringWithoutRepeatingCharacters/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%203%20-%20LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters_Java/LongestSubstringWithoutRepeatingCharacters_Java.iml) |
 |4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%204%20-%20MedianOfTwoSortedArrays/MedianOfTwoSortedArrays/MedianOfTwoSortedArrays/Program.cs) |
