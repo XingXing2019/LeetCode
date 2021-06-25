@@ -58,7 +58,16 @@ LeetCode Algorithms with C# and Java
 |58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%2058%20-%20LengthOfLastWord/LengthOfLastWord/LengthOfLastWord/Program.cs) |
 |59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2059%20-%20SpiralMatrixII/SpiralMatrixII_C%23/SpiralMatrixII/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2059%20-%20SpiralMatrixII/SpiralMatrixII_Java/src/com/company/Main.java) |
 |60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%2060%20-%20PermutationSequence/PermutationSequence/PermutationSequence/Program.cs) |
-|5 | []()|  | [C#](), [Java]() |
-
+|61 | [Rotate List](https://leetcode.com/problems/rotate-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%2061%20-%20RotateList/RotateList_C%23/RotateList/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%2061%20-%20RotateList/RotateList_Java/src/com/company/Main.java) |
+|62 | [Unique Paths](https://leetcode.com/problems/unique-paths/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%2062%20-%20UniquePaths/UniquePaths/UniquePaths/Program.cs) |
+|63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%2063%20-%20UniquePathsII/UniquePathsII_C%23/UniquePathsII/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/tree/master/DynamicProgramming/LeetCode%2063%20-%20UniquePathsII/UniquePathsII_Java/src/com/company) |
+|64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%2064%20-%20MinimumPathSum/MinimumPathSum/MinimumPathSum/Program.cs) |
+|65 | [Valid Number](https://leetcode.com/problems/valid-number/)| Hard | [C#](), [Java]() |
+|66 | []()|  | [C#](), [Java]() |
+|67 | []()|  | [C#](), [Java]() |
+|68 | []()|  | [C#](), [Java]() |
+|69 | []()|  | [C#](), [Java]() |
+|70 | []()|  | [C#](), [Java]() |
+|7 | []()|  | [C#](), [Java]() |
 
 
