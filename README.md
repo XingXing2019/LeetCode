@@ -122,13 +122,18 @@ LeetCode Algorithms with C# and Java
 |118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20118%20-%20Pascal'sTriangle/Pascal'sTriangle_C%23/Pascal'sTriangle/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20118%20-%20Pascal'sTriangle/Pascal'sTriangle_Java/src/com/company/Main.java) |✔️|
 |119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20119%20-%20Pascal'sTriangleII/Pascal'sTriangleII/Pascal'sTriangleII/Program.cs) |✔️|
 |120 | [Triangle](https://leetcode.com/problems/triangle/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20120%20-%20Triangle/Triangle_C%23/Triangle/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20120%20-%20Triangle/Triangle_Java/src/com/company/Main.java) |✔️|
-
-
-|12 | []()|  | [C#](), [Java]() |✔️|
-|12 | []()|  | [C#](), [Java]() |✔️|
-
-
-
+|121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20121%20-%20BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock/Program.cs) |✔️|
+|122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20122%20-%20BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII/Program.cs) |✔️|
+|123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20123%20-%20BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII/Program.cs) |✔️|
+|124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20124%20-%20BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum/Program.cs) |✔️|
+|125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20125%20-%20ValidPalindrome/ValidPalindrome/ValidPalindrome/Program.cs) |✔️|
+|126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)| Hard |  |:part_alternation_mark:|
+|127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20127%20-%20WordLadder/WordLadder/WordLadder/Program.cs) |✔️|
+|128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%20128%20-%20LongestConsecutiveSequence/LongestConsecutiveSequence/LongestConsecutiveSequence/Program.cs) |✔️|
+|129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20129%20-%20SumRootToLeafNumbers/SumRootToLeafNumbers_C%23/SumRootToLeafNumbers/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20129%20-%20SumRootToLeafNumbers/SumRootToLeafNumbers_Java/src/com/company/Main.java) |✔️|
+|130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20130%20-%20SurroundedRegions/SurroundedRegions_C%23/SurroundedRegions/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20130%20-%20SurroundedRegions/SurroundedRegions_Java/src/com/company/Main.java) |✔️|
+|13 | []()|  | [C#](), [Java]() |✔️|
+|13 | []()|  | [C#](), [Java]() |✔️|
 
 
 
