@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveOneElement", "RemoveOneElement\RemoveOneElement.csproj", "{3810BEB2-C8EF-4108-87F1-181AEF7167DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3810BEB2-C8EF-4108-87F1-181AEF7167DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3810BEB2-C8EF-4108-87F1-181AEF7167DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3810BEB2-C8EF-4108-87F1-181AEF7167DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3810BEB2-C8EF-4108-87F1-181AEF7167DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39980466-4B6A-4296-ACA1-8774DCF5F995}
+	EndGlobalSection
+EndGlobal
