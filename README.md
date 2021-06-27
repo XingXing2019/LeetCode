@@ -352,6 +352,56 @@ LeetCode Algorithms with C# and Java
 |348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%20348%20-%20DesignTicTacToe/DesignTicTacToe/DesignTicTacToe/Program.cs) |✔️|
 |349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20349%20-%20IntersectionOfTwoArrays/IntersectionOfTwoArrays/IntersectionOfTwoArrays/Program.cs) |✔️|
 |350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20350%20-%20IntersectionOfTwoArraysII/IntersectionOfTwoArraysII/IntersectionOfTwoArraysII/Program.cs) |✔️|
+|351 | []()|  | [C#](), [Java]() |✔️|
+|352 | []()|  | [C#](), [Java]() |✔️|
+|353 | []()|  | [C#](), [Java]() |✔️|
+|354 | []()|  | [C#](), [Java]() |✔️|
+|355 | []()|  | [C#](), [Java]() |✔️|
+|356 | []()|  | [C#](), [Java]() |✔️|
+|357 | []()|  | [C#](), [Java]() |✔️|
+|358 | []()|  | [C#](), [Java]() |✔️|
+|359 | []()|  | [C#](), [Java]() |✔️|
+|360 | []()|  | [C#](), [Java]() |✔️|
+|361 | []()|  | [C#](), [Java]() |✔️|
+|362 | []()|  | [C#](), [Java]() |✔️|
+|363 | []()|  | [C#](), [Java]() |✔️|
+|364 | []()|  | [C#](), [Java]() |✔️|
+|365 | []()|  | [C#](), [Java]() |✔️|
+|366 | []()|  | [C#](), [Java]() |✔️|
+|367 | []()|  | [C#](), [Java]() |✔️|
+|368 | []()|  | [C#](), [Java]() |✔️|
+|369 | []()|  | [C#](), [Java]() |✔️|
+|370 | []()|  | [C#](), [Java]() |✔️|
+|371 | []()|  | [C#](), [Java]() |✔️|
+|372 | []()|  | [C#](), [Java]() |✔️|
+|373 | []()|  | [C#](), [Java]() |✔️|
+|374 | []()|  | [C#](), [Java]() |✔️|
+|375 | []()|  | [C#](), [Java]() |✔️|
+|376 | []()|  | [C#](), [Java]() |✔️|
+|377 | []()|  | [C#](), [Java]() |✔️|
+|378 | []()|  | [C#](), [Java]() |✔️|
+|379 | []()|  | [C#](), [Java]() |✔️|
+|380 | []()|  | [C#](), [Java]() |✔️|
+|381 | []()|  | [C#](), [Java]() |✔️|
+|382 | []()|  | [C#](), [Java]() |✔️|
+|383 | []()|  | [C#](), [Java]() |✔️|
+|384 | []()|  | [C#](), [Java]() |✔️|
+|385 | []()|  | [C#](), [Java]() |✔️|
+|386 | []()|  | [C#](), [Java]() |✔️|
+|387 | []()|  | [C#](), [Java]() |✔️|
+|388 | []()|  | [C#](), [Java]() |✔️|
+|389 | []()|  | [C#](), [Java]() |✔️|
+|390 | []()|  | [C#](), [Java]() |✔️|
+|391 | []()|  | [C#](), [Java]() |✔️|
+|392 | []()|  | [C#](), [Java]() |✔️|
+|393 | []()|  | [C#](), [Java]() |✔️|
+|394 | []()|  | [C#](), [Java]() |✔️|
+|395 | []()|  | [C#](), [Java]() |✔️|
+|396 | []()|  | [C#](), [Java]() |✔️|
+|397 | []()|  | [C#](), [Java]() |✔️|
+|398 | []()|  | [C#](), [Java]() |✔️|
+|399 | []()|  | [C#](), [Java]() |✔️|
+|400 | []()|  | [C#](), [Java]() |✔️|
 
 
 |684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%20684%20-%20RedundantConnection/RedundantConnection_C%23/RedundantConnection/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%20684%20-%20RedundantConnection/RedundantConnection_Java/src/com/company/Main.java) |
