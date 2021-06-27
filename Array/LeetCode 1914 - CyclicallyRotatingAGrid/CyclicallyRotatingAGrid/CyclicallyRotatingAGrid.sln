@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicallyRotatingAGrid", "CyclicallyRotatingAGrid\CyclicallyRotatingAGrid.csproj", "{F4ABBBF3-AA8B-4B2D-ACCC-E2C11B5692ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4ABBBF3-AA8B-4B2D-ACCC-E2C11B5692ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4ABBBF3-AA8B-4B2D-ACCC-E2C11B5692ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4ABBBF3-AA8B-4B2D-ACCC-E2C11B5692ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4ABBBF3-AA8B-4B2D-ACCC-E2C11B5692ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7469E4C-E990-40B4-A097-CA784A4825BD}
+	EndGlobalSection
+EndGlobal
