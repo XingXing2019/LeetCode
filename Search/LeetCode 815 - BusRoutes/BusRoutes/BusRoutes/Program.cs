@@ -32,8 +32,6 @@ namespace BusRoutes
 			}
 			var queue = new Queue<int[]>();
 			var takenBuses = new HashSet<int>();
-			var visitedStops = new HashSet<int>();
-			visitedStops.Add(source);
 			foreach (var bus in buses[source])
 			{
 				queue.Enqueue(new []{bus, 1});
@@ -46,7 +44,6 @@ namespace BusRoutes
 					return cur[1];
 				foreach (var stop in routes[cur[0]])
 				{
-					if(!visitedStops.Add(stop)) continue;
 					foreach (var bus in buses[stop])
 					{
 						if(takenBuses.Add(bus))
