@@ -27,7 +27,7 @@ LeetCode Algorithms with C# and Java
 |23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%2023%20-%20MergeKSortedLists/MergeKSortedLists/MergeKSortedLists/Program.cs) |✔️|
 |24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%2024%20-%20SwapNodesInPairs/SwapNodesInPairs/SwapNodesInPairs/Program.cs) |✔️|
 |25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%2025%20-%20ReverseNodesInKGroup/ReverseNodesInKGroup/ReverseNodesInKGroup/Program.cs) |✔️|
-|26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/tree/master/Array/LeetCode%2026%20-%20RemoveDuplicatesFromSortedArray%23/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray) |✔️|
+|26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2026%20-%20RemoveDuplicatesFromSortedArray%23/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray/Program.cs) |✔️|
 |27 | [Remove Element](https://leetcode.com/problems/remove-element/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2027%20-%20RemoveElement/RemoveElement_C%23/RemoveElement/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2027%20-%20RemoveElement/RemoveElement_Java/src/com/company/Main.java) |✔️|
 |28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%2028%20-%20ImplementStrStr()/ImplementStrStr()_C%23/ImplementStrStr()/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%2028%20-%20ImplementStrStr()/ImplementStrStr()_Java/src/com/company/Main.java) |✔️|
 |29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%2029%20-%20DivideTwoIntegers/DivideTwoIntegers_C%23/DivideTwoIntegers/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%2029%20-%20DivideTwoIntegers/DivideTwoIntegers_Java/src/com/company/Main.java) |✔️|
@@ -64,7 +64,7 @@ LeetCode Algorithms with C# and Java
 |60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%2060%20-%20PermutationSequence/PermutationSequence/PermutationSequence/Program.cs) |✔️|
 |61 | [Rotate List](https://leetcode.com/problems/rotate-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%2061%20-%20RotateList/RotateList_C%23/RotateList/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%2061%20-%20RotateList/RotateList_Java/src/com/company/Main.java) |✔️|
 |62 | [Unique Paths](https://leetcode.com/problems/unique-paths/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%2062%20-%20UniquePaths/UniquePaths/UniquePaths/Program.cs) |✔️|
-|63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%2063%20-%20UniquePathsII/UniquePathsII_C%23/UniquePathsII/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/tree/master/DynamicProgramming/LeetCode%2063%20-%20UniquePathsII/UniquePathsII_Java/src/com/company) |✔️|
+|63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%2063%20-%20UniquePathsII/UniquePathsII_C%23/UniquePathsII/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%2063%20-%20UniquePathsII/UniquePathsII_Java/src/com/company/Main.java) |✔️|
 |64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%2064%20-%20MinimumPathSum/MinimumPathSum/MinimumPathSum/Program.cs) |✔️|
 |65 | [Valid Number](https://leetcode.com/problems/valid-number/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%2065%20-%20ValidNumber/ValidNumber/ValidNumber/Program.cs) |✔️|
 |66 | [Plus One](https://leetcode.com/problems/plus-one/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2066%20-%20PlusOne/PlusOne_C%23/PlusOne/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%2066%20-%20PlusOne/PlusOne_Java/src/com/company/Main.java) |✔️|
@@ -256,7 +256,7 @@ LeetCode Algorithms with C# and Java
 |252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%20252%20-%20MeetingRooms/MeetingRooms/MeetingRooms/Program.cs) |✔️|
 |253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20253%20-%20MeetingRoomsII/MeetingRoomsII_C%23/MeetingRoomsII/Program.cs) |✔️|
 |254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%20254%20-%20FactorCombinations/FactorCombinations/FactorCombinations/Program.cs) |✔️|
-|255 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)| Medium | [C#](), [Java]() |✔️|
+|255 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)| Medium |  |:heavy_minus_sign: |
 |256 | [Paint House](https://leetcode.com/problems/paint-house/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20256%20-%20PaintHouse/PaintHouse_C%23/PaintHouse/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20256%20-%20PaintHouse/PaintHouse_Java/src/com/company/Main.java) |✔️|
 |257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20257%20-%20BinaryTreePaths/BinaryTreePaths_C%23/BinaryTreePaths/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20257%20-%20BinaryTreePaths/BinaryTreePaths_Java/src/com/company/Main.java) |✔️|
 |258 | [Add Digits](https://leetcode.com/problems/add-digits/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20258%20-%20AddDigits/AddDigits/AddDigits/Program.cs) |✔️|
@@ -352,56 +352,56 @@ LeetCode Algorithms with C# and Java
 |348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%20348%20-%20DesignTicTacToe/DesignTicTacToe/DesignTicTacToe/Program.cs) |✔️|
 |349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20349%20-%20IntersectionOfTwoArrays/IntersectionOfTwoArrays/IntersectionOfTwoArrays/Program.cs) |✔️|
 |350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20350%20-%20IntersectionOfTwoArraysII/IntersectionOfTwoArraysII/IntersectionOfTwoArraysII/Program.cs) |✔️|
-|351 | []()|  | [C#](), [Java]() |✔️|
-|352 | []()|  | [C#](), [Java]() |✔️|
-|353 | []()|  | [C#](), [Java]() |✔️|
-|354 | []()|  | [C#](), [Java]() |✔️|
-|355 | []()|  | [C#](), [Java]() |✔️|
-|356 | []()|  | [C#](), [Java]() |✔️|
-|357 | []()|  | [C#](), [Java]() |✔️|
-|358 | []()|  | [C#](), [Java]() |✔️|
-|359 | []()|  | [C#](), [Java]() |✔️|
-|360 | []()|  | [C#](), [Java]() |✔️|
-|361 | []()|  | [C#](), [Java]() |✔️|
-|362 | []()|  | [C#](), [Java]() |✔️|
-|363 | []()|  | [C#](), [Java]() |✔️|
-|364 | []()|  | [C#](), [Java]() |✔️|
-|365 | []()|  | [C#](), [Java]() |✔️|
-|366 | []()|  | [C#](), [Java]() |✔️|
-|367 | []()|  | [C#](), [Java]() |✔️|
-|368 | []()|  | [C#](), [Java]() |✔️|
-|369 | []()|  | [C#](), [Java]() |✔️|
-|370 | []()|  | [C#](), [Java]() |✔️|
-|371 | []()|  | [C#](), [Java]() |✔️|
-|372 | []()|  | [C#](), [Java]() |✔️|
-|373 | []()|  | [C#](), [Java]() |✔️|
-|374 | []()|  | [C#](), [Java]() |✔️|
-|375 | []()|  | [C#](), [Java]() |✔️|
-|376 | []()|  | [C#](), [Java]() |✔️|
-|377 | []()|  | [C#](), [Java]() |✔️|
-|378 | []()|  | [C#](), [Java]() |✔️|
-|379 | []()|  | [C#](), [Java]() |✔️|
-|380 | []()|  | [C#](), [Java]() |✔️|
-|381 | []()|  | [C#](), [Java]() |✔️|
-|382 | []()|  | [C#](), [Java]() |✔️|
-|383 | []()|  | [C#](), [Java]() |✔️|
-|384 | []()|  | [C#](), [Java]() |✔️|
-|385 | []()|  | [C#](), [Java]() |✔️|
-|386 | []()|  | [C#](), [Java]() |✔️|
-|387 | []()|  | [C#](), [Java]() |✔️|
-|388 | []()|  | [C#](), [Java]() |✔️|
-|389 | []()|  | [C#](), [Java]() |✔️|
-|390 | []()|  | [C#](), [Java]() |✔️|
-|391 | []()|  | [C#](), [Java]() |✔️|
-|392 | []()|  | [C#](), [Java]() |✔️|
-|393 | []()|  | [C#](), [Java]() |✔️|
-|394 | []()|  | [C#](), [Java]() |✔️|
-|395 | []()|  | [C#](), [Java]() |✔️|
-|396 | []()|  | [C#](), [Java]() |✔️|
-|397 | []()|  | [C#](), [Java]() |✔️|
-|398 | []()|  | [C#](), [Java]() |✔️|
-|399 | []()|  | [C#](), [Java]() |✔️|
-|400 | []()|  | [C#](), [Java]() |✔️|
+|351 | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)| Medium |  |:heavy_minus_sign: |
+|352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)| Hard |  |:heavy_minus_sign: |
+|353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%20353%20-%20DesignSnakeGame/DesignSnakeGame/DesignSnakeGame/Program.cs) |✔️|
+|354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20354%20-%20RussianDollEnvelopes/RussianDollEnvelopes/RussianDollEnvelopes/Program.cs) |✔️|
+|355 | [Design Twitter](https://leetcode.com/problems/design-twitter/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%20355%20-%20DesignTwitter/DesignTwitter/DesignTwitter/Program.cs) |✔️|
+|356 | [Line Reflection](https://leetcode.com/problems/line-reflection/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20356%20-%20LineReflection/LineReflection/LineReflection/Program.cs) |✔️|
+|357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)| Medium |  |:heavy_minus_sign: |
+|358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)| Hard |  |:heavy_minus_sign: |
+|359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%20359%20-%20LoggerRateLimiter/LoggerRateLimiter_C%23/LoggerRateLimiter/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%20359%20-%20LoggerRateLimiter/LoggerRateLimiter_Java/src/com/company/Main.java) |✔️|
+|360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20360%20-%20SortTransformedArray/SortTransformedArray/SortTransformedArray/Program.cs) |✔️|
+|361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20361%20-%20BombEnemy/BombEnemy/BombEnemy/Program.cs) |✔️|
+|362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Queue/LeetCode%20362%20-%20DesignHitCounter/DesignHitCounter/DesignHitCounter/Program.cs) |✔️|
+|363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20363%20-%20MaxSumOfRectangleNoLargerThanK/MaxSumOfRectangleNoLargerThanK/MaxSumOfRectangleNoLargerThanK/Program.cs) |✔️|
+|364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20364%20-%20NestedListWeightSumII/NestedListWeightSumII/NestedListWeightSumII/Program.cs) |✔️|
+|365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20365%20-%20WaterAndJugProblem/WaterAndJugProblem/WaterAndJugProblem/Program.cs) |✔️|
+|366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20366%20-%20FindLeavesOfBinaryTree/FindLeavesOfBinaryTree_C%23/FindLeavesOfBinaryTree/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20366%20-%20FindLeavesOfBinaryTree/FindLeavesOfBinaryTree_Java/src/com/company/Main.java) |✔️|
+|367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20367%20-%20ValidPerfectSquare/ValidPerfectSquare/ValidPerfectSquare/Program.cs) |✔️|
+|368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20368%20-%20LargestDivisibleSubset/LargestDivisibleSubset_C%23/LargestDivisibleSubset/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20368%20-%20LargestDivisibleSubset/LargestDivisibleSubset_Java/src/com/company/Main.java) |✔️|
+|369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%20369%20-%20PlusOneLinkedList/PlusOneLinkedList/PlusOneLinkedList/Program.cs) |✔️|
+|370 | [Range Addition](https://leetcode.com/problems/range-addition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20370%20-%20RangeAddition/RangeAddition/RangeAddition/Program.cs) |✔️|
+|371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%20371%20-%20SumOfTwoIntegers/SumOfTwoIntegers_C%23/SumOfTwoIntegers/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%20371%20-%20SumOfTwoIntegers/SumOfTwoIntegers_Java/src/com/company/Main.java) |✔️|
+|372 | [Super Pow](https://leetcode.com/problems/super-pow/)| Medium |  |:heavy_minus_sign: |
+|373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%20373%20-%20FindKPairsWithSmallestSums/FindKPairsWithSmallestSums/FindKPairsWithSmallestSums/Program.cs) |✔️|
+|374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20374%20-%20GuessNumberHigherOrLower/GuessNumberHigherOrLower_C%23/GuessNumberHigherOrLower/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20374%20-%20GuessNumberHigherOrLower/GuessNumberHigherOrLower_Java/src/com/company/Main.java) |✔️|
+|375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)| Medium |  |:heavy_minus_sign: |
+|376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20376%20-%20WiggleSubsequence/WiggleSubsequence_C%23/WiggleSubsequence/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20376%20-%20WiggleSubsequence/WiggleSubsequence_Java/src/com/company/Main.java) |✔️|
+|377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20377%20-%20CombinationSumIV/CombinationSumIV/CombinationSumIV/Program.cs) |✔️|
+|378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20378%20-%20KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix_C%23/KthSmallestElementInASortedMatrix/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20378%20-%20KthSmallestElementInASortedMatrix/KthSmallestElementInASortedMatrix_Java/src/com/company/Main.java) |✔️|
+|379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%20379%20-%20DesignPhoneDirectory/DesignPhoneDirectory/DesignPhoneDirectory/Program.cs) |✔️|
+|380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20380%20-%20InsertDeleteGetRandomO1/InsertDeleteGetRandomO1/InsertDeleteGetRandomO1/Program.cs) |✔️|
+|381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)| Hard |  |:heavy_minus_sign: |
+|382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%20382%20-%20LinkedListRandomNode/LinkedListRandomNode/LinkedListRandomNode/Program.cs) |✔️|
+|383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20383%20-%20RansomNote/RansomNote/RansomNote/Program.cs) |✔️|
+|384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%20384%20-%20ShuffleAnArray/ShuffleAnArray/ShuffleAnArray/Program.cs) |✔️|
+|385 | [Mini Parser](https://leetcode.com/problems/mini-parser/)| Medium |  |:heavy_minus_sign: |
+|386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)| Medium |  |:heavy_minus_sign: |
+|387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20387%20-%20FirstUniqueCharacterInAString/FirstUniqueCharacterInAString/FirstUniqueCharacterInAString/Program.cs) |✔️|
+|388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)| Medium |  |:heavy_minus_sign: |
+|389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20389%20-%20FindTheDifference/FindTheDifference/FindTheDifference/Program.cs) |✔️|
+|390 | [Elimination Game](https://leetcode.com/problems/elimination-game/)| Medium |  |:heavy_minus_sign: |
+|391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)| Hard |  |:heavy_minus_sign: |
+|392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20392%20-%20IsSubsequence/IsSubsequence/IsSubsequence/Program.cs) |✔️|
+|393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)| Medium |  |:heavy_minus_sign: |
+|394 | [Decode String](https://leetcode.com/problems/decode-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%20394%20-%20DecodeString/DecodeString_C%23/DecodeString/Program.cs) |✔️|
+|395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DivideAndConquer/LeetCode%20395%20-%20LongestSubstringWithAtLeastKRepeatingCharacters/LongestSubstring/LongestSubstring/Program.cs) |✔️|
+|396 | [Rotate Function](https://leetcode.com/problems/rotate-function/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20396%20-%20RotateFunction/RotateFunction/RotateFunction/Program.cs) |✔️|
+|397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%20397%20-%20IntegerReplacement/IntegerReplacement/IntegerReplacement/Program.cs) |✔️|
+|398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20398%20-%20RandomPickIndex/RandomPickIndex/RandomPickIndex/Program.cs) |✔️|
+|399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20399%20-%20EvaluateDivision/EvaluateDivision/EvaluateDivision/Program.cs) |✔️|
+|400 | [Nth Digit](https://leetcode.com/problems/nth-digit/)| Medium |  |:heavy_minus_sign: |
 
 
 |684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%20684%20-%20RedundantConnection/RedundantConnection_C%23/RedundantConnection/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%20684%20-%20RedundantConnection/RedundantConnection_Java/src/com/company/Main.java) |
@@ -428,4 +428,4 @@ LeetCode Algorithms with C# and Java
 |1916 | [Count Ways to Build Rooms in an Ant Colony](https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/)| Hard |  |:heavy_minus_sign: |
 
 |15 | []()|  | [C#](), [Java]() |✔️|
-|15 | []()|  | [C#](), [Java]() |:heavy_minus_sign: |
+|15 | []()|  |  |:heavy_minus_sign: |
