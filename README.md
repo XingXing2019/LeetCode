@@ -502,6 +502,110 @@ LeetCode Algorithms with C# and Java
 |498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20498%20-%20DiagonalTraverse/DiagonalTraverse_C%23/DiagonalTraverse/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20498%20-%20DiagonalTraverse/DiagonalTraverse_Java/src/com/company/Main.java) |✔️|
 |499 | [The Maze III](https://leetcode.com/problems/the-maze-iii/)| Hard |  |:heavy_minus_sign: |
 |500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20500%20-%20KeyboardRow/KeyboardRow/KeyboardRow/Program.cs) |✔️|
+|501 | []()|  | [C#](), [Java]() |✔️|
+|502 | []()|  | [C#](), [Java]() |✔️|
+|503 | []()|  | [C#](), [Java]() |✔️|
+|504 | []()|  | [C#](), [Java]() |✔️|
+|505 | []()|  | [C#](), [Java]() |✔️|
+|506 | []()|  | [C#](), [Java]() |✔️|
+|507 | []()|  | [C#](), [Java]() |✔️|
+|508 | []()|  | [C#](), [Java]() |✔️|
+|509 | []()|  | [C#](), [Java]() |✔️|
+|510 | []()|  | [C#](), [Java]() |✔️|
+|511 | []()|  | [C#](), [Java]() |✔️|
+|512 | []()|  | [C#](), [Java]() |✔️|
+|513 | []()|  | [C#](), [Java]() |✔️|
+|514 | []()|  | [C#](), [Java]() |✔️|
+|515 | []()|  | [C#](), [Java]() |✔️|
+|516 | []()|  | [C#](), [Java]() |✔️|
+|517 | []()|  | [C#](), [Java]() |✔️|
+|518 | []()|  | [C#](), [Java]() |✔️|
+|519 | []()|  | [C#](), [Java]() |✔️|
+|520 | []()|  | [C#](), [Java]() |✔️|
+|521 | []()|  | [C#](), [Java]() |✔️|
+|522 | []()|  | [C#](), [Java]() |✔️|
+|523 | []()|  | [C#](), [Java]() |✔️|
+|524 | []()|  | [C#](), [Java]() |✔️|
+|525 | []()|  | [C#](), [Java]() |✔️|
+|526 | []()|  | [C#](), [Java]() |✔️|
+|527 | []()|  | [C#](), [Java]() |✔️|
+|528 | []()|  | [C#](), [Java]() |✔️|
+|529 | []()|  | [C#](), [Java]() |✔️|
+|530 | []()|  | [C#](), [Java]() |✔️|
+|531 | []()|  | [C#](), [Java]() |✔️|
+|532 | []()|  | [C#](), [Java]() |✔️|
+|533 | []()|  | [C#](), [Java]() |✔️|
+|534 | []()|  | [C#](), [Java]() |✔️|
+|535 | []()|  | [C#](), [Java]() |✔️|
+|536 | []()|  | [C#](), [Java]() |✔️|
+|537 | []()|  | [C#](), [Java]() |✔️|
+|538 | []()|  | [C#](), [Java]() |✔️|
+|539 | []()|  | [C#](), [Java]() |✔️|
+|540 | []()|  | [C#](), [Java]() |✔️|
+|541 | []()|  | [C#](), [Java]() |✔️|
+|542 | []()|  | [C#](), [Java]() |✔️|
+|543 | []()|  | [C#](), [Java]() |✔️|
+|544 | []()|  | [C#](), [Java]() |✔️|
+|545 | []()|  | [C#](), [Java]() |✔️|
+|546 | []()|  | [C#](), [Java]() |✔️|
+|547 | []()|  | [C#](), [Java]() |✔️|
+|548 | []()|  | [C#](), [Java]() |✔️|
+|549 | []()|  | [C#](), [Java]() |✔️|
+|550 | []()|  | [C#](), [Java]() |✔️|
+|551 | []()|  | [C#](), [Java]() |✔️|
+|552 | []()|  | [C#](), [Java]() |✔️|
+|553 | []()|  | [C#](), [Java]() |✔️|
+|554 | []()|  | [C#](), [Java]() |✔️|
+|555 | []()|  | [C#](), [Java]() |✔️|
+|556 | []()|  | [C#](), [Java]() |✔️|
+|557 | []()|  | [C#](), [Java]() |✔️|
+|558 | []()|  | [C#](), [Java]() |✔️|
+|559 | []()|  | [C#](), [Java]() |✔️|
+|560 | []()|  | [C#](), [Java]() |✔️|
+|561 | []()|  | [C#](), [Java]() |✔️|
+|562 | []()|  | [C#](), [Java]() |✔️|
+|563 | []()|  | [C#](), [Java]() |✔️|
+|564 | []()|  | [C#](), [Java]() |✔️|
+|565 | []()|  | [C#](), [Java]() |✔️|
+|566 | []()|  | [C#](), [Java]() |✔️|
+|567 | []()|  | [C#](), [Java]() |✔️|
+|568 | []()|  | [C#](), [Java]() |✔️|
+|569 | []()|  | [C#](), [Java]() |✔️|
+|570 | []()|  | [C#](), [Java]() |✔️|
+|571 | []()|  | [C#](), [Java]() |✔️|
+|572 | []()|  | [C#](), [Java]() |✔️|
+|573 | []()|  | [C#](), [Java]() |✔️|
+|574 | []()|  | [C#](), [Java]() |✔️|
+|575 | []()|  | [C#](), [Java]() |✔️|
+|576 | []()|  | [C#](), [Java]() |✔️|
+|577 | []()|  | [C#](), [Java]() |✔️|
+|578 | []()|  | [C#](), [Java]() |✔️|
+|579 | []()|  | [C#](), [Java]() |✔️|
+|580 | []()|  | [C#](), [Java]() |✔️|
+|581 | []()|  | [C#](), [Java]() |✔️|
+|582 | []()|  | [C#](), [Java]() |✔️|
+|583 | []()|  | [C#](), [Java]() |✔️|
+|584 | []()|  | [C#](), [Java]() |✔️|
+|585 | []()|  | [C#](), [Java]() |✔️|
+|586 | []()|  | [C#](), [Java]() |✔️|
+|587 | []()|  | [C#](), [Java]() |✔️|
+|588 | []()|  | [C#](), [Java]() |✔️|
+|589 | []()|  | [C#](), [Java]() |✔️|
+|590 | []()|  | [C#](), [Java]() |✔️|
+|591 | []()|  | [C#](), [Java]() |✔️|
+|592 | []()|  | [C#](), [Java]() |✔️|
+|593 | []()|  | [C#](), [Java]() |✔️|
+|594 | []()|  | [C#](), [Java]() |✔️|
+|595 | []()|  | [C#](), [Java]() |✔️|
+|596 | []()|  | [C#](), [Java]() |✔️|
+|597 | []()|  | [C#](), [Java]() |✔️|
+|598 | []()|  | [C#](), [Java]() |✔️|
+|599 | []()|  | [C#](), [Java]() |✔️|
+|600 | []()|  | [C#](), [Java]() |✔️|
+
+
+
+
 
 
 |684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%20684%20-%20RedundantConnection/RedundantConnection_C%23/RedundantConnection/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%20684%20-%20RedundantConnection/RedundantConnection_Java/src/com/company/Main.java) |
