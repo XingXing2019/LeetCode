@@ -802,106 +802,106 @@ LeetCode Algorithms with C# and Java
 |798 | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)| Hard |  |:heavy_minus_sign: |
 |799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/)| Medium |  |:heavy_minus_sign: |
 |800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20800%20-%20SimilarRGBColor/SimilarRGBColor/SimilarRGBColor/Program.cs) |✔️|
-|801 | []()|  |  |:heavy_minus_sign: |
-|802 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20802%20-%20FindEventualSafeStates/FindEventualSafeStates/FindEventualSafeStates/Program.cs) |✔️|
-|803 | []()|  | [C#](), [Java]() |✔️|
-|804 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20804%20-%20UniqueMorseCodeWords/UniqueMorseCodeWords/UniqueMorseCodeWords/Program.cs) |✔️|
-|805 | []()|  |  |:heavy_minus_sign: |
-|806 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20806%20-%20NumberOfLinesToWriteString/NumberOfLinesToWriteString/NumberOfLinesToWriteString/Program.cs) |✔️|
-|807 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20807%20-%20MaxIncreaseToKeepCitySkyline/MaxIncreaseToKeepCitySkyline/MaxIncreaseToKeepCitySkyline/Program.cs) |✔️|
-|808 | []()|  |  |:heavy_minus_sign: |
-|809 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20809%20-%20ExpressiveWords/ExpressiveWords/ExpressiveWords/Program.cs) |✔️|
-|810 | []()|  |  |:heavy_minus_sign: |
-|811 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20811%20-%20SubdomainVisitCount/SubdomainVisitCount/SubdomainVisitCount/Program.cs) |✔️|
-|812 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20812%20-%20LargestTriangleArea/LargestTriangleArea/LargestTriangleArea/Program.cs) |✔️|
-|813 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20813%20-%20LargestSumOfAverages/LargestSumOfAverages/LargestSumOfAverages/Program.cs) |✔️|
-|814 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20814%20-%20BinaryTreePruning/BinaryTreePruning_C%23/BinaryTreePruning/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20814%20-%20BinaryTreePruning/BinaryTreePruning_Java/src/com/company/Main.java) |✔️|
-|815 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20815%20-%20BusRoutes/BusRoutes/BusRoutes/Program.cs) |✔️|
-|816 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20816%20-%20AmbiguousCoordinates/AmbiguousCoordinates/AmbiguousCoordinates/Program.cs) |✔️|
-|817 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%20817%20-%20LinkedListComponents/LinkedListComponents_C%23/LinkedListComponents/Program.cs) |✔️|
-|818 | []()|  |  |:heavy_minus_sign: |
-|819 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20819%20-%20MostCommonWord/MostCommonWord/MostCommonWord/Program.cs) |✔️|
-|820 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20820%20-%20ShortEncodingOfWords/ShortEncodingOfWords_C%23/ShortEncodingOfWords/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20820%20-%20ShortEncodingOfWords/ShortEncodingOfWords_Java/src/com/company/Main.java) |✔️|
-|821 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20821%20-%20ShortestDistanceToACharacter/ShortestDistanceToACharacter/ShortestDistanceToACharacter/Program.cs) |✔️|
-|822 | []()|  |  |:heavy_minus_sign: |
-|823 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20823%20-%20BinaryTreesWithFactors/BinaryTreesWithFactors/BinaryTreesWithFactors/Program.cs) |✔️|
-|824 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20824%20-%20GoatLatin/GoatLatin/GoatLatin/Program.cs) |✔️|
-|825 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20825%20-%20FriendsOfAppropriateAges/FriendsOfAppropriateAges/FriendsOfAppropriateAges/Program.cs) |✔️|
-|826 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20826%20-%20MostProfitAssigningWork/MostProfitAssigningWork/MostProfitAssigningWork/Program.cs) |✔️|
-|827 | []()|  |  |:heavy_minus_sign: |
-|828 | []()|  |  |:heavy_minus_sign: |
-|829 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20829%20-%20ConsecutiveNumbersSum/ConsecutiveNumbersSum/ConsecutiveNumbersSum/Program.cs) |✔️|
-|830 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20830%20-%20PositionsOfLargeGroups/PositionsOfLargeGroups/PositionsOfLargeGroups/Program.cs) |✔️|
-|831 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20831%20-%20MaskingPersonalInformation/MaskingPersonalInformation/MaskingPersonalInformation/Program.cs) |✔️|
-|832 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20832%20-%20FlippingAnImage/FlippingAnImage_C%23/FlippingAnImage/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20832%20-%20FlippingAnImage/FlippingAnImage_Java/src/com/company/Main.java) |✔️|
-|833 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20833%20-%20FindAndReplaceInString/FindAndReplaceInString/FindAndReplaceInString/Program.cs) |✔️|
-|834 | []()|  |  |:heavy_minus_sign: |
-|835 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20835%20-%20ImageOverlap/ImageOverlap/ImageOverlap/Program.cs) |✔️|
-|836 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20836%20-%20RectangleOverlap/RectangleOverlap/RectangleOverlap/Program.cs) |✔️|
-|837 | []()|  |  |:heavy_minus_sign: |
-|838 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20838%20-%20PushDominoes/PushDominoes/PushDominoes/Program.cs) |✔️|
-|839 | []()|  |  |:heavy_minus_sign: |
-|840 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20840%20-%20MagicSquaresInGrid/MagicSquaresInGrid/MagicSquaresInGrid/Program.cs) |✔️|
-|841 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20841%20-%20KeysAndRooms/KeysAndRooms_C%23/KeysAndRooms/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20841%20-%20KeysAndRooms/KeysAndRooms_Java/src/com/company/Main.java) |✔️|
-|842 | []()|  |  |:heavy_minus_sign: |
-|843 | []()|  |  |:heavy_minus_sign: |
-|844 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%20844%20-%20BackspaceStringCompare/BackspaceStringCompare/BackspaceStringCompare/Program.cs) |✔️|
-|845 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20845%20-%20LongestMountainInArray/LongestMountainInArray/LongestMountainInArray/Program.cs) |✔️|
-|846 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20846%20-%20HandOfStraights/HandOfStraights/HandOfStraights/Program.cs) |✔️|
-|847 | []()|  |  |:heavy_minus_sign: |
-|848 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20848%20-%20ShiftingLetters/ShiftingLetters/ShiftingLetters/Program.cs) |✔️|
-|849 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20849%20-%20MaximizeDistanceToClosestPerson/MaximizeDistanceToClosestPerson/MaximizeDistanceToClosestPerson/Program.cs) |✔️|
-|850 | []()|  |  |:heavy_minus_sign: |
-|851 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20851%20-%20LoudAndRich/LoudAndRich/LoudAndRich/Program.cs) |✔️|
-|852 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20852%20-%20PeakIndexInAMountainArray/PeakIndexInAMountainArray_C%23/PeakIndexInAMountainArray/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20852%20-%20PeakIndexInAMountainArray/PeakIndexInAMountainArray_Java/src/com/company/Main.java) |✔️|
-|853 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%20853%20-%20CarFleet/CarFleet_C%23/CarFleet/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%20853%20-%20CarFleet/CarFleet_Java/src/com/company/Main.java) |✔️|
-|854 | []()|  |  |:heavy_minus_sign: |
-|855 | []()|  |  |:heavy_minus_sign: |
-|856 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20856%20-%20ScoreOfParentheses/ScoreOfParentheses_C%23/ScoreOfParentheses/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20856%20-%20ScoreOfParentheses/ScoreOfParentheses_Java/src/com/company/Main.java) |✔️|
-|857 | []()|  |  |:heavy_minus_sign: |
-|858 | []()|  |  |:heavy_minus_sign: |
-|859 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20859%20-%20BuddyStrings/BuddyStrings/BuddyStrings/Program.cs) |✔️|
-|860 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20860%20-%20LemonadeChange/LemonadeChange/LemonadeChange/Program.cs) |✔️|
-|861 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20861%20-%20ScoreAfterFlippingMatrix/ScoreAfterFlippingMatrix/ScoreAfterFlippingMatrix/Program.cs) |✔️|
-|862 | []()|  |  |:heavy_minus_sign: |
-|863 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20863%20-%20AllNodesDistanceKInBinaryTree/AllNodesDistanceKInBinaryTree/AllNodesDistanceKInBinaryTree/Program.cs) |✔️|
-|864 | []()|  |  |:heavy_minus_sign: |
-|865 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20865%20-%20SmallestSubtreeWithAllTheDeepestNodes/SmallestSubtree/SmallestSubtree/Program.cs) |✔️|
-|866 | []()|  |  |:heavy_minus_sign: |
-|867 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20867%20-%20TransposeMatrix/TransposeMatrix/TransposeMatrix/Program.cs) |✔️|
-|868 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20868%20-%20BinaryGap/BinaryGap/BinaryGap/Program.cs) |✔️|
-|869 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20869%20-%20ReorderedPowerOf2/ReorderedPowerOf2_C%23/ReorderedPowerOf2/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20869%20-%20ReorderedPowerOf2/ReorderedPowerOf2_Java/src/com/company/Main.java) |✔️|
-|870 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20870%20-%20AdvantageShuffle/AdvantageShuffle_C%23/AdvantageShuffle/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20870%20-%20AdvantageShuffle/AdvantageShuffle_Java/src/com/company/Main.java) |✔️|
-|871 | []()|  | [Java](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%20871%20-%20MinimumNumberOfRefuelingStops/MinimumNumberOfRefuelingStops_Java/src/com/company/Main.java) |✔️|
-|872 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20872%20-%20LeafSimilarTrees/LeafSimilarTrees_C%23/LeafSimilarTrees/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20872%20-%20LeafSimilarTrees/LeafSimilarTrees_Java/src/com/company/Main.java) |✔️|
-|873 | []()|  |  |:heavy_minus_sign: |
-|874 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20874%20-%20WalkingRobotSimulation/WalkingRobotSimulation/WalkingRobotSimulation/Program.cs) |✔️|
-|875 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20875%20-%20KokoEatingBananas/KokoEatingBananas_C%23/KokoEatingBananas/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20875%20-%20KokoEatingBananas/KokoEatingBananas_Java/src/com/company/Main.java) |✔️|
-|876 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%20876%20-%20MiddleOfTheLinkedList/MiddleOfTheLinkedList/MiddleOfTheLinkedList/Program.cs) |✔️|
-|877 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20877%20-%20StoneGame/StoneGame_C%23/StoneGame/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20877%20-%20StoneGame/StoneGame_Java/src/com/company/Main.java) |✔️|
-|878 | []()|  |  |:heavy_minus_sign: |
-|879 | []()|  |  |:heavy_minus_sign: |
-|880 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%20880%20-%20DecodedStringAtIndex/DecodedStringAtIndex/DecodedStringAtIndex/Program.cs) |✔️|
-|881 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20881%20-%20BoatsToSavePeople/BoatsToSavePeople/BoatsToSavePeople/Program.cs) |✔️|
-|882 | []()|  |  |:heavy_minus_sign: |
-|883 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20883%20-%20ProjectionAreaOf3DShapes/ProjectionAreaOf3DShapes/ProjectionAreaOf3DShapes/Program.cs) |✔️|
-|884 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20884%20-%20UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences/Program.cs) |✔️|
-|885 | []()|  |  |:heavy_minus_sign: |
-|886 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20886%20-%20PossibleBipartition/PossibleBipartition/PossibleBipartition/Program.cs) |✔️|
-|887 | []()|  |  |:heavy_minus_sign: |
-|888 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20888%20-%20FairCandySwap/FairCandySwap_C%23/FairCandySwap/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20888%20-%20FairCandySwap/FairCandySwap_Java/src/com/company/Main.java) |✔️|
-|889 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20889%20-%20ConstructBinaryTreeFromPreorderAndPostorderTraversal/ConstructBinaryTree/ConstructBinaryTree/Program.cs) |✔️|
-|890 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20890%20-%20FindAndReplacePattern/FindAndReplacePattern/FindAndReplacePattern/Program.cs) |✔️|
-|891 | []()|  |  |:heavy_minus_sign: |
-|892 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20892%20-%20SurfaceAreaOf3DShapes/SurfaceAreaOf3DShapes/SurfaceAreaOf3DShapes/Program.cs) |✔️|
-|893 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20893%20-%20GroupsOfSpecialEquivalentStrings/GroupsOfSpecialEquivalentStrings/GroupsOfSpecialEquivalentStrings/Program.cs) |✔️|
-|894 | []()|  |  |:heavy_minus_sign: |
-|895 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%20895%20-%20MaximumFrequencyStack/MaximumFrequencyStack/MaximumFrequencyStack/Program.cs) |✔️|
-|896 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20896%20-%20MonotonicArray/MonotonicArray_C%23/MonotonicArray/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20896%20-%20MonotonicArray/MonotonicArray_Java/src/com/company/Main.java) |✔️|
-|897 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20897%20-%20IncreasingOrderSearchTree/IncreasingOrderSearchTree_C%23/IncreasingOrderSearchTree/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20897%20-%20IncreasingOrderSearchTree/IncreasingOrderSearchTree_Java/src/com/company/Main.java) |✔️|
-|898 | []()|  |  |:heavy_minus_sign: |
-|899 | []()|  |  |:heavy_minus_sign: |
-|900 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20900%20-%20RLEIterator/RLEIterator/RLEIterator/Program.cs) |✔️|
+|801 | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)| Hard |  |:heavy_minus_sign: |
+|802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20802%20-%20FindEventualSafeStates/FindEventualSafeStates/FindEventualSafeStates/Program.cs) |✔️|
+|803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)| Hard | [C#](), [Java]() |✔️|
+|804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20804%20-%20UniqueMorseCodeWords/UniqueMorseCodeWords/UniqueMorseCodeWords/Program.cs) |✔️|
+|805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)| Hard |  |:heavy_minus_sign: |
+|806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20806%20-%20NumberOfLinesToWriteString/NumberOfLinesToWriteString/NumberOfLinesToWriteString/Program.cs) |✔️|
+|807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20807%20-%20MaxIncreaseToKeepCitySkyline/MaxIncreaseToKeepCitySkyline/MaxIncreaseToKeepCitySkyline/Program.cs) |✔️|
+|808 | [Soup Servings](https://leetcode.com/problems/soup-servings/)| Medium |  |:heavy_minus_sign: |
+|809 | [Expressive Words](https://leetcode.com/problems/expressive-words/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20809%20-%20ExpressiveWords/ExpressiveWords/ExpressiveWords/Program.cs) |✔️|
+|810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)| Hard |  |:heavy_minus_sign: |
+|811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20811%20-%20SubdomainVisitCount/SubdomainVisitCount/SubdomainVisitCount/Program.cs) |✔️|
+|812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20812%20-%20LargestTriangleArea/LargestTriangleArea/LargestTriangleArea/Program.cs) |✔️|
+|813 | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20813%20-%20LargestSumOfAverages/LargestSumOfAverages/LargestSumOfAverages/Program.cs) |✔️|
+|814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20814%20-%20BinaryTreePruning/BinaryTreePruning_C%23/BinaryTreePruning/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20814%20-%20BinaryTreePruning/BinaryTreePruning_Java/src/com/company/Main.java) |✔️|
+|815 | [Bus Routes](https://leetcode.com/problems/bus-routes/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20815%20-%20BusRoutes/BusRoutes/BusRoutes/Program.cs) |✔️|
+|816 | [Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20816%20-%20AmbiguousCoordinates/AmbiguousCoordinates/AmbiguousCoordinates/Program.cs) |✔️|
+|817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%20817%20-%20LinkedListComponents/LinkedListComponents_C%23/LinkedListComponents/Program.cs) |✔️|
+|818 | [Race Car](https://leetcode.com/problems/race-car/)| Hard |  |:heavy_minus_sign: |
+|819 | [Most Common Word](https://leetcode.com/problems/most-common-word/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20819%20-%20MostCommonWord/MostCommonWord/MostCommonWord/Program.cs) |✔️|
+|820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20820%20-%20ShortEncodingOfWords/ShortEncodingOfWords_C%23/ShortEncodingOfWords/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20820%20-%20ShortEncodingOfWords/ShortEncodingOfWords_Java/src/com/company/Main.java) |✔️|
+|821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20821%20-%20ShortestDistanceToACharacter/ShortestDistanceToACharacter/ShortestDistanceToACharacter/Program.cs) |✔️|
+|822 | [Card Flipping Game](https://leetcode.com/problems/card-flipping-game/)| Medium |  |:heavy_minus_sign: |
+|823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20823%20-%20BinaryTreesWithFactors/BinaryTreesWithFactors/BinaryTreesWithFactors/Program.cs) |✔️|
+|824 | [Goat Latin](https://leetcode.com/problems/goat-latin/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20824%20-%20GoatLatin/GoatLatin/GoatLatin/Program.cs) |✔️|
+|825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20825%20-%20FriendsOfAppropriateAges/FriendsOfAppropriateAges/FriendsOfAppropriateAges/Program.cs) |✔️|
+|826 | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20826%20-%20MostProfitAssigningWork/MostProfitAssigningWork/MostProfitAssigningWork/Program.cs) |✔️|
+|827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/)| Hard |  |:heavy_minus_sign: |
+|828 | [Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)| Hard |  |:heavy_minus_sign: |
+|829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20829%20-%20ConsecutiveNumbersSum/ConsecutiveNumbersSum/ConsecutiveNumbersSum/Program.cs) |✔️|
+|830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20830%20-%20PositionsOfLargeGroups/PositionsOfLargeGroups/PositionsOfLargeGroups/Program.cs) |✔️|
+|831 | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20831%20-%20MaskingPersonalInformation/MaskingPersonalInformation/MaskingPersonalInformation/Program.cs) |✔️|
+|832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20832%20-%20FlippingAnImage/FlippingAnImage_C%23/FlippingAnImage/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20832%20-%20FlippingAnImage/FlippingAnImage_Java/src/com/company/Main.java) |✔️|
+|833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20833%20-%20FindAndReplaceInString/FindAndReplaceInString/FindAndReplaceInString/Program.cs) |✔️|
+|834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)| Hard |  |:heavy_minus_sign: |
+|835 | [Image Overlap](https://leetcode.com/problems/image-overlap/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20835%20-%20ImageOverlap/ImageOverlap/ImageOverlap/Program.cs) |✔️|
+|836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20836%20-%20RectangleOverlap/RectangleOverlap/RectangleOverlap/Program.cs) |✔️|
+|837 | [New 21 Game](https://leetcode.com/problems/new-21-game/)| Medium |  |:heavy_minus_sign: |
+|838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20838%20-%20PushDominoes/PushDominoes/PushDominoes/Program.cs) |✔️|
+|839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/)| Hard |  |:heavy_minus_sign: |
+|840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20840%20-%20MagicSquaresInGrid/MagicSquaresInGrid/MagicSquaresInGrid/Program.cs) |✔️|
+|841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20841%20-%20KeysAndRooms/KeysAndRooms_C%23/KeysAndRooms/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20841%20-%20KeysAndRooms/KeysAndRooms_Java/src/com/company/Main.java) |✔️|
+|842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)| Medium |  |:heavy_minus_sign: |
+|843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/)| Hard |  |:heavy_minus_sign: |
+|844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%20844%20-%20BackspaceStringCompare/BackspaceStringCompare/BackspaceStringCompare/Program.cs) |✔️|
+|845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20845%20-%20LongestMountainInArray/LongestMountainInArray/LongestMountainInArray/Program.cs) |✔️|
+|846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20846%20-%20HandOfStraights/HandOfStraights/HandOfStraights/Program.cs) |✔️|
+|847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)| Hard |  |:heavy_minus_sign: |
+|848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20848%20-%20ShiftingLetters/ShiftingLetters/ShiftingLetters/Program.cs) |✔️|
+|849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20849%20-%20MaximizeDistanceToClosestPerson/MaximizeDistanceToClosestPerson/MaximizeDistanceToClosestPerson/Program.cs) |✔️|
+|850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)| Hard |  |:heavy_minus_sign: |
+|851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20851%20-%20LoudAndRich/LoudAndRich/LoudAndRich/Program.cs) |✔️|
+|852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20852%20-%20PeakIndexInAMountainArray/PeakIndexInAMountainArray_C%23/PeakIndexInAMountainArray/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20852%20-%20PeakIndexInAMountainArray/PeakIndexInAMountainArray_Java/src/com/company/Main.java) |✔️|
+|853 | [Car Fleet](https://leetcode.com/problems/car-fleet/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%20853%20-%20CarFleet/CarFleet_C%23/CarFleet/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%20853%20-%20CarFleet/CarFleet_Java/src/com/company/Main.java) |✔️|
+|854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)| Hard |  |:heavy_minus_sign: |
+|855 | [Exam Room](https://leetcode.com/problems/exam-room/)| Medium |  |:heavy_minus_sign: |
+|856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20856%20-%20ScoreOfParentheses/ScoreOfParentheses_C%23/ScoreOfParentheses/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20856%20-%20ScoreOfParentheses/ScoreOfParentheses_Java/src/com/company/Main.java) |✔️|
+|857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/)| Hard |  |:heavy_minus_sign: |
+|858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)| Medium |  |:heavy_minus_sign: |
+|859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20859%20-%20BuddyStrings/BuddyStrings/BuddyStrings/Program.cs) |✔️|
+|860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20860%20-%20LemonadeChange/LemonadeChange/LemonadeChange/Program.cs) |✔️|
+|861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20861%20-%20ScoreAfterFlippingMatrix/ScoreAfterFlippingMatrix/ScoreAfterFlippingMatrix/Program.cs) |✔️|
+|862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)| Hard |  |:heavy_minus_sign: |
+|863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20863%20-%20AllNodesDistanceKInBinaryTree/AllNodesDistanceKInBinaryTree/AllNodesDistanceKInBinaryTree/Program.cs) |✔️|
+|864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)| Hard |  |:heavy_minus_sign: |
+|865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20865%20-%20SmallestSubtreeWithAllTheDeepestNodes/SmallestSubtree/SmallestSubtree/Program.cs) |✔️|
+|866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)| Medium |  |:heavy_minus_sign: |
+|867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20867%20-%20TransposeMatrix/TransposeMatrix/TransposeMatrix/Program.cs) |✔️|
+|868 | [Binary Gap](https://leetcode.com/problems/binary-gap/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20868%20-%20BinaryGap/BinaryGap/BinaryGap/Program.cs) |✔️|
+|869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20869%20-%20ReorderedPowerOf2/ReorderedPowerOf2_C%23/ReorderedPowerOf2/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20869%20-%20ReorderedPowerOf2/ReorderedPowerOf2_Java/src/com/company/Main.java) |✔️|
+|870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20870%20-%20AdvantageShuffle/AdvantageShuffle_C%23/AdvantageShuffle/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20870%20-%20AdvantageShuffle/AdvantageShuffle_Java/src/com/company/Main.java) |✔️|
+|871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)| Hard | [Java](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%20871%20-%20MinimumNumberOfRefuelingStops/MinimumNumberOfRefuelingStops_Java/src/com/company/Main.java) |✔️|
+|872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20872%20-%20LeafSimilarTrees/LeafSimilarTrees_C%23/LeafSimilarTrees/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20872%20-%20LeafSimilarTrees/LeafSimilarTrees_Java/src/com/company/Main.java) |✔️|
+|873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)| Medium |  |:heavy_minus_sign: |
+|874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%20874%20-%20WalkingRobotSimulation/WalkingRobotSimulation/WalkingRobotSimulation/Program.cs) |✔️|
+|875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20875%20-%20KokoEatingBananas/KokoEatingBananas_C%23/KokoEatingBananas/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%20875%20-%20KokoEatingBananas/KokoEatingBananas_Java/src/com/company/Main.java) |✔️|
+|876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%20876%20-%20MiddleOfTheLinkedList/MiddleOfTheLinkedList/MiddleOfTheLinkedList/Program.cs) |✔️|
+|877 | [Stone Game](https://leetcode.com/problems/stone-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20877%20-%20StoneGame/StoneGame_C%23/StoneGame/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20877%20-%20StoneGame/StoneGame_Java/src/com/company/Main.java) |✔️|
+|878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)| Hard |  |:heavy_minus_sign: |
+|879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)| Hard |  |:heavy_minus_sign: |
+|880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%20880%20-%20DecodedStringAtIndex/DecodedStringAtIndex/DecodedStringAtIndex/Program.cs) |✔️|
+|881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20881%20-%20BoatsToSavePeople/BoatsToSavePeople/BoatsToSavePeople/Program.cs) |✔️|
+|882 | [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)| Hard |  |:heavy_minus_sign: |
+|883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20883%20-%20ProjectionAreaOf3DShapes/ProjectionAreaOf3DShapes/ProjectionAreaOf3DShapes/Program.cs) |✔️|
+|884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20884%20-%20UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences/Program.cs) |✔️|
+|885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)| Medium |  |:heavy_minus_sign: |
+|886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20886%20-%20PossibleBipartition/PossibleBipartition/PossibleBipartition/Program.cs) |✔️|
+|887 | [Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)| Hard |  |:heavy_minus_sign: |
+|888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20888%20-%20FairCandySwap/FairCandySwap_C%23/FairCandySwap/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20888%20-%20FairCandySwap/FairCandySwap_Java/src/com/company/Main.java) |✔️|
+|889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20889%20-%20ConstructBinaryTreeFromPreorderAndPostorderTraversal/ConstructBinaryTree/ConstructBinaryTree/Program.cs) |✔️|
+|890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20890%20-%20FindAndReplacePattern/FindAndReplacePattern/FindAndReplacePattern/Program.cs) |✔️|
+|891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)| Hard |  |:heavy_minus_sign: |
+|892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20892%20-%20SurfaceAreaOf3DShapes/SurfaceAreaOf3DShapes/SurfaceAreaOf3DShapes/Program.cs) |✔️|
+|893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20893%20-%20GroupsOfSpecialEquivalentStrings/GroupsOfSpecialEquivalentStrings/GroupsOfSpecialEquivalentStrings/Program.cs) |✔️|
+|894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)| Medium |  |:heavy_minus_sign: |
+|895 | [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%20895%20-%20MaximumFrequencyStack/MaximumFrequencyStack/MaximumFrequencyStack/Program.cs) |✔️|
+|896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20896%20-%20MonotonicArray/MonotonicArray_C%23/MonotonicArray/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20896%20-%20MonotonicArray/MonotonicArray_Java/src/com/company/Main.java) |✔️|
+|897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20897%20-%20IncreasingOrderSearchTree/IncreasingOrderSearchTree_C%23/IncreasingOrderSearchTree/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20897%20-%20IncreasingOrderSearchTree/IncreasingOrderSearchTree_Java/src/com/company/Main.java) |✔️|
+|898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/)| Medium |  |:heavy_minus_sign: |
+|899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue/)| Hard |  |:heavy_minus_sign: |
+|900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20900%20-%20RLEIterator/RLEIterator/RLEIterator/Program.cs) |✔️|
 |901 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%20901%20-%20OnlineStockSpan/OnlineStockSpan/OnlineStockSpan/Program.cs) |✔️|
 |902 | []()|  |  |:heavy_minus_sign: |
 |903 | []()|  |  |:heavy_minus_sign: |
