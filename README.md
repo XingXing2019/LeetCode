@@ -804,7 +804,7 @@ LeetCode Algorithms with C# and Java
 |800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20800%20-%20SimilarRGBColor/SimilarRGBColor/SimilarRGBColor/Program.cs) |✔️|
 |801 | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)| Hard |  |:heavy_minus_sign: |
 |802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%20802%20-%20FindEventualSafeStates/FindEventualSafeStates/FindEventualSafeStates/Program.cs) |✔️|
-|803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)| Hard | [C#](), [Java]() |✔️|
+|803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/)| Hard | |  |:heavy_minus_sign: |
 |804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20804%20-%20UniqueMorseCodeWords/UniqueMorseCodeWords/UniqueMorseCodeWords/Program.cs) |✔️|
 |805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)| Hard |  |:heavy_minus_sign: |
 |806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20806%20-%20NumberOfLinesToWriteString/NumberOfLinesToWriteString/NumberOfLinesToWriteString/Program.cs) |✔️|
