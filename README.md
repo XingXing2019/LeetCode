@@ -1128,7 +1128,7 @@ LeetCode Algorithms with C# and Java
 |1124 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201124%20-%20LongestWellPerformingInterval/LongestWellPerformingInterval/LongestWellPerformingInterval/Program.cs) |✔️|
 |1125 | []()|  |  |:heavy_minus_sign: |
 |1126 | []()|  | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201126%20-%20ActiveBusinesses/ActiveBusinesses_SQLServer.sql) |✔️|
-|1127 | []()|  | [MySQL](), [SQLServer]() |✔️|
+|1127 | []()|  |  |:heavy_minus_sign: |
 |1128 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201128%20-%20NumberOfEquivalentDominoPairs/NumberOfEquivalentDominoPairs/NumberOfEquivalentDominoPairs/Program.cs) |✔️|
 |1129 | []()|  |  |:heavy_minus_sign: |
 |1130 | []()|  |  |:heavy_minus_sign: |
