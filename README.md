@@ -1093,12 +1093,12 @@ LeetCode Algorithms with C# and Java
 |1089 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201089%20-%20DuplicateZeros/DuplicateZeros/DuplicateZeros/Program.cs) |✔️|
 |1090 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%201090%20-%20LargestValuesFromLabels/LargestValuesFromLabels/LargestValuesFromLabels/Program.cs) |✔️|
 |1091 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201091%20-%20ShortestPathInBinaryMatrix/ShortestPathInBinaryMatrix_C%23/ShortestPathInBinaryMatrix/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201091%20-%20ShortestPathInBinaryMatrix/ShortestPathInBinaryMatrix_Java/src/com/company/Main.java) |✔️|
-|1092 | []()|  | [C#](), [Java]() |✔️|
+|1092 | []()|  |  |:heavy_minus_sign: |
 |1093 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201093%20-%20StatisticsFromALargeSample/StatisticsFromALargeSample/StatisticsFromALargeSample/Program.cs) |✔️|
 |1094 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201094%20-%20CarPooling/CarPooling/CarPooling/Program.cs) |✔️|
 |1095 | []()|  |  |:heavy_minus_sign: |
 |1096 | []()|  |  |:heavy_minus_sign: |
-|1097 | []()|  | [MySQL](), [SQLServer]() |✔️|
+|1097 | []()|  |  |:heavy_minus_sign: |
 |1098 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201098%20-%20UnpopularBooks/UnpopularBooks_MySQl.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201098%20-%20UnpopularBooks/UnpopularBooks_SQLServer.sql) |✔️|
 |1099 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201099%20-%20TwoSumLessThanK/TwoSumLessThanK/TwoSumLessThanK/Program.cs) |✔️|
 |1100 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%201100%20-%20FindKLengthSubstringsWithNoRepeatedCharacters/FindKLengthSubstrings/FindKLengthSubstrings/Program.cs) |✔️|
