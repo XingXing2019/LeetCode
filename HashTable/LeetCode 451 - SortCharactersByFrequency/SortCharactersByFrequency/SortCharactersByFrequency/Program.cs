@@ -46,5 +46,14 @@ namespace SortCharactersByFrequency
             }
             return string.Join("", dict.OrderByDescending(d => d.Value.Length).Select(c => c.Value));
         }
+
+        public string FrequencySort_Linq(string s)
+        {
+	        var dict = s.GroupBy(x => x).OrderByDescending(x => x.Count()).ToDictionary(x => x.Key, x => x.Count());
+	        var res = new StringBuilder();
+	        foreach (var item in dict)
+		        res.Append(new string(item.Key, item.Value));
+	        return res.ToString();
+        }
     }
 }
