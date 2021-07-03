@@ -1210,12 +1210,12 @@ LeetCode Algorithms with C# and Java
 |1206 | []()|  | [C#](), [Java]() |✔️|
 |1207 | []()|  | [C#](), [Java]() |✔️|
 |1208 | []()|  | [C#](), [Java]() |✔️|
-|1209 | []()|  | [C#](), [Java]() |✔️|
+|1209 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%201209%20-%20RemoveAllAdjacentDuplicatesInStringII/RemoveAllAdjacentDuplicatesInStringII_C%23/RemoveAllAdjacentDuplicatesInStringII/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%201209%20-%20RemoveAllAdjacentDuplicatesInStringII/RemoveAllAdjacentDuplicatesInStringII_Java/src/com/company/Main.java) |✔️|
 |1210 | []()|  | [C#](), [Java]() |✔️|
 |1211 | []()|  | [C#](), [Java]() |✔️|
 |1212 | []()|  | [C#](), [Java]() |✔️|
 |1213 | []()|  | [C#](), [Java]() |✔️|
-|1214 | []()|  | [C#](), [Java]() |✔️|
+|1214 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201214%20-%20TwoSumBSTs/TwoSumBSTs/TwoSumBSTs/Program.cs) |✔️|
 |1215 | []()|  | [C#](), [Java]() |✔️|
 |1216 | []()|  | [C#](), [Java]() |✔️|
 |1217 | []()|  | [C#](), [Java]() |✔️|
@@ -1230,14 +1230,14 @@ LeetCode Algorithms with C# and Java
 |1226 | []()|  | [C#](), [Java]() |✔️|
 |1227 | []()|  | [C#](), [Java]() |✔️|
 |1228 | []()|  | [C#](), [Java]() |✔️|
-|1229 | []()|  | [C#](), [Java]() |✔️|
+|1229 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%201229%20-%20MeetingScheduler/MeetingScheduler_C%23/MeetingScheduler/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%201229%20-%20MeetingScheduler/MeetingScheduler_Java/src/com/company/Main.java) |✔️|
 |1230 | []()|  | [C#](), [Java]() |✔️|
 |1231 | []()|  | [C#](), [Java]() |✔️|
 |1232 | []()|  | [C#](), [Java]() |✔️|
-|1233 | []()|  | [C#](), [Java]() |✔️|
-|1234 | []()|  | [C#](), [Java]() |✔️|
+|1233 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201233%20-%20RemoveSub-FoldersFromTheFilesystem/RemoveSub-FoldersFromTheFilesystem/RemoveSub-FoldersFromTheFilesystem/Program.cs) |✔️|
+|1234 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201234%20-%20ReplaceTheSubstringForBalancedString/ReplaceTheSubstringForBalancedString/ReplaceTheSubstringForBalancedString/Program.cs) |✔️|
 |1235 | []()|  | [C#](), [Java]() |✔️|
-|1236 | []()|  | [C#](), [Java]() |✔️|
+|1236 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201236%20-%20WebCrawler/WebCrawler/WebCrawler/Program.cs) |✔️|
 |1237 | []()|  | [C#](), [Java]() |✔️|
 |1238 | []()|  | [C#](), [Java]() |✔️|
 |1239 | []()|  | [C#](), [Java]() |✔️|
@@ -1246,30 +1246,30 @@ LeetCode Algorithms with C# and Java
 |1242 | []()|  | [C#](), [Java]() |✔️|
 |1243 | []()|  | [C#](), [Java]() |✔️|
 |1244 | []()|  | [C#](), [Java]() |✔️|
-|1245 | []()|  | [C#](), [Java]() |✔️|
+|1245 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201245%20-%20TreeDiameter/TreeDiameter/TreeDiameter/Program.cs) |✔️|
 |1246 | []()|  | [C#](), [Java]() |✔️|
-|1247 | []()|  | [C#](), [Java]() |✔️|
-|1248 | []()|  | [C#](), [Java]() |✔️|
-|1249 | []()|  | [C#](), [Java]() |✔️|
+|1247 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201247%20-%20MinimumSwapsToMakeStringsEqual/MinimumSwapsToMakeStringsEqual/MinimumSwapsToMakeStringsEqual/Program.cs) |✔️|
+|1248 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%201248%20-%20CountNumberOfNiceSubarrays/CountNumberOfNiceSubarrays/CountNumberOfNiceSubarrays/Program.cs) |✔️|
+|1249 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%201249%20-%20MinimumRemoveToMakeValidParentheses/MinimumRemoveToMakeValidParentheses_C%23/MinimumRemoveToMakeValidParentheses/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%201249%20-%20MinimumRemoveToMakeValidParentheses/MinimumRemoveToMakeValidParentheses_Java/src/com/company/Main.java) |✔️|
 |1250 | []()|  | [C#](), [Java]() |✔️|
 |1251 | []()|  | [C#](), [Java]() |✔️|
 |1252 | []()|  | [C#](), [Java]() |✔️|
 |1253 | []()|  | [C#](), [Java]() |✔️|
-|1254 | []()|  | [C#](), [Java]() |✔️|
+|1254 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201254%20-%20NumberOfClosedIslands/NumberOfClosedIslands/NumberOfClosedIslands/Program.cs) |✔️|
 |1255 | []()|  | [C#](), [Java]() |✔️|
 |1256 | []()|  | [C#](), [Java]() |✔️|
-|1257 | []()|  | [C#](), [Java]() |✔️|
+|1257 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201257%20-%20SmallestCommonRegion/SmallestCommonRegion/SmallestCommonRegion/Program.cs) |✔️|
 |1258 | []()|  | [C#](), [Java]() |✔️|
 |1259 | []()|  | [C#](), [Java]() |✔️|
 |1260 | []()|  | [C#](), [Java]() |✔️|
-|1261 | []()|  | [C#](), [Java]() |✔️|
+|1261 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201261%20-%20FindElementsInAContaminatedBinaryTree/FindElementsInAContaminatedBinaryTree_C%23/FindElementsInAContaminatedBinaryTree/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201261%20-%20FindElementsInAContaminatedBinaryTree/FindElementsInAContaminatedBinaryTree_Java/src/com/company/Main.java) |✔️|
 |1262 | []()|  | [C#](), [Java]() |✔️|
 |1263 | []()|  | [C#](), [Java]() |✔️|
 |1264 | []()|  | [C#](), [Java]() |✔️|
 |1265 | []()|  | [C#](), [Java]() |✔️|
 |1266 | []()|  | [C#](), [Java]() |✔️|
 |1267 | []()|  | [C#](), [Java]() |✔️|
-|1268 | []()|  | [C#](), [Java]() |✔️|
+|1268 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201268%20-%20SearchSuggestionsSystem/SearchSuggestionsSystem_C%23/SearchSuggestionsSystem/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201268%20-%20SearchSuggestionsSystem/SearchSuggestionsSystem_Java/src/com/company/Main.java) |✔️|
 |1269 | []()|  | [C#](), [Java]() |✔️|
 |1270 | []()|  | [C#](), [Java]() |✔️|
 |1271 | []()|  | [C#](), [Java]() |✔️|
@@ -1303,37 +1303,37 @@ LeetCode Algorithms with C# and Java
 |1299 | []()|  | [C#](), [Java]() |✔️|
 |1300 | []()|  | [C#](), [Java]() |✔️|
 |1301 | []()|  | [C#](), [Java]() |✔️|
-|1302 | []()|  | [C#](), [Java]() |✔️|
+|1302 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201302%20-%20DeepestLeavesSum/DeepestLeavesSum_C%23/DeepestLeavesSum/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201302%20-%20DeepestLeavesSum/DeepestLeavesSum_Java/src/com/company/Main.java) |✔️|
 |1303 | []()|  | [C#](), [Java]() |✔️|
 |1304 | []()|  | [C#](), [Java]() |✔️|
-|1305 | []()|  | [C#](), [Java]() |✔️|
+|1305 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201305%20-%20AllElementsInTwoBinarySearchTrees/AllElementsInTwoBinarySearchTrees_C%23/AllElementsInTwoBinarySearchTrees/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201305%20-%20AllElementsInTwoBinarySearchTrees/AllElementsInTwoBinarySearchTrees_Java/src/com/company/Main.java) |✔️|
 |1306 | []()|  | [C#](), [Java]() |✔️|
 |1307 | []()|  | [C#](), [Java]() |✔️|
 |1308 | []()|  | [C#](), [Java]() |✔️|
-|1309 | []()|  | [C#](), [Java]() |✔️|
+|1309 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201309%20-%20DecryptStringFromAlphabetToIntegerMapping/DecryptStringFromAlphabet/DecryptStringFromAlphabet/Program.cs) |✔️|
 |1310 | []()|  | [C#](), [Java]() |✔️|
-|1311 | []()|  | [C#](), [Java]() |✔️|
+|1311 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201311%20-%20GetWatchedVideosByYourFriends/GetWatchedVideosByYourFriends/GetWatchedVideosByYourFriends/Program.cs) |✔️|
 |1312 | []()|  | [C#](), [Java]() |✔️|
 |1313 | []()|  | [C#](), [Java]() |✔️|
 |1314 | []()|  | [C#](), [Java]() |✔️|
-|1315 | []()|  | [C#](), [Java]() |✔️|
+|1315 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201315%20-%20SumOfNodesWithEvenValuedGrandparent/SumOfNodesWithEvenValuedGrandparent_C%23/SumOfNodesWithEvenValuedGrandparent/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201315%20-%20SumOfNodesWithEvenValuedGrandparent/SumOfNodesWithEvenValuedGrandparent_Java/src/com/company/Main.java) |✔️|
 |1316 | []()|  | [C#](), [Java]() |✔️|
 |1317 | []()|  | [C#](), [Java]() |✔️|
 |1318 | []()|  | [C#](), [Java]() |✔️|
-|1319 | []()|  | [C#](), [Java]() |✔️|
+|1319 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%201319%20-%20NumberOfOperationsToMakeNetworkConnected/NumberOfOperationsToMakeNetworkConnected/NumberOfOperationsToMakeNetworkConnected/Program.cs) |✔️|
 |1320 | []()|  | [C#](), [Java]() |✔️|
 |1321 | []()|  | [C#](), [Java]() |✔️|
 |1322 | []()|  | [C#](), [Java]() |✔️|
 |1323 | []()|  | [C#](), [Java]() |✔️|
-|1324 | []()|  | [C#](), [Java]() |✔️|
-|1325 | []()|  | [C#](), [Java]() |✔️|
+|1324 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201324%20-%20PrintWordsVertically/PrintWordsVertically/PrintWordsVertically/Program.cs) |✔️|
+|1325 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201325%20-%20DeleteLeavesWithAGivenValue/DeleteLeavesWithAGivenValue_C%23/DeleteLeavesWithAGivenValue/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201325%20-%20DeleteLeavesWithAGivenValue/DeleteLeavesWithAGivenValue_Java/src/com/company/Main.java) |✔️|
 |1326 | []()|  | [C#](), [Java]() |✔️|
 |1327 | []()|  | [C#](), [Java]() |✔️|
-|1328 | []()|  | [C#](), [Java]() |✔️|
+|1328 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201328%20-%20BreakAPalindrome/BreakAPalindrome/BreakAPalindrome/Program.cs) |✔️|
 |1329 | []()|  | [C#](), [Java]() |✔️|
 |1330 | []()|  | [C#](), [Java]() |✔️|
 |1331 | []()|  | [C#](), [Java]() |✔️|
-|1332 | []()|  | [C#](), [Java]() |✔️|
+|1332 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201332%20-%20RemovePalindromicSubsequences/RemovePalindromicSubsequences_C%23/RemovePalindromicSubsequences/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201332%20-%20RemovePalindromicSubsequences/RemovePalindromicSubsequences_Java/src/com/company/Main.java) |✔️|
 |1333 | []()|  | [C#](), [Java]() |✔️|
 |1334 | []()|  | [C#](), [Java]() |✔️|
 |1335 | []()|  | [C#](), [Java]() |✔️|
@@ -1346,9 +1346,9 @@ LeetCode Algorithms with C# and Java
 |1342 | []()|  | [C#](), [Java]() |✔️|
 |1343 | []()|  | [C#](), [Java]() |✔️|
 |1344 | []()|  | [C#](), [Java]() |✔️|
-|1345 | []()|  | [C#](), [Java]() |✔️|
+|1345 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201345%20-%20JumpGameIV/JumpGameIV/JumpGameIV/Program.cs) |✔️|
 |1346 | []()|  | [C#](), [Java]() |✔️|
-|1347 | []()|  | [C#](), [Java]() |✔️|
+|1347 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201347%20-%20MinimumNumberOfStepsToMakeTwoStringsAnagram/MinimumNumberOfSteps/MinimumNumberOfSteps/Program.cs) |✔️|
 |1348 | []()|  | [C#](), [Java]() |✔️|
 |1349 | []()|  | [C#](), [Java]() |✔️|
 |1350 | []()|  | [C#](), [Java]() |✔️|
@@ -1359,7 +1359,7 @@ LeetCode Algorithms with C# and Java
 |1355 | []()|  | [C#](), [Java]() |✔️|
 |1356 | []()|  | [C#](), [Java]() |✔️|
 |1357 | []()|  | [C#](), [Java]() |✔️|
-|1358 | []()|  | [C#](), [Java]() |✔️|
+|1358 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201358%20-%20NumberofSubstringsContainingAllThreeCharacters/NumberofSubstrings/NumberofSubstrings/Program.cs) |✔️|
 |1359 | []()|  | [C#](), [Java]() |✔️|
 |1360 | []()|  | [C#](), [Java]() |✔️|
 |1361 | []()|  | [C#](), [Java]() |✔️|
@@ -1367,23 +1367,23 @@ LeetCode Algorithms with C# and Java
 |1363 | []()|  | [C#](), [Java]() |✔️|
 |1364 | []()|  | [C#](), [Java]() |✔️|
 |1365 | []()|  | [C#](), [Java]() |✔️|
-|1366 | []()|  | [C#](), [Java]() |✔️|
+|1366 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201366%20-%20RankTeamsByVotes/RankTeamsByVotes/RankTeamsByVotes/Program.cs) |✔️|
 |1367 | []()|  | [C#](), [Java]() |✔️|
 |1368 | []()|  | [C#](), [Java]() |✔️|
 |1369 | []()|  | [C#](), [Java]() |✔️|
-|1370 | []()|  | [C#](), [Java]() |✔️|
-|1371 | []()|  | [C#](), [Java]() |✔️|
-|1372 | []()|  | [C#](), [Java]() |✔️|
+|1370 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201370%20-%20IncreasingDecreasingString/IncreasingDecreasingString/IncreasingDecreasingString/Program.cs) |✔️|
+|1371 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201371%20-%20FindTheLongestSubstringContainingVowelsInEvenCounts/FindTheLongestSubstring/FindTheLongestSubstring/Program.cs) |✔️|
+|1372 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201372%20-%20LongestZigZagPathInABinaryTree/LongestZigZagPathInABinaryTree/LongestZigZagPathInABinaryTree/Program.cs) |✔️|
 |1373 | []()|  | [C#](), [Java]() |✔️|
-|1374 | []()|  | [C#](), [Java]() |✔️|
+|1374 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201374%20-%20GenerateAStringWithCharactersThatHaveOddCounts/GenerateAString_C%23/GenerateAString/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201374%20-%20GenerateAStringWithCharactersThatHaveOddCounts/GenerateAString_Java/src/com/company/Main.java) |✔️|
 |1375 | []()|  | [C#](), [Java]() |✔️|
 |1376 | []()|  | [C#](), [Java]() |✔️|
 |1377 | []()|  | [C#](), [Java]() |✔️|
 |1378 | []()|  | [C#](), [Java]() |✔️|
-|1379 | []()|  | [C#](), [Java]() |✔️|
+|1379 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201379%20-%20FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree/FindACorrespondingNode_C%23/FindACorrespondingNode/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201379%20-%20FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree/FindACorrespondingNode_Java/src/com/company/Main.java) |✔️|
 |1380 | []()|  | [C#](), [Java]() |✔️|
 |1381 | []()|  | [C#](), [Java]() |✔️|
-|1382 | []()|  | [C#](), [Java]() |✔️|
+|1382 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201382%20-%20BalanceABinarySearchTree/BalanceABinarySearchTree/BalanceABinarySearchTree/Program.cs) |✔️|
 |1383 | []()|  | [C#](), [Java]() |✔️|
 |1384 | []()|  | [C#](), [Java]() |✔️|
 |1385 | []()|  | [C#](), [Java]() |✔️|
