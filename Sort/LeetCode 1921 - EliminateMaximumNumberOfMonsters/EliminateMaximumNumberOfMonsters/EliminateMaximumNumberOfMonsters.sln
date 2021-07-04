@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliminateMaximumNumberOfMonsters", "EliminateMaximumNumberOfMonsters\EliminateMaximumNumberOfMonsters.csproj", "{D58330A8-C6A3-4D6C-AA8C-C0BAE3B6E9DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58330A8-C6A3-4D6C-AA8C-C0BAE3B6E9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58330A8-C6A3-4D6C-AA8C-C0BAE3B6E9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58330A8-C6A3-4D6C-AA8C-C0BAE3B6E9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58330A8-C6A3-4D6C-AA8C-C0BAE3B6E9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53C935A-2A01-4768-BAC5-A89D3F6A64F8}
+	EndGlobalSection
+EndGlobal
