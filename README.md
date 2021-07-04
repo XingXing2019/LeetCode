@@ -1550,7 +1550,7 @@ LeetCode Algorithms with C# and Java
 |1546 | []()|  |  |:heavy_minus_sign: |
 |1547 | []()|  |  |:heavy_minus_sign: |
 |1548 | []()|  |  |:heavy_minus_sign: |
-|1549 | []()|  | [MySQL](), [SQLServer]() |✔️|
+|1549 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201549%20-%20TheMostRecentOrdersForEachProduct/TheMostRecentOrdersForEachProduct_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201549%20-%20TheMostRecentOrdersForEachProduct/TheMostRecentOrdersForEachProduct_SQLServer.sql) |✔️|
 |1550 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201550%20-%20ThreeConsecutiveOdds/ThreeConsecutiveOdds/ThreeConsecutiveOdds/Program.cs) |✔️|
 |1551 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201551%20-%20MinimumOperationsToMakeArrayEqual/MinimumOperationsToMakeArrayEqual_C%23/MinimumOperationsToMakeArrayEqual/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201551%20-%20MinimumOperationsToMakeArrayEqual/MinimumOperationsToMakeArrayEqual_Java/src/com/company/Main.java) |✔️|
 |1552 | []()|  |  |:heavy_minus_sign: |
