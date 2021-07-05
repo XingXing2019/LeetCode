@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateBinaryTreeNodes", "ValidateBinaryTreeNodes\ValidateBinaryTreeNodes.csproj", "{BE0B0ED1-41B6-4401-8AC9-6D6AD589967E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0B0ED1-41B6-4401-8AC9-6D6AD589967E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0B0ED1-41B6-4401-8AC9-6D6AD589967E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0B0ED1-41B6-4401-8AC9-6D6AD589967E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0B0ED1-41B6-4401-8AC9-6D6AD589967E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3D9ABA7-5EE7-4658-8E22-AE9E3C0D1B9F}
+	EndGlobalSection
+EndGlobal
