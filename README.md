@@ -1602,206 +1602,206 @@ LeetCode Algorithms with C# and Java
 |1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201598%20-%20CrawlerLogFolder/CrawlerLogFolder/CrawlerLogFolder/Program.cs) |✔️|
 |1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201599%20-%20MaximumProfitOfOperatingACentennialWheel/MaximumProfit/MaximumProfit/Program.cs) |✔️|
 |1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%201600%20-%20ThroneInheritance/ThroneInheritance/ThroneInheritance/Program.cs) |✔️|
-|1601 | []()|  | [C#](), [Java]() |✔️|
-|1602 | []()|  | [C#](), [Java]() |✔️|
-|1603 | []()|  | [C#](), [Java]() |✔️|
-|1604 | []()|  | [C#](), [Java]() |✔️|
-|1605 | []()|  | [C#](), [Java]() |✔️|
-|1606 | []()|  | [C#](), [Java]() |✔️|
-|1607 | []()|  | [C#](), [Java]() |✔️|
-|1608 | []()|  | [C#](), [Java]() |✔️|
-|1609 | []()|  | [C#](), [Java]() |✔️|
-|1610 | []()|  | [C#](), [Java]() |✔️|
-|1611 | []()|  | [C#](), [Java]() |✔️|
-|1612 | []()|  | [C#](), [Java]() |✔️|
-|1613 | []()|  | [C#](), [Java]() |✔️|
-|1614 | []()|  | [C#](), [Java]() |✔️|
-|1615 | []()|  | [C#](), [Java]() |✔️|
-|1616 | []()|  | [C#](), [Java]() |✔️|
-|1617 | []()|  | [C#](), [Java]() |✔️|
-|1618 | []()|  | [C#](), [Java]() |✔️|
-|1619 | []()|  | [C#](), [Java]() |✔️|
-|1620 | []()|  | [C#](), [Java]() |✔️|
-|1621 | []()|  | [C#](), [Java]() |✔️|
-|1622 | []()|  | [C#](), [Java]() |✔️|
-|1623 | []()|  | [C#](), [Java]() |✔️|
-|1624 | []()|  | [C#](), [Java]() |✔️|
-|1625 | []()|  | [C#](), [Java]() |✔️|
-|1626 | []()|  | [C#](), [Java]() |✔️|
-|1627 | []()|  | [C#](), [Java]() |✔️|
-|1628 | []()|  | [C#](), [Java]() |✔️|
-|1629 | []()|  | [C#](), [Java]() |✔️|
-|1630 | []()|  | [C#](), [Java]() |✔️|
-|1631 | []()|  | [C#](), [Java]() |✔️|
-|1632 | []()|  | [C#](), [Java]() |✔️|
-|1633 | []()|  | [C#](), [Java]() |✔️|
-|1634 | []()|  | [C#](), [Java]() |✔️|
-|1635 | []()|  | [C#](), [Java]() |✔️|
-|1636 | []()|  | [C#](), [Java]() |✔️|
-|1637 | []()|  | [C#](), [Java]() |✔️|
-|1638 | []()|  | [C#](), [Java]() |✔️|
-|1639 | []()|  | [C#](), [Java]() |✔️|
-|1640 | []()|  | [C#](), [Java]() |✔️|
-|1641 | []()|  | [C#](), [Java]() |✔️|
-|1642 | []()|  | [C#](), [Java]() |✔️|
-|1643 | []()|  | [C#](), [Java]() |✔️|
-|1644 | []()|  | [C#](), [Java]() |✔️|
-|1645 | []()|  | [C#](), [Java]() |✔️|
-|1646 | []()|  | [C#](), [Java]() |✔️|
-|1647 | []()|  | [C#](), [Java]() |✔️|
-|1648 | []()|  | [C#](), [Java]() |✔️|
+|1601 | []()|  |  |:heavy_minus_sign: |
+|1602 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201602%20-%20FindNearestRightNodeInBinaryTree/FindNearestRightNodeInBinaryTree_C%23/FindNearestRightNodeInBinaryTree/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201602%20-%20FindNearestRightNodeInBinaryTree/FindNearestRightNodeInBinaryTree_Java/src/com/company/Main.java) |✔️|
+|1603 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%201603%20-%20DesignParkingSystem/DesignParkingSystem_C%23/DesignParkingSystem/Program.cs) |✔️|
+|1604 | []()|  |  |:heavy_minus_sign: |
+|1605 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201605%20-%20FindValidMatrixGivenRowAndColumnSums/FindValidMatrix/FindValidMatrix/Program.cs) |✔️|
+|1606 | []()|  |  |:heavy_minus_sign: |
+|1607 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201607%20-%20SellersWithNoSales/SellersWithNoSales_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201607%20-%20SellersWithNoSales/SellersWithNoSales_SQLServer.sql) |✔️|
+|1608 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201608%20-%20SpecialArrayWithXElementsGreaterThanOrEqual%20X/SpecialArray/SpecialArray/Program.cs) |✔️|
+|1609 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201609%20-%20EvenOddTree/EvenOddTree/EvenOddTree/Program.cs) |✔️|
+|1610 | []()|  |  |:heavy_minus_sign: |
+|1611 | []()|  |  |:heavy_minus_sign: |
+|1612 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201612%20-%20CheckIfTwoExpressionTreesAreEquivalent/CheckIfTwoExpressionTreesAreEquivalent/CheckIfTwoExpressionTreesAreEquivalent/Program.cs) |✔️|
+|1613 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201613%20-%20FindTheMissingIDs/FindTheMissingIDs_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201613%20-%20FindTheMissingIDs/FindTheMissingIDs_SQLServer.sql) |✔️|
+|1614 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201614%20-%20MaximumNestingDepthOfTheParentheses/MaximumNestingDepth/MaximumNestingDepth/Program.cs) |✔️|
+|1615 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%201615%20-%20MaximalNetworkRank/MaximalNetworkRank/MaximalNetworkRank/Program.cs) |✔️|
+|1616 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201616%20-%20SplitTwoStringsToMakePalindrome/SplitTwoStringsToMakePalindrome/SplitTwoStringsToMakePalindrome/Program.cs) |✔️|
+|1617 | []()|  |  |:heavy_minus_sign: |
+|1618 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%201618%20-%20MaximumFontToFitASentenceInAScreen/MaximumFont/MaximumFont/Program.cs) |✔️|
+|1619 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201619%20-%20MeanOfArrayAfterRemovingSomeElements/MeanOfArray/MeanOfArray/Program.cs) |✔️|
+|1620 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201620%20-%20CoordinateWithMaximumNetworkQuality/CoordinateWithMaximumNetworkQuality/CoordinateWithMaximumNetworkQuality/Program.cs) |✔️|
+|1621 | []()|  |  |:heavy_minus_sign: |
+|1622 | []()|  |  |:heavy_minus_sign: |
+|1623 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201623%20-%20AllValidTripletsThatCanRepresentACountry/AllValidTripletsThatCanRepresentACountry_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201623%20-%20AllValidTripletsThatCanRepresentACountry/AllValidTripletsThatCanRepresentACountry_SQLServer.sql) |✔️|
+|1624 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201624%20-%20LargestSubstringBetweenTwoEqualCharacters/LargestSubstring/LargestSubstring/Program.cs) |✔️|
+|1625 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201625%20-%20LexicographicallySmallestStringAfterApplyingOperations/LexicographicallySmallestString/LexicographicallySmallestString/Program.cs) |✔️|
+|1626 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201626%20-%20BestTeamWithNoConflicts/BestTeamWithNoConflicts/BestTeamWithNoConflicts/Program.cs) |✔️|
+|1627 | []()|  |  |:heavy_minus_sign: |
+|1628 | []()|  |  |:heavy_minus_sign: |
+|1629 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201629%20-%20SlowestKey/SlowestKey/SlowestKey/Program.cs) |✔️|
+|1630 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201630%20-%20ArithmeticSubarrays/ArithmeticSubarrays/ArithmeticSubarrays/Program.cs) |✔️|
+|1631 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%201631%20-%20PathWithMinimumEffort/PathWithMinimumEffort_C%23/PathWithMinimumEffort/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%201631%20-%20PathWithMinimumEffort/PathWithMinimumEffort_Java/src/com/company/Main.java) |✔️|
+|1632 | []()|  |  |:heavy_minus_sign: |
+|1633 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201633%20-%20PercentageOfUsersAttendedAContest/PercentageOfUsersAttendedAContest_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201633%20-%20PercentageOfUsersAttendedAContest/PercentageOfUsersAttendedAContest_SQLServer.sql) |✔️|
+|1634 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%201634%20-%20AddTwoPolynomialsRepresentedAsLinkedLists/AddTwoPolynomials/AddTwoPolynomials/Program.cs) |✔️|
+|1635 | []()|  |  |:heavy_minus_sign: |
+|1636 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201636%20-%20SortArrayByIncreasingFrequency/SortArrayByIncreasingFrequency/SortArrayByIncreasingFrequency/Program.cs) |✔️|
+|1637 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201637%20-%20WidestVerticalAreaBetweenTwoPointsContainingNoPoints/WidestVerticalArea/WidestVerticalArea/Program.cs) |✔️|
+|1638 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%201638%20-%20CountSubstringsThatDifferByOneCharacter/CountSubstrings/CountSubstrings/Program.cs) |✔️|
+|1639 | []()|  |  |:heavy_minus_sign: |
+|1640 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201640%20-%20CheckArrayFormationThroughConcatenation/CheckArray_C%23/CheckArray/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201640%20-%20CheckArrayFormationThroughConcatenation/CheckArray_Java/src/com/company/Main.java) |✔️|
+|1641 | []()|  | [MySQL](), [SQLServer]() |✔️|
+|1642 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%201642%20-%20FurthestBuildingYouCanReach/FurthestBuildingYouCanReach/FurthestBuildingYouCanReach_C%23/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%201642%20-%20FurthestBuildingYouCanReach/FurthestBuildingYouCanReach/FurthestBuildingYouCanReach_Java/src/com/company/Main.java) |✔️|
+|1643 | []()|  |  |:heavy_minus_sign: |
+|1644 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201644%20-%20LowestCommonAncestorOfABinaryTreeII/LowestCommonAncestorOfABinaryTreeII/LowestCommonAncestorOfABinaryTreeII/Program.cs) |✔️|
+|1645 | []()|  |  |:heavy_minus_sign: |
+|1646 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201646%20-%20GetMaximumInGeneratedArray/GetMaximumInGeneratedArray/GetMaximumInGeneratedArray/Program.cs) |✔️|
+|1647 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201647%20-%20MinimumDeletionsToMakeCharacterFrequenciesUnique/MinimumDeletions/MinimumDeletions/Program.cs) |✔️|
+|1648 | []()|  |  |:heavy_minus_sign: |
 |1649 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/SegmentTree/LeetCode%201649%20-%20CreateSortedArraythroughInstructions/CreateSortedArraythroughInstructions/CreateSortedArraythroughInstructions/Program.cs) |✔️|
-|1650 | []()|  | [C#](), [Java]() |✔️|
-|1651 | []()|  | [C#](), [Java]() |✔️|
-|1652 | []()|  | [C#](), [Java]() |✔️|
-|1653 | []()|  | [C#](), [Java]() |✔️|
-|1654 | []()|  | [C#](), [Java]() |✔️|
-|1655 | []()|  | [C#](), [Java]() |✔️|
-|1656 | []()|  | [C#](), [Java]() |✔️|
-|1657 | []()|  | [C#](), [Java]() |✔️|
-|1658 | []()|  | [C#](), [Java]() |✔️|
-|1659 | []()|  | [C#](), [Java]() |✔️|
-|1660 | []()|  | [C#](), [Java]() |✔️|
-|1661 | []()|  | [C#](), [Java]() |✔️|
-|1662 | []()|  | [C#](), [Java]() |✔️|
-|1663 | []()|  | [C#](), [Java]() |✔️|
-|1664 | []()|  | [C#](), [Java]() |✔️|
-|1665 | []()|  | [C#](), [Java]() |✔️|
-|1666 | []()|  | [C#](), [Java]() |✔️|
-|1667 | []()|  | [C#](), [Java]() |✔️|
-|1668 | []()|  | [C#](), [Java]() |✔️|
-|1669 | []()|  | [C#](), [Java]() |✔️|
-|1670 | []()|  | [C#](), [Java]() |✔️|
-|1671 | []()|  | [C#](), [Java]() |✔️|
-|1672 | []()|  | [C#](), [Java]() |✔️|
-|1673 | []()|  | [C#](), [Java]() |✔️|
-|1674 | []()|  | [C#](), [Java]() |✔️|
-|1675 | []()|  | [C#](), [Java]() |✔️|
-|1676 | []()|  | [C#](), [Java]() |✔️|
-|1677 | []()|  | [C#](), [Java]() |✔️|
-|1678 | []()|  | [C#](), [Java]() |✔️|
-|1679 | []()|  | [C#](), [Java]() |✔️|
-|1680 | []()|  | [C#](), [Java]() |✔️|
-|1681 | []()|  | [C#](), [Java]() |✔️|
-|1682 | []()|  | [C#](), [Java]() |✔️|
-|1683 | []()|  | [C#](), [Java]() |✔️|
-|1684 | []()|  | [C#](), [Java]() |✔️|
-|1685 | []()|  | [C#](), [Java]() |✔️|
-|1686 | []()|  | [C#](), [Java]() |✔️|
-|1687 | []()|  | [C#](), [Java]() |✔️|
-|1688 | []()|  | [C#](), [Java]() |✔️|
-|1689 | []()|  | [C#](), [Java]() |✔️|
-|1690 | []()|  | [C#](), [Java]() |✔️|
-|1691 | []()|  | [C#](), [Java]() |✔️|
-|1692 | []()|  | [C#](), [Java]() |✔️|
-|1693 | []()|  | [C#](), [Java]() |✔️|
-|1694 | []()|  | [C#](), [Java]() |✔️|
-|1695 | []()|  | [C#](), [Java]() |✔️|
-|1696 | []()|  | [C#](), [Java]() |✔️|
-|1697 | []()|  | [C#](), [Java]() |✔️|
-|1698 | []()|  | [C#](), [Java]() |✔️|
-|1699 | []()|  | [C#](), [Java]() |✔️|
-|1700 | []()|  | [C#](), [Java]() |✔️|
-|1701 | []()|  | [C#](), [Java]() |✔️|
-|1702 | []()|  | [C#](), [Java]() |✔️|
-|1703 | []()|  | [C#](), [Java]() |✔️|
-|1704 | []()|  | [C#](), [Java]() |✔️|
-|1705 | []()|  | [C#](), [Java]() |✔️|
-|1706 | []()|  | [C#](), [Java]() |✔️|
-|1707 | []()|  | [C#](), [Java]() |✔️|
-|1708 | []()|  | [C#](), [Java]() |✔️|
-|1709 | []()|  | [C#](), [Java]() |✔️|
-|1710 | []()|  | [C#](), [Java]() |✔️|
-|1711 | []()|  | [C#](), [Java]() |✔️|
-|1712 | []()|  | [C#](), [Java]() |✔️|
-|1713 | []()|  | [C#](), [Java]() |✔️|
-|1714 | []()|  | [C#](), [Java]() |✔️|
-|1715 | []()|  | [C#](), [Java]() |✔️|
-|1716 | []()|  | [C#](), [Java]() |✔️|
-|1717 | []()|  | [C#](), [Java]() |✔️|
-|1718 | []()|  | [C#](), [Java]() |✔️|
-|1719 | []()|  | [C#](), [Java]() |✔️|
-|1720 | []()|  | [C#](), [Java]() |✔️|
-|1721 | []()|  | [C#](), [Java]() |✔️|
-|1722 | []()|  | [C#](), [Java]() |✔️|
-|1723 | []()|  | [C#](), [Java]() |✔️|
-|1724 | []()|  | [C#](), [Java]() |✔️|
-|1725 | []()|  | [C#](), [Java]() |✔️|
-|1726 | []()|  | [C#](), [Java]() |✔️|
-|1727 | []()|  | [C#](), [Java]() |✔️|
-|1728 | []()|  | [C#](), [Java]() |✔️|
-|1729 | []()|  | [C#](), [Java]() |✔️|
-|1730 | []()|  | [C#](), [Java]() |✔️|
-|1731 | []()|  | [C#](), [Java]() |✔️|
-|1732 | []()|  | [C#](), [Java]() |✔️|
-|1733 | []()|  | [C#](), [Java]() |✔️|
-|1734 | []()|  | [C#](), [Java]() |✔️|
-|1735 | []()|  | [C#](), [Java]() |✔️|
-|1736 | []()|  | [C#](), [Java]() |✔️|
-|1737 | []()|  | [C#](), [Java]() |✔️|
-|1738 | []()|  | [C#](), [Java]() |✔️|
-|1739 | []()|  | [C#](), [Java]() |✔️|
-|1740 | []()|  | [C#](), [Java]() |✔️|
-|1741 | []()|  | [C#](), [Java]() |✔️|
-|1742 | []()|  | [C#](), [Java]() |✔️|
-|1743 | []()|  | [C#](), [Java]() |✔️|
-|1744 | []()|  | [C#](), [Java]() |✔️|
-|1745 | []()|  | [C#](), [Java]() |✔️|
-|1746 | []()|  | [C#](), [Java]() |✔️|
-|1747 | []()|  | [C#](), [Java]() |✔️|
-|1748 | []()|  | [C#](), [Java]() |✔️|
-|1749 | []()|  | [C#](), [Java]() |✔️|
-|1750 | []()|  | [C#](), [Java]() |✔️|
-|1751 | []()|  | [C#](), [Java]() |✔️|
-|1752 | []()|  | [C#](), [Java]() |✔️|
-|1753 | []()|  | [C#](), [Java]() |✔️|
-|1754 | []()|  | [C#](), [Java]() |✔️|
-|1755 | []()|  | [C#](), [Java]() |✔️|
-|1756 | []()|  | [C#](), [Java]() |✔️|
-|1757 | []()|  | [C#](), [Java]() |✔️|
-|1758 | []()|  | [C#](), [Java]() |✔️|
-|1759 | []()|  | [C#](), [Java]() |✔️|
-|1760 | []()|  | [C#](), [Java]() |✔️|
-|1761 | []()|  | [C#](), [Java]() |✔️|
-|1762 | []()|  | [C#](), [Java]() |✔️|
-|1763 | []()|  | [C#](), [Java]() |✔️|
-|1764 | []()|  | [C#](), [Java]() |✔️|
-|1765 | []()|  | [C#](), [Java]() |✔️|
-|1766 | []()|  | [C#](), [Java]() |✔️|
-|1767 | []()|  | [C#](), [Java]() |✔️|
-|1768 | []()|  | [C#](), [Java]() |✔️|
-|1769 | []()|  | [C#](), [Java]() |✔️|
-|1770 | []()|  | [C#](), [Java]() |✔️|
-|1771 | []()|  | [C#](), [Java]() |✔️|
-|1772 | []()|  | [C#](), [Java]() |✔️|
-|1773 | []()|  | [C#](), [Java]() |✔️|
-|1774 | []()|  | [C#](), [Java]() |✔️|
-|1775 | []()|  | [C#](), [Java]() |✔️|
-|1776 | []()|  | [C#](), [Java]() |✔️|
-|1777 | []()|  | [C#](), [Java]() |✔️|
-|1778 | []()|  | [C#](), [Java]() |✔️|
-|1779 | []()|  | [C#](), [Java]() |✔️|
-|1780 | []()|  | [C#](), [Java]() |✔️|
-|1781 | []()|  | [C#](), [Java]() |✔️|
-|1782 | []()|  | [C#](), [Java]() |✔️|
-|1783 | []()|  | [C#](), [Java]() |✔️|
-|1784 | []()|  | [C#](), [Java]() |✔️|
-|1785 | []()|  | [C#](), [Java]() |✔️|
-|1786 | []()|  | [C#](), [Java]() |✔️|
-|1787 | []()|  | [C#](), [Java]() |✔️|
-|1788 | []()|  | [C#](), [Java]() |✔️|
-|1789 | []()|  | [C#](), [Java]() |✔️|
-|1790 | []()|  | [C#](), [Java]() |✔️|
-|1791 | []()|  | [C#](), [Java]() |✔️|
-|1792 | []()|  | [C#](), [Java]() |✔️|
-|1793 | []()|  | [C#](), [Java]() |✔️|
-|1794 | []()|  | [C#](), [Java]() |✔️|
-|1795 | []()|  | [C#](), [Java]() |✔️|
-|1796 | []()|  | [C#](), [Java]() |✔️|
-|1797 | []()|  | [C#](), [Java]() |✔️|
-|1798 | []()|  | [C#](), [Java]() |✔️|
-|1799 | []()|  | [C#](), [Java]() |✔️|
-|1800 | []()|  | [C#](), [Java]() |✔️|
+|1650 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201650%20-%20LowestCommonAncestorOfABinaryTreeIII/LowestCommonAncestorOfABinaryTreeIII_C%23/LowestCommonAncestorOfABinaryTreeIII/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201650%20-%20LowestCommonAncestorOfABinaryTreeIII/LowestCommonAncestorOfABinaryTreeIII_Java/src/com/company/Main.java) |✔️|
+|1651 | []()|  |  |:heavy_minus_sign: |
+|1652 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201652%20-%20DefuseTheBomb/DefuseTheBomb/DefuseTheBomb/Program.cs) |✔️|
+|1653 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201653%20-%20MinimumDeletionsToMakeStringBalanced/MinimumDeletionsToMakeStringBalanced/MinimumDeletionsToMakeStringBalanced/Program.cs) |✔️|
+|1654 | []()|  |  |:heavy_minus_sign: |
+|1655 | []()|  |  |:heavy_minus_sign: |
+|1656 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%201656%20-%20DesignAnOrderedStream/DesignAnOrderedStream/DesignAnOrderedStream/Program.cs) |✔️|
+|1657 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201657%20-%20DetermineIfTwoStringsAreClose/DetermineIfTwoStringsAreClose_C%23/DetermineIfTwoStringsAreClose/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201657%20-%20DetermineIfTwoStringsAreClose/DetermineIfTwoStringsAreClose_Java/src/com/company/Main.java) |✔️|
+|1658 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%201658%20-%20MinimumOperationsToReduceXToZero/MinimumOperationsToReduceXToZero/MinimumOperationsToReduceXToZero/Program.cs) |✔️|
+|1659 | []()|  |  |:heavy_minus_sign: |
+|1660 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201660%20-%20CorrectABinaryTree/CorrectABinaryTree_C%23/CorrectABinaryTree/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201660%20-%20CorrectABinaryTree/CorrectABinaryTree_Java/src/com/company/Main.java) |✔️|
+|1661 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201661%20-%20AverageTimeOfProcessPerMachine/AverageTimeOfProcessPerMachine_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201661%20-%20AverageTimeOfProcessPerMachine/AverageTimeOfProcessPerMachine_SQLServer.sql) |✔️|
+|1662 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201662%20-%20CheckIfTwoStringArraysAreEquivalent/CheckIfTwoStringArraysAreEquivalent/CheckIfTwoStringArraysAreEquivalent/Program.cs) |✔️|
+|1663 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201663%20-%20SmallestStringWithAGivenNumericValue/SmallestStringWithAGivenNumericValue_C%23/SmallestStringWithAGivenNumericValue/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201663%20-%20SmallestStringWithAGivenNumericValue/SmallestStringWithAGivenNumericValue_Java/src/com/company/Main.java) |✔️|
+|1664 | []()|  |  |:heavy_minus_sign: |
+|1665 | []()|  |  |:heavy_minus_sign: |
+|1666 | []()|  |  |:heavy_minus_sign: |
+|1667 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201667%20-%20FixNamesInATable/FixNamesInATable_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201667%20-%20FixNamesInATable/FixNamesInATable_SQLServer.sql) |✔️|
+|1668 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201668%20-%20MaximumRepeatingSubstring/MaximumRepeatingSubstring/MaximumRepeatingSubstring/Program.cs) |✔️|
+|1669 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%201669%20-%20MergeInBetweenLinkedLists/MergeInBetweenLinkedLists/MergeInBetweenLinkedLists/Program.cs) |✔️|
+|1670 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%201670%20-%20DesignFrontMiddleBackQueue/DesignFrontMiddleBackQueue/DesignFrontMiddleBackQueue/Program.cs) |✔️|
+|1671 | []()|  |  |:heavy_minus_sign: |
+|1672 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201672%20-%20RichestCustomerWealth/RichestCustomerWealth_C%23/RichestCustomerWealth/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201672%20-%20RichestCustomerWealth/RichestCustomerWealth_Java/src/com/company/Main.java) |✔️|
+|1673 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%201673%20-%20FindTheMostCompetitiveSubsequence/FindTheMostCompetitiveSubsequence/FindTheMostCompetitiveSubsequence/Program.cs) |✔️|
+|1674 | []()|  |  |:heavy_minus_sign: |
+|1675 | []()|  | [Java](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%201675%20-%20MinimizeDeviationInArray/MinimizeDeviationInArray_Java/src/com/company/Main.java) |✔️|
+|1676 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201676%20-%20LowestCommonAncestorOfABinaryTreeIV/LowestCommonAncestorOfABinaryTreeIV/LowestCommonAncestorOfABinaryTreeIV/Program.cs) |✔️|
+|1677 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201677%20-%20ProductWorthOverInvoices/ProductWorthOverInvoices_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201677%20-%20ProductWorthOverInvoices/ProductWorthOverInvoices_SQLServer.sql) |✔️|
+|1678 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201678%20-%20GoalParserInterpretation/GoalParserInterpretation/GoalParserInterpretation/Program.cs) |✔️|
+|1679 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%201679%20-%20MaxNumberOfKSumPairs/MaxNumberOfKSumPairs/MaxNumberOfKSumPairs/Program.cs) |✔️|
+|1680 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201680%20-%20ConcatenationOfConsecutiveBinaryNumbers/ConcatenationOfConsecutiveBinaryNumbers/ConcatenationOfConsecutiveBinaryNumbers/Program.cs) |✔️|
+|1681 | []()|  |  |:heavy_minus_sign: |
+|1682 | []()|  |  |:heavy_minus_sign: |
+|1683 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201683%20-%20InvalidTweets/InvalidTweets_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201683%20-%20InvalidTweets/InvalidTweets_SQLServer.sql) |✔️|
+|1684 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201684%20-%20CountTheNumberOfConsistentStrings/CountTheNumberOfConsistentStrings/CountTheNumberOfConsistentStrings/Program.cs) |✔️|
+|1685 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201685%20-%20SumOfAbsoluteDifferencesInASortedArray/SumOfAbsoluteDifferences/SumOfAbsoluteDifferences/Program.cs) |✔️|
+|1686 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201686%20-%20StoneGameVI/StoneGameVI/StoneGameVI/Program.cs) |✔️|
+|1687 | []()|  |  |:heavy_minus_sign: |
+|1688 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201688%20-%20CountOfMatchesInTournament/CountOfMatchesInTournament/CountOfMatchesInTournament/Program.cs) |✔️|
+|1689 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201689%20-%20PartitioningIntoMinimumNumberOfDeciBinaryNumbers/PartitioningIntoMinimumNumber_C%23/PartitioningIntoMinimumNumber/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201689%20-%20PartitioningIntoMinimumNumberOfDeciBinaryNumbers/PartitioningIntoMinimumNumber_Java/src/com/company/Main.java) |✔️|
+|1690 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201690%20-%20StoneGameVII/StoneGameVII/StoneGameVII/Program.cs) |✔️|
+|1691 | []()|  |  |:heavy_minus_sign: |
+|1692 | []()|  |  |:heavy_minus_sign: |
+|1693 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201693%20-%20DailyLeadsAndPartners/DailyLeadsAndPartners_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201693%20-%20DailyLeadsAndPartners/DailyLeadsAndPartners_SQLServer.sql) |✔️|
+|1694 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201694%20-%20ReformatPhoneNumber/ReformatPhoneNumber/ReformatPhoneNumber/Program.cs) |✔️|
+|1695 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%201695%20-%20MaximumErasureValue/MaximumErasureValue_C%23/MaximumErasureValue/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%201695%20-%20MaximumErasureValue/MaximumErasureValue_Java/src/com/company/Main.java) |✔️|
+|1696 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201696%20-%20JumpGameVI/JumpGameVI_C%23/JumpGameVI/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201696%20-%20JumpGameVI/JumpGameVI_Java/src/com/company/Main.java) |✔️|
+|1697 | []()|  |  |:heavy_minus_sign: |
+|1698 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201698%20-%20NumberOfDistinctSubstringsInAString/NumberOfDistinctSubstrings/NumberOfDistinctSubstrings/Program.cs) |✔️|
+|1699 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201699%20-%20NumberOfCallsBetweenTwoPersons/NumberOfCallsBetweenTwoPersons_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201699%20-%20NumberOfCallsBetweenTwoPersons/NumberOfCallsBetweenTwoPersons_SQLServer.sql) |✔️|
+|1700 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Queue/LeetCode%201700%20-%20NumberOfStudentsUnableToEatLunch/NumberOfStudentsUnableToEatLunch/NumberOfStudentsUnableToEatLunch/Program.cs) |✔️|
+|1701 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201701%20-%20AverageWaitingTime/AverageWaitingTime_C%23/AverageWaitingTime/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201701%20-%20AverageWaitingTime/AverageWaitingTime_Java/src/com/company/Main.java) |✔️|
+|1702 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201702%20-%20MaximumBinaryStringAfterChange/MaximumBinaryStringAfterChange/MaximumBinaryStringAfterChange/Program.cs) |✔️|
+|1703 | []()|  |  |:heavy_minus_sign: |
+|1704 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201704%20-%20DetermineIfStringHalvesAreAlike/DetermineIfStringHalvesAreAlike_C%23/DetermineIfStringHalvesAreAlike/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201704%20-%20DetermineIfStringHalvesAreAlike/DetermineIfStringHalvesAreAlike_Java/src/com/company/Main.java) |✔️|
+|1705 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201705%20-%20MaximumNumberOfEatenApples/MaximumNumberOfEatenApples/MaximumNumberOfEatenApples/Program.cs) |✔️|
+|1706 | []()|  |  |:heavy_minus_sign: |
+|1707 | []()|  |  |:heavy_minus_sign: |
+|1708 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201708%20-%20LargestSubarrayLengthK/LargestSubarrayLengthK/LargestSubarrayLengthK/Program.cs) |✔️|
+|1709 | []()|  | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201709%20-%20BiggestWindowBetweenVisits/BiggestWindowBetweenVisits_SQLServer.sql) |✔️|
+|1710 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201710%20-%20MaximumUnitsOnATruck/MaximumUnitsOnATruck_C%23/MaximumUnitsOnATruck/Program.cs) |✔️|
+|1711 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201711%20-%20CountGoodMeals/CountGoodMeals/CountGoodMeals/Program.cs) |✔️|
+|1712 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%201712%20-%20WaysToSplitArrayIntoThreeSubarrays/WaysToSplitArrayIntoThreeSubarrays/WaysToSplitArrayIntoThreeSubarrays/Program.cs) |✔️|
+|1713 | []()|  |  |:heavy_minus_sign: |
+|1714 | []()|  |  |:heavy_minus_sign: |
+|1715 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201715%20-%20CountApplesAndOranges/CountApplesAndOranges_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201715%20-%20CountApplesAndOranges/CountApplesAndOranges_SQLServer.sql) |✔️|
+|1716 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201716%20-%20CalculateMoneyInLeetcodeBank/CalculateMoneyInLeetcodeBank/CalculateMoneyInLeetcodeBank/Program.cs) |✔️|
+|1717 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201717%20-%20MaximumScoreFromRemovingSubstrings/MaximumScoreFromRemovingSubstrings/MaximumScoreFromRemovingSubstrings/Program.cs) |✔️|
+|1718 | []()|  |  |:heavy_minus_sign: |
+|1719 | []()|  |  |:heavy_minus_sign: |
+|1720 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%201720%20-%20DecodeXORedArray/DecodeXORedArray_C%23/DecodeXORedArray/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%201720%20-%20DecodeXORedArray/DecodeXORedArray_Java/src/com/company/Main.java) |✔️|
+|1721 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%201721%20-%20SwappingNodesInALinkedList/SwappingNodesInALinkedList_C%23/SwappingNodesInALinkedList/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%201721%20-%20SwappingNodesInALinkedList/SwappingNodesInALinkedList_Java/src/com/company/Main.java) |✔️|
+|1722 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%201722%20-%20MinimizeHammingDistanceAfterSwapOperations/MinimizeHammingDistance/MinimizeHammingDistance/Program.cs) |✔️|
+|1723 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201723%20-%20FindMinimumTimeToFinishAllJobs/FindMinimumTimeToFinishAllJobs/FindMinimumTimeToFinishAllJobs/Program.cs) |✔️|
+|1724 | []()|  |  |:heavy_minus_sign: |
+|1725 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201725%20-%20NumberOfRectanglesThatCanFormTheLargestSquare/NumberOfRectangles/NumberOfRectangles/Program.cs) |✔️|
+|1726 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201726%20-%20TupleWithSameProduct/TupleWithSameProduct/TupleWithSameProduct/Program.cs) |✔️|
+|1727 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201727%20-%20LargestSubmatrixWithRearrangements/LargestSubmatrixWithRearrangements/LargestSubmatrixWithRearrangements/Program.cs) |✔️|
+|1728 | []()|  |  |:heavy_minus_sign: |
+|1729 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201729%20-%20FindFollowersCount/FindFollowersCount_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201729%20-%20FindFollowersCount/FindFollowersCount_SQLServer.sql) |✔️|
+|1730 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201730%20-%20ShortestPathToGetFood/ShortestPathToGetFood/ShortestPathToGetFood/Program.cs) |✔️|
+|1731 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201731%20-%20TheNumberOfEmployeesWhichReportToEachEmployee/TheNumberOfEmployeesWhichReportToEachEmployee_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201731%20-%20TheNumberOfEmployeesWhichReportToEachEmployee/TheNumberOfEmployeesWhichReportToEachEmployee_SQLServer.sql) |✔️|
+|1732 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201732%20-%20FindTheHighestAltitude/FindTheHighestAltitude/FindTheHighestAltitude/Program.cs) |✔️|
+|1733 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201733%20-%20MinimumNumberOfPeopleToTeach/MinimumNumberOfPeopleToTeach_C%23/MinimumNumberOfPeopleToTeach/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201733%20-%20MinimumNumberOfPeopleToTeach/MinimumNumberOfPeopleToTeach_Java/src/com/company/Main.java) |✔️|
+|1734 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%201734%20-%20DecodeXORedPermutation/DecodeXORedPermutation_C%23/DecodeXORedPermutation/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%201734%20-%20DecodeXORedPermutation/DecodeXORedPermutation_Java/src/com/company/Main.java) |✔️|
+|1735 | []()|  |  |:heavy_minus_sign: |
+|1736 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201736%20-%20LatestTimeByReplacingHiddenDigits/LatestTimeByReplacingHiddenDigits/LatestTimeByReplacingHiddenDigits/Program.cs) |✔️|
+|1737 | []()|  |  |:part_alternation_mark:|
+|1738 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201738%20-%20FindKthLargestXORCoordinateValue/FindKthLargestXORCoordinateValue/FindKthLargestXORCoordinateValue/Program.cs) |✔️|
+|1739 | []()|  |  |:heavy_minus_sign: |
+|1740 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201740%20-%20FindDistanceInABinaryTree/FindDistanceInABinaryTree_C%23/FindDistanceInABinaryTree/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%201740%20-%20FindDistanceInABinaryTree/FindDistanceInABinaryTree_Java/src/com/company/Main.java) |✔️|
+|1741 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201741%20-%20FindTotalTimeSpentByEachEmployee/FindTotalTimeSpentByEachEmployee_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201741%20-%20FindTotalTimeSpentByEachEmployee/FindTotalTimeSpentByEachEmployee_SQLServer.sql) |✔️|
+|1742 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201742%20-%20MaximumNumberOfBallsInABox/MaximumNumberOfBallsInABox/MaximumNumberOfBallsInABox/Program.cs) |✔️|
+|1743 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201743%20-%20RestoreTheArrayFromAdjacentPairs/RestoreTheArrayFromAdjacentPairs_C%23/RestoreTheArrayFromAdjacentPairs/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201743%20-%20RestoreTheArrayFromAdjacentPairs/RestoreTheArrayFromAdjacentPairs_Java/src/com/company/Main.java) |✔️|
+|1744 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201744%20-%20CanYouEatYourFavoriteCandyOnYourFavoriteDay/CanYouEat_C%23/CanYouEat/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201744%20-%20CanYouEatYourFavoriteCandyOnYourFavoriteDay/CanYouEat_Java/src/com/company/Main.java) |✔️|
+|1745 | []()|  |  |:heavy_minus_sign: |
+|1746 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201746%20-%20MaximumSubarraySumAfterOneOperation/MaximumSubarraySum/MaximumSubarraySum/Program.cs) |✔️|
+|1747 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201747%20-%20LeetflexBannedAccounts/LeetflexBannedAccounts_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201747%20-%20LeetflexBannedAccounts/LeetflexBannedAccounts_SQLServer.sql) |✔️|
+|1748 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201748%20-%20SumOfUniqueElements/SumOfUniqueElements/SumOfUniqueElements/Program.cs) |✔️|
+|1749 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201749%20-%20MaximumAbsoluteSumOfAnySubarray/MaximumAbsoluteSumOfAnySubarray/MaximumAbsoluteSumOfAnySubarray/Program.cs) |✔️|
+|1750 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%201750%20-%20MinimumLengthOfStringAfterDeletingSimilarEnds/MinimumLengthOfString/MinimumLengthOfString/Program.cs) |✔️|
+|1751 | []()|  |  |:heavy_minus_sign: |
+|1752 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201752%20-%20CheckIfArrayIsSortedAndRotated/CheckIfArrayIsSortedAndRotated/CheckIfArrayIsSortedAndRotated/Program.cs) |✔️|
+|1753 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%201753%20-%20MaximumScoreFromRemovingStones/MaximumScoreFromRemovingStones/MaximumScoreFromRemovingStones/Program.cs) |✔️|
+|1754 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201754%20-%20LargestMergeOfTwoStrings/LargestMergeOfTwoStrings/LargestMergeOfTwoStrings/Program.cs) |✔️|
+|1755 | []()|  |  |:heavy_minus_sign: |
+|1756 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201756%20-%20DesignMostRecentlyUsedQueue/DesignMostRecentlyUsedQueue/DesignMostRecentlyUsedQueue/Program.cs) |✔️|
+|1757 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201757%20-%20RecyclableAndLowFatProducts/RecyclableAndLowFatProducts_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201757%20-%20RecyclableAndLowFatProducts/RecyclableAndLowFatProducts_SQLServer.sql) |✔️|
+|1758 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201758%20-%20MinimumChangesToMakeAlternatingBinaryString/MinimumChanges/MinimumChanges/Program.cs) |✔️|
+|1759 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201759%20-%20CountNumberOfHomogenousSubstrings/CountNumberOfHomogenousSubstrings/CountNumberOfHomogenousSubstrings/Program.cs) |✔️|
+|1760 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%201760%20-%20MinimumLimitOfBallsInABag/MinimumLimitOfBallsInABag/MinimumLimitOfBallsInABag/Program.cs) |✔️|
+|1761 | []()|  |  |:heavy_minus_sign: |
+|1762 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201762%20-%20BuildingsWithAnOceanView/BuildingsWithAnOceanView/BuildingsWithAnOceanView/Program.cs) |✔️|
+|1763 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201763%20-%20LongestNiceSubstring/LongestNiceSubstring/LongestNiceSubstring/Program.cs) |✔️|
+|1764 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201764%20-%20FormArrayByConcatenatingSubarraysOfAnotherArray/FormArray/FormArray/Program.cs) |✔️|
+|1765 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201765%20-%20MapOfHighestPeak/MapOfHighestPeak/MapOfHighestPeak/Program.cs) |✔️|
+|1766 | []()|  |  |:heavy_minus_sign: |
+|1767 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201767%20-%20FindTheSubtasksThatDidNotExecute/FindTheSubtasksThatDidNotExecute_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201767%20-%20FindTheSubtasksThatDidNotExecute/FindTheSubtasksThatDidNotExecute_SQLServer.sql) |✔️|
+|1768 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201768%20-%20MergeStringsAlternately/MergeStringsAlternately/MergeStringsAlternately/Program.cs) |✔️|
+|1769 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201769%20-%20MinimumNumberOfOperationsToMoveAllBallsToEachBox/MinimumNumberOfOperations/MinimumNumberOfOperations/Program.cs) |✔️|
+|1770 | []()|  |  |:heavy_minus_sign: |
+|1771 | []()|  |  |:heavy_minus_sign: |
+|1772 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%201772%20-%20SortFeaturesByPopularity/SortFeaturesByPopularity/SortFeaturesByPopularity/Program.cs) |✔️|
+|1773 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201773%20-%20CountItemsMatchingARule/CountItemsMatchingARule/CountItemsMatchingARule/Program.cs) |✔️|
+|1774 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201774%20-%20ClosestDessertCost/ClosestDessertCost_C%23/ClosestDessertCost/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201774%20-%20ClosestDessertCost/ClosestDessertCost_Java/src/com/company/Main.java) |✔️|
+|1775 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201775%20-%20EqualSumArraysWithMinimumNumberOfOperations/EqualSumArrays_C%23/EqualSumArrays/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201775%20-%20EqualSumArraysWithMinimumNumberOfOperations/EqualSumArrays_Java/src/com/company/Main.java) |✔️|
+|1776 | []()|  |  |:heavy_minus_sign: |
+|1777 | []()|  |  [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201777%20-%20ProductsPriceForEachStore/ProductsPriceForEachStore_SQLServer.sql) |✔️|
+|1778 | []()|  |  |:heavy_minus_sign: |
+|1779 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201779%20-%20FindNearestPointThatHasTheSameXOrYCoordinate/FindNearestPoint/FindNearestPoint/Program.cs) |✔️|
+|1780 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201780%20-%20CheckIfNumberIsASumOfPowersOfThree/CheckIfNumberIsASumOfPowersOfThree/CheckIfNumberIsASumOfPowersOfThree/Program.cs) |✔️|
+|1781 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%201781%20-%20SumOfBeautyOfAllSubstrings/SumOfBeautyOfAllSubstrings/SumOfBeautyOfAllSubstrings/Program.cs) |✔️|
+|1782 | []()|  |  |:heavy_minus_sign: |
+|1783 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201783%20-%20GrandSlamTitles/GrandSlamTitles_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201783%20-%20GrandSlamTitles/GrandSlamTitles_SQLServer.sql) |✔️|
+|1784 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201784%20-%20CheckIfBinaryStringHasAtMostOneSegmentOfOnes/CheckIfBinaryString/CheckIfBinaryString/Program.cs) |✔️|
+|1785 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201785%20-%20MinimumElementsToAddToFormAGivenSum/MinimumElementsToAdd_C%23/MinimumElementsToAdd/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201785%20-%20MinimumElementsToAddToFormAGivenSum/MinimumElementsToAdd_Java/src/com/company/Main.java) |✔️|
+|1786 | []()|  |  |:heavy_minus_sign: |
+|1787 | []()|  |  |:heavy_minus_sign: |
+|1788 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201788%20-%20MaximizeTheBeautyOfTheGarden/MaximizeTheBeautyOfTheGarden/MaximizeTheBeautyOfTheGarden/Program.cs) |✔️|
+|1789 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201789%20-%20PrimaryDepartmentForEachEmployee/PrimaryDepartmentForEachEmployee_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201789%20-%20PrimaryDepartmentForEachEmployee/PrimaryDepartmentForEachEmployee_SQLServer.sql) |✔️|
+|1790 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201790%20-%20CheckIfOneStringSwapCanMakeStringsEqual/CheckIfOneStringSwapCan/CheckIfOneStringSwapCan/Program.cs) |✔️|
+|1791 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%201791%20-%20FindCenterOfStarGraph/FindCenterOfStarGraph/FindCenterOfStarGraph/Program.cs) |✔️|
+|1792 | []()|  | [Java](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%201792%20-%20MaximumAveragePassRatio/MaximumAveragePassRatio_Java/src/com/company/Main.java) |✔️|
+|1793 | []()|  |  |:heavy_minus_sign: |
+|1794 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201794%20-%20CountPairsOfEqualSubstringsWithMinimumDifference/CountPairsOfEqualSubstrings/CountPairsOfEqualSubstrings/Program.cs) |✔️|
+|1795 | []()|  | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201795%20-%20RearrangeProductsTable/RearrangeProductsTable_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201795%20-%20RearrangeProductsTable/RearrangeProductsTable_SQLServer.sql) |✔️|
+|1796 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201796%20-%20SecondLargestDigitInAString/SecondLargestDigitInAString/SecondLargestDigitInAString/Program.cs) |✔️|
+|1797 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%201797%20-%20DesignAuthenticationManager/DesignAuthenticationManager/DesignAuthenticationManager/Program.cs) |✔️|
+|1798 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201798%20-%20MaximumNumberOfConsecutiveValuesYouCanMake/MaximumNumberOfConsecutiveValues/MaximumNumberOfConsecutiveValues/Program.cs) |✔️|
+|1799 | []()|  |  |:heavy_minus_sign: |
+|1800 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%201800%20-%20MaximumAscendingSubarraySum/MaximumAscendingSubarraySum/MaximumAscendingSubarraySum/Program.cs) |✔️|
 |1801 | []()|  | [C#](), [Java]() |✔️|
 |1802 | []()|  | [C#](), [Java]() |✔️|
 |1803 | []()|  | [C#](), [Java]() |✔️|
