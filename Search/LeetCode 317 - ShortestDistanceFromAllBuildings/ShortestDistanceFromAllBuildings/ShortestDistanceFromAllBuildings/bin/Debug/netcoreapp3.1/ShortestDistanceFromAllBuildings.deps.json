@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ShortestDistanceFromAllBuildings/1.0.0": {
+        "runtime": {
+          "ShortestDistanceFromAllBuildings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShortestDistanceFromAllBuildings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
