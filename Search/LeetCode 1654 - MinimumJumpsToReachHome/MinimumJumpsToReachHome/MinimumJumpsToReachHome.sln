@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumJumpsToReachHome", "MinimumJumpsToReachHome\MinimumJumpsToReachHome.csproj", "{76D8ED19-A495-4326-BB8B-6F31AFD7B0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D8ED19-A495-4326-BB8B-6F31AFD7B0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D8ED19-A495-4326-BB8B-6F31AFD7B0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D8ED19-A495-4326-BB8B-6F31AFD7B0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D8ED19-A495-4326-BB8B-6F31AFD7B0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E73C8AEE-2444-4414-A9E8-C0CE84C8961D}
+	EndGlobalSection
+EndGlobal
