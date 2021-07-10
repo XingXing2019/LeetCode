@@ -677,7 +677,7 @@ LeetCode Algorithms with C# and Java
 |673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)| Medium |  |:heavy_minus_sign: |
 |674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20674%20-%20LongestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence/Program.cs) |✔️|
 |675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)| Hard |  |:heavy_minus_sign: |
-|676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)| Medium |  |:heavy_minus_sign: |
+|676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%20676%20-%20ImplementMagicDictionary/ImplementMagicDictionary/ImplementMagicDictionary/Program.cs) |✔️|
 |677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Trie/LeetCode%20677%20-%20MapSumPairs/MapSumPairs/MapSumPairs/Program.cs) |✔️|
 |678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20678%20-%20ValidParenthesisString/ValidParenthesisString/ValidParenthesisString/Program.cs) |✔️|
 |679 | [24 Game](https://leetcode.com/problems/24-game/)| Hard |  |:heavy_minus_sign: |
