@@ -1925,6 +1925,15 @@ LeetCode Algorithms with C# and Java
 |1921 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201921%20-%20EliminateMaximumNumberOfMonsters/EliminateMaximumNumberOfMonsters/EliminateMaximumNumberOfMonsters/Program.cs) |✔️|
 |1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201922%20-%20CountGoodNumbers/CountGoodNumbers/CountGoodNumbers/Program.cs) |✔️|
 |1923 | [Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/)| Hard |  |:heavy_minus_sign: |
+|1924 | [Erect the Fence II](https://leetcode.com/problems/erect-the-fence-ii/)| Hard |  |:heavy_minus_sign: |
+|1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201925%20-%20CountSquareSumTriples/CountSquareSumTriples/CountSquareSumTriples/Program.cs) |✔️|
+|1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201926%20-%20NearestExitFromEntranceInMaze/NearestExitFromEntranceInMaze/NearestExitFromEntranceInMaze/Program.cs) |✔️|
+|1927 | [Sum Game](https://leetcode.com/problems/sum-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201927%20-%20SumGame/SumGame/SumGame/Program.cs) |✔️|
+|1928 | [Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)| Hard |  |:heavy_minus_sign: |
+|1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201929%20-%20ConcatenationOfArray/ConcatenationOfArray/ConcatenationOfArray/Program.cs) |✔️|
+|1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%201930%20-%20UniqueLength3PalindromicSubsequences/UniqueLength3PalindromicSubsequences/UniqueLength3PalindromicSubsequences/Program.cs) |✔️|
+|1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/)| Hard |  |:heavy_minus_sign: |
+|1932 | [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/)| Hard |  |:heavy_minus_sign: |
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
