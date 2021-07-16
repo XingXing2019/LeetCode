@@ -1935,6 +1935,7 @@ LeetCode Algorithms with C# and Java
 |1931 | [Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/)| Hard |  |:heavy_minus_sign: |
 |1932 | [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/)| Hard |  |:heavy_minus_sign: |
 |1933 | [Check if String Is Decomposable Into Value-Equal Substrings](https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201933%20-%20CheckIfStringIsDecomposableIntoValueEqualSubstrings/CheckIfStringIsDecomposable/CheckIfStringIsDecomposable/Program.cs) |✔️|
+|1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201934%20-%20ConfirmationRate/ConfirmationRate_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201934%20-%20ConfirmationRate/ConfirmationRate_SQLServer.sql) |✔️|
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
