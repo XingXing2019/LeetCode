@@ -1936,7 +1936,10 @@ LeetCode Algorithms with C#, Java and Python
 |1932 | [Merge BSTs to Create Single BST](https://leetcode.com/problems/merge-bsts-to-create-single-bst/)| Hard |  |:heavy_minus_sign: |
 |1933 | [Check if String Is Decomposable Into Value-Equal Substrings](https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201933%20-%20CheckIfStringIsDecomposableIntoValueEqualSubstrings/CheckIfStringIsDecomposable/CheckIfStringIsDecomposable/Program.cs) |✔️|
 |1934 | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201934%20-%20ConfirmationRate/ConfirmationRate_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201934%20-%20ConfirmationRate/ConfirmationRate_SQLServer.sql) |✔️|
-
+|1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201935%20-%20MaximumNumberOfWordsYouCanType/MaximumNumberOfWordsYouCanType/MaximumNumberOfWordsYouCanType/Program.cs) |✔️|
+|1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201936%20-%20AddMinimumNumberOfRungs/AddMinimumNumberOfRungs/AddMinimumNumberOfRungs/Program.cs) |✔️|
+|1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201937%20-%20MaximumNumberOfPointsWithCost/MaximumNumberOfPointsWithCost/MaximumNumberOfPointsWithCost/Program.cs) |✔️|
+|1938 | [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/)| Hard |  |:heavy_minus_sign: |
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
