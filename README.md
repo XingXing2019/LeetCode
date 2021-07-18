@@ -1940,6 +1940,7 @@ LeetCode Algorithms with C#, Java and Python
 |1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201936%20-%20AddMinimumNumberOfRungs/AddMinimumNumberOfRungs/AddMinimumNumberOfRungs/Program.cs) |✔️|
 |1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201937%20-%20MaximumNumberOfPointsWithCost/MaximumNumberOfPointsWithCost/MaximumNumberOfPointsWithCost/Program.cs) |✔️|
 |1938 | [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/)| Hard |  |:heavy_minus_sign: |
+
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
