@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\LeetCode\\BinarySearch\\LeetCode 1936 - AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs.csproj",
+      "projectUniqueName": "D:\\C#\\LeetCode\\Array\\LeetCode 1936 - AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs.csproj",
       "projectName": "AddMinimumNumberOfRungs",
-      "projectPath": "D:\\C#\\LeetCode\\BinarySearch\\LeetCode 1936 - AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs.csproj",
+      "projectPath": "D:\\C#\\LeetCode\\Array\\LeetCode 1936 - AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\LeetCode\\BinarySearch\\LeetCode 1936 - AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\obj\\",
+      "outputPath": "D:\\C#\\LeetCode\\Array\\LeetCode 1936 - AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",

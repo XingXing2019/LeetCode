@@ -6,16 +6,19 @@ namespace AddMinimumNumberOfRungs
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			int[] runng = {1, 3, 5, 10};
+			int dist = 2;
+			Console.WriteLine(AddRungs(runng, dist));
 		}
-		public int AddRungs(int[] rungs, int dist)
+		public static int AddRungs(int[] rungs, int dist)
 		{
-			int li = 0, hi = 100000;
-			while (li <= hi)
+			int res = 0;
+			for (int i = 0; i < rungs.Length; i++)
 			{
-				int mid = li + (hi - li) / 2;
-
+				double gap = i == 0 ? rungs[i] - 1 : rungs[i] - rungs[i - 1] - 1;
+				res += (int) Math.Floor(gap / dist);
 			}
+			return res;
 		}
 	}
 }

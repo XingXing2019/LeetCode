@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QYDvSvl+GuRovO8XQokPnOq2dL9GZmoOfGYHs7rFDxBeoPYR2Czd/WRcRhWssIcNl8KTltROnB5oOxeV00EMeg==",
+  "dgSpecHash": "fe7x+2H5IEctVqUPTmpgi1JnHi4IA3KjzoTm3yRB2QhgQp3Ubfl8AwwfTWn1fHmQwbAArXINPvnmMbuIsaQtZw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\LeetCode\\BinarySearch\\LeetCode 1936 - AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs.csproj",
+  "projectFilePath": "D:\\C#\\LeetCode\\Array\\LeetCode 1936 - AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs\\AddMinimumNumberOfRungs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
