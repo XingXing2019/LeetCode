@@ -928,7 +928,7 @@ LeetCode Algorithms with C#, Java and Python
 |924 | [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)| Hard |  |:heavy_minus_sign: |
 |925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20925%20-%20LongPressedName/LongPressedName/LongPressedName/Program.cs) |✔️|
 |926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20926%20-%20FlipStringToMonotoneIncreasing/FlipStringToMonotoneIncreasing/FlipStringToMonotoneIncreasing/Program.cs) |✔️|
-|927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)| Hard |  |:heavy_minus_sign: |
+|927 | [Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20927%20-%20ThreeEqualParts/ThreeEqualParts/ThreeEqualParts/Program.cs) |✔️|
 |928 | [Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)| Hard |  |:heavy_minus_sign: |
 |929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20929%20-%20UniqueEmailAddresses/UniqueEmailAddresses/UniqueEmailAddresses/Program.cs) |✔️|
 |930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20930%20-%20BinarySubarraysWithSum/BinarySubarraysWithSum/BinarySubarraysWithSum/Program.cs) |✔️|
