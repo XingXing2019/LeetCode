@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\LeetCode\\HashTable\\LeetCode 380 - InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1.csproj": {}
+    "D:\\C#\\LeetCode\\HashTable\\LeetCode 1941 - CheckIfAllCharactersHaveEqualNumberOfOccurrences\\CheckIfAllCharacters\\CheckIfAllCharacters\\CheckIfAllCharacters.csproj": {}
   },
   "projects": {
-    "D:\\C#\\LeetCode\\HashTable\\LeetCode 380 - InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1.csproj": {
+    "D:\\C#\\LeetCode\\HashTable\\LeetCode 1941 - CheckIfAllCharactersHaveEqualNumberOfOccurrences\\CheckIfAllCharacters\\CheckIfAllCharacters\\CheckIfAllCharacters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\LeetCode\\HashTable\\LeetCode 380 - InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1.csproj",
-        "projectName": "InsertDeleteGetRandomO1",
-        "projectPath": "D:\\C#\\LeetCode\\HashTable\\LeetCode 380 - InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1.csproj",
+        "projectUniqueName": "D:\\C#\\LeetCode\\HashTable\\LeetCode 1941 - CheckIfAllCharactersHaveEqualNumberOfOccurrences\\CheckIfAllCharacters\\CheckIfAllCharacters\\CheckIfAllCharacters.csproj",
+        "projectName": "CheckIfAllCharacters",
+        "projectPath": "D:\\C#\\LeetCode\\HashTable\\LeetCode 1941 - CheckIfAllCharactersHaveEqualNumberOfOccurrences\\CheckIfAllCharacters\\CheckIfAllCharacters\\CheckIfAllCharacters.csproj",
         "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\LeetCode\\HashTable\\LeetCode 380 - InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\InsertDeleteGetRandomO1\\obj\\",
+        "outputPath": "D:\\C#\\LeetCode\\HashTable\\LeetCode 1941 - CheckIfAllCharactersHaveEqualNumberOfOccurrences\\CheckIfAllCharacters\\CheckIfAllCharacters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
