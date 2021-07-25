@@ -1940,6 +1940,16 @@ LeetCode Algorithms with C#, Java and Python
 |1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201936%20-%20AddMinimumNumberOfRungs/AddMinimumNumberOfRungs/AddMinimumNumberOfRungs/Program.cs) |✔️|
 |1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201937%20-%20MaximumNumberOfPointsWithCost/MaximumNumberOfPointsWithCost/MaximumNumberOfPointsWithCost/Program.cs) |✔️|
 |1938 | [Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/)| Hard |  |:heavy_minus_sign: |
+|1939 | []()|  |  |:heavy_minus_sign: |
+|1940 | []()|  |  |:heavy_minus_sign: |
+|1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%201941%20-%20CheckIfAllCharactersHaveEqualNumberOfOccurrences/CheckIfAllCharacters/CheckIfAllCharacters/Program.cs) |✔️|
+|1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/)| Medium | [Java](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%201942%20-%20TheNumberOfTheSmallestUnoccupiedChair/TheNumberOfTheSmallestUnoccupiedChair_Java/src/com/company/Main.java) |✔️|
+|1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201943%20-%20DescribeThePainting/DescribeThePainting/DescribeThePainting/Program.cs) |✔️|
+|1944 | [Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)| Hard | [C#]() |✔️|
+|1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201945%20-%20SumOfDigitsOfStringAfterConvert/SumOfDigitsOfStringAfterConvert/SumOfDigitsOfStringAfterConvert/Program.cs) |✔️|
+|1946 | [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201946%20-%20LargestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring/Program.cs) |✔️|
+|1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201947%20-%20MaximumCompatibilityScoreSum/MaximumCompatibilityScoreSum/MaximumCompatibilityScoreSum/Program.cs) |✔️|
+|1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/)| Hard | [C#]() |✔️|
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
