@@ -1950,6 +1950,7 @@ LeetCode Algorithms with C#, Java and Python
 |1946 | [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201946%20-%20LargestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring/Program.cs) |✔️|
 |1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201947%20-%20MaximumCompatibilityScoreSum/MaximumCompatibilityScoreSum/MaximumCompatibilityScoreSum/Program.cs) |✔️|
 |1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/)| Hard |  |:heavy_minus_sign: |
+|1949 | [Strong Friendship](https://leetcode.com/problems/strong-friendship/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201949%20-%20StrongFriendship/StrongFriendship_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201949%20-%20StrongFriendship/StrongFriendship_SQLServer.sql) |✔️|
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
