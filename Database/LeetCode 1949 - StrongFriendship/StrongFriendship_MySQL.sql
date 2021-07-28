@@ -1,7 +1,7 @@
 with friends as (
 	select user1_id as user1_id, user2_id as user2_id from friendship
-    union all
-    select user2_id as user1_id, user1_id as user2_id from friendship
+	union all
+	select user2_id as user1_id, user1_id as user2_id from friendship
 ),
 common_friends as (
 	select f1.user1_id, f2.user2_id as user1_friend, f1.user2_id, f3.user2_id as user2_friend
