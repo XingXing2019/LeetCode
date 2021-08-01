@@ -1951,6 +1951,13 @@ LeetCode Algorithms with C#, Java and Python
 |1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201947%20-%20MaximumCompatibilityScoreSum/MaximumCompatibilityScoreSum/MaximumCompatibilityScoreSum/Program.cs) |✔️|
 |1948 | [Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/)| Hard |  |:heavy_minus_sign: |
 |1949 | [Strong Friendship](https://leetcode.com/problems/strong-friendship/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201949%20-%20StrongFriendship/StrongFriendship_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201949%20-%20StrongFriendship/StrongFriendship_SQLServer.sql) |✔️|
+|1950 | [Maximum of Minimum Values in All Subarrays](https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/)| Medium |  |:heavy_minus_sign: |
+|1951 | [All the Pairs With the Maximum Number of Common Followers](https://leetcode.com/problems/all-the-pairs-with-the-maximum-number-of-common-followers/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201951%20-%20AllThePairsWithTheMaximumNumberOfCommonFollowers/AllThePairsWithTheMaximumNumberOfCommonFollowers_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201951%20-%20AllThePairsWithTheMaximumNumberOfCommonFollowers/AllThePairsWithTheMaximumNumberOfCommonFollowers_SQLServer.sql) |✔️|
+|1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201952%20-%20ThreeDivisors/ThreeDivisors/ThreeDivisors/Program.cs) |✔️|
+|1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201953%20-%20MaximumNumberOfWeeksForWhichYouCanWork/MaximumNumberOfWeeks/MaximumNumberOfWeeks/Program.cs) |✔️|
+|1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201954%20-%20MinimumGardenPerimeterToCollectEnoughApples/MinimumGardenPerimeter/MinimumGardenPerimeter/Program.cs) |✔️|
+|1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/)| Hard |  |:heavy_minus_sign: |
+
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
