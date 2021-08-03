@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SubsetsII_Java.iml" filepath="$PROJECT_DIR$/SubsetsII_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SubsetsII_Python.iml" filepath="$PROJECT_DIR$/.idea/SubsetsII_Python.iml" />
     </modules>
   </component>
 </project>
