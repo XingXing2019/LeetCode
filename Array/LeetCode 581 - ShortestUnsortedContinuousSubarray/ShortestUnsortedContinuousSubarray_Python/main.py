@@ -3,7 +3,7 @@ import math
 
 class Solution:
     def findUnsortedSubarray(self, nums: List[int]) -> int:
-        leftMax, rightMin, left, right = -math.inf, math.inf,len(nums) - 1, 0
+        leftMax, rightMin, left, right = -math.inf, math.inf, len(nums) - 1, 0
         for i in range(0, len(nums)):
             if nums[i] < leftMax:
                 right = i
