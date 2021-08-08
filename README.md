@@ -1957,7 +1957,15 @@ LeetCode Algorithms with C#, Java and Python
 |1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201953%20-%20MaximumNumberOfWeeksForWhichYouCanWork/MaximumNumberOfWeeks/MaximumNumberOfWeeks/Program.cs) |✔️|
 |1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201954%20-%20MinimumGardenPerimeterToCollectEnoughApples/MinimumGardenPerimeter/MinimumGardenPerimeter/Program.cs) |✔️|
 |1955 | [Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/)| Hard |  |:heavy_minus_sign: |
-
+|1956 | [Minimum Time For K Virus Variants to Spread](https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/)| Hard |  |:heavy_minus_sign: |
+|1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201957%20-%20DeleteCharactersToMakeFancyString/DeleteCharactersToMakeFancyString/DeleteCharactersToMakeFancyString/Program.cs) |✔️|
+|1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201958%20-%20CheckIfMoveIsLegal/CheckIfMoveIsLegal/CheckIfMoveIsLegal/Program.cs) |✔️|
+|1959 | [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/)| Medium |  |:heavy_minus_sign: |
+|1960 | [Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/)| Hard |  |:heavy_minus_sign: |
+|1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%201961%20-%20CheckIfStringIsAPrefixOfArray/CheckIfStringIsAPrefixOfArray/CheckIfStringIsAPrefixOfArray/Program.cs) |✔️|
+|1962 | []()|  | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%201962%20-%20RemoveStonesToMinimizeTheTotal/RemoveStonesToMinimizeTheTotal/RemoveStonesToMinimizeTheTotal/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%201962%20-%20RemoveStonesToMinimizeTheTotal/RemoveStonesToMinimizeTheTotal_Java/src/com/company/Main.java) |✔️|
+|1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%201963%20-%20MinimumNumberOfSwapsToMakeTheStringBalanced/MinimumNumberOfSwaps/MinimumNumberOfSwaps/Program.cs) |✔️|
+|1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)| Hard |  |:heavy_minus_sign: |
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
