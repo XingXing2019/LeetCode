@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankTransformOfAMatrix", "RankTransformOfAMatrix\RankTransformOfAMatrix.csproj", "{952F5801-6D39-46FE-909E-4C6CEB3D78EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952F5801-6D39-46FE-909E-4C6CEB3D78EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952F5801-6D39-46FE-909E-4C6CEB3D78EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952F5801-6D39-46FE-909E-4C6CEB3D78EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952F5801-6D39-46FE-909E-4C6CEB3D78EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CADAB16-F55D-41D8-B9F8-768B759CB5F4}
+	EndGlobalSection
+EndGlobal
