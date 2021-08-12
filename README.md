@@ -1967,6 +1967,7 @@ LeetCode Algorithms with C#, Java and Python
 |1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%201963%20-%20MinimumNumberOfSwapsToMakeTheStringBalanced/MinimumNumberOfSwaps/MinimumNumberOfSwaps/Program.cs) |✔️|
 |1964 | [Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)| Hard |  |:heavy_minus_sign: |
 |1965 | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201965%20-%20EmployeesWithMissingInformation/EmployeesWithMissingInformation_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201965%20-%20EmployeesWithMissingInformation/EmployeesWithMissingInformation_SQLServer.sql) |✔️|
+|1966 | [Binary Searchable Numbers in an Unsorted Array](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201966%20-%20BinarySearchableNumbersInAnUnsortedArray/BinarySearchableNumbersInAnUnsortedArray/BinarySearchableNumbersInAnUnsortedArray/Program.cs) |✔️|
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
