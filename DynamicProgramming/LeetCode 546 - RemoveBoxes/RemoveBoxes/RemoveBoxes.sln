@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveBoxes", "RemoveBoxes\RemoveBoxes.csproj", "{7F0B8BB0-2440-4182-93C2-92927E7427FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F0B8BB0-2440-4182-93C2-92927E7427FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0B8BB0-2440-4182-93C2-92927E7427FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0B8BB0-2440-4182-93C2-92927E7427FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0B8BB0-2440-4182-93C2-92927E7427FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B68CB4F-08A9-4A74-9814-C10F4612E731}
+	EndGlobalSection
+EndGlobal
