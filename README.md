@@ -489,7 +489,7 @@ LeetCode Algorithms with C#, Java and Python
 |485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20485%20-%20MaxConsecutiveOnes/MaxConsecutiveOnes/MaxConsecutiveOnes/Program.cs) |✔️|
 |486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)| Medium |  |:heavy_minus_sign: |
 |487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%20487%20-%20MaxConsecutiveOnesII/MaxConsecutiveOnesII/MaxConsecutiveOnesII/Program.cs) |✔️|
-|488 | [Zuma Game](https://leetcode.com/problems/zuma-game/)| Hard |  |:heavy_minus_sign: |
+|488 | [Zuma Game](https://leetcode.com/problems/zuma-game/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%20488%20-%20ZumaGame/ZumaGame/ZumaGame/Program.cs) |✔️|
 |489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/)| Hard |  |:heavy_minus_sign: |
 |490 | [The Maze](https://leetcode.com/problems/the-maze/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20490%20-%20TheMaze/TheMaze/TheMaze/Program.cs) |✔️|
 |491 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20491%20-%20IncreasingSubsequences/IncreasingSubsequences/IncreasingSubsequences/Program.cs) |✔️|
