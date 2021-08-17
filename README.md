@@ -1972,6 +1972,8 @@ LeetCode Algorithms with C#, Java and Python
 |1968 | [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201968%20-%20ArrayWithElementsNotEqualToAverageOfNeighbors/ArrayWithElementsNotEqualToAverage/ArrayWithElementsNotEqualToAverage/Program.cs) |✔️|
 |1969 | [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%201969%20-%20MinimumNonZeroProductOfTheArrayElements/MinimumNonZeroProduct/MinimumNonZeroProduct/Program.cs) |✔️|
 |1970 | [Last Day Where You Can Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/)| Hard |  |:heavy_minus_sign: |
+|1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%201971%20-%20FindIfPathExistsInGraph/FindIfPathExistsInGraph/FindIfPathExistsInGraph/Program.cs) |✔️|
+|1972 | [First and Last Call On the Same Day](https://leetcode.com/problems/first-and-last-call-on-the-same-day/)| Hard |  |:heavy_minus_sign: |
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
