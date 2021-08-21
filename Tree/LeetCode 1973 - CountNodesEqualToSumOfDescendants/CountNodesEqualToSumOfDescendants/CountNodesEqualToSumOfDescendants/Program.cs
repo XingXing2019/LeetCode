@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CountNodesEqualToSumOfDescendants
 {
@@ -35,17 +36,19 @@ namespace CountNodesEqualToSumOfDescendants
 		public static int EqualToDescendants(TreeNode root)
 		{
 			int res = 0;
-			DFS(root, ref res);
+			DFS(root, new Dictionary<TreeNode, int>(), ref res);
 			return res;
 		}
 
-		public static int DFS(TreeNode node, ref int res)
+		public static int DFS(TreeNode node, Dictionary<TreeNode, int> record, ref int res)
 		{
 			if (node == null) return 0;
-			int left = DFS(node.left, ref res);
-			int right = DFS(node.right, ref res);
+			if (record.ContainsKey(node)) return record[node];
+			int left = DFS(node.left, record, ref res);
+			int right = DFS(node.right, record, ref res);
 			if (node.val == left + right)
 				res++;
+			record[node] = left + right;
 			return node.val + left + right;
 		}
 	}
