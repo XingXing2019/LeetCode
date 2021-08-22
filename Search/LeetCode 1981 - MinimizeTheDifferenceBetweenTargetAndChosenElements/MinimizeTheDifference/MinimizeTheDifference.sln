@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimizeTheDifference", "MinimizeTheDifference\MinimizeTheDifference.csproj", "{FDEB4E6D-CA27-44CB-B3EB-958124A0E98D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDEB4E6D-CA27-44CB-B3EB-958124A0E98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEB4E6D-CA27-44CB-B3EB-958124A0E98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEB4E6D-CA27-44CB-B3EB-958124A0E98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEB4E6D-CA27-44CB-B3EB-958124A0E98D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4DF9B84-7376-4CC0-A577-FEAFDB328129}
+	EndGlobalSection
+EndGlobal
