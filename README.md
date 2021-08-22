@@ -1981,6 +1981,7 @@ LeetCode Algorithms with C#, Java and Python
 |1977 | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)| Hard |  |:heavy_minus_sign: |
 |1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201978%20-%20EmployeesWhoseManagerLeftTheCompany/EmployeesWhoseManagerLeftTheCompany_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201978%20-%20EmployeesWhoseManagerLeftTheCompany/EmployeesWhoseManagerLeftTheCompany_SQLServer.sql) |✔️|
 |1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201979%20-%20FindGreatestCommonDivisorOfArray/FindGreatestCommonDivisorOfArray/FindGreatestCommonDivisorOfArray/Program.cs) |✔️|
+|1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%201980%20-%20FindUniqueBinaryString/FindUniqueBinaryString/FindUniqueBinaryString/Program.cs) |✔️|
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
