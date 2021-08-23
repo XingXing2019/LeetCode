@@ -755,7 +755,7 @@ LeetCode Algorithms with C#, Java and Python
 |751 | [IP to CIDR](https://leetcode.com/problems/ip-to-cidr/)| Medium |  |:heavy_minus_sign: |
 |752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20752%20-%20OpenTheLock/OpenTheLock_C%23/OpenTheLock/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%20752%20-%20OpenTheLock/OpenTheLock_Java/src/com/company/Main.java) |✔️|
 |753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)| Hard |  |:heavy_minus_sign: |
-|754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/)| Medium |  |:heavy_minus_sign: |
+|754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20754%20-%20ReachANumber/ReachANumber/ReachANumber/Program.cs) |✔️|
 |755 | [Pour Water](https://leetcode.com/problems/pour-water/)| Medium |  |:heavy_minus_sign: |
 |756 | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/)| Medium |  |:heavy_minus_sign: |
 |757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)| Hard |  |:heavy_minus_sign: |
