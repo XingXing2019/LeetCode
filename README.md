@@ -1983,7 +1983,8 @@ LeetCode Algorithms with C#, Java and Python
 |1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%201979%20-%20FindGreatestCommonDivisorOfArray/FindGreatestCommonDivisorOfArray/FindGreatestCommonDivisorOfArray/Program.cs) |✔️|
 |1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%201980%20-%20FindUniqueBinaryString/FindUniqueBinaryString/FindUniqueBinaryString/Program.cs) |✔️|
 |1981 | [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201981%20-%20MinimizeTheDifferenceBetweenTargetAndChosenElements/MinimizeTheDifference_C%23/MinimizeTheDifference/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201981%20-%20MinimizeTheDifferenceBetweenTargetAndChosenElements/MinimizeTheDifference_Java/src/com/company/Main.java) |✔️|
-
+|1982 | [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/)| Hard |  |:heavy_minus_sign: |
+|1983 | [Widest Pair of Indices With Equal Range Sum](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%201983%20-%20WidestPairOfIndicesWithEqualRangeSum/WidestPairOfIndicesWithEqualRangeSum/WidestPairOfIndicesWithEqualRangeSum/Program.cs) |✔️|
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
