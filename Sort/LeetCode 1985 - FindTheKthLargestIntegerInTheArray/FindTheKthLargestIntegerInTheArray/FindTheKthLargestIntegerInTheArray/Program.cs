@@ -13,7 +13,7 @@ namespace FindTheKthLargestIntegerInTheArray
 
 		public static string KthLargestNumber(string[] nums, int k)
 		{
-			Array.Sort(nums, (a, b) => Compare(a, b));
+			Array.Sort(nums, Compare);
 			return nums[k - 1];
 		}
 
