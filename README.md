@@ -1985,8 +1985,11 @@ LeetCode Algorithms with C#, Java and Python
 |1981 | [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201981%20-%20MinimizeTheDifferenceBetweenTargetAndChosenElements/MinimizeTheDifference_C%23/MinimizeTheDifference/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%201981%20-%20MinimizeTheDifferenceBetweenTargetAndChosenElements/MinimizeTheDifference_Java/src/com/company/Main.java) |✔️|
 |1982 | [Find Array Given Subset Sums](https://leetcode.com/problems/find-array-given-subset-sums/)| Hard |  |:heavy_minus_sign: |
 |1983 | [Widest Pair of Indices With Equal Range Sum](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%201983%20-%20WidestPairOfIndicesWithEqualRangeSum/WidestPairOfIndicesWithEqualRangeSum/WidestPairOfIndicesWithEqualRangeSum/Program.cs) |✔️|
+|1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%201984%20-%20MinimumDifferenceBetweenHighestAndLowestOfKScores/MinimumDifference/MinimumDifference/Program.cs) |✔️|
+|1985 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201985%20-%20FindTheKthLargestIntegerInTheArray/FindTheKthLargestIntegerInTheArray/FindTheKthLargestIntegerInTheArray/Program.cs) |✔️|
+|1986 | [Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/)| Medium |  |:heavy_minus_sign: |
+|1987 | [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/)| Hard |  |:heavy_minus_sign: |
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
-|15 | []()|  |  |:heavy_minus_sign: |
-             |  |:part_alternation_mark:|
+|15 | []()|  |  |:heavy_minus_sign: |           
