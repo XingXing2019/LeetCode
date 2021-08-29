@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheKthLargestIntegerInTheArray", "FindTheKthLargestIntegerInTheArray\FindTheKthLargestIntegerInTheArray.csproj", "{99E7584F-1537-44F2-B087-CA54B0BBBC4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E7584F-1537-44F2-B087-CA54B0BBBC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E7584F-1537-44F2-B087-CA54B0BBBC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E7584F-1537-44F2-B087-CA54B0BBBC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E7584F-1537-44F2-B087-CA54B0BBBC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D29621D-0B68-4A18-A83B-0F47E26FD44F}
+	EndGlobalSection
+EndGlobal
