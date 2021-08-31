@@ -1989,6 +1989,7 @@ LeetCode Algorithms with C#, Java and Python
 |1985 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201985%20-%20FindTheKthLargestIntegerInTheArray/FindTheKthLargestIntegerInTheArray/FindTheKthLargestIntegerInTheArray/Program.cs) |✔️|
 |1986 | [Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/)| Medium |  |:heavy_minus_sign: |
 |1987 | [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/)| Hard |  |:heavy_minus_sign: |
+|1988 | [Find Cutoff Score for Each School](https://leetcode.com/problems/find-cutoff-score-for-each-school/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201988%20-%20FindCutoffScoreForEachSchool/FindCutoffScoreForEachSchool_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201988%20-%20FindCutoffScoreForEachSchool/FindCutoffScoreForEachSchool_SQLServer.sql) |✔️|
 
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
