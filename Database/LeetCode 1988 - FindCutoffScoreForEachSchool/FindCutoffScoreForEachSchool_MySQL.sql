@@ -6,7 +6,7 @@ with score as (
 
 ranks as (
 	select school_id, score, 
-    rank() over(partition by school_id order by student_count desc, score) as ranks
+	rank() over(partition by school_id order by student_count desc, score) as ranks
 	from score
 )
 
