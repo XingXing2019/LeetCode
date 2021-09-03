@@ -1990,7 +1990,7 @@ LeetCode Algorithms with C#, Java and Python
 |1986 | [Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/)| Medium |  |:heavy_minus_sign: |
 |1987 | [Number of Unique Good Subsequences](https://leetcode.com/problems/number-of-unique-good-subsequences/)| Hard |  |:heavy_minus_sign: |
 |1988 | [Find Cutoff Score for Each School](https://leetcode.com/problems/find-cutoff-score-for-each-school/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201988%20-%20FindCutoffScoreForEachSchool/FindCutoffScoreForEachSchool_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%201988%20-%20FindCutoffScoreForEachSchool/FindCutoffScoreForEachSchool_SQLServer.sql) |✔️|
-
+|1989 | [Maximum Number of People That Can Be Caught in Tag](https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%201989%20-%20MaximumNumberOfPeopleThatCanBeCaughtInTag/MaximumNumberOfPeople/MaximumNumberOfPeople/Program.cs) |✔️|
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |           
