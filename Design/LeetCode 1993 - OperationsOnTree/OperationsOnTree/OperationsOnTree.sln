@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsOnTree", "OperationsOnTree\OperationsOnTree.csproj", "{F440A138-16CD-4CCA-8BCB-328F9C082DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F440A138-16CD-4CCA-8BCB-328F9C082DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F440A138-16CD-4CCA-8BCB-328F9C082DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F440A138-16CD-4CCA-8BCB-328F9C082DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F440A138-16CD-4CCA-8BCB-328F9C082DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F00E0D2-4E97-43F7-A331-4C7C698E9ABF}
+	EndGlobalSection
+EndGlobal
