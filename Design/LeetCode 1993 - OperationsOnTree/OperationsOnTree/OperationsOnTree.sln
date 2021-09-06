@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsOnTree", "OperationsOnTree\OperationsOnTree.csproj", "{F440A138-16CD-4CCA-8BCB-328F9C082DBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsOnTree", "OperationsOnTree\OperationsOnTree.csproj", "{0FA3FBF8-E488-40C7-8A55-94AA812A1DC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F440A138-16CD-4CCA-8BCB-328F9C082DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F440A138-16CD-4CCA-8BCB-328F9C082DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F440A138-16CD-4CCA-8BCB-328F9C082DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F440A138-16CD-4CCA-8BCB-328F9C082DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FA3FBF8-E488-40C7-8A55-94AA812A1DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FA3FBF8-E488-40C7-8A55-94AA812A1DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FA3FBF8-E488-40C7-8A55-94AA812A1DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FA3FBF8-E488-40C7-8A55-94AA812A1DC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2F00E0D2-4E97-43F7-A331-4C7C698E9ABF}
+		SolutionGuid = {6B7C01D7-00A4-480D-A7E5-2F6CB7E10E02}
 	EndGlobalSection
 EndGlobal
