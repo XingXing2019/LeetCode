@@ -1998,7 +1998,7 @@ LeetCode Algorithms with C#, Java and Python
 |1994 | [The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/)| Hard |  |:heavy_minus_sign: |
 |1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201995%20-%20CountSpecialQuadruplets/CountSpecialQuadruplets/CountSpecialQuadruplets/Program.cs) |✔️|
 |1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201996%20-%20TheNumberOfWeakCharactersInTheGame/TheNumberOfWeakCharactersInTheGame/TheNumberOfWeakCharactersInTheGame/Program.cs) |✔️|
-|1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)| Medium |  |:heavy_minus_sign: |
+|1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201997%20-%20FirstDayWhereYouHaveBeenInAllTheRooms/FirstDayWhereYouHaveBeenInAllTheRooms/FirstDayWhereYouHaveBeenInAllTheRooms/Program.cs) |✔️|
 |1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/)| Hard |  |:heavy_minus_sign: |
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
