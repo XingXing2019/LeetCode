@@ -2000,6 +2000,7 @@ LeetCode Algorithms with C#, Java and Python
 |1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%201996%20-%20TheNumberOfWeakCharactersInTheGame/TheNumberOfWeakCharactersInTheGame/TheNumberOfWeakCharactersInTheGame/Program.cs) |✔️|
 |1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201997%20-%20FirstDayWhereYouHaveBeenInAllTheRooms/FirstDayWhereYouHaveBeenInAllTheRooms/FirstDayWhereYouHaveBeenInAllTheRooms/Program.cs) |✔️|
 |1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/)| Hard |  |:heavy_minus_sign: |
+|1999 | [Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201999%20-%20SmallestGreaterMultipleMadeOfTwoDigits/SmallestGreaterMultipleMadeOfTwoDigits/SmallestGreaterMultipleMadeOfTwoDigits/Program.cs) |✔️|
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |           
