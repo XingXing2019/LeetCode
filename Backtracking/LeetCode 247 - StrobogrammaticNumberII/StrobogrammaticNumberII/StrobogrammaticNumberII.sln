@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrobogrammaticNumberII", "StrobogrammaticNumberII\StrobogrammaticNumberII.csproj", "{2F5FAA04-5B14-49DF-9284-8CA2617B777A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5FAA04-5B14-49DF-9284-8CA2617B777A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5FAA04-5B14-49DF-9284-8CA2617B777A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5FAA04-5B14-49DF-9284-8CA2617B777A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5FAA04-5B14-49DF-9284-8CA2617B777A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A705420F-4916-4876-8397-CCFF5B317115}
+	EndGlobalSection
+EndGlobal
