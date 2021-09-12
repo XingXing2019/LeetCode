@@ -2001,6 +2001,8 @@ LeetCode Algorithms with C#, Java and Python
 |1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%201997%20-%20FirstDayWhereYouHaveBeenInAllTheRooms/FirstDayWhereYouHaveBeenInAllTheRooms/FirstDayWhereYouHaveBeenInAllTheRooms/Program.cs) |✔️|
 |1998 | [GCD Sort of an Array](https://leetcode.com/problems/gcd-sort-of-an-array/)| Hard |  |:heavy_minus_sign: |
 |1999 | [Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%201999%20-%20SmallestGreaterMultipleMadeOfTwoDigits/SmallestGreaterMultipleMadeOfTwoDigits/SmallestGreaterMultipleMadeOfTwoDigits/Program.cs) |✔️|
+|2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202000%20-%20ReversePrefixOfWord/ReversePrefixOfWord/ReversePrefixOfWord/Program.cs) |✔️|
+|2001 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202001%20-%20NumberOfPairsOfInterchangeableRectangles/NumberOfPairsOfInterchangeableRectangles/NumberOfPairsOfInterchangeableRectangles/Program.cs) |✔️|
 |15 | []()|  | [C#](), [Java]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |           
