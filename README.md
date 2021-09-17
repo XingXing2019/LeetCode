@@ -334,7 +334,7 @@ LeetCode Algorithms with C#, Java and Python
 |330 | [Patching Array](https://leetcode.com/problems/patching-array/)| Hard |  |:heavy_minus_sign: |
 |331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%20331%20-%20VerifyPreorderSerializationOfABinaryTree/VerifyPreorderSerializationOfABinaryTree/VerifyPreorderSerializationOfABinaryTree/Program.cs) |✔️|
 |332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)| Medium |  |:heavy_minus_sign: |
-|333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)| Medium |  |:heavy_minus_sign: |
+|333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%20333%20-%20LargestBSTSubtree/LargestBSTSubtree/LargestBSTSubtree/Program.cs) |✔️|
 |334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%20334%20-%20IncreasingTripletSubsequence/IncreasingTripletSubsequence/IncreasingTripletSubsequence/Program.cs) |✔️|
 |335 | [Self Crossing](https://leetcode.com/problems/self-crossing/)| Hard |  |:heavy_minus_sign: |
 |336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20336%20-%20PalindromePairs/PalindromePairs/PalindromePairs/Program.cs) |✔️|
