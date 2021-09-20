@@ -391,7 +391,7 @@ LeetCode Algorithms with C#, Java and Python
 |387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%20387%20-%20FirstUniqueCharacterInAString/FirstUniqueCharacterInAString/FirstUniqueCharacterInAString/Program.cs) |✔️|
 |388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)| Medium |  |:heavy_minus_sign: |
 |389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%20389%20-%20FindTheDifference/FindTheDifference/FindTheDifference/Program.cs) |✔️|
-|390 | [Elimination Game](https://leetcode.com/problems/elimination-game/)| Medium |  |:heavy_minus_sign: |
+|390 | [Elimination Game](https://leetcode.com/problems/elimination-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%20390%20-%20EliminationGame/EliminationGame/EliminationGame/Program.cs) |✔️|
 |391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)| Hard |  |:heavy_minus_sign: |
 |392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%20392%20-%20IsSubsequence/IsSubsequence/IsSubsequence/Program.cs) |✔️|
 |393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)| Medium |  |:heavy_minus_sign: |
