@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectCyclesIn2DGrid", "DetectCyclesIn2DGrid\DetectCyclesIn2DGrid.csproj", "{A26AC394-5394-44C7-A0DA-D0C78E06B3E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A26AC394-5394-44C7-A0DA-D0C78E06B3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26AC394-5394-44C7-A0DA-D0C78E06B3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26AC394-5394-44C7-A0DA-D0C78E06B3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26AC394-5394-44C7-A0DA-D0C78E06B3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E252F0F3-4935-4BFF-A614-B2BCCC102085}
+	EndGlobalSection
+EndGlobal
