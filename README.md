@@ -2016,6 +2016,8 @@ LeetCode Algorithms with C#, Java and Python
 |2012 | [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202012%20-%20SumOfBeautyInTheArray/SumOfBeautyInTheArray/SumOfBeautyInTheArray/Program.cs) |✔️|
 |2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202013%20-%20DetectSquares/DetectSquares/DetectSquares/Program.cs) |✔️|
 |2014 | [Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)| Hard |  |:heavy_minus_sign: |
+|2015 | [Average Height of Buildings in Each Segment](https://leetcode.com/problems/average-height-of-buildings-in-each-segment/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202015%20-%20AverageHeightOfBuildingsInEachSegment/AverageHeightOfBuildingsInEachSegment/AverageHeightOfBuildingsInEachSegment/Program.cs) |✔️|
 
+|2015 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |           
