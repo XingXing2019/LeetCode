@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BraceExpansion", "BraceExpansion\BraceExpansion.csproj", "{A23554DF-CE47-442F-B011-38E43FFF8C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23554DF-CE47-442F-B011-38E43FFF8C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23554DF-CE47-442F-B011-38E43FFF8C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23554DF-CE47-442F-B011-38E43FFF8C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23554DF-CE47-442F-B011-38E43FFF8C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9B89FAF-05F5-4E20-B585-FE198D9B2DAE}
+	EndGlobalSection
+EndGlobal
