@@ -1,22 +1,22 @@
 with mobile as (
 	select user_id, 'mobile' as platform, spend_date, sum(amount) as total_amount, count(distinct user_id) as total_users
-    from spending
+	from spending
 	group by user_id, spend_date
 	having count(distinct platform) = 1
 	and min(platform) = 'mobile'
 ),
 desktop as (
 	select user_id, 'desktop' as platform, spend_date, sum(amount) as total_amount, count(distinct user_id) as total_users
-    from spending
+	from spending
 	group by user_id, spend_date
 	having count(distinct platform) = 1
 	and min(platform) = 'desktop'
 ),
 mobile_desktop as (
 	select user_id, 'both' as platform, spend_date, sum(amount) as total_amount, count(distinct user_id) as total_users
-    from spending
-    group by user_id, spend_date
-    having count(distinct platform) = 2
+	from spending
+	group by user_id, spend_date
+	having count(distinct platform) = 2
 ),
 date as (
 	select distinct spend_date from spending
