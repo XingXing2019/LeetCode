@@ -16,7 +16,7 @@ driver_2020 as (
 ),
 active_drivers as (
 	select month, sum(drivers) over(order by month) as active_drivers
-    from driver_2020
+	from driver_2020
 ),
 accepted_rides as (
 	select m.month, count(ride_id) as accepted_rides 
