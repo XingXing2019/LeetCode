@@ -7,9 +7,9 @@ with recursive month_2020 as (
 ),
 rides_2020 as (
 	select ar.*, r.requested_at
-    from rides r join acceptedrides ar
-    on r.ride_id = ar.ride_id
-    where r.requested_at between '2020-01-01' and '2020-12-31'
+	from rides r join acceptedrides ar
+	on r.ride_id = ar.ride_id
+	where r.requested_at between '2020-01-01' and '2020-12-31'
 )
 
 select m.month, 
