@@ -2030,7 +2030,7 @@ LeetCode Algorithms with C#, Java and Python
 |2026 | [Low-Quality Problems](https://leetcode.com/problems/low-quality-problems/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202026%20-%20LowQualityProblems/LowQualityProblems_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202026%20-%20LowQualityProblems/LowQualityProblems_SQLServer.sql) |✔️|
 |2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202027%20-%20MinimumMovesToConvertString/MinimumMovesToConvertString/MinimumMovesToConvertString/Program.cs) |✔️|
 |2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202028%20-%20FindMissingObservations/FindMissingObservations/FindMissingObservations/Program.cs) |✔️|
-|2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/)| Medium |  |:heavy_minus_sign: |
+|2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202029%20-%20StoneGameIX/StoneGameIX/StoneGameIX/Program.cs) |✔️|
 |2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/)| Hard |  |:heavy_minus_sign: |
 
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
