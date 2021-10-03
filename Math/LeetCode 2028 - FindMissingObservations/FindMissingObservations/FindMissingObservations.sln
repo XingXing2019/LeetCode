@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMissingObservations", "FindMissingObservations\FindMissingObservations.csproj", "{B90DB75C-2A1F-4C55-8C8C-C349349FDD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90DB75C-2A1F-4C55-8C8C-C349349FDD69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90DB75C-2A1F-4C55-8C8C-C349349FDD69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90DB75C-2A1F-4C55-8C8C-C349349FDD69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90DB75C-2A1F-4C55-8C8C-C349349FDD69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B251F57-A3DA-49C4-8228-793D045DA03A}
+	EndGlobalSection
+EndGlobal
