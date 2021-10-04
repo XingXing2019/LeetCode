@@ -12,10 +12,10 @@ max_count as (
 ),
 visit_count as (
 	select 0 as transactions_count
-    union all
-    select transactions_count + 1 as transactions_count
-    from visit_count
-    where transactions_count < (select * from max_count)
+	union all
+	select transactions_count + 1 as transactions_count
+	from visit_count
+	where transactions_count < (select * from max_count)
 )
 
 select transactions_count, ifnull(visits_count, 0) as visits_count
