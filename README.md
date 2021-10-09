@@ -2032,6 +2032,8 @@ LeetCode Algorithms with C#, Java and Python
 |2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202028%20-%20FindMissingObservations/FindMissingObservations/FindMissingObservations/Program.cs) |✔️|
 |2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202029%20-%20StoneGameIX/StoneGameIX/StoneGameIX/Program.cs) |✔️|
 |2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/)| Hard |  |:heavy_minus_sign: |
+|2031 | [Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202031%20-%20CountSubarraysWithMoreOnesThanZeros/CountSubarraysWithMoreOnesThanZeros/CountSubarraysWithMoreOnesThanZeros/Program.cs) |✔️|
 
+|2030 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
