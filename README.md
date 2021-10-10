@@ -2035,7 +2035,7 @@ LeetCode Algorithms with C#, Java and Python
 |2031 | [Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202031%20-%20CountSubarraysWithMoreOnesThanZeros/CountSubarraysWithMoreOnesThanZeros/CountSubarraysWithMoreOnesThanZeros/Program.cs) |✔️|
 |2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202032%20-%20TwoOutOfThree/TwoOutOfThree/TwoOutOfThree/Program.cs) |✔️|
 |2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)| Medium | [C#]() |✔️|
-|2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)| Medium | [C#]() |✔️|
+|2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202034%20-%20StockPriceFluctuation/StockPriceFluctuation/StockPriceFluctuation/Program.cs) |✔️|
 |2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)| Hard |  |:heavy_minus_sign: |
 
 |2030 | []()|  | [C#]() |✔️|
