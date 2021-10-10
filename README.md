@@ -2033,6 +2033,10 @@ LeetCode Algorithms with C#, Java and Python
 |2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202029%20-%20StoneGameIX/StoneGameIX/StoneGameIX/Program.cs) |✔️|
 |2030 | [Smallest K-Length Subsequence With Occurrences of a Letter](https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/)| Hard |  |:heavy_minus_sign: |
 |2031 | [Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202031%20-%20CountSubarraysWithMoreOnesThanZeros/CountSubarraysWithMoreOnesThanZeros/CountSubarraysWithMoreOnesThanZeros/Program.cs) |✔️|
+|2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202032%20-%20TwoOutOfThree/TwoOutOfThree/TwoOutOfThree/Program.cs) |✔️|
+|2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)| Medium | [C#]() |✔️|
+|2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)| Medium | [C#]() |✔️|
+|2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)| Hard |  |:heavy_minus_sign: |
 
 |2030 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
