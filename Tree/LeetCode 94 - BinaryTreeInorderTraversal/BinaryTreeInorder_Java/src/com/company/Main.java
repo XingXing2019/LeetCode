@@ -3,7 +3,7 @@ package com.company;
 import java.util.ArrayList;
 import java.util.List;
 
-class TreeNode {
+public class TreeNode {
       int val;
       TreeNode left;
       TreeNode right;

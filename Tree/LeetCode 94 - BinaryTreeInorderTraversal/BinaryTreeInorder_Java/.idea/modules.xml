@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RecoverBinarySearchTree_Java.iml" filepath="$PROJECT_DIR$/RecoverBinarySearchTree_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTreeInorder_Java.iml" filepath="$PROJECT_DIR$/BinaryTreeInorder_Java.iml" />
     </modules>
   </component>
 </project>
