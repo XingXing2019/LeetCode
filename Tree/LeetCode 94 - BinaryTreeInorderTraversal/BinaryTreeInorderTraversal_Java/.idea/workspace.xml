@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f0aca73-7019-4346-a470-46e430b938db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LeetCode 1008 - ConstructBinarySearchTreeFromPreorderTraversal/ConstructBinarySearchTree_Java/ConstructBinarySearchTree_Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Array/LeetCode 2033 - MinimumOperationsToMakeAUniValueGrid/MinimumOperationsToMakeAUniValueGrid/.vs/MinimumOperationsToMakeAUniValueGrid/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Array/LeetCode 2033 - MinimumOperationsToMakeAUniValueGrid/MinimumOperationsToMakeAUniValueGrid/.vs/MinimumOperationsToMakeAUniValueGrid/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Array/LeetCode 2033 - MinimumOperationsToMakeAUniValueGrid/MinimumOperationsToMakeAUniValueGrid/.vs/MinimumOperationsToMakeAUniValueGrid/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Array/LeetCode 2033 - MinimumOperationsToMakeAUniValueGrid/MinimumOperationsToMakeAUniValueGrid/.vs/MinimumOperationsToMakeAUniValueGrid/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/.vs/BinaryTreePostorderTraversal/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/.vs/BinaryTreePostorderTraversal/v16/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/BinaryTreePostorderTraversal.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/BinaryTreePostorderTraversal.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/BinaryTreePostorderTraversal.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/Debug/netcoreapp3.1/BinaryTreePostorderTraversal.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/Debug/netcoreapp3.1/BinaryTreePostorderTraversal.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/Debug/netcoreapp3.1/BinaryTreePostorderTraversal.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/Debug/netcoreapp3.1/BinaryTreePostorderTraversal.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LeetCode 145 - BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,5 +46,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
