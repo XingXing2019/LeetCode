@@ -2037,7 +2037,7 @@ LeetCode Algorithms with C#, Java and Python
 |2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202033%20-%20MinimumOperationsToMakeAUniValueGrid/MinimumOperationsToMakeAUniValueGrid/MinimumOperationsToMakeAUniValueGrid/Program.cs) |✔️|
 |2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202034%20-%20StockPriceFluctuation/StockPriceFluctuation/StockPriceFluctuation/Program.cs) |✔️|
 |2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)| Hard |  |:heavy_minus_sign: |
-|2036 | [Maximum Alternating Subarray Sum](https://leetcode.com/problems/maximum-alternating-subarray-sum/)| Medium | [C#]() |✔️|
+|2036 | [Maximum Alternating Subarray Sum](https://leetcode.com/problems/maximum-alternating-subarray-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202036%20-%20MaximumAlternatingSubarraySum/MaximumAlternatingSubarraySum/MaximumAlternatingSubarraySum/Program.cs) |✔️|
 |2030 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
