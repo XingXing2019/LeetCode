@@ -2038,6 +2038,10 @@ LeetCode Algorithms with C#, Java and Python
 |2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202034%20-%20StockPriceFluctuation/StockPriceFluctuation/StockPriceFluctuation/Program.cs) |✔️|
 |2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)| Hard |  |:heavy_minus_sign: |
 |2036 | [Maximum Alternating Subarray Sum](https://leetcode.com/problems/maximum-alternating-subarray-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202036%20-%20MaximumAlternatingSubarraySum/MaximumAlternatingSubarraySum/MaximumAlternatingSubarraySum/Program.cs) |✔️|
-|2030 | []()|  | [C#]() |✔️|
+|2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202037%20-%20MinimumNumberOfMovesToSeatEveryone/MinimumNumberOfMovesToSeatEveryone/MinimumNumberOfMovesToSeatEveryone/Program.cs) |✔️|
+|2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202038%20-%20RemoveColoredPiecesIfBothNeighborsAreTheSameColor/RemoveColoredPieces/RemoveColoredPieces/Program.cs) |✔️|
+|2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202039%20-%20TheTimeWhenTheNetworkBecomesIdle/TheTimeWhenTheNetworkBecomesIdle/TheTimeWhenTheNetworkBecomesIdle/Program.cs) |✔️|
+|2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)| Hard |  |:heavy_minus_sign: |
+
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
