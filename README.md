@@ -2043,5 +2043,10 @@ LeetCode Algorithms with C#, Java and Python
 |2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202039%20-%20TheTimeWhenTheNetworkBecomesIdle/TheTimeWhenTheNetworkBecomesIdle/TheTimeWhenTheNetworkBecomesIdle/Program.cs) |✔️|
 |2040 | [Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)| Hard |  |:heavy_minus_sign: |
 |2041 | [Accepted Candidates From the Interviews]()| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202041%20-%20AcceptedCandidatesFromTheInterviews/AcceptedCandidatesFromTheInterviews_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202041%20-%20AcceptedCandidatesFromTheInterviews/AcceptedCandidatesFromTheInterviews_SQLServer.sql) |✔️|
+|2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202042%20-%20CheckIfNumbersAreAscendingInASentence/CheckIfNumbersAreAscendingInASentence/CheckIfNumbersAreAscendingInASentence/Program.cs) |✔️|
+|2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/Leetcode%202043%20-%20SimpleBankSystem/SimpleBankSystem/SimpleBankSystem/Program.cs) |✔️|
+|2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202044%20-%20CountNumberOfMaximumBitwiseORSubsets/CountNumberOfMaximumBitwiseORSubsets/CountNumberOfMaximumBitwiseORSubsets/Program.cs) |✔️|
+|2045 | [Second Minimum Time to Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/)| Hard |  |:heavy_minus_sign: |
+
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
