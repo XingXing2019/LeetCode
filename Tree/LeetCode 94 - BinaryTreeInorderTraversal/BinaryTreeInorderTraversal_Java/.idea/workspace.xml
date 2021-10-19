@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f0aca73-7019-4346-a470-46e430b938db" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Graph/LeetCode 2039 - TheTimeWhenTheNetworkBecomesIdle/TheTimeWhenTheNetworkBecomesIdle/.vs/TheTimeWhenTheNetworkBecomesIdle/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Graph/LeetCode 2039 - TheTimeWhenTheNetworkBecomesIdle/TheTimeWhenTheNetworkBecomesIdle/.vs/TheTimeWhenTheNetworkBecomesIdle/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Design/Leetcode 2043 - SimpleBankSystem/SimpleBankSystem/.vs/SimpleBankSystem/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Design/Leetcode 2043 - SimpleBankSystem/SimpleBankSystem/.vs/SimpleBankSystem/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../Graph/LeetCode 2045 - SecondMinimumTimeToReachDestination/SecondMinimumTimeToReachDestination_Java/src/com/company/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1zLn5jt42OZ61zDGww2WaJbY3xc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Graph/LeetCode 2045 - SecondMinimumTimeToReachDestination" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,5 +49,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../../Graph/LeetCode 2045 - SecondMinimumTimeToReachDestination/SecondMinimumTimeToReachDestination_Java/src/com/company/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
