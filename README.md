@@ -2051,8 +2051,7 @@ LeetCode Algorithms with C#, Java and Python
 |2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202047%20-%20NumberOfValidWordsInASentence/NumberOfValidWordsInASentence/NumberOfValidWordsInASentence/Program.cs) |✔️|
 |2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/)| Medium |  |:heavy_minus_sign: |
 |2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202049%20-%20CountNodesWithTheHighestScore/CountNodesWithTheHighestScore/CountNodesWithTheHighestScore/Program.cs) |✔️|
-|2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)| Hard |  |:heavy_minus_sign: |
-
+|2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202050%20-%20ParallelCoursesIII/ParallelCoursesIII/ParallelCoursesIII/Program.cs) |✔️|
 |2046 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
