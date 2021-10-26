@@ -2052,6 +2052,7 @@ LeetCode Algorithms with C#, Java and Python
 |2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/)| Medium |  |:heavy_minus_sign: |
 |2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202049%20-%20CountNodesWithTheHighestScore/CountNodesWithTheHighestScore/CountNodesWithTheHighestScore/Program.cs) |✔️|
 |2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202050%20-%20ParallelCoursesIII/ParallelCoursesIII/ParallelCoursesIII/Program.cs) |✔️|
+|2051 | [The Category of Each Member in the Store](https://leetcode.com/problems/the-category-of-each-member-in-the-store/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202051%20-%20TheCategoryOfEachMemberInTheStore/TheCategoryOfEachMemberInTheStore_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202051%20-%20TheCategoryOfEachMemberInTheStore/TheCategoryOfEachMemberInTheStore_SQLServer.sql) |✔️|
 |2046 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
