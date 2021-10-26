@@ -10,8 +10,8 @@ with conversion_rate as (
 select member_id, name, 
 case
 	when conversion_rate >= 80 then 'Diamond'
-    when conversion_rate >= 50 and conversion_rate < 80 then 'Gold'
-    when conversion_rate >= 0 and conversion_rate < 50 then 'Silver'
-    else 'Bronze'
+	when conversion_rate >= 50 and conversion_rate < 80 then 'Gold'
+	when conversion_rate >= 0 and conversion_rate < 50 then 'Silver'
+	else 'Bronze'
 end as category
 from conversion_rate
