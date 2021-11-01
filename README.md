@@ -1,5 +1,5 @@
 # LeetCode
-LeetCode Algorithms with C#, Java and Python
+LeetCode Algorithms with C#, Java, Python and JavaScript
 |No.|Question|Difficulty|Solution|Status|
 | --- | --- | --- | --- | --- |
 |1 | [Two Sum](https://leetcode.com/problems/two-sum/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201%20-%20TwoSum/TwoSum_C%23/TwoSum/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201%20-%20TwoSum/TwoSum_Java/src/com/company/Main.java), [Python](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201%20-%20TwoSum/TwoSum_Python/main.py), [JS](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%201%20-%20TwoSum/TwoSum_JS/TwoSum.js) |✔️|
