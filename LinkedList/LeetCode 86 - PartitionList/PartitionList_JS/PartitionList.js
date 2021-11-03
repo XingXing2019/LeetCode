@@ -11,11 +11,10 @@ var partition = function (head, x) {
     let small = new ListNode(), smallPoint = small;
     let large = new ListNode(), largePointer = large;
     while (head != null) {
-        if (head.val < x){
+        if (head.val < x) {
             smallPoint.next = head;
             smallPoint = smallPoint.next;
-        }
-        else{
+        } else {
             largePointer.next = head;
             largePointer = largePointer.next;
         }
