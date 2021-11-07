@@ -2066,7 +2066,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202062%20-%20CountVowelSubstringsOfAString/CountVowelSubstringsOfAString/CountVowelSubstringsOfAString/Program.cs) |✔️|
 |2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/)| Medium |  |:heavy_minus_sign: |
 |2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202064%20-%20MinimizedMaximumOfProductsDistributedToAnyStore/MinimizedMaximumOfProducts/MinimizedMaximumOfProducts/Program.cs) |✔️|
-|2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)| Hard |  |:heavy_minus_sign: |
+|2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202065%20-%20MaximumPathQualityOfAGraph/MaximumPathQualityOfAGraph/MaximumPathQualityOfAGraph/Program.cs) |✔️|
 |206 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
