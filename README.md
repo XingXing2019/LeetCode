@@ -2067,6 +2067,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/)| Medium |  |:heavy_minus_sign: |
 |2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202064%20-%20MinimizedMaximumOfProductsDistributedToAnyStore/MinimizedMaximumOfProducts/MinimizedMaximumOfProducts/Program.cs) |✔️|
 |2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202065%20-%20MaximumPathQualityOfAGraph/MaximumPathQualityOfAGraph/MaximumPathQualityOfAGraph/Program.cs) |✔️|
+|2066 | [Account Balance](https://leetcode.com/problems/account-balance/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202066%20-%20AccountBalance/AccountBalance_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202066%20-%20AccountBalance/AccountBalance_SQLServer.sql) |✔️|
 |206 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
