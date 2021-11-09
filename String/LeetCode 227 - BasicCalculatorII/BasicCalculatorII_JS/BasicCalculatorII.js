@@ -11,17 +11,14 @@
         if (!isNaN(s[i])) {
             num += s[i];
         } else {
-            if (operator == '+')
+            if (operator == '+' || operator == '')
                 stack.push(parseInt(num));
             else if (operator == '-')
                 stack.push(-parseInt(num));
             else if (operator == '*')
                 stack.push(parseInt(num) * stack.pop());
-            else if (operator == '/') {                        
+            else if (operator == '/')                       
                 stack.push(~~(stack.pop() / parseInt(num)));
-            }
-            else 
-                stack.push(parseInt(num));
             operator = s[i];
             num = '';
         }
