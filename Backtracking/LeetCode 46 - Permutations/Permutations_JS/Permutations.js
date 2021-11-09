@@ -14,7 +14,10 @@ var permute = function (nums) {
             path.push(nums[i]);
             dfs(nums, set, path, res);
             path.pop();
-            set.remove(nums[i]);
+            set.delete(nums[i]);
         }
     }
+    var res = [];
+    dfs(nums, new Set(), [], res);
+    return res;
 };
