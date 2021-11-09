@@ -6,10 +6,8 @@
 var combinationSum = function (candidates, target) {
     var dfs = function (candidates, target, start, nums, res){
         if (target < 0) return;
-        if (target == 0) {
-            var temp = [];
-            nums.forEach(x => { temp.push(x); });
-            res.push(temp);
+        if (target == 0) {            
+            res.push(nums.slice());
             return;
         }
         for (let i = start; i < candidates.length; i++) {
