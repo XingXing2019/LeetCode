@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VDgwq5y83kK2USUJiUPhf73g+pddRCrOahskuWNLm+1DM0ICpprzBypsaMO4YMIbFNx36pifcZGqncC9p8K9Ww==",
+  "dgSpecHash": "ywSORVexDb5g0WA2OlprBJQQMdL53iIOItPIXFoyBS9bPWXedbs9NhMNM7xh0nvwNqBqZoFFhyY9RZo38JtUcA==",
   "success": true,
   "projectFilePath": "D:\\C#\\LeetCode\\Array\\LeetCode 2055 - PlatesBetweenCandles\\PlatesBetweenCandles\\PlatesBetweenCandles\\PlatesBetweenCandles.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }

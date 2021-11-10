@@ -11,3 +11,4 @@ D:\C#\LeetCode\Array\LeetCode 2055 - PlatesBetweenCandles\PlatesBetweenCandles\P
 D:\C#\LeetCode\Array\LeetCode 2055 - PlatesBetweenCandles\PlatesBetweenCandles\PlatesBetweenCandles\obj\Debug\netcoreapp3.1\PlatesBetweenCandles.dll
 D:\C#\LeetCode\Array\LeetCode 2055 - PlatesBetweenCandles\PlatesBetweenCandles\PlatesBetweenCandles\obj\Debug\netcoreapp3.1\PlatesBetweenCandles.pdb
 D:\C#\LeetCode\Array\LeetCode 2055 - PlatesBetweenCandles\PlatesBetweenCandles\PlatesBetweenCandles\obj\Debug\netcoreapp3.1\PlatesBetweenCandles.genruntimeconfig.cache
+D:\C#\LeetCode\Array\LeetCode 2055 - PlatesBetweenCandles\PlatesBetweenCandles\PlatesBetweenCandles\obj\Debug\netcoreapp3.1\PlatesBetweenCandles.GeneratedMSBuildEditorConfig.editorconfig
