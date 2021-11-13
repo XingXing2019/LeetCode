@@ -7,14 +7,15 @@ namespace WalkingRobotSimulationII
     {
         static void Main(string[] args)
         {
-            var robot = new Robot(6, 3);
+            var robot = new Robot(2, 2);
 
-            robot.Move(13);
+            robot.Move(16);
         }
     }
 
     public class Robot
     {
+
         private int x;
         private int y;
         private int index;
@@ -26,6 +27,9 @@ namespace WalkingRobotSimulationII
 
         public void Move(int num)
         {
+            if (x == 0 && y == 0 && index % 4 == 0 && num % (dimension[0] * 2 + dimension[1] * 2 - 4) == 0)
+                index = 3;
+            num %= dimension[0] * 2 + dimension[1] * 2 - 4;
             var dir = new[] { new[] { 1, 0 }, new[] { 0, 1 }, new[] { -1, 0 }, new[] { 0, -1 } };
             if (index % 2 == 0)
             {
@@ -42,7 +46,7 @@ namespace WalkingRobotSimulationII
                     index++;
                 }
             }
-            else 
+            else
             {
                 if (index % 4 == 1 && num > dimension[index % 2] - y - 1)
                 {
@@ -57,10 +61,6 @@ namespace WalkingRobotSimulationII
                     index++;
                 }
             }
-
-            num %= dimension[0] + dimension[1];
-
-
             while (num > dimension[index % 2] - 1)
             {
                 num -= dimension[index % 2] - 1;
