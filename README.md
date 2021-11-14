@@ -2069,6 +2069,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2065 | [Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202065%20-%20MaximumPathQualityOfAGraph/MaximumPathQualityOfAGraph/MaximumPathQualityOfAGraph/Program.cs) |✔️|
 |2066 | [Account Balance](https://leetcode.com/problems/account-balance/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202066%20-%20AccountBalance/AccountBalance_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202066%20-%20AccountBalance/AccountBalance_SQLServer.sql) |✔️|
 |2067 | [Number of Equal Count Substrings](https://leetcode.com/problems/number-of-equal-count-substrings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202067%20-%20NumberOfEqualCountSubstrings/NumberOfEqualCountSubstrings/NumberOfEqualCountSubstrings/Program.cs) |✔️|
-|206 | []()|  | [C#]() |✔️|
+|2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202068%20-%20CheckWhetherTwoStringsAreAlmostEquivalent/CheckWhetherTwoStrings/CheckWhetherTwoStrings/Program.cs) |✔️|
+|2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202069%20-%20WalkingRobotSimulationII/WalkingRobotSimulationII/WalkingRobotSimulationII/Program.cs) |✔️|
+|2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202070%20-%20MostBeautifulItemForEachQuery/MostBeautifulItemForEachQuery/MostBeautifulItemForEachQuery/Program.cs) |✔️|
+|2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/)| Hard |  |:heavy_minus_sign: |
+|207 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
