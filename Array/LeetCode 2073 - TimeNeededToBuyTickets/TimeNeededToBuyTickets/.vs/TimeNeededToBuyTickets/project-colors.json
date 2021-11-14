@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55a661ce-3381-411c-bd8c-2bd2d71fd6e3": {
+      "ProjectGuid": "55a661ce-3381-411c-bd8c-2bd2d71fd6e3",
+      "DisplayName": "TimeNeededToBuyTickets",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
