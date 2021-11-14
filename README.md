@@ -2074,6 +2074,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202070%20-%20MostBeautifulItemForEachQuery/MostBeautifulItemForEachQuery/MostBeautifulItemForEachQuery/Program.cs) |✔️|
 |2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/)| Hard |  |:heavy_minus_sign: |
 |2072 | [The Winner University](https://leetcode.com/problems/the-winner-university/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202072%20-%20TheWinnerUniversity/TheWinnerUniversity_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202072%20-%20TheWinnerUniversity/TheWinnerUniversity_SQLServer.sql) |✔️|
-|207 | []()|  | [C#]() |✔️|
+|2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202073%20-%20TimeNeededToBuyTickets/TimeNeededToBuyTickets/TimeNeededToBuyTickets/Program.cs) |✔️|
+|2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202074%20-%20ReverseNodesInEvenLengthGroups/ReverseNodesInEvenLengthGroups/ReverseNodesInEvenLengthGroups/Program.cs) |✔️|
+|2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202075%20-%20DecodeTheSlantedCiphertext/DecodeTheSlantedCiphertext/DecodeTheSlantedCiphertext/Program.cs) |✔️|
+|2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)| Hard |  |:heavy_minus_sign: |
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
