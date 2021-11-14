@@ -2073,6 +2073,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202069%20-%20WalkingRobotSimulationII/WalkingRobotSimulationII/WalkingRobotSimulationII/Program.cs) |✔️|
 |2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202070%20-%20MostBeautifulItemForEachQuery/MostBeautifulItemForEachQuery/MostBeautifulItemForEachQuery/Program.cs) |✔️|
 |2071 | [Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/)| Hard |  |:heavy_minus_sign: |
+|2072 | [The Winner University](https://leetcode.com/problems/the-winner-university/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202072%20-%20TheWinnerUniversity/TheWinnerUniversity_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202072%20-%20TheWinnerUniversity/TheWinnerUniversity_SQLServer.sql) |✔️|
 |207 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
