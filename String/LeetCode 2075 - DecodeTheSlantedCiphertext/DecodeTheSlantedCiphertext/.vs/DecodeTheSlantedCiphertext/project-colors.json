@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9022319b-4fa4-4ac9-9e24-8d09acef8f82": {
+      "ProjectGuid": "9022319b-4fa4-4ac9-9e24-8d09acef8f82",
+      "DisplayName": "DecodeTheSlantedCiphertext",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
