@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9f04e63-bb4d-4049-b6fc-8586788e72d4": {
+      "ProjectGuid": "f9f04e63-bb4d-4049-b6fc-8586788e72d4",
+      "DisplayName": "KthSmallestNumber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
