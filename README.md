@@ -2078,5 +2078,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202074%20-%20ReverseNodesInEvenLengthGroups/ReverseNodesInEvenLengthGroups/ReverseNodesInEvenLengthGroups/Program.cs) |✔️|
 |2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202075%20-%20DecodeTheSlantedCiphertext/DecodeTheSlantedCiphertext/DecodeTheSlantedCiphertext/Program.cs) |✔️|
 |2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)| Hard |  |:heavy_minus_sign: |
+|2077 | [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202077%20-%20PathsInMazeThatLeadToSameRoom/PathsInMazeThatLeadToSameRoom/PathsInMazeThatLeadToSameRoom/Program.cs) |✔️|
+|2076 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
