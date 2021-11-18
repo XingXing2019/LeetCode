@@ -22,37 +22,43 @@ namespace PathsInMazeThatLeadToSameRoom
 
         public static int NumberOfPaths(int n, int[][] corridors)
         {
-            var graph = new HashSet<int>[n + 1];
+            var largeGraph = new HashSet<int>[n + 1];
+            var smallGraph = new HashSet<int>[n + 1];
             var res = 0;
             for (int i = 0; i < n + 1; i++)
-                graph[i] = new HashSet<int>();
+            {
+                largeGraph[i] = new HashSet<int>();
+                smallGraph[i] = new HashSet<int>();
+            }
             foreach (var corridor in corridors)
             {
-                graph[corridor[0]].Add(corridor[1]);
-                graph[corridor[1]].Add(corridor[0]);
+                int min = Math.Min(corridor[0], corridor[1]);
+                int max = Math.Max(corridor[0], corridor[1]);
+                largeGraph[min].Add(max);
+                smallGraph[max].Add(min);
             }
             for (int i = 1; i <= n; i++)
             {
                 var count = 0;
-                DFS(graph, 0, i, i, ref count);
-                res += count / 2;
+                DFS(largeGraph, smallGraph, 0, i, i, ref count);
+                res += count;
             }
-            return res / 3;
+            return res;
         }
 
-        public static void DFS(HashSet<int>[] graph, int length, int start, int cur, ref int count)
+        public static void DFS(HashSet<int>[] largeGraph, HashSet<int>[] smallGraph, int length, int start, int cur, ref int count)
         {
             if (length > 2)
                 return;
             if (length == 2)
             {
-                if (graph[cur].Contains(start))
+                if (smallGraph[cur].Contains(start))
                     count++;
                 return;
             }
-            foreach (var next in graph[cur])
+            foreach (var next in largeGraph[cur])
             {
-                DFS(graph, length + 1, start, next, ref count);
+                DFS(largeGraph, smallGraph, length + 1, start, next, ref count);
             }
         }
     }

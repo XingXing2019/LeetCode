@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4fc08a1-63c3-4bc2-accf-38014bed0006": {
+      "ProjectGuid": "a4fc08a1-63c3-4bc2-accf-38014bed0006",
+      "DisplayName": "PathsInMazeThatLeadToSameRoom",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
