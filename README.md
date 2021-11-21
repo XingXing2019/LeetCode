@@ -2079,6 +2079,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202075%20-%20DecodeTheSlantedCiphertext/DecodeTheSlantedCiphertext/DecodeTheSlantedCiphertext/Program.cs) |✔️|
 |2076 | [Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)| Hard |  |:heavy_minus_sign: |
 |2077 | [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202077%20-%20PathsInMazeThatLeadToSameRoom/PathsInMazeThatLeadToSameRoom/PathsInMazeThatLeadToSameRoom/Program.cs) |✔️|
-|2076 | []()|  | [C#]() |✔️|
+|2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202078%20-%20TwoFurthestHousesWithDifferentColors/TwoFurthestHouses/TwoFurthestHouses/Program.cs) |✔️|
+|2079 | [Watering Plants](https://leetcode.com/problems/watering-plants/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202079%20-%20WateringPlants/WateringPlants/WateringPlants/Program.cs) |✔️|
+|2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202080%20-%20RangeFrequencyQueries/RangeFrequencyQueries/RangeFrequencyQueries/Program.cs) |✔️|
+|2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/)| Hard |  |:heavy_minus_sign: |
+|208 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
