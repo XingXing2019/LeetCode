@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "587c388f-38a2-4b1b-beb7-9a468e756126": {
+      "ProjectGuid": "587c388f-38a2-4b1b-beb7-9a468e756126",
+      "DisplayName": "WateringPlants",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

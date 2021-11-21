@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeFrequencyQueries", "RangeFrequencyQueries\RangeFrequencyQueries.csproj", "{05ACC967-F773-41CF-B415-7B423AA236D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05ACC967-F773-41CF-B415-7B423AA236D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ACC967-F773-41CF-B415-7B423AA236D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ACC967-F773-41CF-B415-7B423AA236D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05ACC967-F773-41CF-B415-7B423AA236D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C82A6E1-BC32-462B-8EDE-94CD85B63537}
+	EndGlobalSection
+EndGlobal
