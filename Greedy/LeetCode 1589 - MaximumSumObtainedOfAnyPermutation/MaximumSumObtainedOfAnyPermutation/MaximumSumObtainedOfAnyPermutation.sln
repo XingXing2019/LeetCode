@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSumObtainedOfAnyPermutation", "MaximumSumObtainedOfAnyPermutation\MaximumSumObtainedOfAnyPermutation.csproj", "{742D8164-D152-49FA-A491-84D3FF6E94CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742D8164-D152-49FA-A491-84D3FF6E94CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742D8164-D152-49FA-A491-84D3FF6E94CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742D8164-D152-49FA-A491-84D3FF6E94CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742D8164-D152-49FA-A491-84D3FF6E94CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAFCEC90-2AF7-4511-8498-62154481FB6F}
+	EndGlobalSection
+EndGlobal
