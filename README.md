@@ -2083,6 +2083,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2079 | [Watering Plants](https://leetcode.com/problems/watering-plants/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202079%20-%20WateringPlants/WateringPlants/WateringPlants/Program.cs) |✔️|
 |2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202080%20-%20RangeFrequencyQueries/RangeFrequencyQueries/RangeFrequencyQueries/Program.cs) |✔️|
 |2081 | [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/)| Hard |  |:heavy_minus_sign: |
+|2082 | [The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202082%20-%20TheNumberOfRichCustomers/TheNumberOfRichCustomers_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202082%20-%20TheNumberOfRichCustomers/TheNumberOfRichCustomers_SQLServer.sql) |✔️|
 |208 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
