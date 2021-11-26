@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "742d8164-d152-49fa-a491-84d3ff6e94cb": {
+      "ProjectGuid": "742d8164-d152-49fa-a491-84d3ff6e94cb",
+      "DisplayName": "MaximumSumObtainedOfAnyPermutation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
