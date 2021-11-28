@@ -2093,7 +2093,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202089%20-%20FindTargetIndicesAfterSortingArray/FindTargetIndicesAfterSortingArray/FindTargetIndicesAfterSortingArray/Program.cs) |✔️|
 |2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202090%20-%20KRadiusSubarrayAverages/KRadiusSubarrayAverages/KRadiusSubarrayAverages/Program.cs) |✔️|
 |2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202091%20-%20RemovingMinimumAndMaximumFromArray/RemovingMinimumAndMaximumFromArray/RemovingMinimumAndMaximumFromArray/Program.cs) |✔️|
-|2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)| Hard |:heavy_minus_sign: |
+|2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)| Hard |  |:heavy_minus_sign: |
 |209 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
