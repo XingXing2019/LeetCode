@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "324c330f-a64d-4f55-9d42-cdf53b2ea82b": {
+      "ProjectGuid": "324c330f-a64d-4f55-9d42-cdf53b2ea82b",
+      "DisplayName": "MaximalRectangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
