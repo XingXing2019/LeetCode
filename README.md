@@ -2094,6 +2094,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202090%20-%20KRadiusSubarrayAverages/KRadiusSubarrayAverages/KRadiusSubarrayAverages/Program.cs) |✔️|
 |2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202091%20-%20RemovingMinimumAndMaximumFromArray/RemovingMinimumAndMaximumFromArray/RemovingMinimumAndMaximumFromArray/Program.cs) |✔️|
 |2092 | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)| Hard |  |:heavy_minus_sign: |
+|2093 | [Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202093%20-%20MinimumCostToReachCityWithDiscounts/MinimumCostToReachCityWithDiscounts_C%23/MinimumCostToReachCityWithDiscounts/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202093%20-%20MinimumCostToReachCityWithDiscounts/MinimumCostToReachCityWithDiscounts_Java/src/com/company/Main.java) |✔️|
 |209 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
