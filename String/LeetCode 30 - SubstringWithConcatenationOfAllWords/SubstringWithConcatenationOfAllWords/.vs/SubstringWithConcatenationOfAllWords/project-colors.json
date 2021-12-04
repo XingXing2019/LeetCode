@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d493f59e-dd45-41c9-9894-af3fe82db34d": {
+      "ProjectGuid": "d493f59e-dd45-41c9-9894-af3fe82db34d",
+      "DisplayName": "SubstringWithConcatenationOfAllWords",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
