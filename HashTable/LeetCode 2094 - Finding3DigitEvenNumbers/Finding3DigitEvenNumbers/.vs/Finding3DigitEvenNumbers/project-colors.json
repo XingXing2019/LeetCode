@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2b60ff7-94d7-4f58-bf2a-d4f5dd003355": {
+      "ProjectGuid": "d2b60ff7-94d7-4f58-bf2a-d4f5dd003355",
+      "DisplayName": "Finding3DigitEvenNumbers",
+      "ColorIndex": 0
+    },
+    "52af0076-c6fb-4aa9-8be6-1307d52b5200": {
+      "ProjectGuid": "52af0076-c6fb-4aa9-8be6-1307d52b5200",
+      "DisplayName": "DeleteTheMiddleNodeOfALinkedList",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

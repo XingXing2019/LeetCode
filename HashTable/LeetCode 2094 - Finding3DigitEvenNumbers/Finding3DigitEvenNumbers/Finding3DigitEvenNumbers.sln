@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding3DigitEvenNumbers", "Finding3DigitEvenNumbers\Finding3DigitEvenNumbers.csproj", "{D2B60FF7-94D7-4F58-BF2A-D4F5DD003355}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteTheMiddleNodeOfALinkedList", "..\..\..\LinkedList\LeetCode 2095 - DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList\DeleteTheMiddleNodeOfALinkedList.csproj", "{52AF0076-C6FB-4AA9-8BE6-1307D52B5200}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D2B60FF7-94D7-4F58-BF2A-D4F5DD003355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2B60FF7-94D7-4F58-BF2A-D4F5DD003355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B60FF7-94D7-4F58-BF2A-D4F5DD003355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52AF0076-C6FB-4AA9-8BE6-1307D52B5200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AF0076-C6FB-4AA9-8BE6-1307D52B5200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AF0076-C6FB-4AA9-8BE6-1307D52B5200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AF0076-C6FB-4AA9-8BE6-1307D52B5200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
