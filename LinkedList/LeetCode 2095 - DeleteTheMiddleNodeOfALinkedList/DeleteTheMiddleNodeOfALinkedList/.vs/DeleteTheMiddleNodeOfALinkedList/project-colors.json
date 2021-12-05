@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43ad15c3-3a09-4087-92ca-f2c238cc2119": {
+      "ProjectGuid": "43ad15c3-3a09-4087-92ca-f2c238cc2119",
+      "DisplayName": "DeleteTheMiddleNodeOfALinkedList",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
