@@ -14,7 +14,7 @@ namespace NthDigit
 
         public static int FindNthDigit(int n)
         {
-            var record = new long[9];
+            var record = new long[8];
             long pow = 1, li = 1, hi = n;
             for (int i = 0; i < record.Length; i++)
             {
@@ -29,7 +29,7 @@ namespace NthDigit
                 else li = mid + 1;
             }
             var left = (int)(n - Count(record, li - 1));
-            return left == 0 ? (li - 1).ToString()[^1] - '0' : li.ToString()[left - 1] - '0';
+            return (left == 0 ? (li - 1).ToString()[^1] : li.ToString()[left - 1]) - '0';
         }
 
         public static long Count(long[] record, long n)
