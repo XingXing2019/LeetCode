@@ -13,7 +13,7 @@ namespace NthMagicalNumber
         public static int NthMagicalNumber(int n, int a, int b)
         {
             var lcm = a * b / GCD(a, b);
-            long li = 0, hi = n * (a + b), mod = 1_000_000_000 + 7;
+            long li = 0, hi = long.MaxValue, mod = 1_000_000_000 + 7;
             while (li < hi)
             {
                 var mid = li + (hi - li) / 2;
@@ -23,7 +23,7 @@ namespace NthMagicalNumber
                 else
                     li = mid + 1;
             }
-            return (int) (li % mod);
+            return (int)(li % mod);
         }
 
         public static int GCD(int a, int b)
