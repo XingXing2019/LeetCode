@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FindSubsequenceOfLengthK
+build_property.ProjectDir = D:\C#\LeetCode\Array\LeetCode 2099 - FindSubsequenceOfLengthKWithTheLargestSum\FindSubsequenceOfLengthK\FindSubsequenceOfLengthK\
