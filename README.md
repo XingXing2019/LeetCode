@@ -2099,6 +2099,18 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202095%20-%20DeleteTheMiddleNodeOfALinkedList/DeleteTheMiddleNodeOfALinkedList/DeleteTheMiddleNodeOfALinkedList/Program.cs) |✔️|
 |2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202096%20-%20StepByStepDirectionsFromABinaryTreeNodeToAnother/StepByStepDirections_C%23/StepByStepDirections/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202096%20-%20StepByStepDirectionsFromABinaryTreeNodeToAnother/StepByStepDirections_Java/src/com/company/Main.java) |✔️|
 |2097 | [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/) | Hard |  |:heavy_minus_sign: |
-|209 | []()|  | [C#]() |✔️|
+|2098 | [Subsequence of Size K With the Largest Even Sum](https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202098%20-%20SubsequenceOfSizeKWithTheLargestEvenSum/SubsequenceOfSizeK/SubsequenceOfSizeK/Program.cs) |✔️|
+|2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202099%20-%20FindSubsequenceOfLengthKWithTheLargestSum/FindSubsequenceOfLengthK/FindSubsequenceOfLengthK/Program.cs) |✔️|
+|2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202100%20-%20FindGoodDaysToRobTheBank/FindGoodDaysToRobTheBank/FindGoodDaysToRobTheBank/Program.cs) |✔️|
+|2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202101%20-%20DetonateTheMaximumBombs/DetonateTheMaximumBombs/DetonateTheMaximumBombs/Program.cs) |✔️|
+|2102 | [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)| Hard |  |:heavy_minus_sign: |
+|2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/)| Easy | [C#]() |✔️|
+|2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)| Medium |  |:heavy_minus_sign: |
+|2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)| Medium |  |:heavy_minus_sign: |
+|2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)| Hard |  |:heavy_minus_sign: |
+|2107 | []()|  | [C#]() |✔️|
+|2108 | []()|  | [C#]() |✔️|
+|2109 | []()|  | [C#]() |✔️|
+|2110 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
