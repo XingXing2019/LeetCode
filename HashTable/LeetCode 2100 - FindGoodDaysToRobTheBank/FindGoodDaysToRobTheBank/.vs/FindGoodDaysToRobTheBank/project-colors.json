@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0fa067e-8e55-41d3-9c6c-11a2e3b3de5d": {
+      "ProjectGuid": "d0fa067e-8e55-41d3-9c6c-11a2e3b3de5d",
+      "DisplayName": "FindGoodDaysToRobTheBank",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
