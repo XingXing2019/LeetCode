@@ -2104,7 +2104,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202100%20-%20FindGoodDaysToRobTheBank/FindGoodDaysToRobTheBank/FindGoodDaysToRobTheBank/Program.cs) |✔️|
 |2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202101%20-%20DetonateTheMaximumBombs/DetonateTheMaximumBombs/DetonateTheMaximumBombs/Program.cs) |✔️|
 |2102 | [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)| Hard |  |:heavy_minus_sign: |
-|2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/)| Easy | [C#]() |✔️|
+|2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202103%20-%20RingsAndRods/RingsAndRods/RingsAndRods/Program.cs) |✔️|
 |2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)| Medium |  |:heavy_minus_sign: |
 |2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)| Medium |  |:heavy_minus_sign: |
 |2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)| Hard |  |:heavy_minus_sign: |
