@@ -2106,7 +2106,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2102 | [Sequentially Ordinal Rank Tracker](https://leetcode.com/problems/sequentially-ordinal-rank-tracker/)| Hard |  |:heavy_minus_sign: |
 |2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202103%20-%20RingsAndRods/RingsAndRods/RingsAndRods/Program.cs) |✔️|
 |2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)| Medium |  |:heavy_minus_sign: |
-|2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)| Medium |  |:heavy_minus_sign: |
+|2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202105%20-%20WateringPlantsII/WateringPlantsII/WateringPlantsII/Program.cs) |✔️|
 |2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)| Hard |  |:heavy_minus_sign: |
 |2107 | []()|  | [C#]() |✔️|
 |2108 | []()|  | [C#]() |✔️|
