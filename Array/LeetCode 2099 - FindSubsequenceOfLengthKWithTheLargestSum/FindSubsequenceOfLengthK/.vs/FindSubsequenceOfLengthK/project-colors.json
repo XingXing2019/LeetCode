@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86e3ea55-0b96-4564-8edd-80176b5a1237": {
+      "ProjectGuid": "86e3ea55-0b96-4564-8edd-80176b5a1237",
+      "DisplayName": "FindSubsequenceOfLengthK",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
