@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetonateTheMaximumBombs", "DetonateTheMaximumBombs\DetonateTheMaximumBombs.csproj", "{D11553E0-6DBD-4A02-B4B9-8655D296037A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11553E0-6DBD-4A02-B4B9-8655D296037A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11553E0-6DBD-4A02-B4B9-8655D296037A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11553E0-6DBD-4A02-B4B9-8655D296037A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11553E0-6DBD-4A02-B4B9-8655D296037A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4079280E-AEC1-4640-8592-B3826A2C7F20}
+	EndGlobalSection
+EndGlobal
