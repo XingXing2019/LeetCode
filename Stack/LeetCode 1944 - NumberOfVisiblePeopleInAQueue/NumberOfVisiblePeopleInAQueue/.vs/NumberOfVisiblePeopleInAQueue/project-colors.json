@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f9f2536b-9f4c-4469-9da2-9e97675d57d6": {
+      "ProjectGuid": "f9f2536b-9f4c-4469-9da2-9e97675d57d6",
+      "DisplayName": "NumberOfVisiblePeopleInAQueue",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
