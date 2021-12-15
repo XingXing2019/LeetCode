@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9de67cf3-0306-4006-a8ca-d62de818c6b7": {
+      "ProjectGuid": "9de67cf3-0306-4006-a8ca-d62de818c6b7",
+      "DisplayName": "SumOfSubarrayMinimums",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
