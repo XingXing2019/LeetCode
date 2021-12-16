@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfUniqueFlavors", "NumberOfUniqueFlavors\NumberOfUniqueFlavors.csproj", "{0A0F0E9E-6E04-4BE7-BFB6-886C3E8A9744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0F0E9E-6E04-4BE7-BFB6-886C3E8A9744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0F0E9E-6E04-4BE7-BFB6-886C3E8A9744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0F0E9E-6E04-4BE7-BFB6-886C3E8A9744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0F0E9E-6E04-4BE7-BFB6-886C3E8A9744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7FF429C-049F-43DA-B7CA-AB42BA49D11A}
+	EndGlobalSection
+EndGlobal
