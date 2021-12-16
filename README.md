@@ -2108,7 +2108,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/)| Medium |  |:heavy_minus_sign: |
 |2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202105%20-%20WateringPlantsII/WateringPlantsII/WateringPlantsII/Program.cs) |✔️|
 |2106 | [Maximum Fruits Harvested After at Most K Steps](https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/)| Hard |  |:heavy_minus_sign: |
-|2107 | []()|  | [C#]() |✔️|
+|2107 | [Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202107%20-%20NumberOfUniqueFlavorsAfterSharingKCandies/NumberOfUniqueFlavors/NumberOfUniqueFlavors/Program.cs) |✔️|
 |2108 | []()|  | [C#]() |✔️|
 |2109 | []()|  | [C#]() |✔️|
 |2110 | []()|  | [C#]() |✔️|
