@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a0f0e9e-6e04-4be7-bfb6-886c3e8a9744": {
+      "ProjectGuid": "0a0f0e9e-6e04-4be7-bfb6-886c3e8a9744",
+      "DisplayName": "NumberOfUniqueFlavors",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
