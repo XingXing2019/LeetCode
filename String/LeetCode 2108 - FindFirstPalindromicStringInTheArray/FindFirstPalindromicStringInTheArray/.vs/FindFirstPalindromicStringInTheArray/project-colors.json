@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "495dee08-d609-40d6-8e02-3b3e7d103930": {
+      "ProjectGuid": "495dee08-d609-40d6-8e02-3b3e7d103930",
+      "DisplayName": "FindFirstPalindromicStringInTheArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
