@@ -15,7 +15,7 @@ namespace ElementsInArray
                 new[] { 3, 2 },
                 new[] { 5, 0 }
             };
-            Console.WriteLine(ElementInNums(nums, queries));
+            Console.WriteLine(ElementInNums_O1(nums, queries));
         }
 
         public static int[] ElementInNums(int[] nums, int[][] queries)
@@ -36,6 +36,24 @@ namespace ElementsInArray
             {
                 int time = queries[i][0] % record.Length, index = queries[i][1];
                 res[i] = index < record[time].Count ? record[time][index] : -1;
+            }
+            return res;
+        }
+
+        public static int[] ElementInNums_O1(int[] nums, int[][] queries)
+        {
+            var record = new int[nums.Length * 2];
+            var res = new int[queries.Length];
+            for (int i = 0; i < record.Length; i++)
+                record[i] = i <= nums.Length ? i : i - nums.Length - 1;
+            for (int i = 0; i < queries.Length; i++)
+            {
+                var time = queries[i][0] % record.Length;
+                var index = queries[i][1];
+                if (time <= nums.Length)
+                    res[i] = index + record[time] < nums.Length ? nums[index + record[time]] : -1;
+                else
+                    res[i] = index <= record[time] ? nums[index] : -1;
             }
             return res;
         }

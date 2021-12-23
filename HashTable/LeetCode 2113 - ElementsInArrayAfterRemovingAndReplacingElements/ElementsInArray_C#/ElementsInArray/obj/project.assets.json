@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\LeetCode\\HashTable\\LeetCode 2113 - ElementsInArrayAfterRemovingAndReplacingElements\\ElementsInArray\\ElementsInArray\\ElementsInArray.csproj",
+      "projectUniqueName": "D:\\C#\\LeetCode\\HashTable\\LeetCode 2113 - ElementsInArrayAfterRemovingAndReplacingElements\\ElementsInArray_C#\\ElementsInArray\\ElementsInArray.csproj",
       "projectName": "ElementsInArray",
-      "projectPath": "D:\\C#\\LeetCode\\HashTable\\LeetCode 2113 - ElementsInArrayAfterRemovingAndReplacingElements\\ElementsInArray\\ElementsInArray\\ElementsInArray.csproj",
+      "projectPath": "D:\\C#\\LeetCode\\HashTable\\LeetCode 2113 - ElementsInArrayAfterRemovingAndReplacingElements\\ElementsInArray_C#\\ElementsInArray\\ElementsInArray.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\LeetCode\\HashTable\\LeetCode 2113 - ElementsInArrayAfterRemovingAndReplacingElements\\ElementsInArray\\ElementsInArray\\obj\\",
+      "outputPath": "D:\\C#\\LeetCode\\HashTable\\LeetCode 2113 - ElementsInArrayAfterRemovingAndReplacingElements\\ElementsInArray_C#\\ElementsInArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
