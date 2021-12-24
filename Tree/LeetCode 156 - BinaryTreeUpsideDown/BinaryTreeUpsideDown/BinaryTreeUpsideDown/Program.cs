@@ -28,6 +28,7 @@ namespace BinaryTreeUpsideDown
             a.right = c;
             Console.WriteLine(UpsideDownBinaryTree(a));
         }
+
         public static TreeNode UpsideDownBinaryTree(TreeNode root)
         {
             if (root == null) return null;
