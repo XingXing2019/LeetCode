@@ -2115,6 +2115,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2111 | [Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/)| Hard |  |:heavy_minus_sign: |
 |2112 | [The Airport With the Most Traffic](https://leetcode.com/problems/the-airport-with-the-most-traffic/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202112%20-%20TheAirportWithTheMostTraffic/TheAirportWithTheMostTraffic_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202112%20-%20TheAirportWithTheMostTraffic/TheAirportWithTheMostTraffic_SQLServer.sql) |✔️|
 |2113 | [Elements in Array After Removing and Replacing Elements](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202113%20-%20ElementsInArrayAfterRemovingAndReplacingElements/ElementsInArray_C%23/ElementsInArray/Program.cs), [JS](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202113%20-%20ElementsInArrayAfterRemovingAndReplacingElements/ElementsInArray_JS/ElementsInArray.js) |✔️|
+
 |2110 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
