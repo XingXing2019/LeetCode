@@ -2119,6 +2119,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202115%20-%20FindAllPossibleRecipesFromGivenSupplies/FindAllPossibleRecipes/FindAllPossibleRecipes/Program.cs) |✔️|
 |2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202116%20-%20CheckIfAParenthesesStringCanBeValid/CheckIfAParenthesesStringCanBeValid/CheckIfAParenthesesStringCanBeValid/Program.cs) |✔️|
 |2117 | [Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/)| Hard |  |:heavy_minus_sign: |
+|2118 | [Build the Equation](https://leetcode.com/problems/build-the-equation/)| Hard | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202118%20-%20BuildTheEquation/BuildTheEquation_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202118%20-%20BuildTheEquation/BuildTheEquation_SQLServer.sql) |✔️|
 |2110 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
