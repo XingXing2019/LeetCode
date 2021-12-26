@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b557358a-a536-4b20-95f5-74d9519a1440": {
+      "ProjectGuid": "b557358a-a536-4b20-95f5-74d9519a1440",
+      "DisplayName": "MaximumNumberOfWordsFoundInSentences",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
