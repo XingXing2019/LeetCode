@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntervalsBetweenIdenticalElements", "IntervalsBetweenIdenticalElements\IntervalsBetweenIdenticalElements.csproj", "{786C3D37-8389-4AC5-B3C5-10D26E9CB677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{786C3D37-8389-4AC5-B3C5-10D26E9CB677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786C3D37-8389-4AC5-B3C5-10D26E9CB677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786C3D37-8389-4AC5-B3C5-10D26E9CB677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786C3D37-8389-4AC5-B3C5-10D26E9CB677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5014D216-DB51-4B56-A18E-11D60D9FEC1A}
+	EndGlobalSection
+EndGlobal
