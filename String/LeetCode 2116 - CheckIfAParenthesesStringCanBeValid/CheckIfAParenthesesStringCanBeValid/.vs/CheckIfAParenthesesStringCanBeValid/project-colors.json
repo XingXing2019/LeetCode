@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "195507ad-cf75-4a25-97cc-7bb8994f8491": {
+      "ProjectGuid": "195507ad-cf75-4a25-97cc-7bb8994f8491",
+      "DisplayName": "CheckIfAParenthesesStringCanBeValid",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
