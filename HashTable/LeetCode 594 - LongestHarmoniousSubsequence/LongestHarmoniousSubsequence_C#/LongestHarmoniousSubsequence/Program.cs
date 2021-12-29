@@ -1,6 +1,7 @@
 ﻿//创建字典记录每个数字出现的次数。遍历字典，如果当前数字加一也在字典中，则有他们组成的子数组长度为两个数在字典中值的和。
 //无需考虑两个数字的位置，肯定有一个会在另一个之前出现。
 using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace LongestHarmoniousSubsequence
@@ -31,6 +32,12 @@ namespace LongestHarmoniousSubsequence
                 res = Math.Max(res, tem);
             }
             return res;
+        }
+
+        public int FindLHS_Linq(int[] nums)
+        {
+            var dict = nums.GroupBy(x => x).ToDictionary(x => x.Key, x => x.Count());
+            return nums.Max(x => dict.ContainsKey(x + 1) ? dict[x] + dict[x + 1] : 0);
         }
     }
 }
