@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "786c3d37-8389-4ac5-b3c5-10d26e9cb677": {
+      "ProjectGuid": "786c3d37-8389-4ac5-b3c5-10d26e9cb677",
+      "DisplayName": "IntervalsBetweenIdenticalElements",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
