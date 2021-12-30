@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c7e5ee2-acaf-4138-a8e8-28b2a48e3e96": {
+      "ProjectGuid": "7c7e5ee2-acaf-4138-a8e8-28b2a48e3e96",
+      "DisplayName": "LongestHarmoniousSubsequence",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
