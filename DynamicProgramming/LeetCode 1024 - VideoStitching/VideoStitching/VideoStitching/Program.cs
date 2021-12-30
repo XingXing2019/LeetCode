@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace VideoStitching
 {
@@ -24,34 +25,27 @@ namespace VideoStitching
 
             Console.WriteLine(VideoStitching(clips, T));
         }
-        static void Sort<T>(T[][] data, int col)
+        public int VideoStitching(int[][] clips, int time)
         {
-            Comparer<T> comparer = Comparer<T>.Default;
-            Array.Sort<T[]>(data, (x, y) => comparer.Compare(x[col], y[col]));
-        }
-        static int VideoStitching(int[][] clips, int T)
-        {
-            Sort<int>(clips, 1);
-            Sort<int>(clips, 0);
-            if (clips[0][0] != 0)
-                return -1;
-            int count = 1;
-            int fastest = clips[0][1];
-            for (int i = 1; i < clips.Length; i++)
+            clips = clips.OrderBy(x => x[0]).ThenByDescending(x => x[1]).ToArray();
+            if (clips[0][0] != 0) return -1;
+            if (clips[0][1] >= time) return 1;
+            var dp = new int[clips.Length][];
+            for (int i = 0; i < dp.Length; i++)
+                dp[i] = new int[2];
+            dp[0] = new[] { 1, clips[0][1] };
+            for (int i = 1; i < dp.Length; i++)
             {
-                if (clips[i][0] > fastest)
-                    return -1;
-                if (clips[i][0] <= fastest && clips[i][1] > fastest)
+                for (int j = 0; j < i; j++)
                 {
-                    count++;
-                    fastest = clips[i][1];
-                }
-                if (clips[i - 1][0] >= clips[i][0] && clips[i - 1][1] <= clips[i][1])
-                    count--;
-                if (fastest >= T)
+                    if (clips[i][0] > dp[j][1]) continue;
+                    dp[i] = new[] { dp[j][0] + 1, Math.Max(dp[j][1], clips[i][1]) };
+                    if (dp[i][1] >= time)
+                        return dp[i][0];
                     break;
+                }
             }
-            return count;
+            return -1;
         }
     }
 }

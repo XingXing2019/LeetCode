@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "211fe9c0-514a-4e76-a66a-5c8bf1baae23": {
+      "ProjectGuid": "211fe9c0-514a-4e76-a66a-5c8bf1baae23",
+      "DisplayName": "VideoStitching",
+      "ColorIndex": 0
+    },
+    "8de22ecb-9ec8-4748-99d5-2683ab2d8ae7": {
+      "ProjectGuid": "8de22ecb-9ec8-4748-99d5-2683ab2d8ae7",
+      "DisplayName": "VideoStitching",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

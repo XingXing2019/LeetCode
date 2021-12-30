@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "laJmGDZHY6nawpYCm4aRpvSTAh7Pl7ezmc31jLOC8Kxl1GUG+yJQYUTYrtrOlNLVL6xNMN6equIHLYNBXbeYZw==",
+  "dgSpecHash": "30Fel641a8r5DZh74kfQxJxYYAdsOxcvKFG1YnV1WQ+PUgbrRlmBH4Lx38B1Td1vqSN1QG44Rqijq7Oec8jnkQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1024 - VideoStitching\\VideoStitching\\VideoStitching\\VideoStitching.csproj",
+  "projectFilePath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1024 - VideoStitching\\VideoStitching\\VideoStitching\\VideoStitching.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

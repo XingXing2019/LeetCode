@@ -691,11 +691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1024 - VideoStitching\\VideoStitching\\VideoStitching\\VideoStitching.csproj",
+      "projectUniqueName": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1024 - VideoStitching\\VideoStitching\\VideoStitching\\VideoStitching.csproj",
       "projectName": "VideoStitching",
-      "projectPath": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1024 - VideoStitching\\VideoStitching\\VideoStitching\\VideoStitching.csproj",
+      "projectPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1024 - VideoStitching\\VideoStitching\\VideoStitching\\VideoStitching.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1024 - VideoStitching\\VideoStitching\\VideoStitching\\obj\\",
+      "outputPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1024 - VideoStitching\\VideoStitching\\VideoStitching\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -741,7 +741,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
