@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LeetCode\\DynamicProgramming\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\BurstBalloons.csproj": {}
+    "D:\\LeetCode\\DivideAndConquer\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\BurstBalloons.csproj": {}
   },
   "projects": {
-    "D:\\LeetCode\\DynamicProgramming\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\BurstBalloons.csproj": {
+    "D:\\LeetCode\\DivideAndConquer\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\BurstBalloons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LeetCode\\DynamicProgramming\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\BurstBalloons.csproj",
+        "projectUniqueName": "D:\\LeetCode\\DivideAndConquer\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\BurstBalloons.csproj",
         "projectName": "BurstBalloons",
-        "projectPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\BurstBalloons.csproj",
+        "projectPath": "D:\\LeetCode\\DivideAndConquer\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\BurstBalloons.csproj",
         "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-        "outputPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\obj\\",
+        "outputPath": "D:\\LeetCode\\DivideAndConquer\\LeetCode 312 - BurstBalloons\\BurstBalloons\\BurstBalloons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
