@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10a0c1ac-e5c8-4622-942e-9559800bc58c": {
+      "ProjectGuid": "10a0c1ac-e5c8-4622-942e-9559800bc58c",
+      "DisplayName": "NumberOfLaserBeamsInABank",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
