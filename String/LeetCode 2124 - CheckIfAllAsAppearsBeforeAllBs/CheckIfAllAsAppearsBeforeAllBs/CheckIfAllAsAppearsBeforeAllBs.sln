@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfAllAsAppearsBeforeAllBs", "CheckIfAllAsAppearsBeforeAllBs\CheckIfAllAsAppearsBeforeAllBs.csproj", "{FF26D772-C03A-44A2-8051-C0263EA7191B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF26D772-C03A-44A2-8051-C0263EA7191B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF26D772-C03A-44A2-8051-C0263EA7191B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF26D772-C03A-44A2-8051-C0263EA7191B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF26D772-C03A-44A2-8051-C0263EA7191B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F1A29B-DF3A-4040-BB9C-6AC3BE18A84C}
+	EndGlobalSection
+EndGlobal
