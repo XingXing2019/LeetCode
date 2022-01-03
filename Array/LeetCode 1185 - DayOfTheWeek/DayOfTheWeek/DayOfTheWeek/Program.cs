@@ -17,17 +17,7 @@ namespace DayOfTheWeek
         }
         static string DayOfTheWeek(int day, int month, int year)
         {
-            var days = new Dictionary<int, string>() { { 0, "Saturday" }, { 1, "Sunday" }, { 2, "Monday" }, { 3, "Tuesday" }, { 4, "Wednesday" }, { 5, "Thursday" }, { 6, "Friday" } };
-            int loopYear = year / 4;
-            int[] monthDays = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
-            int[] daySum = new int[13];
-            daySum[0] = 0;
-            for (int i = 1; i < daySum.Length; i++)
-                daySum[i] = daySum[i - 1] + monthDays[i - 1];
-            int totalDays = (year - 1) * 365 + loopYear + daySum[month - 1] + day;
-            if (year % 4 == 0 && month < 3)
-                totalDays--;
-            return days[totalDays % 7];
+            return new DateTime(year, month, day).DayOfWeek.ToString();
         }
     }
 }

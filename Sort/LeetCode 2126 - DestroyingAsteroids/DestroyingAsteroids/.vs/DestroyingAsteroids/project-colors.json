@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02ab6fee-70ac-432f-974d-14043817029c": {
+      "ProjectGuid": "02ab6fee-70ac-432f-974d-14043817029c",
+      "DisplayName": "DestroyingAsteroids",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

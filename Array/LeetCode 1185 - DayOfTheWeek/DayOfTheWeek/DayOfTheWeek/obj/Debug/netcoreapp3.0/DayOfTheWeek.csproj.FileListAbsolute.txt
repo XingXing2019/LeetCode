@@ -9,3 +9,17 @@ F:\C#\Algorithm\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj
 F:\C#\Algorithm\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.AssemblyInfo.cs
 F:\C#\Algorithm\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.dll
 F:\C#\Algorithm\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.pdb
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\bin\Debug\netcoreapp3.0\DayOfTheWeek.exe
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\bin\Debug\netcoreapp3.0\DayOfTheWeek.deps.json
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\bin\Debug\netcoreapp3.0\DayOfTheWeek.runtimeconfig.json
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\bin\Debug\netcoreapp3.0\DayOfTheWeek.runtimeconfig.dev.json
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\bin\Debug\netcoreapp3.0\DayOfTheWeek.dll
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\bin\Debug\netcoreapp3.0\DayOfTheWeek.pdb
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.csproj.AssemblyReference.cache
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.AssemblyInfoInputs.cache
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.AssemblyInfo.cs
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.csproj.CoreCompileInputs.cache
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.dll
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.pdb
+D:\LeetCode\Array\LeetCode 1185 - DayOfTheWeek\DayOfTheWeek\DayOfTheWeek\obj\Debug\netcoreapp3.0\DayOfTheWeek.genruntimeconfig.cache
