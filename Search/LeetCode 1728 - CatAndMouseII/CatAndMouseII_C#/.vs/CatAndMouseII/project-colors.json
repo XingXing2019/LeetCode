@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ad28d59-34d3-4fc2-aaaf-fe67b05e8aad": {
+      "ProjectGuid": "6ad28d59-34d3-4fc2-aaaf-fe67b05e8aad",
+      "DisplayName": "CatAndMouseII",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
