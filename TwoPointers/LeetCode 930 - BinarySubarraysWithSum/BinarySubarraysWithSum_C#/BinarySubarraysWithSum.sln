@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29418.71
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySubarraysWithSum", "BinarySubarraysWithSum\BinarySubarraysWithSum.csproj", "{3AA182EB-1418-467F-84D9-1DF9BC940543}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySubarraysWithSum", "BinarySubarraysWithSum\BinarySubarraysWithSum.csproj", "{399769C5-D0E3-4954-9B0A-B52265470174}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3AA182EB-1418-467F-84D9-1DF9BC940543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3AA182EB-1418-467F-84D9-1DF9BC940543}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3AA182EB-1418-467F-84D9-1DF9BC940543}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3AA182EB-1418-467F-84D9-1DF9BC940543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399769C5-D0E3-4954-9B0A-B52265470174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399769C5-D0E3-4954-9B0A-B52265470174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399769C5-D0E3-4954-9B0A-B52265470174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399769C5-D0E3-4954-9B0A-B52265470174}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D70D2758-0294-4A37-956A-3C6DB7C3B9B4}
+		SolutionGuid = {04068C0A-E632-4A00-B093-C109ADDBC93D}
 	EndGlobalSection
 EndGlobal

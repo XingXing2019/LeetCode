@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CitS1fwJaxj8DDdkQs/HwgCn/MmwmmOg+VruBApILbPL4jlMv/oZBnr/6Z8xGmbIrlaH6Zy32D9W1DZr4Z6pvg==",
+  "dgSpecHash": "iQNG/DXZMOCliCaRMdYRegOhEyxDcxJuGhSO21omEXx23Gi6pdkOFdTqQlDueHG6E6WF2ehUNI1spwdrpYdBag==",
   "success": true,
   "projectFilePath": "D:\\LeetCode\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum_C#\\BinarySubarraysWithSum\\BinarySubarraysWithSum.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
-    "C:\\Users\\61425\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\61425\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

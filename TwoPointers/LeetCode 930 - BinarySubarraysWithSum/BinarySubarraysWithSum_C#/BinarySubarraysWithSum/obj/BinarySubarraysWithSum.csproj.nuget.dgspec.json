@@ -1,34 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum\\BinarySubarraysWithSum\\BinarySubarraysWithSum.csproj": {}
+    "D:\\LeetCode\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum_C#\\BinarySubarraysWithSum\\BinarySubarraysWithSum.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum\\BinarySubarraysWithSum\\BinarySubarraysWithSum.csproj": {
+    "D:\\LeetCode\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum_C#\\BinarySubarraysWithSum\\BinarySubarraysWithSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum\\BinarySubarraysWithSum\\BinarySubarraysWithSum.csproj",
+        "projectUniqueName": "D:\\LeetCode\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum_C#\\BinarySubarraysWithSum\\BinarySubarraysWithSum.csproj",
         "projectName": "BinarySubarraysWithSum",
-        "projectPath": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum\\BinarySubarraysWithSum\\BinarySubarraysWithSum.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum\\BinarySubarraysWithSum\\obj\\",
+        "projectPath": "D:\\LeetCode\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum_C#\\BinarySubarraysWithSum\\BinarySubarraysWithSum.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\TwoPointers\\LeetCode 930 - BinarySubarraysWithSum\\BinarySubarraysWithSum_C#\\BinarySubarraysWithSum\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -39,7 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

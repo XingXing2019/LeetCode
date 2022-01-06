@@ -1,12 +1,9 @@
-﻿//创建字典记录数组中每个数字到数组头总和，和总和相同位置的个数。将字典中0的位置设为1，因为第一个数字之前的数字之和为0，所以初始情况总和为零的位置有1个。
-//创建sum计算总和。遍历数组，将当前数字加入sum。如果sum-S在字典中，证明当前数字之前有某些位置能与当前位置构成符合条件的数组。则将符合条件的位置的个数加入res。
-//如果sum存在于字典中，则令其位置个数加一，否则将其存入字典。
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace BinarySubarraysWithSum
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
