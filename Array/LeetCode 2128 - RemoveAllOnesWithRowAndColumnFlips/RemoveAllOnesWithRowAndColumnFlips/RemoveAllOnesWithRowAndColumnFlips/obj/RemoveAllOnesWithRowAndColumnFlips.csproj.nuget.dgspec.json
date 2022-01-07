@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LeetCode\\DivideAndConquer\\LeetCode 395 - LongestSubstringWithAtLeastKRepeatingCharacters\\LongestSubstring_C#\\LongestSubstring\\LongestSubstring.csproj": {}
+    "D:\\LeetCode\\Array\\LeetCode 2128 - RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips.csproj": {}
   },
   "projects": {
-    "D:\\LeetCode\\DivideAndConquer\\LeetCode 395 - LongestSubstringWithAtLeastKRepeatingCharacters\\LongestSubstring_C#\\LongestSubstring\\LongestSubstring.csproj": {
+    "D:\\LeetCode\\Array\\LeetCode 2128 - RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LeetCode\\DivideAndConquer\\LeetCode 395 - LongestSubstringWithAtLeastKRepeatingCharacters\\LongestSubstring_C#\\LongestSubstring\\LongestSubstring.csproj",
-        "projectName": "LongestSubstring",
-        "projectPath": "D:\\LeetCode\\DivideAndConquer\\LeetCode 395 - LongestSubstringWithAtLeastKRepeatingCharacters\\LongestSubstring_C#\\LongestSubstring\\LongestSubstring.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Array\\LeetCode 2128 - RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips.csproj",
+        "projectName": "RemoveAllOnesWithRowAndColumnFlips",
+        "projectPath": "D:\\LeetCode\\Array\\LeetCode 2128 - RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips.csproj",
         "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-        "outputPath": "D:\\LeetCode\\DivideAndConquer\\LeetCode 395 - LongestSubstringWithAtLeastKRepeatingCharacters\\LongestSubstring_C#\\LongestSubstring\\obj\\",
+        "outputPath": "D:\\LeetCode\\Array\\LeetCode 2128 - RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\RemoveAllOnesWithRowAndColumnFlips\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",

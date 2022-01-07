@@ -4,8 +4,10 @@
  * @return {number}
  */
 var longestSubstring = function (s, k) {
+  var res = 0
   var divideConquer = function (li, hi) {
     if (li > hi) return 0
+    if (hi - li + 1 <= res) return res
     var record = []
     for (let i = li; i <= hi; i++) {
       var index = s[i].charCodeAt() - 'a'.charCodeAt()
@@ -20,7 +22,9 @@ var longestSubstring = function (s, k) {
           divideConquer(record[i][0] + 1, hi)
         )
     }
+    res = Math.max(res, hi - li + 1)
     return hi - li + 1
   }
-  return divideConquer(0, s.length - 1)
+  divideConquer(0, s.length - 1)
+  return res
 }

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = LongestSubstring
+build_property.ProjectDir = D:\LeetCode\DivideAndConquer\LeetCode 395 - LongestSubstringWithAtLeastKRepeatingCharacters\LongestSubstring_C#\LongestSubstring\
