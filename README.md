@@ -2129,5 +2129,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202125%20-%20NumberOfLaserBeamsInABank/NumberOfLaserBeamsInABank/NumberOfLaserBeamsInABank/Program.cs) |✔️|
 |2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202126%20-%20DestroyingAsteroids/DestroyingAsteroids/DestroyingAsteroids/Program.cs) |✔️|
 |2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)| Hard |  |:heavy_minus_sign: |
+|2128 | [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202128%20-%20RemoveAllOnesWithRowAndColumnFlips/RemoveAllOnesWithRowAndColumnFlips_C%23/RemoveAllOnesWithRowAndColumnFlips/Program.cs) |✔️|
+|15 | []()|  |  |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
