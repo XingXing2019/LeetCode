@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aae06c71-e484-4f68-9f40-593ff0475ad8": {
+      "ProjectGuid": "aae06c71-e484-4f68-9f40-593ff0475ad8",
+      "DisplayName": "RemoveAllOnesWithRowAndColumnFlips",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
