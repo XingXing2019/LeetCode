@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c2309f8-2d60-4478-a3b8-3ecdcf2b7120": {
+      "ProjectGuid": "1c2309f8-2d60-4478-a3b8-3ecdcf2b7120",
+      "DisplayName": "CapitalizeTheTitle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

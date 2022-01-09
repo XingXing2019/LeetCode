@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumTwinSumOfALinkedList", "MaximumTwinSumOfALinkedList\MaximumTwinSumOfALinkedList.csproj", "{F683EA85-87E1-4CAC-A1B0-365A5496E790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F683EA85-87E1-4CAC-A1B0-365A5496E790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F683EA85-87E1-4CAC-A1B0-365A5496E790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F683EA85-87E1-4CAC-A1B0-365A5496E790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F683EA85-87E1-4CAC-A1B0-365A5496E790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCF3AC1-EB7F-4BAC-89B8-7563B985E7DA}
+	EndGlobalSection
+EndGlobal
