@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f683ea85-87e1-4cac-a1b0-365a5496e790": {
+      "ProjectGuid": "f683ea85-87e1-4cac-a1b0-365a5496e790",
+      "DisplayName": "MaximumTwinSumOfALinkedList",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
