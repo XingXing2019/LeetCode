@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d90a390-bfe8-431a-8e39-10207bee2a7d": {
+      "ProjectGuid": "5d90a390-bfe8-431a-8e39-10207bee2a7d",
+      "DisplayName": "LongestPalindrome",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
