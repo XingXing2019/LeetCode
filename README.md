@@ -2130,6 +2130,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202126%20-%20DestroyingAsteroids/DestroyingAsteroids/DestroyingAsteroids/Program.cs) |✔️|
 |2127 | [Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)| Hard |  |:heavy_minus_sign: |
 |2128 | [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202128%20-%20RemoveAllOnesWithRowAndColumnFlips/RemoveAllOnesWithRowAndColumnFlips_C%23/RemoveAllOnesWithRowAndColumnFlips/Program.cs) |✔️|
-|15 | []()|  |  |✔️|
+|2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202129%20-%20CapitalizeTheTitle/CapitalizeTheTitle/CapitalizeTheTitle/Program.cs) |✔️|
+|2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202130%20-%20MaximumTwinSumOfALinkedList/MaximumTwinSumOfALinkedList/MaximumTwinSumOfALinkedList/Program.cs) |✔️|
+|2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202131%20-%20LongestPalindromeByConcatenatingTwoLetterWords/LongestPalindrome_C%23/LongestPalindrome/Program.cs) |✔️|
+|2132 | [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)| Hard |  |:heavy_minus_sign: |
+|2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202133%20-%20CheckIfEveryRowAndColumnContainsAllNumbers/CheckIfEveryRowAndColumn/CheckIfEveryRowAndColumn/Program.cs) |✔️|
+|2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)| Medium |  |:heavy_minus_sign: |
+|2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)| Medium |  |:heavy_minus_sign: |
+|2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)| Hard |  |:heavy_minus_sign: |
+|213 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
