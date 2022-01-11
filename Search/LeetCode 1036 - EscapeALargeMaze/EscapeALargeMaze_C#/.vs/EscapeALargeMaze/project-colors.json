@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "53a274e3-1b37-4bfc-85bb-a8f24b6df5e1": {
+      "ProjectGuid": "53a274e3-1b37-4bfc-85bb-a8f24b6df5e1",
+      "DisplayName": "EscapeALargeMaze",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
