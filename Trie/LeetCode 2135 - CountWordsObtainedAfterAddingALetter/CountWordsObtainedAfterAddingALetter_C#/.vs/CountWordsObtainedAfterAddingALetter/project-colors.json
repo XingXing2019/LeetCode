@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11dbead0-718e-4b2f-995d-3c2849de00a5": {
+      "ProjectGuid": "11dbead0-718e-4b2f-995d-3c2849de00a5",
+      "DisplayName": "CountWordsObtainedAfterAddingALetter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
