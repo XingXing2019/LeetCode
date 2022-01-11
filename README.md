@@ -2136,7 +2136,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2132 | [Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)| Hard |  |:heavy_minus_sign: |
 |2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202133%20-%20CheckIfEveryRowAndColumnContainsAllNumbers/CheckIfEveryRowAndColumn/CheckIfEveryRowAndColumn/Program.cs) |✔️|
 |2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)| Medium |  |:heavy_minus_sign: |
-|2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)| Medium |  |:heavy_minus_sign: |
+|2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Trie/LeetCode%202135%20-%20CountWordsObtainedAfterAddingALetter/CountWordsObtainedAfterAddingALetter_C%23/CountWordsObtainedAfterAddingALetter/Program.cs) |✔️|
 |2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)| Hard |  |:heavy_minus_sign: |
 |213 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
