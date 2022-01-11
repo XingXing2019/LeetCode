@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a5b864c-9a06-41b0-b977-9dcd9443b751": {
+      "ProjectGuid": "7a5b864c-9a06-41b0-b977-9dcd9443b751",
+      "DisplayName": "CheckIfEveryRowAndColumn",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
