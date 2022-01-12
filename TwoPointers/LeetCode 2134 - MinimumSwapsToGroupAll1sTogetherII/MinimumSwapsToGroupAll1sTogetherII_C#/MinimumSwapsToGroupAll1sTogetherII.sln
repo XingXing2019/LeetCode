@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSwapsToGroupAll1sTogetherII", "MinimumSwapsToGroupAll1sTogetherII\MinimumSwapsToGroupAll1sTogetherII.csproj", "{4C124E47-CDE3-4175-BDCA-30E42A629B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C124E47-CDE3-4175-BDCA-30E42A629B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C124E47-CDE3-4175-BDCA-30E42A629B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C124E47-CDE3-4175-BDCA-30E42A629B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C124E47-CDE3-4175-BDCA-30E42A629B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F134B1-6B12-4D78-A099-6C26016EAFB2}
+	EndGlobalSection
+EndGlobal
