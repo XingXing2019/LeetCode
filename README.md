@@ -2138,6 +2138,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202134%20-%20MinimumSwapsToGroupAll1sTogetherII/MinimumSwapsToGroupAll1sTogetherII_C%23/MinimumSwapsToGroupAll1sTogetherII/Program.cs) |✔️|
 |2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Trie/LeetCode%202135%20-%20CountWordsObtainedAfterAddingALetter/CountWordsObtainedAfterAddingALetter_C%23/CountWordsObtainedAfterAddingALetter/Program.cs) |✔️|
 |2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)| Hard |  |:heavy_minus_sign: |
+|2137 | [Pour Water Between Buckets to Make Water Levels Equal](https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202137%20-%20PourWaterBetweenBucketsToMakeWaterLevelsEqual/PourWaterBetweenBuckets_C%23/PourWaterBetweenBuckets/Program.cs) |✔️|
 |213 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
