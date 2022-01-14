@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e4bb2b4-9d80-44f8-9260-32c653bf8b45": {
+      "ProjectGuid": "5e4bb2b4-9d80-44f8-9260-32c653bf8b45",
+      "DisplayName": "PourWaterBetweenBuckets",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
