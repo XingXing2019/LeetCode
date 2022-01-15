@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67/H4lbfb8pPyOFfQm1kYa+7e/B1ZiV9AJ/B5JrCLyRL0/SczpOJKeFSTjS4qY7JBC/C5U5eSAd9uNe7T27/lQ==",
+  "dgSpecHash": "XaEY6Igo3EntrW69d3YB+u1t0NIB5Lb1nFwzdNdhJ8IRxQOSF5SKXKmisQDV2bd91TSnlSqRgns9r/yMGg+5FA==",
   "success": true,
-  "projectFilePath": "D:\\LeetCode\\Heap\\LeetCode 786 - KthSmallestPrimeFraction\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction.csproj",
+  "projectFilePath": "D:\\LeetCode\\Heap\\LeetCode 786 - KthSmallestPrimeFraction\\KthSmallestPrimeFraction_C#\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

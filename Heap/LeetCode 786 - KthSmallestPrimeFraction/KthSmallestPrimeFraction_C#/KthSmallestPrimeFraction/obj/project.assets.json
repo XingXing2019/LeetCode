@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Heap\\LeetCode 786 - KthSmallestPrimeFraction\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Heap\\LeetCode 786 - KthSmallestPrimeFraction\\KthSmallestPrimeFraction_C#\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction.csproj",
       "projectName": "KthSmallestPrimeFraction",
-      "projectPath": "D:\\LeetCode\\Heap\\LeetCode 786 - KthSmallestPrimeFraction\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction.csproj",
+      "projectPath": "D:\\LeetCode\\Heap\\LeetCode 786 - KthSmallestPrimeFraction\\KthSmallestPrimeFraction_C#\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Heap\\LeetCode 786 - KthSmallestPrimeFraction\\KthSmallestPrimeFraction\\KthSmallestPrimeFraction\\obj\\",
+      "outputPath": "D:\\LeetCode\\Heap\\LeetCode 786 - KthSmallestPrimeFraction\\KthSmallestPrimeFraction_C#\\KthSmallestPrimeFraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
