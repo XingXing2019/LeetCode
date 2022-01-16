@@ -2144,5 +2144,5 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202140%20-%20SolvingQuestionsWithBrainpower/SolvingQuestionsWithBrainpower_C%23/SolvingQuestionsWithBrainpower/Program.cs) |✔️|
 |2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)| Hard |  |:heavy_minus_sign: |
 |214 | []()|  | [C#]() |✔️|
-|15 | []()|  | [MySQL](), [SQLServer]() |✔️|
-|15 | []()|  |  |:heavy_minus_sign: |
+|214 | []()|  | [MySQL](), [SQLServer]() |✔️|
+|214 | []()|  |  |:heavy_minus_sign: |
