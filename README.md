@@ -2139,6 +2139,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Trie/LeetCode%202135%20-%20CountWordsObtainedAfterAddingALetter/CountWordsObtainedAfterAddingALetter_C%23/CountWordsObtainedAfterAddingALetter/Program.cs) |✔️|
 |2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)| Hard |  |:heavy_minus_sign: |
 |2137 | [Pour Water Between Buckets to Make Water Levels Equal](https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202137%20-%20PourWaterBetweenBucketsToMakeWaterLevelsEqual/PourWaterBetweenBuckets_C%23/PourWaterBetweenBuckets/Program.cs) |✔️|
-|213 | []()|  | [C#]() |✔️|
+|2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202138%20-%20DivideAStringIntoGroupsOfSizek/DivideAStringIntoGroupsOfSizeK_C%23/DivideAStringIntoGroupsOfSizek/Program.cs) |✔️|
+|2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202139%20-%20MinimumMovesToReachTargetScore/MinimumMovesToReachTargetScore_C%23/MinimumMovesToReachTargetScore/Program.cs) |✔️|
+|2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202140%20-%20SolvingQuestionsWithBrainpower/SolvingQuestionsWithBrainpower_C%23/SolvingQuestionsWithBrainpower/Program.cs) |✔️|
+|2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)| Hard |  |:heavy_minus_sign: |
+|214 | []()|  | [C#]() |✔️|
 |15 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |15 | []()|  |  |:heavy_minus_sign: |
