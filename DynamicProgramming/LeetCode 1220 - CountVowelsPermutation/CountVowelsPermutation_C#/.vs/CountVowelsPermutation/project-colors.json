@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "951caf31-442d-4cde-a8a8-9d70fabce073": {
+      "ProjectGuid": "951caf31-442d-4cde-a8a8-9d70fabce073",
+      "DisplayName": "CountVowelsPermutation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
