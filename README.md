@@ -2143,6 +2143,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202139%20-%20MinimumMovesToReachTargetScore/MinimumMovesToReachTargetScore_C%23/MinimumMovesToReachTargetScore/Program.cs) |✔️|
 |2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202140%20-%20SolvingQuestionsWithBrainpower/SolvingQuestionsWithBrainpower_C%23/SolvingQuestionsWithBrainpower/Program.cs) |✔️|
 |2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)| Hard |  |:heavy_minus_sign: |
+|2142 | [The Number of Passengers in Each Bus I](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202142%20-%20TheNumberOfPassengersInEachBusI/TheNumberOfPassengersInEachBusI_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202142%20-%20TheNumberOfPassengersInEachBusI/TheNumberOfPassengersInEachBusI_SQLServer.sql) |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
