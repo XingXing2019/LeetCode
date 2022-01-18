@@ -17,4 +17,18 @@ passenger_count as (
 select bus_id, passengers_cnt
 from passenger_count
 where bus_rank = 1
-order by bus_id
+order by bus_id;
+
+with bus_passenger as (
+	select p.passenger_id, min(b.arrival_time) as arrival_time
+	from buses b join passengers p
+	on b.arrival_time >= p.arrival_time
+	group by p.passenger_id
+)
+
+select b.bus_id, count(bp.passenger_id) as passengers_cnt
+from buses b
+left join bus_passenger bp
+on b.arrival_time = bp.arrival_time
+group by b.bus_id
+order by b.bus_id
