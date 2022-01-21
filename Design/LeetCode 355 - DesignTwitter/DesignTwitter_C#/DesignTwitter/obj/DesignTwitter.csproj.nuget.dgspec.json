@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\HashTable\\LeetCode 355 - DesignTwitter\\DesignTwitter\\DesignTwitter\\DesignTwitter.csproj": {}
+    "D:\\LeetCode\\Design\\LeetCode 355 - DesignTwitter\\DesignTwitter_C#\\DesignTwitter\\DesignTwitter.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\HashTable\\LeetCode 355 - DesignTwitter\\DesignTwitter\\DesignTwitter\\DesignTwitter.csproj": {
+    "D:\\LeetCode\\Design\\LeetCode 355 - DesignTwitter\\DesignTwitter_C#\\DesignTwitter\\DesignTwitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\HashTable\\LeetCode 355 - DesignTwitter\\DesignTwitter\\DesignTwitter\\DesignTwitter.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Design\\LeetCode 355 - DesignTwitter\\DesignTwitter_C#\\DesignTwitter\\DesignTwitter.csproj",
         "projectName": "DesignTwitter",
-        "projectPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 355 - DesignTwitter\\DesignTwitter\\DesignTwitter\\DesignTwitter.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 355 - DesignTwitter\\DesignTwitter\\DesignTwitter\\obj\\",
+        "projectPath": "D:\\LeetCode\\Design\\LeetCode 355 - DesignTwitter\\DesignTwitter_C#\\DesignTwitter\\DesignTwitter.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\Design\\LeetCode 355 - DesignTwitter\\DesignTwitter_C#\\DesignTwitter\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

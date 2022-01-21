@@ -9,3 +9,17 @@ F:\C#\Algorithm\HashTable\LeetCode 355 - DesignTwitter\DesignTwitter\DesignTwitt
 F:\C#\Algorithm\HashTable\LeetCode 355 - DesignTwitter\DesignTwitter\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.AssemblyInfo.cs
 F:\C#\Algorithm\HashTable\LeetCode 355 - DesignTwitter\DesignTwitter\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.dll
 F:\C#\Algorithm\HashTable\LeetCode 355 - DesignTwitter\DesignTwitter\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.pdb
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\bin\Debug\netcoreapp3.1\DesignTwitter.exe
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\bin\Debug\netcoreapp3.1\DesignTwitter.deps.json
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\bin\Debug\netcoreapp3.1\DesignTwitter.runtimeconfig.json
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\bin\Debug\netcoreapp3.1\DesignTwitter.runtimeconfig.dev.json
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\bin\Debug\netcoreapp3.1\DesignTwitter.dll
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\bin\Debug\netcoreapp3.1\DesignTwitter.pdb
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.csproj.AssemblyReference.cache
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.AssemblyInfoInputs.cache
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.AssemblyInfo.cs
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.csproj.CoreCompileInputs.cache
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.dll
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.pdb
+D:\LeetCode\Design\LeetCode 355 - DesignTwitter\DesignTwitter_C#\DesignTwitter\obj\Debug\netcoreapp3.1\DesignTwitter.genruntimeconfig.cache
