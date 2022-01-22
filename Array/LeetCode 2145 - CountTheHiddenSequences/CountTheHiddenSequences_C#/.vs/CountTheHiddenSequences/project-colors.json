@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9febeb10-48d5-47cd-9252-849f610b7b4a": {
+      "ProjectGuid": "9febeb10-48d5-47cd-9252-849f610b7b4a",
+      "DisplayName": "CountTheHiddenSequences",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
