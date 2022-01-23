@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CountElements
+build_property.ProjectDir = D:\LeetCode\HashTable\LeetCode 2148 - CountElementsWithStrictlySmallerAndGreaterElements\CountElements\CountElements\
