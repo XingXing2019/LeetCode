@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffdb09f7-1bb4-4e9c-b79c-81a6f3f360b4": {
+      "ProjectGuid": "ffdb09f7-1bb4-4e9c-b79c-81a6f3f360b4",
+      "DisplayName": "KHighestRankedItemsWithinAPriceRange",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
