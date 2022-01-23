@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea17e6f8-8cdd-480a-ba60-ff0294d96a3d": {
+      "ProjectGuid": "ea17e6f8-8cdd-480a-ba60-ff0294d96a3d",
+      "DisplayName": "FindAllLonelyNumbersInTheArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
