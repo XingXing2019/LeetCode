@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ad7f02b-d26a-4e99-8682-9229970e38d6": {
+      "ProjectGuid": "2ad7f02b-d26a-4e99-8682-9229970e38d6",
+      "DisplayName": "SecondMinimumTimeToReachDestination",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
