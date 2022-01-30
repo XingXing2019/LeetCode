@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99ac9617-6878-4df5-be15-097beb14375a": {
+      "ProjectGuid": "99ac9617-6878-4df5-be15-097beb14375a",
+      "DisplayName": "AllDivisionsWithTheHighestScore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
