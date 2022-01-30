@@ -26,15 +26,15 @@ cte as (
 		if(capacity < passenger_count, passenger_count - capacity, 0) as leftover
 	from passenger_count
 	where order_id = 1
-    union all
-    select 
+	union all
+	select 
 		p.bus_id,
 		p.order_id,
 		if(p.capacity >= p.passenger_count + leftover, p.passenger_count + leftover, p.capacity) as number,
 		if(p.capacity < p.passenger_count + leftover, p.passenger_count + leftover - p.capacity, 0) as leftover
 	from passenger_count p
-    join cte c
-    on p.order_id = c.order_id + 1
+	join cte c
+	on p.order_id = c.order_id + 1
 )
 
 select bus_id, number as passengers_cnt from cte
