@@ -2153,6 +2153,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202149%20-%20RearrangeArrayElementsBySign/RearrangeArrayElementsBySign_C%23/RearrangeArrayElementsBySign/Program.cs) |✔️|
 |2150 | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202150%20-%20FindAllLonelyNumbersInTheArray/FindAllLonelyNumbersInTheArray_C%23/FindAllLonelyNumbersInTheArray/Program.cs) |✔️|
 |2151 | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)| Hard |  |:heavy_minus_sign: |
-|215 | []()|  | [C#]() |✔️|
+|2152 | [Minimum Number of Lines to Cover Points](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/)| Medium |  |:heavy_minus_sign: |
+|2153 | [The Number of Passengers in Each Bus II](https://leetcode.com/problems/the-number-of-passengers-in-each-bus-ii/)| Hard |  |:heavy_minus_sign: |
+|2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)| Easy |  |:heavy_minus_sign: |
+|2155 | [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/)| Medium |  |:heavy_minus_sign: |
+|2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/)| Medium |  |:heavy_minus_sign: |
+|2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings/)| Hard |  |:heavy_minus_sign: |
+|2158 | []()|  | [C#]() |✔️|
+|2159 | []()|  | [C#]() |✔️|
+|2160 | []()|  | [C#]() |✔️|
 |214 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
