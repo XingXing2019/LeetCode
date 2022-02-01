@@ -13,8 +13,7 @@ namespace NumberOfAtoms
         }
         public static string CountOfAtoms(string formula)
         {
-            var newFormula = GenerateFormula(formula);
-            var dict = Count(newFormula);
+            var dict = Count(GenerateFormula(formula) + 'A');
             return string.Join("", dict.OrderBy(x => x.Key).Select(x => x.Key + (x.Value == 1 ? string.Empty : x.Value.ToString())));
         }
 
@@ -49,29 +48,21 @@ namespace NumberOfAtoms
             var dict = new Dictionary<string, int>();
             foreach (var l in formula)
             {
-                if (char.IsLetter(l))
-                {
-                    if (char.IsUpper(l))
-                    {
-                        if (element.Length != 0)
-                        {
-                            if (!dict.ContainsKey(element.ToString()))
-                                dict[element.ToString()] = 0;
-                            dict[element.ToString()] += Math.Max(1, count);
-                            count = 0;
-                            element = new StringBuilder();
-                        }
-                        element.Append(l);
-                    }
-                    else
-                        element.Append(l);
-                }
-                else
+                if (char.IsDigit(l))
                     count = count * 10 + (l - '0');
+                else
+                {
+                    if (char.IsUpper(l) && element.Length != 0)
+                    {
+                        if (!dict.ContainsKey(element.ToString()))
+                            dict[element.ToString()] = 0;
+                        dict[element.ToString()] += Math.Max(1, count);
+                        count = 0;
+                        element = new StringBuilder();
+                    }
+                    element.Append(l);
+                }
             }
-            if (!dict.ContainsKey(element.ToString()))
-                dict[element.ToString()] = 0;
-            dict[element.ToString()] += Math.Max(1, count);
             return dict;
         }
     }

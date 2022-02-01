@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms\\NumberOfAtoms\\NumberOfAtoms.csproj": {}
+    "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms_C#\\NumberOfAtoms\\NumberOfAtoms.csproj": {}
   },
   "projects": {
-    "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms\\NumberOfAtoms\\NumberOfAtoms.csproj": {
+    "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms_C#\\NumberOfAtoms\\NumberOfAtoms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms\\NumberOfAtoms\\NumberOfAtoms.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms_C#\\NumberOfAtoms\\NumberOfAtoms.csproj",
         "projectName": "NumberOfAtoms",
-        "projectPath": "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms\\NumberOfAtoms\\NumberOfAtoms.csproj",
+        "projectPath": "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms_C#\\NumberOfAtoms\\NumberOfAtoms.csproj",
         "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-        "outputPath": "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms\\NumberOfAtoms\\obj\\",
+        "outputPath": "D:\\LeetCode\\Stack\\LeetCode 726 - NumberOfAtoms\\NumberOfAtoms_C#\\NumberOfAtoms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
