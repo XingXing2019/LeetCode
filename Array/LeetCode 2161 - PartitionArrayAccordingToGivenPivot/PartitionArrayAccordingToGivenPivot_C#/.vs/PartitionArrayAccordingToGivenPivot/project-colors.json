@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3040bba8-3f97-4956-af0a-e61d125064c4": {
+      "ProjectGuid": "3040bba8-3f97-4956-af0a-e61d125064c4",
+      "DisplayName": "PartitionArrayAccordingToGivenPivot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
