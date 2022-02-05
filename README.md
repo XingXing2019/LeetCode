@@ -2159,7 +2159,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2155 | [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202155%20-%20AllDivisionsWithTheHighestScoreOfABinaryArray/AllDivisionsWithTheHighestScore_C%23/AllDivisionsWithTheHighestScore/Program.cs) |✔️|
 |2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202156%20-%20FindSubstringWithGivenHashValue/FindSubstringWithGivenHashValue/FindSubstringWithGivenHashValue/Program.cs) |✔️|
 |2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings/)| Hard |  |:heavy_minus_sign: |
-|2158 | []()|  | [C#]() |✔️|
+|2158 | [Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/)| Hard |  |:heavy_minus_sign: |
+|2159 | [Order Two Columns Independently](https://leetcode.com/problems/order-two-columns-independently/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202159%20-%20OrderTwoColumnsIndependently/OrderTwoColumnsIndependently_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202159%20-%20OrderTwoColumnsIndependently/OrderTwoColumnsIndependently_SQLServer.sql) |✔️|
 |2159 | []()|  | [C#]() |✔️|
 |2160 | []()|  | [C#]() |✔️|
 |214 | []()|  | [MySQL](), [SQLServer]() |✔️|
