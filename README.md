@@ -2161,7 +2161,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2157 | [Groups of Strings](https://leetcode.com/problems/groups-of-strings/)| Hard |  |:heavy_minus_sign: |
 |2158 | [Amount of New Area Painted Each Day](https://leetcode.com/problems/amount-of-new-area-painted-each-day/)| Hard |  |:heavy_minus_sign: |
 |2159 | [Order Two Columns Independently](https://leetcode.com/problems/order-two-columns-independently/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202159%20-%20OrderTwoColumnsIndependently/OrderTwoColumnsIndependently_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202159%20-%20OrderTwoColumnsIndependently/OrderTwoColumnsIndependently_SQLServer.sql) |✔️|
-|2159 | []()|  | [C#]() |✔️|
-|2160 | []()|  | [C#]() |✔️|
+|2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202160%20-%20MinimumSumOfFourDigitNumberAfterSplittingDigits/MinimumSum_C%23/MinimumSum/Program.cs) |✔️|
+|2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202161%20-%20PartitionArrayAccordingToGivenPivot/PartitionArrayAccordingToGivenPivot_C%23/PartitionArrayAccordingToGivenPivot/Program.cs) |✔️|
+|2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202162%20-%20MinimumCostToSetCookingTime/MinimumCostToSetCookingTime/MinimumCostToSetCookingTime/Program.cs) |✔️|
+|2163 | [Minimum Difference in Sums After Removal of Elements](https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/)| Hard |  |:heavy_minus_sign: |
+|216 | []()|  | [C#]() |✔️|
 |214 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
