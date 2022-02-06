@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5f42ca7-cf93-476c-92b1-a25b988d857a": {
+      "ProjectGuid": "b5f42ca7-cf93-476c-92b1-a25b988d857a",
+      "DisplayName": "MinimumCostToSetCookingTime",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
