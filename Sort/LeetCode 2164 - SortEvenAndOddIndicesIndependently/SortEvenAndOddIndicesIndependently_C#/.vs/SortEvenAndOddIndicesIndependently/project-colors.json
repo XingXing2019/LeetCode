@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a87075dc-0b0f-4dc3-98cf-abfda742e83d": {
+      "ProjectGuid": "a87075dc-0b0f-4dc3-98cf-abfda742e83d",
+      "DisplayName": "SortEvenAndOddIndicesIndependently",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
