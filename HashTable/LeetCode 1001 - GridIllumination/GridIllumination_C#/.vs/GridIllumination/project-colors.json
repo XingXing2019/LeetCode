@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eba72501-9948-4fad-8ff0-9eddeeb57ddd": {
+      "ProjectGuid": "eba72501-9948-4fad-8ff0-9eddeeb57ddd",
+      "DisplayName": "GridIllumination",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
