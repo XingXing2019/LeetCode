@@ -2169,6 +2169,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202165%20-%20SmallestValueOfTheRearrangedNumber/SmallestValueOfTheRearrangedNumber_C%23/SmallestValueOfTheRearrangedNumber/Program.cs) |✔️|
 |2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202166%20-%20DesignBitset/DesignBitset_C%23/DesignBitset/Program.cs) |✔️|
 |2167 | [Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/)| Hard |  |:heavy_minus_sign: |
+|2168 | [Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202168%20-%20UniqueSubstringsWithEqualDigitFrequency/UniqueSubstrings_C%23/UniqueSubstrings/Program.cs) |✔️|
 |216 | []()|  | [C#]() |✔️|
 |214 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
