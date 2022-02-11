@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "096b078d-c7c6-418e-8a95-dfba9a754ec5": {
+      "ProjectGuid": "096b078d-c7c6-418e-8a95-dfba9a754ec5",
+      "DisplayName": "MaximumNumberOfTasksYouCanAssign",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
