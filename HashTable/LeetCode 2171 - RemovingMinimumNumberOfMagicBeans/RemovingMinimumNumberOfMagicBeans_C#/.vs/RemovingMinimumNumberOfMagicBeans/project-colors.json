@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "761e19b5-278a-40b4-a821-c0a8e5fdb55c": {
+      "ProjectGuid": "761e19b5-278a-40b4-a821-c0a8e5fdb55c",
+      "DisplayName": "RemovingMinimumNumberOfMagicBeans",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
