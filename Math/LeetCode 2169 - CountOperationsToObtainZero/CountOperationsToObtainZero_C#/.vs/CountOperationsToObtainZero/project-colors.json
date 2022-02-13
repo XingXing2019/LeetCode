@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9fa82e6-7d30-408c-a2de-65ced8ca9c6f": {
+      "ProjectGuid": "c9fa82e6-7d30-408c-a2de-65ced8ca9c6f",
+      "DisplayName": "CountOperationsToObtainZero",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
