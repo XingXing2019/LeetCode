@@ -19,4 +19,12 @@ var singleNonDuplicate = function (nums) {
         }
     }
     return nums[hi];
-};
+}
+
+var singleNonDuplicate2 = function (nums) {
+    var res = 0
+    nums.forEach(num => {
+        res ^= num
+    })
+    return res
+}
