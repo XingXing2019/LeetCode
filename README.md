@@ -2174,6 +2174,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202170%20-%20MinimumOperationsToMakeTheArrayAlternating/MinimumOperations_C%23/MinimumOperations/Program.cs) |✔️|
 |2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202171%20-%20RemovingMinimumNumberOfMagicBeans/RemovingMinimumNumberOfMagicBeans_C%23/RemovingMinimumNumberOfMagicBeans/Program.cs) |✔️|
 |2172 | [Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/)| Hard |  |:heavy_minus_sign: |
+|2173 | [Longest Winning Streak](https://leetcode.com/problems/longest-winning-streak/)| Hard | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202173%20-%20LongestWinningStreak/LongestWinningStreak_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202173%20-%20LongestWinningStreak/LongestWinningStreak_SQLServer.sql) |✔️|
+|2174 | [Remove All Ones With Row and Column Flips II](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202174%20-%20RemoveAllOnesWithRowAndColumnFlipsII/RemoveAllOnes_C%23/RemoveAllOnes/Program.cs) |✔️|
 |216 | []()|  | [C#]() |✔️|
 |214 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
