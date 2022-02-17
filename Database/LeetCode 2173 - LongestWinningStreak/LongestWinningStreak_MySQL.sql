@@ -6,7 +6,7 @@ with win_count as (
 
 streak as (
 	select player_id, win_count, count(*) - sum(if(result = 'win', 0, 1)) as streak
-    from win_count
+	from win_count
 	group by player_id, win_count
 )
 
