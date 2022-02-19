@@ -15,10 +15,12 @@ var pancakeSort = function (arr) {
     }
     while (target != 1) {
         var index = arr.indexOf(target)
-        res.push(index + 1)
-        filp(arr, index)
-        res.push(target)
-        filp(arr, target - 1)
+        if (index + 1 != target) {
+            res.push(index + 1)
+            filp(arr, index)
+            res.push(target)
+            filp(arr, target - 1)
+        }
         target--
     }
     return res
