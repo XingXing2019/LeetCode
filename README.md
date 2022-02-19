@@ -2176,6 +2176,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2172 | [Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/)| Hard |  |:heavy_minus_sign: |
 |2173 | [Longest Winning Streak](https://leetcode.com/problems/longest-winning-streak/)| Hard | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202173%20-%20LongestWinningStreak/LongestWinningStreak_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202173%20-%20LongestWinningStreak/LongestWinningStreak_SQLServer.sql) |✔️|
 |2174 | [Remove All Ones With Row and Column Flips II](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202174%20-%20RemoveAllOnesWithRowAndColumnFlipsII/RemoveAllOnes_C%23/RemoveAllOnes/Program.cs) |✔️|
-|216 | []()|  | [C#]() |✔️|
+|2175 | [The Change in Global Rankings](https://leetcode.com/problems/the-change-in-global-rankings/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202175%20-%20TheChangeInGlobalRankings/TheChangeInGlobalRankings_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202175%20-%20TheChangeInGlobalRankings/TheChangeInGlobalRankings_SQLServer.sql) |✔️|
+|217 | []()|  | [C#]() |✔️|
 |214 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
