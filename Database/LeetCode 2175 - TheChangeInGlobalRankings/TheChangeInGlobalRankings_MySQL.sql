@@ -4,9 +4,9 @@ with old_rank as (
 
 new_rank as (
 	select t.*, rank() over(order by t.points + ifnull(p.points_change, 0) desc, name) as new_rank
-    from TeamPoints t
-    left join PointsChange p
-    on t.team_id = p.team_id
+	from TeamPoints t
+	left join PointsChange p
+	on t.team_id = p.team_id
 )
 
 select o.team_id, o.name, (cast(o.old_rank as signed) - cast(n.new_rank as signed)) as rank_diff
