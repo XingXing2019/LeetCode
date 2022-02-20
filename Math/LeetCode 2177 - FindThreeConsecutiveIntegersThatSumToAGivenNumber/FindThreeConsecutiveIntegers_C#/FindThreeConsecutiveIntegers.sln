@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindThreeConsecutiveIntegers", "FindThreeConsecutiveIntegers\FindThreeConsecutiveIntegers.csproj", "{D98173C6-E0E9-4391-A283-ECB433DD6652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98173C6-E0E9-4391-A283-ECB433DD6652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98173C6-E0E9-4391-A283-ECB433DD6652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98173C6-E0E9-4391-A283-ECB433DD6652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98173C6-E0E9-4391-A283-ECB433DD6652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C856563C-7A41-4857-BA17-A4601C111CBE}
+	EndGlobalSection
+EndGlobal
