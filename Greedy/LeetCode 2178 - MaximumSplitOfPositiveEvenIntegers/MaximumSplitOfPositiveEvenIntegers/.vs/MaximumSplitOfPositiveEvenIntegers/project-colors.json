@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eae76a5e-2b5c-4748-b549-3c6313907556": {
+      "ProjectGuid": "eae76a5e-2b5c-4748-b549-3c6313907556",
+      "DisplayName": "MaximumSplitOfPositiveEvenIntegers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
