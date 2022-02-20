@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2af26c2c-c5cf-4293-8d96-81c6e55bb61f": {
+      "ProjectGuid": "2af26c2c-c5cf-4293-8d96-81c6e55bb61f",
+      "DisplayName": "CountEqualAndDivisiblePairsInAnArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
