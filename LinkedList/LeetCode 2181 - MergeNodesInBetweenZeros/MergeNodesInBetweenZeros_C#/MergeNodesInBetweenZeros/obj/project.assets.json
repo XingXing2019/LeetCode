@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\LinkedList\\LeetCode 2181 - MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros.csproj",
+      "projectUniqueName": "D:\\LeetCode\\LinkedList\\LeetCode 2181 - MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros_C#\\MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros.csproj",
       "projectName": "MergeNodesInBetweenZeros",
-      "projectPath": "D:\\LeetCode\\LinkedList\\LeetCode 2181 - MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros.csproj",
+      "projectPath": "D:\\LeetCode\\LinkedList\\LeetCode 2181 - MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros_C#\\MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\LinkedList\\LeetCode 2181 - MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros\\obj\\",
+      "outputPath": "D:\\LeetCode\\LinkedList\\LeetCode 2181 - MergeNodesInBetweenZeros\\MergeNodesInBetweenZeros_C#\\MergeNodesInBetweenZeros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",

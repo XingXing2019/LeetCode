@@ -32,11 +32,12 @@ namespace MergeNodesInBetweenZeros
                     p1.val += head.val;
                     head = head.next;
                 }
-                p2.next = new ListNode(p1.val);
+                p2.next = p1;
                 p2 = p2.next;
                 p1 = head;
                 head = head.next;
             }
+            p2.next = null;
             return dummy.next;
         }
 
