@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e6994ae-3750-47e7-9e7c-c34a1582c785": {
+      "ProjectGuid": "4e6994ae-3750-47e7-9e7c-c34a1582c785",
+      "DisplayName": "CountIntegersWithEvenDigitSum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
