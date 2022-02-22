@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0eb7ffe2-a8c7-45d9-86fd-02bf290f9319": {
+      "ProjectGuid": "0eb7ffe2-a8c7-45d9-86fd-02bf290f9319",
+      "DisplayName": "TheNumberOfGoodSubsets",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
