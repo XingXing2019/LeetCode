@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereWillTheBallFall", "WhereWillTheBallFall\WhereWillTheBallFall.csproj", "{A580D3C4-421E-4F43-8AB9-89E7A79F999F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A580D3C4-421E-4F43-8AB9-89E7A79F999F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A580D3C4-421E-4F43-8AB9-89E7A79F999F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A580D3C4-421E-4F43-8AB9-89E7A79F999F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A580D3C4-421E-4F43-8AB9-89E7A79F999F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B39DD632-EE9B-42C1-AEA9-84C95DDB121F}
+	EndGlobalSection
+EndGlobal
