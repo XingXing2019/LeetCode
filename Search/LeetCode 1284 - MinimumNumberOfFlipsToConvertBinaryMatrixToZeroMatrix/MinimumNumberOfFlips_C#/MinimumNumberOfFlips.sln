@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfFlips", "MinimumNumberOfFlips\MinimumNumberOfFlips.csproj", "{AB92AE0B-360B-4759-AC3E-9A3D9F77DC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB92AE0B-360B-4759-AC3E-9A3D9F77DC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB92AE0B-360B-4759-AC3E-9A3D9F77DC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB92AE0B-360B-4759-AC3E-9A3D9F77DC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB92AE0B-360B-4759-AC3E-9A3D9F77DC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C359267F-E4AD-42F5-940A-9EDB65796927}
+	EndGlobalSection
+EndGlobal
