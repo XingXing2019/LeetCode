@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27aa0e7b-86c3-4748-bdc0-0b9eded224c7": {
+      "ProjectGuid": "27aa0e7b-86c3-4748-bdc0-0b9eded224c7",
+      "DisplayName": "ShortestPathVisitingAllNodes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
