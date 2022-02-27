@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da99c382-6a4b-49ac-b13f-c03ad59428d6": {
+      "ProjectGuid": "da99c382-6a4b-49ac-b13f-c03ad59428d6",
+      "DisplayName": "CountingWordsWithAGivenPrefix",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
