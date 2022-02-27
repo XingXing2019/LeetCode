@@ -2185,6 +2185,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202181%20-%20MergeNodesInBetweenZeros/MergeNodesInBetweenZeros_C%23/MergeNodesInBetweenZeros/Program.cs) |✔️|
 |2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202182%20-%20ConstructStringWithRepeatLimit/ConstructStringWithRepeatLimit_C%23/ConstructStringWithRepeatLimit/Program.cs) |✔️|
 |2183 | [Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/)| Hard |  |:heavy_minus_sign: |
+|2184 | [Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/)| Medium |  |:heavy_minus_sign: |
+|2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Trie/LeetCode%202185%20-%20CountingWordsWithAGivenPrefix/CountingWordsWithAGivenPrefix_C%23/CountingWordsWithAGivenPrefix/Program.cs) |✔️|
+|2186 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202186%20-%20MinimumNumberOfStepsToMakeTwoStringsAnagramII/MinimumNumberOfSteps_C%23/MinimumNumberOfSteps/Program.cs) |✔️|
+|2187 | [https://leetcode.com/problems/minimum-time-to-complete-trips/](https://leetcode.com/problems/minimum-time-to-complete-trips/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202187%20-%20MinimumTimeToCompleteTrips/MinimumTimeToCompleteTrips_C%23/MinimumTimeToCompleteTrips/Program.cs) |✔️|
+|2188 | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/)| Hard |  |:heavy_minus_sign: |
 |2184 | []()|  | [C#]() |✔️|
 |218 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
