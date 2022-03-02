@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7327d009-005d-4d97-87e8-e8e3d9479844": {
+      "ProjectGuid": "7327d009-005d-4d97-87e8-e8e3d9479844",
+      "DisplayName": "FindTheClosestPalindrome",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
