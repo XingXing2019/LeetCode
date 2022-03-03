@@ -2190,7 +2190,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2186 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202186%20-%20MinimumNumberOfStepsToMakeTwoStringsAnagramII/MinimumNumberOfSteps_C%23/MinimumNumberOfSteps/Program.cs) |✔️|
 |2187 | [https://leetcode.com/problems/minimum-time-to-complete-trips/](https://leetcode.com/problems/minimum-time-to-complete-trips/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202187%20-%20MinimumTimeToCompleteTrips/MinimumTimeToCompleteTrips_C%23/MinimumTimeToCompleteTrips/Program.cs) |✔️|
 |2188 | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/)| Hard |  |:heavy_minus_sign: |
-|2184 | []()|  | [C#]() |✔️|
+|2189 | [Number of Ways to Build House of Cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202189%20-%20NumberOfWaysToBuildHouseOfCards/NumberOfWays_C%23/NumberOfWays/Program.cs) |✔️|
+|2190 | []()|  | [C#]() |✔️|
+|2191 | []()|  | [C#]() |✔️|
 |218 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
