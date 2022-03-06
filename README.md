@@ -2191,8 +2191,16 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2187 | [https://leetcode.com/problems/minimum-time-to-complete-trips/](https://leetcode.com/problems/minimum-time-to-complete-trips/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202187%20-%20MinimumTimeToCompleteTrips/MinimumTimeToCompleteTrips_C%23/MinimumTimeToCompleteTrips/Program.cs) |✔️|
 |2188 | [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/)| Hard |  |:heavy_minus_sign: |
 |2189 | [Number of Ways to Build House of Cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202189%20-%20NumberOfWaysToBuildHouseOfCards/NumberOfWays_C%23/NumberOfWays/Program.cs) |✔️|
-|2190 | []()|  | [C#]() |✔️|
-|2191 | []()|  | [C#]() |✔️|
+|2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202190%20-%20MostFrequentNumberFollowingKeyInAnArray/MostFrequentNumber_C%23/MostFrequentNumber/Program.cs) |✔️|
+|2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202191%20-%20SortTheJumbledNumbers/SortTheJumbledNumbers_C%23/SortTheJumbledNumbers/Program.cs) |✔️|
+|2192 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202192%20-%20AllAncestorsOfANodeInADirectedAcyclicGraph/AllAncestorsOfANode_C%23/AllAncestorsOfANodeIn/Program.cs) |✔️|
+|2193 | [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)| Hard |  |:heavy_minus_sign: |
+|2194 | []()|  | [C#]() |✔️|
+|2195 | []()|  | [C#]() |✔️|
+|2196 | []()|  | [C#]() |✔️|
+|2197 | []()|  | [C#]() |✔️|
+|2198 | []()|  | [C#]() |✔️|
+|2199 | []()|  | [C#]() |✔️|
 |218 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
