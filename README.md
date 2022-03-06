@@ -2195,10 +2195,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202191%20-%20SortTheJumbledNumbers/SortTheJumbledNumbers_C%23/SortTheJumbledNumbers/Program.cs) |✔️|
 |2192 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202192%20-%20AllAncestorsOfANodeInADirectedAcyclicGraph/AllAncestorsOfANode_C%23/AllAncestorsOfANodeIn/Program.cs) |✔️|
 |2193 | [Minimum Number of Moves to Make Palindrome](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)| Hard |  |:heavy_minus_sign: |
-|2194 | []()|  | [C#]() |✔️|
-|2195 | []()|  | [C#]() |✔️|
-|2196 | []()|  | [C#]() |✔️|
-|2197 | []()|  | [C#]() |✔️|
+|2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202194%20-%20CellsInARangeOnAnExcelSheet/CellsInARangeOnAnExcelSheet_C%23/CellsInARangeOnAnExcelSheet/Program.cs) |✔️|
+|2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202195%20-%20AppendKIntegersWithMinimalSum/AppendKIntegersWithMinimalSum_C%23/AppendKIntegersWithMinimalSum/Program.cs) |✔️|
+|2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202196%20-%20CreateBinaryTreeFromDescriptions/CreateBinaryTreeFromDescriptions_C%23/CreateBinaryTreeFromDescriptions/Program.cs) |✔️|
+|2197 | []()|  |  |:heavy_minus_sign: |
 |2198 | []()|  | [C#]() |✔️|
 |2199 | []()|  | [C#]() |✔️|
 |218 | []()|  | [C#]() |✔️|
