@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd348051-87ff-429d-be52-37ef862ab93b": {
+      "ProjectGuid": "fd348051-87ff-429d-be52-37ef862ab93b",
+      "DisplayName": "CellsInARangeOnAnExcelSheet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
