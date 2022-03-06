@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f465c32-dc28-4059-aef1-68f1dc2799c6": {
+      "ProjectGuid": "8f465c32-dc28-4059-aef1-68f1dc2799c6",
+      "DisplayName": "AppendKIntegersWithMinimalSum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
