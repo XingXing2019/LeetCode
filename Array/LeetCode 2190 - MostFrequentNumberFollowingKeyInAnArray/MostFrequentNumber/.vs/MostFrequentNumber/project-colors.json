@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a13b8a97-0bf8-4028-b197-1289c505b3d1": {
+      "ProjectGuid": "a13b8a97-0bf8-4028-b197-1289c505b3d1",
+      "DisplayName": "MostFrequentNumber",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
