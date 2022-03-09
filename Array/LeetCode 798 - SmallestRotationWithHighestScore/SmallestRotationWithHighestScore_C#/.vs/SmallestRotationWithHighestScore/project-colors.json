@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "576b2762-5cc7-4e4b-a005-574dd33b6606": {
+      "ProjectGuid": "576b2762-5cc7-4e4b-a005-574dd33b6606",
+      "DisplayName": "SmallestRotationWithHighestScore",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
