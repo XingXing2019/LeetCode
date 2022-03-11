@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d3843b5-ea32-4beb-97a2-e1773e95162c": {
+      "ProjectGuid": "5d3843b5-ea32-4beb-97a2-e1773e95162c",
+      "DisplayName": "NumberOfSingleDivisorTriplets",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
