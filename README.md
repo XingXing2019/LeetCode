@@ -2199,7 +2199,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202195%20-%20AppendKIntegersWithMinimalSum/AppendKIntegersWithMinimalSum_C%23/AppendKIntegersWithMinimalSum/Program.cs) |✔️|
 |2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202196%20-%20CreateBinaryTreeFromDescriptions/CreateBinaryTreeFromDescriptions_C%23/CreateBinaryTreeFromDescriptions/Program.cs) |✔️|
 |2197 | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)| Hard |  |:heavy_minus_sign: |
-|2198 | []()|  | [C#]() |✔️|
+|2198 | [Number of Single Divisor Triplets](https://leetcode.com/problems/number-of-single-divisor-triplets/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202198%20-%20NumberOfSingleDivisorTriplets/NumberOfSingleDivisorTriplets_C%23/NumberOfSingleDivisorTriplets/Program.cs) |✔️|
 |2199 | []()|  | [C#]() |✔️|
 |218 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
