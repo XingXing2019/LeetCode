@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTF8Validation", "UTF8Validation\UTF8Validation.csproj", "{EE5BB5EC-6940-4E92-8B73-AF08E4FE319C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE5BB5EC-6940-4E92-8B73-AF08E4FE319C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5BB5EC-6940-4E92-8B73-AF08E4FE319C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5BB5EC-6940-4E92-8B73-AF08E4FE319C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5BB5EC-6940-4E92-8B73-AF08E4FE319C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FCE99BF-84D5-45E6-9545-968637398A95}
+	EndGlobalSection
+EndGlobal
