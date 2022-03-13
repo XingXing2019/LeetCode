@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f1f68bd-a689-4644-9bf8-0f5c514b7813": {
+      "ProjectGuid": "2f1f68bd-a689-4644-9bf8-0f5c514b7813",
+      "DisplayName": "FindAllKDistantIndicesInAnArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
