@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe37ba99-23cc-4596-89ab-de1ba2ed7273": {
+      "ProjectGuid": "fe37ba99-23cc-4596-89ab-de1ba2ed7273",
+      "DisplayName": "CountArtifactsThatCanBeExtracted",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
