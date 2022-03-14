@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d5424e82-b68a-414d-bdac-c2ddb1628773": {
+      "ProjectGuid": "d5424e82-b68a-414d-bdac-c2ddb1628773",
+      "DisplayName": "LongestAbsoluteFilePath",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
