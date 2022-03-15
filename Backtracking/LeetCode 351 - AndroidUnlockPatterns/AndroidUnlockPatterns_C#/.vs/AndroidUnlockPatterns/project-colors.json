@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "040c5f70-9389-4491-b3a3-3a1fcc3e6cfc": {
+      "ProjectGuid": "040c5f70-9389-4491-b3a3-3a1fcc3e6cfc",
+      "DisplayName": "AndroidUnlockPatterns",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
