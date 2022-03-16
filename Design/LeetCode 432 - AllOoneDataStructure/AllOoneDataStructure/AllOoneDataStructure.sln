@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllOoneDataStructure", "AllOoneDataStructure\AllOoneDataStructure.csproj", "{72585954-2A3C-49EF-AA41-5E9AA4A96C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72585954-2A3C-49EF-AA41-5E9AA4A96C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72585954-2A3C-49EF-AA41-5E9AA4A96C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72585954-2A3C-49EF-AA41-5E9AA4A96C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72585954-2A3C-49EF-AA41-5E9AA4A96C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7ADA425-C5FA-4392-8FF4-AC1A96CDADA6}
+	EndGlobalSection
+EndGlobal
