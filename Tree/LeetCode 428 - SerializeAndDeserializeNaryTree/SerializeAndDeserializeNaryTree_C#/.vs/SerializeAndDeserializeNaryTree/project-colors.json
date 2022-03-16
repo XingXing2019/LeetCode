@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c19a0bd2-bd8f-4c50-a3cd-592d62c5e577": {
+      "ProjectGuid": "c19a0bd2-bd8f-4c50-a3cd-592d62c5e577",
+      "DisplayName": "SerializeAndDeserializeNaryTree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
