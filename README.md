@@ -2205,6 +2205,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2201 | [Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202201%20-%20CountArtifactsThatCanBeExtracted/CountArtifactsThatCanBeExtracted_C%23/CountArtifactsThatCanBeExtracted/Program.cs) |✔️|
 |2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202202%20-%20MaximizeTheTopmostElementAfterKMoves/MaximizeTheTopmostElement_C%23/MaximizeTheTopmostElement/Program.cs) |✔️|
 |2203 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/)| Hard |  |:heavy_minus_sign: |
+|2204 | [Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/)| Hard |  |:heavy_minus_sign: |
+|2205 | [The Number of Users That Are Eligible for Discount](https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202205%20-%20TheNumberOfUsersThatAreEligibleForDiscount/TheNumberOfUsersThatAreEligibleForDiscount_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202205%20-%20TheNumberOfUsersThatAreEligibleForDiscount/TheNumberOfUsersThatAreEligibleForDiscount_SQLServer.sql) |✔️|
 |218 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
