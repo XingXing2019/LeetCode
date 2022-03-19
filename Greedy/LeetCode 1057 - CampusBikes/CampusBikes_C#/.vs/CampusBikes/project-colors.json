@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3acc2fef-2cc5-4817-b816-a0f24f786246": {
+      "ProjectGuid": "3acc2fef-2cc5-4817-b816-a0f24f786246",
+      "DisplayName": "CampusBikes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
