@@ -2211,5 +2211,6 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2207 | [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202207%20-%20MaximizeNumberOfSubsequencesInAString/MaximizeNumber_C%23/MaximizeNumber/Program.cs) |✔️|
 |2208 | [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)| Medium | [Java](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202208%20-%20MinimumOperationsToHalveArraySum/MinimumOperationsToHalveArraySum_Java/src/com/company/Main.java) |✔️|
 |2209 | [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)| Hard |  |:heavy_minus_sign: |
+|2210 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
