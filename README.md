@@ -2207,6 +2207,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2203 | [Minimum Weighted Subgraph With the Required Paths](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths/)| Hard |  |:heavy_minus_sign: |
 |2204 | [Distance to a Cycle in Undirected Graph](https://leetcode.com/problems/distance-to-a-cycle-in-undirected-graph/)| Hard |  |:heavy_minus_sign: |
 |2205 | [The Number of Users That Are Eligible for Discount](https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount/)| Easy | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202205%20-%20TheNumberOfUsersThatAreEligibleForDiscount/TheNumberOfUsersThatAreEligibleForDiscount_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202205%20-%20TheNumberOfUsersThatAreEligibleForDiscount/TheNumberOfUsersThatAreEligibleForDiscount_SQLServer.sql) |✔️|
-|218 | []()|  | [C#]() |✔️|
+|2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202206%20-%20DivideArrayIntoEqualPairs/DivideArrayIntoEqualPairs_C%23/DivideArrayIntoEqualPairs/Program.cs) |✔️|
+|2207 | [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202207%20-%20MaximizeNumberOfSubsequencesInAString/MaximizeNumber_C%23/MaximizeNumber/Program.cs) |✔️|
+|2208 | [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202208%20-%20MinimumOperationsToHalveArraySum/MinimumOperationsToHalveArraySum_Java/src/com/company/Main.java) |✔️|
+|2209 | [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)| Hard |  |:heavy_minus_sign: |
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
