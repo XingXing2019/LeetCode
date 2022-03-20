@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01ec5c92-d6dd-4659-9a48-009ed8259d1e": {
+      "ProjectGuid": "01ec5c92-d6dd-4659-9a48-009ed8259d1e",
+      "DisplayName": "CountCollisionsOnARoad",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
