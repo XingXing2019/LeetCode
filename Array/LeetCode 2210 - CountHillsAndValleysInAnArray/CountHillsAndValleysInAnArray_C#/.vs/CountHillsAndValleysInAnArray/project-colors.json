@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43e58389-d9b5-4c5f-b5ec-097432fb9202": {
+      "ProjectGuid": "43e58389-d9b5-4c5f-b5ec-097432fb9202",
+      "DisplayName": "CountHillsAndValleysInAnArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
