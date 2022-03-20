@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse\\CatAndMouse\\CatAndMouse.csproj": {}
+    "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse_C#\\CatAndMouse\\CatAndMouse.csproj": {}
   },
   "projects": {
-    "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse\\CatAndMouse\\CatAndMouse.csproj": {
+    "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse_C#\\CatAndMouse\\CatAndMouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse\\CatAndMouse\\CatAndMouse.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse_C#\\CatAndMouse\\CatAndMouse.csproj",
         "projectName": "CatAndMouse",
-        "projectPath": "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse\\CatAndMouse\\CatAndMouse.csproj",
+        "projectPath": "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse_C#\\CatAndMouse\\CatAndMouse.csproj",
         "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-        "outputPath": "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse\\CatAndMouse\\obj\\",
+        "outputPath": "D:\\LeetCode\\Search\\LeetCode 913 - CatAndMouse\\CatAndMouse_C#\\CatAndMouse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

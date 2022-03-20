@@ -9,7 +9,7 @@ public class Main {
     }
 
     public int catMouseGame(int[][] graph) {
-        int[][][] dp = new int[graph.length * 2][graph.length][graph.length];
+        int[][][] dp = new int[graph.length * 4][graph.length][graph.length];
         for (int i = 0; i < dp.length; i++) {
             for (int j = 0; j < dp[i].length; j++) {
                 Arrays.fill(dp[i][j], -1);
@@ -19,7 +19,7 @@ public class Main {
     }
 
     public int dfs(int[][] graph, int[][][] dp, int turn, int mouse, int cat) {
-        if (turn >= graph.length * 2) return 0;
+        if (turn >= graph.length * 4) return 0;
         if (mouse == 0) return 1;
         if (cat == mouse) return 2;
         if (dp[turn][mouse][cat] != -1) return dp[turn][mouse][cat];

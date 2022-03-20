@@ -11,7 +11,7 @@ namespace CatAndMouse
 
         public static int CatMouseGame(int[][] graph)
         {
-            var dp = new int[graph.Length * 2][][];
+            var dp = new int[graph.Length * 4][][];
             for (int i = 0; i < dp.Length; i++)
             {
                 dp[i] = new int[graph.Length][];
@@ -26,7 +26,7 @@ namespace CatAndMouse
 
         public static int DFS(int[][] graph, int[][][] dp, int turn, int mouse, int cat)
         {
-            if (turn == graph.Length * 2) return 0;
+            if (turn == graph.Length * 4) return 0;
             if (mouse == 0) return 1;
             if (cat == mouse) return 2;
             if (dp[turn][mouse][cat] != -1) return dp[turn][mouse][cat];
