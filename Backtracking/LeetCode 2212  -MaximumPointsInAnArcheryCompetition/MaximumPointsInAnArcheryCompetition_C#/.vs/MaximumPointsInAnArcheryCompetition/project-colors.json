@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9831aa5a-e786-4a59-8360-b1877c69a57c": {
+      "ProjectGuid": "9831aa5a-e786-4a59-8360-b1877c69a57c",
+      "DisplayName": "MaximumPointsInAnArcheryCompetition",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
