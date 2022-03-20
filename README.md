@@ -2211,6 +2211,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2207 | [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202207%20-%20MaximizeNumberOfSubsequencesInAString/MaximizeNumber_C%23/MaximizeNumber/Program.cs) |✔️|
 |2208 | [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/)| Medium | [Java](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202208%20-%20MinimumOperationsToHalveArraySum/MinimumOperationsToHalveArraySum_Java/src/com/company/Main.java) |✔️|
 |2209 | [Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)| Hard |  |:heavy_minus_sign: |
-|2210 | []()|  | [C#]() |✔️|
+|2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202210%20-%20CountHillsAndValleysInAnArray/CountHillsAndValleysInAnArray_C%23/CountHillsAndValleysInAnArray/Program.cs) |✔️|
+|2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202211%20-%20CountCollisionsOnARoad/CountCollisionsOnARoad_C%23/CountCollisionsOnARoad/Program.cs) |✔️|
+|2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202212%20%20-MaximumPointsInAnArcheryCompetition/MaximumPointsInAnArcheryCompetition_C%23/MaximumPointsInAnArcheryCompetition/Program.cs) |✔️|
+|2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)| Hard |  |:heavy_minus_sign: |
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
