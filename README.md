@@ -2216,4 +2216,5 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202212%20%20-MaximumPointsInAnArcheryCompetition/MaximumPointsInAnArcheryCompetition_C%23/MaximumPointsInAnArcheryCompetition/Program.cs) |✔️|
 |2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)| Hard |  |:heavy_minus_sign: |
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
+|214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
