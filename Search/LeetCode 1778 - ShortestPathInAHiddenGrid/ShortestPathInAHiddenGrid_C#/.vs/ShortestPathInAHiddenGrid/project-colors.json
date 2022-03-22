@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3259dab4-0c31-4f1f-b90f-85be3b422af9": {
+      "ProjectGuid": "3259dab4-0c31-4f1f-b90f-85be3b422af9",
+      "DisplayName": "ShortestPathInAHiddenGrid",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
