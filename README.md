@@ -2215,6 +2215,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202211%20-%20CountCollisionsOnARoad/CountCollisionsOnARoad_C%23/CountCollisionsOnARoad/Program.cs) |✔️|
 |2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202212%20%20-MaximumPointsInAnArcheryCompetition/MaximumPointsInAnArcheryCompetition_C%23/MaximumPointsInAnArcheryCompetition/Program.cs) |✔️|
 |2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)| Hard |  |:heavy_minus_sign: |
+|2214 | [Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202214%20-%20MinimumHealthToBeatGame/MinimumHealthToBeatGame/MinimumHealthToBeatGame/Program.cs) |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
