@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62311efc-ccd5-4215-a005-790d3e6e19f6": {
+      "ProjectGuid": "62311efc-ccd5-4215-a005-790d3e6e19f6",
+      "DisplayName": "MagneticForceBetweenTwoBalls",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
