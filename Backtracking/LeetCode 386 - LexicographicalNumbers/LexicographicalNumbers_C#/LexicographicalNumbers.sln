@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LexicographicalNumbers", "LexicographicalNumbers\LexicographicalNumbers.csproj", "{E464D57D-1AD7-40B2-9CE9-C461DF244530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E464D57D-1AD7-40B2-9CE9-C461DF244530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E464D57D-1AD7-40B2-9CE9-C461DF244530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E464D57D-1AD7-40B2-9CE9-C461DF244530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E464D57D-1AD7-40B2-9CE9-C461DF244530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4D8FA7-42DC-4BAD-967F-314D6A00FA7A}
+	EndGlobalSection
+EndGlobal
