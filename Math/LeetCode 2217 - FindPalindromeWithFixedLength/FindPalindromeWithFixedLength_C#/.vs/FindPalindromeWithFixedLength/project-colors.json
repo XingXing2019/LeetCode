@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1aa35f19-37fb-4130-903b-d8fb70495d70": {
+      "ProjectGuid": "1aa35f19-37fb-4130-903b-d8fb70495d70",
+      "DisplayName": "FindPalindromeWithFixedLength",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
