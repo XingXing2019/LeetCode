@@ -2216,6 +2216,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202212%20%20-MaximumPointsInAnArcheryCompetition/MaximumPointsInAnArcheryCompetition_C%23/MaximumPointsInAnArcheryCompetition/Program.cs) |✔️|
 |2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character/)| Hard |  |:heavy_minus_sign: |
 |2214 | [Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202214%20-%20MinimumHealthToBeatGame/MinimumHealthToBeatGame/MinimumHealthToBeatGame/Program.cs) |✔️|
+|2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202215%20-%20FindTheDifferenceOfTwoArrays/FindTheDifferenceOfTwoArrays_C%23/FindTheDifferenceOfTwoArrays/Program.cs) |✔️|
+|2216 | [Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202216%20-%20MinimumDeletionsToMakeArrayBeautiful/MinimumDeletionsToMakeArrayBeautiful_C%23/MinimumDeletionsToMakeArrayBeautiful/Program.cs) |✔️|
+|2217 | [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202217%20-%20FindPalindromeWithFixedLength/FindPalindromeWithFixedLength_C%23/FindPalindromeWithFixedLength/Program.cs) |✔️|
+|2218 | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)| Hard |  |:heavy_minus_sign: |
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
