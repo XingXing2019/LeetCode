@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47a4251a-99ad-4a3c-b6f5-a042c83d69cd": {
+      "ProjectGuid": "47a4251a-99ad-4a3c-b6f5-a042c83d69cd",
+      "DisplayName": "MinimumDeletionsToMakeArrayBeautiful",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
