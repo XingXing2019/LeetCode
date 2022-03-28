@@ -1,16 +1,16 @@
-﻿//创建left和right指针，分别指向数组头和尾。创建bool型res，初始值设为false。
-//从数组的左右两端向中间遍历数组。如果left或者right指针指向数字与target相等，则将res设为true，并停止遍历。
-//应为数组是排序好的，如果left指向的数字与target更近则让left移动。否则让right移动。
-//遍历结束后，返回res。
-using System;
+﻿using System;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 
 namespace SearchInRotatedSortedArrayII
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] nums = { 1, 1, 1, 1, 2, 1, 1 };
+            int target = 2;
+            Console.WriteLine(Search_BinarySearch(nums, target));
         }
         static bool Search(int[] nums, int target)
         {
@@ -19,7 +19,7 @@ namespace SearchInRotatedSortedArrayII
             bool res = false;
             while (left <= right)
             {
-                if(nums[left] == target)
+                if (nums[left] == target)
                 {
                     res = true;
                     break;
@@ -32,9 +32,38 @@ namespace SearchInRotatedSortedArrayII
                 if (Math.Abs(nums[left] - target) < Math.Abs(nums[right] - target))
                     left++;
                 else
-                    right--;    
+                    right--;
             }
             return res;
+        }
+
+        public static bool Search_BinarySearch(int[] nums, int target)
+        {
+            int li = 0, hi = nums.Length - 1;
+            while (li <= hi)
+            {
+                var mid = li + (hi - li) / 2;
+                if (nums[mid] == target) return true;
+                if (nums[mid] < nums[hi])
+                {
+                    if (nums[mid] < target && target <= nums[hi])
+                        li = mid + 1;
+                    else
+                        hi = mid - 1;
+                }
+                else if (nums[mid] > nums[hi])
+                {
+                    if (nums[li] <= target && target < nums[mid])
+                        hi = mid - 1;
+                    else
+                        li = mid + 1;
+                }
+                else
+                {
+                    return nums[mid..hi].Contains(target) || nums[li..mid].Contains(target);
+                }
+            }
+            return nums[li] == target;
         }
     }
 }
