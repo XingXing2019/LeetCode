@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d85b20a-d72c-4c49-b62d-506a383d7239": {
+      "ProjectGuid": "5d85b20a-d72c-4c49-b62d-506a383d7239",
+      "DisplayName": "ConstructQuadTree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
