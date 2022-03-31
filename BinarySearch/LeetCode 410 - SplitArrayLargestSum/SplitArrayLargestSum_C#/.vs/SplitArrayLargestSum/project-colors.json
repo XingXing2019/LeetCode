@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a022d352-04b2-4252-b14e-9a808d79bdb7": {
+      "ProjectGuid": "a022d352-04b2-4252-b14e-9a808d79bdb7",
+      "DisplayName": "SplitArrayLargestSum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
