@@ -14,7 +14,7 @@ public class Main {
         for (int i = 0; i < profits.length; i++)
             projects.offer(new int[]{profits[i], capital[i]});
         int res = w;
-        for (int i = 0; i < k; i++) {
+        for (int i = 0; i < Math.min(k, profits.length); i++) {
             while (!projects.isEmpty() && projects.peek()[1] <= w)
                 maxProfit.offer(projects.poll());
             if (!maxProfit.isEmpty()) {
