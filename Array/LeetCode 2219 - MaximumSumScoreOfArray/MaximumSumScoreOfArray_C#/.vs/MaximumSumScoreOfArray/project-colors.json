@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c32a4b2b-3ff0-453e-97ca-4bb72bab3b81": {
+      "ProjectGuid": "c32a4b2b-3ff0-453e-97ca-4bb72bab3b81",
+      "DisplayName": "MaximumSumScoreOfArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
