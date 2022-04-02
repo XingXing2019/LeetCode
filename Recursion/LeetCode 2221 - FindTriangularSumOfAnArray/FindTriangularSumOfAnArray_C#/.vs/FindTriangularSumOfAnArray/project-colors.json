@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32db4d0c-bcad-4962-888b-7c12dc61824b": {
+      "ProjectGuid": "32db4d0c-bcad-4962-888b-7c12dc61824b",
+      "DisplayName": "FindTriangularSumOfAnArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
