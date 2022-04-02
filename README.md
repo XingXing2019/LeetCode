@@ -2220,7 +2220,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2216 | [Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202216%20-%20MinimumDeletionsToMakeArrayBeautiful/MinimumDeletionsToMakeArrayBeautiful_C%23/MinimumDeletionsToMakeArrayBeautiful/Program.cs) |✔️|
 |2217 | [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202217%20-%20FindPalindromeWithFixedLength/FindPalindromeWithFixedLength_C%23/FindPalindromeWithFixedLength/Program.cs) |✔️|
 |2218 | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)| Hard |  |:heavy_minus_sign: |
-|2219 | []()|  | [C#]() |✔️|
+|2219 | [Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202219%20-%20MaximumSumScoreOfArray/MaximumSumScoreOfArray_C%23/MaximumSumScoreOfArray/Program.cs) |✔️|
 |2220 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
