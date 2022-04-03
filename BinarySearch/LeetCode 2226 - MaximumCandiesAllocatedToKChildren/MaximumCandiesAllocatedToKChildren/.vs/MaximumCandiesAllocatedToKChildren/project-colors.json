@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07893f86-be3a-409a-a335-a1549a58ae06": {
+      "ProjectGuid": "07893f86-be3a-409a-a335-a1549a58ae06",
+      "DisplayName": "MaximumCandiesAllocatedToKChildren",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
