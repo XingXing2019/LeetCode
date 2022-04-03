@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0af81690-94ed-4e29-911a-eb97a260f566": {
+      "ProjectGuid": "0af81690-94ed-4e29-911a-eb97a260f566",
+      "DisplayName": "FindPlayersWithZeroOrOneLosses",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
