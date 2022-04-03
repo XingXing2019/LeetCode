@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad210bce-6c28-4596-8738-29319afb8649": {
+      "ProjectGuid": "ad210bce-6c28-4596-8738-29319afb8649",
+      "DisplayName": "NumberOfWaysToSelectBuildings",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
