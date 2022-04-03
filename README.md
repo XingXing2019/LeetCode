@@ -2224,7 +2224,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202220%20-%20MinimumBitFlipsToConvertNumber/MinimumBitFlipsToConvertNumber_C%23/MinimumBitFlipsToConvertNumber/Program.cs) |✔️|
 |2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Recursion/LeetCode%202221%20-%20FindTriangularSumOfAnArray/FindTriangularSumOfAnArray_C%23/FindTriangularSumOfAnArray/Program.cs) |✔️|
 |2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202222%20-%20NumberOfWaysToSelectBuildings/NumberOfWaysToSelectBuildings_C%23/NumberOfWaysToSelectBuildings/Program.cs) |✔️|
-|2123 | []()|  |  |:heavy_minus_sign: |
+|2223 | [Sum of Scores of Built Strings](https://leetcode.com/problems/sum-of-scores-of-built-strings/)| Hard |  |:heavy_minus_sign: |
+|2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202224%20-%20MinimumNumberOfOperationsToConvertTime/MinimumNumberOfOperations/MinimumNumberOfOperations/Program.cs) |✔️|
+|2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202225%20-%20FindPlayersWithZeroOrOneLosses/FindPlayersWithZeroOrOneLosses/FindPlayersWithZeroOrOneLosses/Program.cs) |✔️|
+|2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202226%20-%20MaximumCandiesAllocatedToKChildren/MaximumCandiesAllocatedToKChildren/MaximumCandiesAllocatedToKChildren/Program.cs) |✔️|
+|2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)| Hard |  |:heavy_minus_sign: |
+|222 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
