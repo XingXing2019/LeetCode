@@ -2221,7 +2221,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2217 | [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202217%20-%20FindPalindromeWithFixedLength/FindPalindromeWithFixedLength_C%23/FindPalindromeWithFixedLength/Program.cs) |✔️|
 |2218 | [Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)| Hard |  |:heavy_minus_sign: |
 |2219 | [Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202219%20-%20MaximumSumScoreOfArray/MaximumSumScoreOfArray_C%23/MaximumSumScoreOfArray/Program.cs) |✔️|
-|2220 | []()|  | [C#]() |✔️|
+|2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202220%20-%20MinimumBitFlipsToConvertNumber/MinimumBitFlipsToConvertNumber_C%23/MinimumBitFlipsToConvertNumber/Program.cs) |✔️|
+|2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Recursion/LeetCode%202221%20-%20FindTriangularSumOfAnArray/FindTriangularSumOfAnArray_C%23/FindTriangularSumOfAnArray/Program.cs) |✔️|
+|2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202222%20-%20NumberOfWaysToSelectBuildings/NumberOfWaysToSelectBuildings_C%23/NumberOfWaysToSelectBuildings/Program.cs) |✔️|
+|2123 | []()|  |  |:heavy_minus_sign: |
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
