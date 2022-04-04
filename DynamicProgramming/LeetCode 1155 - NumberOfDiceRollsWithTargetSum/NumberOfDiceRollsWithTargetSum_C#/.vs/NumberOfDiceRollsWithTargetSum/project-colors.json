@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33f385af-64d4-42b8-ad4a-3ddf197a99b4": {
+      "ProjectGuid": "33f385af-64d4-42b8-ad4a-3ddf197a99b4",
+      "DisplayName": "NumberOfDiceRollsWithTargetSum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
