@@ -2229,6 +2229,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202225%20-%20FindPlayersWithZeroOrOneLosses/FindPlayersWithZeroOrOneLosses/FindPlayersWithZeroOrOneLosses/Program.cs) |✔️|
 |2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202226%20-%20MaximumCandiesAllocatedToKChildren/MaximumCandiesAllocatedToKChildren/MaximumCandiesAllocatedToKChildren/Program.cs) |✔️|
 |2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)| Hard |  |:heavy_minus_sign: |
+|2228 | [Users With Two Purchases in Seven Days](https://leetcode.com/problems/users-with-two-purchases-in-seven-days/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202228%20-%20UsersWithTwoPurchasesInSevenDays/UsersWithTwoPurchasesInSevenDays_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202228%20-%20UsersWithTwoPurchasesInSevenDays/UsersWithTwoPurchasesInSevenDays_SQLServer.sql) |✔️|
 |222 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
