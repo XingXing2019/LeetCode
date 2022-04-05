@@ -9,12 +9,10 @@ var countPrimeSetBits = function (left, right) {
     for (let i = left; i <= right; i++) {
         var count = 0, temp = i
         while (temp != 0) {
-            if ((temp & 1) == 1)
-                count++
+            if ((temp & 1) == 1) count++
             temp >>= 1
         }
-        if (primes.includes(count))
-            res++
+        if (primes.includes(count)) res++
     }
     return res
 }
