@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "359b2d54-1fe3-4f81-91d6-b9bacaed2345": {
+      "ProjectGuid": "359b2d54-1fe3-4f81-91d6-b9bacaed2345",
+      "DisplayName": "CountAllPossibleRoutes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
