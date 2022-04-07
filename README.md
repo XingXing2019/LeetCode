@@ -2230,6 +2230,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202226%20-%20MaximumCandiesAllocatedToKChildren/MaximumCandiesAllocatedToKChildren/MaximumCandiesAllocatedToKChildren/Program.cs) |✔️|
 |2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)| Hard |  |:heavy_minus_sign: |
 |2228 | [Users With Two Purchases in Seven Days](https://leetcode.com/problems/users-with-two-purchases-in-seven-days/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202228%20-%20UsersWithTwoPurchasesInSevenDays/UsersWithTwoPurchasesInSevenDays_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202228%20-%20UsersWithTwoPurchasesInSevenDays/UsersWithTwoPurchasesInSevenDays_SQLServer.sql) |✔️|
+|2229 | [Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202229%20-%20CheckIfAnArrayIsConsecutive/CheckIfAnArrayIsConsecutive_C%23/CheckIfAnArrayIsConsecutive/Program.cs) |✔️|
 |222 | []()|  | [C#]() |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
