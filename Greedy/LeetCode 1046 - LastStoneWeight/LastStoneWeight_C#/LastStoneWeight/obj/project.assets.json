@@ -686,19 +686,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xxing\\.nuget\\packages\\": {}
+    "C:\\Users\\61425\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight_C#\\LastStoneWeight\\LastStoneWeight.csproj",
       "projectName": "LastStoneWeight",
-      "projectPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\LastStoneWeight.csproj",
-      "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight\\LastStoneWeight\\obj\\",
+      "projectPath": "D:\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight_C#\\LastStoneWeight\\LastStoneWeight.csproj",
+      "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+      "outputPath": "D:\\LeetCode\\Greedy\\LeetCode 1046 - LastStoneWeight\\LastStoneWeight_C#\\LastStoneWeight\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -741,7 +741,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
