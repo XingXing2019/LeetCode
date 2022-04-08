@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30104.148
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KthLargestElementinAStream", "KthLargestElementinAStream\KthLargestElementinAStream.csproj", "{6CF3F6A4-20FC-4303-8797-D1291371F577}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KthLargestElementinAStream", "KthLargestElementinAStream\KthLargestElementinAStream.csproj", "{104C5BAB-854A-4E05-8795-F535B1349940}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6CF3F6A4-20FC-4303-8797-D1291371F577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6CF3F6A4-20FC-4303-8797-D1291371F577}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6CF3F6A4-20FC-4303-8797-D1291371F577}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6CF3F6A4-20FC-4303-8797-D1291371F577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{104C5BAB-854A-4E05-8795-F535B1349940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104C5BAB-854A-4E05-8795-F535B1349940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104C5BAB-854A-4E05-8795-F535B1349940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104C5BAB-854A-4E05-8795-F535B1349940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {89501079-ADB5-4776-B318-7EDCCCA28174}
+		SolutionGuid = {12C96584-E657-48BF-AFA1-7606FDC54E58}
 	EndGlobalSection
 EndGlobal

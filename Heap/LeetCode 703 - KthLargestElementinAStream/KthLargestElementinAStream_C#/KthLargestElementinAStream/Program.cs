@@ -1,40 +1,53 @@
-﻿using System;
-using System.Collections.Generic;
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 
-namespace KthLargestElementinAStream
+public class KthLargest_Heap
 {
-    class Program
+    private PriorityQueue<int, int> heap;
+    private int k;
+    public KthLargest_Heap(int k, int[] nums)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        heap = new PriorityQueue<int, int>();
+        foreach (var num in nums)
+            heap.Enqueue(num, num);
+        while (heap.Count > k)
+            heap.Dequeue();
+        this.k = k;
     }
-    public class KthLargest
+
+    public int Add(int val)
     {
-        private List<int> maxHeap;
-        private int count;
-        public KthLargest(int k, int[] nums)
-        {
-            count = k;
-            maxHeap = new List<int>();
-            foreach (var num in nums)
-                SetMaxHeap(num);
-        }
+        heap.Enqueue(val, val);
+        if (heap.Count > k)
+            heap.Dequeue();
+        return heap.Peek();
+    }
+}
 
-        public int Add(int val)
-        {
-            SetMaxHeap(val);
-            return maxHeap[0];
-        }
+public class KthLargest
+{
+    private List<int> maxHeap;
+    private int count;
+    public KthLargest(int k, int[] nums)
+    {
+        count = k;
+        maxHeap = new List<int>();
+        foreach (var num in nums)
+            SetMaxHeap(num);
+    }
 
-        private void SetMaxHeap(int num)
-        {
-            var index = maxHeap.BinarySearch(num);
-            index = index < 0 ? -(index + 1) : index;
-            maxHeap.Insert(index, num);
-            if (maxHeap.Count > count)
-                maxHeap.RemoveAt(0);
-        }
+    public int Add(int val)
+    {
+        SetMaxHeap(val);
+        return maxHeap[0];
+    }
+
+    private void SetMaxHeap(int num)
+    {
+        var index = maxHeap.BinarySearch(num);
+        index = index < 0 ? -(index + 1) : index;
+        maxHeap.Insert(index, num);
+        if (maxHeap.Count > count)
+            maxHeap.RemoveAt(0);
     }
 }

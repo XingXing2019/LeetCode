@@ -1,34 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream.csproj": {}
+    "D:\\LeetCode\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream.csproj": {
+    "D:\\LeetCode\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream.csproj",
         "projectName": "KthLargestElementinAStream",
-        "projectPath": "F:\\C#\\Algorithm\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\obj\\",
+        "projectPath": "D:\\LeetCode\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\Heap\\LeetCode 703 - KthLargestElementinAStream\\KthLargestElementinAStream\\KthLargestElementinAStream\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -39,7 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
