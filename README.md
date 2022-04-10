@@ -2231,11 +2231,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2227 | [Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)| Hard |  |:heavy_minus_sign: |
 |2228 | [Users With Two Purchases in Seven Days](https://leetcode.com/problems/users-with-two-purchases-in-seven-days/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202228%20-%20UsersWithTwoPurchasesInSevenDays/UsersWithTwoPurchasesInSevenDays_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202228%20-%20UsersWithTwoPurchasesInSevenDays/UsersWithTwoPurchasesInSevenDays_SQLServer.sql) |✔️|
 |2229 | [Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202229%20-%20CheckIfAnArrayIsConsecutive/CheckIfAnArrayIsConsecutive_C%23/CheckIfAnArrayIsConsecutive/Program.cs) |✔️|
-|2230 | []()|  | [MySQL](), [SQLServer]() |✔️|
+|2230 | [The Users That Are Eligible for Discount](https://leetcode.com/problems/the-users-that-are-eligible-for-discount/)| Easy | [MySQL](), [SQLServer]() |✔️|
 |2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202231%20-%20LargestNumberAfterDigitSwapsByParity/LargestNumberAfterDigitSwapsByParity_C%23/LargestNumberAfterDigitSwapsByParity/Program.cs) |✔️|
 |2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202232%20-%20MinimizeResultByAddingParenthesesToExpression/MinimizeResult/MinimizeResult/Program.cs) |✔️|
 |2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202233%20-%20MaximumProductAfterKIncrements/MaximumProductAfterKIncrements/MaximumProductAfterKIncrements/Program.cs) |✔️|
-|2234 | []()|  |  |:heavy_minus_sign: |
+|2234 | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)| Hard |  |:heavy_minus_sign: |
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
