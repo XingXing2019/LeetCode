@@ -2234,7 +2234,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2230 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202231%20-%20LargestNumberAfterDigitSwapsByParity/LargestNumberAfterDigitSwapsByParity_C%23/LargestNumberAfterDigitSwapsByParity/Program.cs) |✔️|
 |2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202232%20-%20MinimizeResultByAddingParenthesesToExpression/MinimizeResult/MinimizeResult/Program.cs) |✔️|
-|2233 | []()|  | [C#]() |✔️|
+|2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202233%20-%20MaximumProductAfterKIncrements/MaximumProductAfterKIncrements/MaximumProductAfterKIncrements/Program.cs) |✔️|
 |2234 | []()|  |  |:heavy_minus_sign: |
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
