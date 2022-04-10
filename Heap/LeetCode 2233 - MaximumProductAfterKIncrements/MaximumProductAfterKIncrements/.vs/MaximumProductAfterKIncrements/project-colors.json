@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcd52f14-2a6c-4d3f-a4eb-30880968f3fb": {
+      "ProjectGuid": "fcd52f14-2a6c-4d3f-a4eb-30880968f3fb",
+      "DisplayName": "MaximumProductAfterKIncrements",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
