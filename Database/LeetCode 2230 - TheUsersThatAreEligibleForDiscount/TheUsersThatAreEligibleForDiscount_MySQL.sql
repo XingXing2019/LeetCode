@@ -4,5 +4,5 @@ begin
 	from purchases
 	where time_stamp between startDate and endDate
 	and amount >= minAmount
-    order by user_id;    
+	order by user_id;    
 end
