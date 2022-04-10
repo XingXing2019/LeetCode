@@ -2233,7 +2233,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2229 | [Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202229%20-%20CheckIfAnArrayIsConsecutive/CheckIfAnArrayIsConsecutive_C%23/CheckIfAnArrayIsConsecutive/Program.cs) |✔️|
 |2230 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202231%20-%20LargestNumberAfterDigitSwapsByParity/LargestNumberAfterDigitSwapsByParity_C%23/LargestNumberAfterDigitSwapsByParity/Program.cs) |✔️|
-|2232 | []()|  | [C#]() |✔️|
+|2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202232%20-%20MinimizeResultByAddingParenthesesToExpression/MinimizeResult/MinimizeResult/Program.cs) |✔️|
 |2233 | []()|  | [C#]() |✔️|
 |2234 | []()|  |  |:heavy_minus_sign: |
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
