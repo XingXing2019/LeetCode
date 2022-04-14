@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "255d2666-327c-41d6-914b-4e9ae045467f": {
+      "ProjectGuid": "255d2666-327c-41d6-914b-4e9ae045467f",
+      "DisplayName": "CountPositions",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
