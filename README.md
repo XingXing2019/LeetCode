@@ -2238,6 +2238,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2234 | [Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)| Hard |  |:heavy_minus_sign: |
 |2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202235%20-%20AddTwoIntegers/AddTwoIntegers/AddTwoIntegers/Program.cs) |✔️|
 |2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202236%20-%20RootEqualsSumOfChildren/RootEqualsSumOfChildren/RootEqualsSumOfChildren/Program.cs) |✔️|
+|2237 | [Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202237%20-%20CountPositionsOnStreetWithRequiredBrightness/CountPositions_C%23/CountPositions/Program.cs) |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
