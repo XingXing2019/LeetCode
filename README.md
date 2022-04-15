@@ -2239,6 +2239,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202235%20-%20AddTwoIntegers/AddTwoIntegers/AddTwoIntegers/Program.cs) |✔️|
 |2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202236%20-%20RootEqualsSumOfChildren/RootEqualsSumOfChildren/RootEqualsSumOfChildren/Program.cs) |✔️|
 |2237 | [Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202237%20-%20CountPositionsOnStreetWithRequiredBrightness/CountPositions_C%23/CountPositions/Program.cs) |✔️|
+|2238 | [Number of Times a Driver Was a Passenger](https://leetcode.com/problems/number-of-times-a-driver-was-a-passenger/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202238%20-%20NumberOfTimesADriverWasAPassenger/NumberOfTimesADriverWasAPassenger_MySQL.sql), [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202238%20-%20NumberOfTimesADriverWasAPassenger/NumberOfTimesADriverWasAPassenger_SQLServer.sql) |✔️|
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
