@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fdfecf16-0820-466a-93d5-cabb120bafab": {
+      "ProjectGuid": "fdfecf16-0820-466a-93d5-cabb120bafab",
+      "DisplayName": "FindClosestNumberToZero",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
