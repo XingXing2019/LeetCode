@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ac32a57-5cf1-4fc9-bff8-2bac40fedde6": {
+      "ProjectGuid": "6ac32a57-5cf1-4fc9-bff8-2bac40fedde6",
+      "DisplayName": "RootEqualsSumOfChildren",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
