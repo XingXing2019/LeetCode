@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindClosestNumberToZero", "FindClosestNumberToZero\FindClosestNumberToZero.csproj", "{FDFECF16-0820-466A-93D5-CABB120BAFAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFECF16-0820-466A-93D5-CABB120BAFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFECF16-0820-466A-93D5-CABB120BAFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFECF16-0820-466A-93D5-CABB120BAFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFECF16-0820-466A-93D5-CABB120BAFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF248C0-01F2-4329-9F1C-F8C3A64998F3}
+	EndGlobalSection
+EndGlobal
