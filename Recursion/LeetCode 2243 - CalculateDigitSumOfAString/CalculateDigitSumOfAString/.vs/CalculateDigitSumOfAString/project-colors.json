@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02e1239e-422e-4750-884c-07453fee0666": {
+      "ProjectGuid": "02e1239e-422e-4750-884c-07453fee0666",
+      "DisplayName": "CalculateDigitSumOfAString",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
