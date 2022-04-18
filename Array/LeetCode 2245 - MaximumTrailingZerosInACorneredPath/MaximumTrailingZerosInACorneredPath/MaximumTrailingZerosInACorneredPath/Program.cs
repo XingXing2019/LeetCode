@@ -14,59 +14,6 @@ namespace MaximumTrailingZerosInACorneredPath
             };
             Console.WriteLine(MaxTrailingZeros(grid));
         }
-
-        //public static int MaxTrailingZeros(int[][] grid)
-        //{
-        //    var res = 0;
-        //    var left = new int[grid.Length][];
-        //    var right = new int[grid.Length][];
-        //    var vertical = new int[grid.Length][];
-        //    for (int i = 0; i < grid.Length; i++)
-        //    {
-        //        left[i] = new int[grid[0].Length];
-        //        right[i] = new int[grid[0].Length];
-        //        vertical[i] = new int[grid[0].Length];
-        //    }
-        //    for (int i = 0; i < grid.Length; i++)
-        //    {
-        //        int leftTwo = 0, leftFive = 0;
-        //        for (int j = 0; j < grid[0].Length; j++)
-        //        {
-        //            leftTwo += Count(grid[i][j], 2);
-        //            leftFive += Count(grid[i][j], 5);
-        //            left[i][j] = Math.Min(leftTwo, leftFive);
-        //        }
-        //        int rightTwo = 0, rightFive = 0;
-        //        for (int j = grid[0].Length - 1; j >= 0; j--)
-        //        {
-        //            rightTwo += Count(grid[i][j], 2);
-        //            rightFive += Count(grid[i][j], 5);
-        //            right[i][j] = Math.Min(rightTwo, rightFive);
-        //        }
-        //    }
-        //    for (int j = 0; j < grid[0].Length; j++)
-        //    {
-        //        int two = 0, five = 0;
-        //        for (int i = 0; i < grid.Length; i++)
-        //        {
-        //            two += Count(grid[i][j], 2);
-        //            five += Count(grid[i][j], 5);
-        //            vertical[i][j] = Math.Min(two, five);
-        //        }
-        //    }
-        //    for (int j = 0; j < grid[0].Length; j++)
-        //    {
-        //        for (int i = 0; i < grid.Length; i++)
-        //        {
-        //            var leftZero = j == 0 ? 0 : left[i][j - 1];
-        //            var rightZero = right[i][j];
-        //            var topZero = vertical[i][j];
-        //            res = Math.Max(res, topZero + Math.Max(leftZero, rightZero));
-        //        }
-        //    }
-        //    return res;
-        //}
-
         public static int MaxTrailingZeros(int[][] grid)
         {
             var res = 0;
@@ -83,7 +30,7 @@ namespace MaximumTrailingZerosInACorneredPath
                     var two = Count(grid[i][j], 2);
                     var five = Count(grid[i][j], 5);
                     rec[i][j] = new[] { two, five };
-                    if (j == 0) 
+                    if (j == 0)
                         h[i][j] = rec[i][j];
                     else
                         h[i][j] = new[] { rec[i][j][0] + h[i][j - 1][0], rec[i][j][1] + h[i][j - 1][1] };
