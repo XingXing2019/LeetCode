@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35853cef-85cb-45fd-9eb6-48276fd860fd": {
+      "ProjectGuid": "35853cef-85cb-45fd-9eb6-48276fd860fd",
+      "DisplayName": "MaximumTrailingZerosInACorneredPath",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
