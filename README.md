@@ -2244,6 +2244,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202240%20-%20NumberOfWaysToBuyPensAndPencils/NumberOfWaysToBuyPensAndPencils/NumberOfWaysToBuyPensAndPencils/Program.cs) |✔️|
 |2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202241%20-%20DesignAnATMMachine/DesignAnATMMachine/DesignAnATMMachine/Program.cs) |✔️|
 |2242 | [Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)| Hard |  |:heavy_minus_sign: |
+|2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Recursion/LeetCode%202243%20-%20CalculateDigitSumOfAString/CalculateDigitSumOfAString/CalculateDigitSumOfAString/Program.cs) |✔️|
+|2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202244%20-%20MinimumRoundToCompleteAllTasks/MinimumRoundToCompleteAllTasks/MinimumRoundToCompleteAllTasks/Program.cs) |✔️|
+|2245 | [Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202245%20-%20MaximumTrailingZerosInACorneredPath/MaximumTrailingZerosInACorneredPath/MaximumTrailingZerosInACorneredPath/Program.cs) |✔️|
+|2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)| Hard |  |:heavy_minus_sign: |
 |218 | []()|  | [MySQL](), [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
