@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7992e41-ae14-4f9e-940d-61e71f4ae3ad": {
+      "ProjectGuid": "c7992e41-ae14-4f9e-940d-61e71f4ae3ad",
+      "DisplayName": "SentenceSimilarityIII",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
