@@ -1,8 +1,9 @@
 CREATE PROCEDURE PivotProducts AS
 BEGIN
-    DECLARE @sql_str NVARCHAR(MAX);
 	DECLARE @sql_col NVARCHAR(MAX);
 	SELECT @sql_col = ISNULL(@sql_col + ',', '') + QUOTENAME(store) FROM Products GROUP BY store ORDER BY store
+		
+	DECLARE @sql_str NVARCHAR(MAX);
 	SET @sql_str = '
 	SELECT *
 	FROM (SELECT * FROM Products) AS temp 
