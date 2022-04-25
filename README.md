@@ -2248,6 +2248,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202244%20-%20MinimumRoundToCompleteAllTasks/MinimumRoundToCompleteAllTasks/MinimumRoundToCompleteAllTasks/Program.cs) |✔️|
 |2245 | [Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202245%20-%20MaximumTrailingZerosInACorneredPath/MaximumTrailingZerosInACorneredPath/MaximumTrailingZerosInACorneredPath/Program.cs) |✔️|
 |2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)| Hard |  |:heavy_minus_sign: |
-|218 | []()|  | [MySQL](), [SQLServer]() |✔️|
+|2247 | [Maximum Cost of Trip With K Highways](https://leetcode.com/problems/maximum-cost-of-trip-with-k-highways/)| Hard |  |:heavy_minus_sign: |
+|2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202248%20-%20IntersectionOfMultipleArrays/IntersectionOfMultipleArrays/IntersectionOfMultipleArrays/Program.cs) |✔️|
+|2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202249%20-%20CountLatticePointsInsideACircle/CountLatticePointsInsideACircle/CountLatticePointsInsideACircle/Program.cs) |✔️|
+|2250 | [Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/)| Medium |  |:heavy_minus_sign: |
+|2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)| Hard |  |:heavy_minus_sign: |
+|2252 | [Dynamic Pivoting of a Table](https://leetcode.com/problems/dynamic-pivoting-of-a-table/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202252%20-%20DynamicPivotingOfATable/DynamicPivotingOfATable_SQLServer.sql) |✔️|
+|2253 | [Dynamic Unpivoting of a Table](https://leetcode.com/problems/dynamic-unpivoting-of-a-table/)| Hard | [SQLServer]() |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
