@@ -8,6 +8,7 @@ BEGIN
     )
 
     SELECT @sql_col = ISNULL(@sql_col + ',', '') + QUOTENAME(NAME) FROM Cols GROUP BY NAME
+	
     DECLARE @sql_str NVARCHAR(MAX);
     SET @sql_str = '
     SELECT * FROM Products
