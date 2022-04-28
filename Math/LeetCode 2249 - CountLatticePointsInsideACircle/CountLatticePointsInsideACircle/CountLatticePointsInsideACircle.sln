@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountLatticePointsInsideACircle", "CountLatticePointsInsideACircle\CountLatticePointsInsideACircle.csproj", "{B147FC82-89E0-4DE9-BF47-19E9BC0FD810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumber", "..\..\..\HashTable\LeetCode 2250 - CountNumberOfRectanglesContainingEachPoint\CountNumber\CountNumber.csproj", "{4A6ADF79-114F-4BD8-8250-A152CB095B38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B147FC82-89E0-4DE9-BF47-19E9BC0FD810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B147FC82-89E0-4DE9-BF47-19E9BC0FD810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B147FC82-89E0-4DE9-BF47-19E9BC0FD810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6ADF79-114F-4BD8-8250-A152CB095B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6ADF79-114F-4BD8-8250-A152CB095B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6ADF79-114F-4BD8-8250-A152CB095B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6ADF79-114F-4BD8-8250-A152CB095B38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

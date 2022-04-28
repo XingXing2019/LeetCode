@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b147fc82-89e0-4de9-bf47-19e9bc0fd810": {
+      "ProjectGuid": "b147fc82-89e0-4de9-bf47-19e9bc0fd810",
+      "DisplayName": "CountLatticePointsInsideACircle",
+      "ColorIndex": 0
+    },
+    "4a6adf79-114f-4bd8-8250-a152cb095b38": {
+      "ProjectGuid": "4a6adf79-114f-4bd8-8250-a152cb095b38",
+      "DisplayName": "CountNumber",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

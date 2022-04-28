@@ -1,0 +1,5 @@
+D:\LeetCode\Design\LeetCode 2254 - DesignVideoSharingPlatform\DesignVideoSharingPlatform\DesignVideoSharingPlatform\obj\Debug\net6.0\DesignVideoSharingPlatform.csproj.AssemblyReference.cache
+D:\LeetCode\Design\LeetCode 2254 - DesignVideoSharingPlatform\DesignVideoSharingPlatform\DesignVideoSharingPlatform\obj\Debug\net6.0\DesignVideoSharingPlatform.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Design\LeetCode 2254 - DesignVideoSharingPlatform\DesignVideoSharingPlatform\DesignVideoSharingPlatform\obj\Debug\net6.0\DesignVideoSharingPlatform.AssemblyInfoInputs.cache
+D:\LeetCode\Design\LeetCode 2254 - DesignVideoSharingPlatform\DesignVideoSharingPlatform\DesignVideoSharingPlatform\obj\Debug\net6.0\DesignVideoSharingPlatform.AssemblyInfo.cs
+D:\LeetCode\Design\LeetCode 2254 - DesignVideoSharingPlatform\DesignVideoSharingPlatform\DesignVideoSharingPlatform\obj\Debug\net6.0\DesignVideoSharingPlatform.csproj.CoreCompileInputs.cache
