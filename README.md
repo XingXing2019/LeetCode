@@ -2255,5 +2255,6 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2251 | [Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)| Hard |  |:heavy_minus_sign: |
 |2252 | [Dynamic Pivoting of a Table](https://leetcode.com/problems/dynamic-pivoting-of-a-table/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202252%20-%20DynamicPivotingOfATable/DynamicPivotingOfATable_SQLServer.sql) |✔️|
 |2253 | [Dynamic Unpivoting of a Table](https://leetcode.com/problems/dynamic-unpivoting-of-a-table/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202253%20-%20DynamicUnpivotingOfATable/DynamicUnpivotingOfATable_SQLServer.sql) |✔️|
+|2254 | [Design Video Sharing Platform](https://leetcode.com/problems/design-video-sharing-platform/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202254%20-%20DesignVideoSharingPlatform/DesignVideoSharingPlatform/DesignVideoSharingPlatform/Program.cs) |✔️|
 |214 | []()|  | [C#]() |✔️|
 |214 | []()|  |  |:heavy_minus_sign: |
