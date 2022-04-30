@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0f065f2-3d34-4e3f-8389-6e964c9bd039": {
+      "ProjectGuid": "d0f065f2-3d34-4e3f-8389-6e964c9bd039",
+      "DisplayName": "CountUnguardedCellsInTheGrid",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
