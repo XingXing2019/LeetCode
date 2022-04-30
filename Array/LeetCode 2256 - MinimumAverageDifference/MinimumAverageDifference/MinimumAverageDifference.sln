@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAverageDifference", "MinimumAverageDifference\MinimumAverageDifference.csproj", "{D2B8FB91-D390-4FCF-A4A9-032B54DDE5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B8FB91-D390-4FCF-A4A9-032B54DDE5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B8FB91-D390-4FCF-A4A9-032B54DDE5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B8FB91-D390-4FCF-A4A9-032B54DDE5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B8FB91-D390-4FCF-A4A9-032B54DDE5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170DFC71-D960-4BC2-B91D-7C2872F44C5F}
+	EndGlobalSection
+EndGlobal
