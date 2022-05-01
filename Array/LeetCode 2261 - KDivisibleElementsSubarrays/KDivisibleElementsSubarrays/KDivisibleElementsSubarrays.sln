@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDivisibleElementsSubarrays", "KDivisibleElementsSubarrays\KDivisibleElementsSubarrays.csproj", "{D494F3D5-C1B0-475E-81DA-5D5F0AAFC565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D494F3D5-C1B0-475E-81DA-5D5F0AAFC565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D494F3D5-C1B0-475E-81DA-5D5F0AAFC565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D494F3D5-C1B0-475E-81DA-5D5F0AAFC565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D494F3D5-C1B0-475E-81DA-5D5F0AAFC565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E81499F6-1A46-4870-862A-A30452E3E8F2}
+	EndGlobalSection
+EndGlobal

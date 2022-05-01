@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af277355-fe55-4d04-be3b-a1ea157711d9": {
+      "ProjectGuid": "af277355-fe55-4d04-be3b-a1ea157711d9",
+      "DisplayName": "MinimumConsecutiveCardsToPickUp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
