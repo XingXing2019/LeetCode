@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fcebbf4-ba3f-4f01-882e-5a6a7fc44193": {
+      "ProjectGuid": "3fcebbf4-ba3f-4f01-882e-5a6a7fc44193",
+      "DisplayName": "FindMedianFromDataStream",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

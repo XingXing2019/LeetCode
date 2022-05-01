@@ -1,41 +1,36 @@
-﻿using System;
-using System.Collections.Generic;
+﻿var heap = new MedianFinder();
+heap.AddNum(1);
+heap.AddNum(2);
+Console.WriteLine(heap.FindMedian());
+heap.AddNum(3);
+Console.WriteLine(heap.FindMedian());
 
-namespace FindMedianFromDataStream
+public class MedianFinder
 {
-    class Program
+    PriorityQueue<int, int> minHeap;
+    PriorityQueue<int, int> maxHeap;
+    public MedianFinder()
     {
-        static void Main(string[] args)
-        {
-            var list = new List<int> {1, 2, 3};
-            var num = 4;
-            Console.WriteLine(list.BinarySearch(num));
-        }
+        minHeap = new PriorityQueue<int, int>();
+        maxHeap = new PriorityQueue<int, int>();
     }
-    public class MedianFinder
+
+    public void AddNum(int num)
     {
-        private List<double> _maxHeap;
-        public MedianFinder()
+        minHeap.Enqueue(num, num);
+        var min = minHeap.Dequeue();
+        maxHeap.Enqueue(min, -min);
+        if (maxHeap.Count > minHeap.Count)
         {
-            _maxHeap = new List<double>();
-        }
-
-        public void AddNum(int num)
-        {
-            var index = _maxHeap.BinarySearch(num);
-            if (index < 0)
-                index = -(index + 1);
-            _maxHeap.Insert(index, num);
-        }
-
-        public double FindMedian()
-        {
-            var count = _maxHeap.Count;
-            if (count % 2 != 0)
-                return _maxHeap[count / 2];
-            else
-                return (_maxHeap[count / 2] + _maxHeap[count / 2 - 1]) / 2;
+            var max = maxHeap.Dequeue();
+            minHeap.Enqueue(max, max);
         }
     }
 
+    public double FindMedian()
+    {
+        if (minHeap.Count == maxHeap.Count)
+            return ((double)minHeap.Peek() + maxHeap.Peek()) / 2;
+        return (double)minHeap.Peek();
+    }
 }
