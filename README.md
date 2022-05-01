@@ -2256,5 +2256,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2252 | [Dynamic Pivoting of a Table](https://leetcode.com/problems/dynamic-pivoting-of-a-table/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202252%20-%20DynamicPivotingOfATable/DynamicPivotingOfATable_SQLServer.sql) |✔️|
 |2253 | [Dynamic Unpivoting of a Table](https://leetcode.com/problems/dynamic-unpivoting-of-a-table/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202253%20-%20DynamicUnpivotingOfATable/DynamicUnpivotingOfATable_SQLServer.sql) |✔️|
 |2254 | [Design Video Sharing Platform](https://leetcode.com/problems/design-video-sharing-platform/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202254%20-%20DesignVideoSharingPlatform/DesignVideoSharingPlatform/DesignVideoSharingPlatform/Program.cs) |✔️|
-|214 | []()|  | [C#]() |✔️|
-|214 | []()|  |  |:heavy_minus_sign: |
+|2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Trie/LeetCode%202255%20-%20CountPrefixesOfAGivenString/CountPrefixesOfAGivenString/CountPrefixesOfAGivenString/Program.cs) |✔️|
+|2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202256%20-%20MinimumAverageDifference/MinimumAverageDifference/MinimumAverageDifference/Program.cs) |✔️|
+|2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202256%20-%20MinimumAverageDifference/MinimumAverageDifference/MinimumAverageDifference/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202257%20-%20CountUnguardedCellsInTheGrid/CountUnguardedCellsInTheGrid_Java/src/com/company/Main.java) |✔️|
+|2258 | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)| Hard |  |:heavy_minus_sign: |
+|2255 | []()|  | [C#]() |✔️|
+|2255 | []()|  |  |:heavy_minus_sign: |
