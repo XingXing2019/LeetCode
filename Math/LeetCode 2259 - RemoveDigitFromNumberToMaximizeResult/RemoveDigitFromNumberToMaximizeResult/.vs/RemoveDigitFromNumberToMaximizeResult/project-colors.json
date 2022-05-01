@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d326c22-f231-46a5-98e7-91074be4c3ea": {
+      "ProjectGuid": "2d326c22-f231-46a5-98e7-91074be4c3ea",
+      "DisplayName": "RemoveDigitFromNumberToMaximizeResult",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
