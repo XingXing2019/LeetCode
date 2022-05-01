@@ -2260,5 +2260,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202256%20-%20MinimumAverageDifference/MinimumAverageDifference/MinimumAverageDifference/Program.cs) |✔️|
 |2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202256%20-%20MinimumAverageDifference/MinimumAverageDifference/MinimumAverageDifference/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202257%20-%20CountUnguardedCellsInTheGrid/CountUnguardedCellsInTheGrid_Java/src/com/company/Main.java) |✔️|
 |2258 | [Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)| Hard |  |:heavy_minus_sign: |
+|2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202259%20-%20RemoveDigitFromNumberToMaximizeResult/RemoveDigitFromNumberToMaximizeResult/RemoveDigitFromNumberToMaximizeResult/Program.cs) |✔️|
+|2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202260%20-%20MinimumConsecutiveCardsToPickUp/MinimumConsecutiveCardsToPickUp/MinimumConsecutiveCardsToPickUp/Program.cs) |✔️|
+|2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202261%20-%20KDivisibleElementsSubarrays/KDivisibleElementsSubarrays/KDivisibleElementsSubarrays/Program.cs) |✔️|
+|2262 | [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)| Hard |  |:heavy_minus_sign: |
+|2255 | []()|  | [C#]() |✔️|
 |2255 | []()|  | [C#]() |✔️|
 |2255 | []()|  |  |:heavy_minus_sign: |
