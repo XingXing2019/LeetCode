@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "daaacf1d-4537-42f7-893e-234d54ed77f1": {
+      "ProjectGuid": "daaacf1d-4537-42f7-893e-234d54ed77f1",
+      "DisplayName": "ShortestUnsortedContinuousSubarray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
