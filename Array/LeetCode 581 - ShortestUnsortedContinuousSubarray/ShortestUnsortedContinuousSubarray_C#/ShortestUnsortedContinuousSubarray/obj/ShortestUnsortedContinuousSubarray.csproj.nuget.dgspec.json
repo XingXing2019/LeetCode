@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray.csproj": {}
+    "D:\\LeetCode\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray_C#\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray.csproj": {
+    "D:\\LeetCode\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray_C#\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray_C#\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray.csproj",
         "projectName": "ShortestUnsortedContinuousSubarray",
-        "projectPath": "F:\\C#\\Algorithm\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray\\obj\\",
+        "projectPath": "D:\\LeetCode\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray_C#\\ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\Array\\LeetCode 581 - ShortestUnsortedContinuousSubarray\\ShortestUnsortedContinuousSubarray_C#\\ShortestUnsortedContinuousSubarray\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "imports": [
             "net461",
             "net462",
@@ -73,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
