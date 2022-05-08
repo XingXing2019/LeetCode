@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db15868b-c332-4f77-aa01-7a9b38368ab1": {
+      "ProjectGuid": "db15868b-c332-4f77-aa01-7a9b38368ab1",
+      "DisplayName": "CountNodesEqualToAverageOfSubtree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
