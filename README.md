@@ -2264,6 +2264,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202260%20-%20MinimumConsecutiveCardsToPickUp/MinimumConsecutiveCardsToPickUp/MinimumConsecutiveCardsToPickUp/Program.cs) |✔️|
 |2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202261%20-%20KDivisibleElementsSubarrays/KDivisibleElementsSubarrays/KDivisibleElementsSubarrays/Program.cs) |✔️|
 |2262 | [Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)| Hard |  |:heavy_minus_sign: |
-|2255 | []()|  | [C#]() |✔️|
+|2263 | [Make Array Non-decreasing or Non-increasing](https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing/)| Hard |  |:heavy_minus_sign: |
+|2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202264%20-%20Largest3SameDigitNumberInString/Largest3SameDigitNumberInString/Largest3SameDigitNumberInString/Program.cs) |✔️|
+|2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202265%20-%20CountNodesEqualToAverageOfSubtree/CountNodesEqualToAverageOfSubtree/CountNodesEqualToAverageOfSubtree/Program.cs) |✔️|
+|2266 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-number-of-texts/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202266%20-%20CountNumberOfTexts/CountNumberOfTexts/CountNumberOfTexts/Program.cs) |✔️|
+|2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)| Hard |  |:heavy_minus_sign: |
+
 |2255 | []()|  | [C#]() |✔️|
 |2255 | []()|  |  |:heavy_minus_sign: |
