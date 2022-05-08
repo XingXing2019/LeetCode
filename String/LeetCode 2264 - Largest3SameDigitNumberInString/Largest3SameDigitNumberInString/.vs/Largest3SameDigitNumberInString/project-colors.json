@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9ee1417-cee1-4a90-9147-7a132e172c37": {
+      "ProjectGuid": "c9ee1417-cee1-4a90-9147-7a132e172c37",
+      "DisplayName": "Largest3SameDigitNumberInString",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
