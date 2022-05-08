@@ -27,7 +27,6 @@ namespace CountNumberOfTexts
                 {
                     count = (count + dp[index--]) % mod;
                     keyCount--;
-
                 } while (index >= 0 && keyCount != 0 && pressedKeys[i - 1] == pressedKeys[index]);
                 dp[i] = count;
             }
