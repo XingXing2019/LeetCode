@@ -2269,6 +2269,6 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202265%20-%20CountNodesEqualToAverageOfSubtree/CountNodesEqualToAverageOfSubtree/CountNodesEqualToAverageOfSubtree/Program.cs) |✔️|
 |2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202266%20-%20CountNumberOfTexts/CountNumberOfTexts/CountNumberOfTexts/Program.cs) |✔️|
 |2267 | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/)| Hard |  |:heavy_minus_sign: |
-
+|2268 | [Minimum Number of Keypresses](https://leetcode.com/problems/minimum-number-of-keypresses/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202268%20-%20MinimumNumberOfKeypresses/MinimumNumberOfKeypresses/MinimumNumberOfKeypresses/Program.cs) |✔️|
 |2255 | []()|  | [C#]() |✔️|
 |2255 | []()|  |  |:heavy_minus_sign: |
