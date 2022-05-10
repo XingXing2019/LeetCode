@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e4b70ac-e64b-4b1c-bdf4-a1a2a8f6dc2c": {
+      "ProjectGuid": "7e4b70ac-e64b-4b1c-bdf4-a1a2a8f6dc2c",
+      "DisplayName": "MinimumNumberOfKeypresses",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
