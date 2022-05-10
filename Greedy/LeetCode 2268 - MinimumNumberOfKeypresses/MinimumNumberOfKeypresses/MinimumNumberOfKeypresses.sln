@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumNumberOfKeypresses", "MinimumNumberOfKeypresses\MinimumNumberOfKeypresses.csproj", "{7E4B70AC-E64B-4B1C-BDF4-A1A2A8F6DC2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E4B70AC-E64B-4B1C-BDF4-A1A2A8F6DC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4B70AC-E64B-4B1C-BDF4-A1A2A8F6DC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4B70AC-E64B-4B1C-BDF4-A1A2A8F6DC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4B70AC-E64B-4B1C-BDF4-A1A2A8F6DC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9CB1643-079E-4310-B8C5-4317D3748653}
+	EndGlobalSection
+EndGlobal
