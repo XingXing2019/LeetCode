@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d4d61022-2e1b-460f-9cce-8f8ba2730b8e": {
+      "ProjectGuid": "d4d61022-2e1b-460f-9cce-8f8ba2730b8e",
+      "DisplayName": "MaximumConsecutiveFloors",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
