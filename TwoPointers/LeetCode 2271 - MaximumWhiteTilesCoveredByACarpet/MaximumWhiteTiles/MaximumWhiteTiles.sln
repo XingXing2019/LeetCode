@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumWhiteTiles", "MaximumWhiteTiles\MaximumWhiteTiles.csproj", "{1CD289E8-81BD-4395-AD8A-8A08E24FC0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD289E8-81BD-4395-AD8A-8A08E24FC0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD289E8-81BD-4395-AD8A-8A08E24FC0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD289E8-81BD-4395-AD8A-8A08E24FC0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD289E8-81BD-4395-AD8A-8A08E24FC0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10D1C21E-A620-4151-95C7-619333A6F7B4}
+	EndGlobalSection
+EndGlobal

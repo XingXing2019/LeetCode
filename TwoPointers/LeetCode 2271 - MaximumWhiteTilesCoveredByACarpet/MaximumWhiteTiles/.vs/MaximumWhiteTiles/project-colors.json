@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cd289e8-81bd-4395-ad8a-8a08e24fc0dc": {
+      "ProjectGuid": "1cd289e8-81bd-4395-ad8a-8a08e24fc0dc",
+      "DisplayName": "MaximumWhiteTiles",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
