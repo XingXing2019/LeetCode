@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6LnUxt13NbIR+C8sUSdYzeT4rK4U3gQyq8r9ji45Irm5wk4wwMBZISBDBODopiqpRisIZGshGao0kT/F+DMtvQ==",
+  "dgSpecHash": "HLyjpXZIAXpXqloBfldkRh3+Zoe3MXBhulCCoqEeyoE0b+Kfrd5OmUfljcVl8mFPPshYA1B+an5/gxnLoC56AQ==",
   "success": true,
-  "projectFilePath": "F:\\C#\\Algorithm\\Search\\LeetCode 1091 - ShortestPathInBinaryMatrix\\ShortestPathInBinaryMatrix\\ShortestPathInBinaryMatrix\\ShortestPathInBinaryMatrix.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\LeetCode\\Search\\LeetCode 1091 - ShortestPathInBinaryMatrix\\ShortestPathInBinaryMatrix_C#\\ShortestPathInBinaryMatrix\\ShortestPathInBinaryMatrix.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

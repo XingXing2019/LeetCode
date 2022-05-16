@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2fa61465-7efb-4cdf-a33c-88a5aa0beaa7": {
+      "ProjectGuid": "2fa61465-7efb-4cdf-a33c-88a5aa0beaa7",
+      "DisplayName": "LargestCombination",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
