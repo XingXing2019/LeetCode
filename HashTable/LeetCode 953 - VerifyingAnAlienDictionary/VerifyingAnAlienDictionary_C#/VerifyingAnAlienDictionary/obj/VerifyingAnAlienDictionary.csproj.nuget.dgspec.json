@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary.csproj": {}
+    "D:\\LeetCode\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary_C#\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary.csproj": {
+    "D:\\LeetCode\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary_C#\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary.csproj",
+        "projectUniqueName": "D:\\LeetCode\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary_C#\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary.csproj",
         "projectName": "VerifyingAnAlienDictionary",
-        "projectPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary\\obj\\",
+        "projectPath": "D:\\LeetCode\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary_C#\\VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\HashTable\\LeetCode 953 - VerifyingAnAlienDictionary\\VerifyingAnAlienDictionary_C#\\VerifyingAnAlienDictionary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
