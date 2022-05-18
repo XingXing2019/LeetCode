@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a0ca323-d083-4c10-bca2-100a97f961f7": {
+      "ProjectGuid": "1a0ca323-d083-4c10-bca2-100a97f961f7",
+      "DisplayName": "CountNumberOfRectangles",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
