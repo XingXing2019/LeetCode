@@ -2278,5 +2278,6 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2274 | [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202274%20-%20MaximumConsecutiveFloorsWithoutSpecialFloors/MaximumConsecutiveFloors/MaximumConsecutiveFloors/Program.cs) |✔️|
 |2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202275%20-%20LargestCombinationWithBitwiseANDGreaterThanZero/LargestCombination/LargestCombination/Program.cs) |✔️|
 |2276 | [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/)| Hard |  |:heavy_minus_sign: |
+|2277 | [Closest Node to Path in Tree](https://leetcode.com/problems/closest-node-to-path-in-tree/)| Hard |  |:heavy_minus_sign: |
 |22 | []()|  | [C#]() |✔️|
 |2255 | []()|  |  |:heavy_minus_sign: |
