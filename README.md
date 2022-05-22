@@ -2280,7 +2280,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2276 | [Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/)| Hard |  |:heavy_minus_sign: |
 |2277 | [Closest Node to Path in Tree](https://leetcode.com/problems/closest-node-to-path-in-tree/)| Hard |  |:heavy_minus_sign: |
 |2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202278%20-%20PercentageOfLetterInString/PercentageOfLetterInString/PercentageOfLetterInString/Program.cs) |✔️|
-|2279 | []()|  | [C#]() |✔️|
+|2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202279%20-%20MaximumBagsWithFullCapacityOfRocks/MaximumBagsWithFullCapacityOfRocks/MaximumBagsWithFullCapacityOfRocks/Program.cs) |✔️|
 |2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202280%20-%20MinimumLinesToRepresentALineChart/MinimumLinesToRepresentALineChart/MinimumLinesToRepresentALineChart/Program.cs) |✔️|
 |2281 | [Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/)| Hard |  |:heavy_minus_sign: |
 |22 | []()|  | [C#]() |✔️|
