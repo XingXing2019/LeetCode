@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25f64d3a-e261-4f8c-abc8-fbe41d2c63b1": {
+      "ProjectGuid": "25f64d3a-e261-4f8c-abc8-fbe41d2c63b1",
+      "DisplayName": "MaximumBagsWithFullCapacityOfRocks",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
