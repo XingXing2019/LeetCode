@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e82f837b-b4ad-49c5-942a-396664915d0e": {
+      "ProjectGuid": "e82f837b-b4ad-49c5-942a-396664915d0e",
+      "DisplayName": "MinimumLinesToRepresentALineChart",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
