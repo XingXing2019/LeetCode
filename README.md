@@ -2284,4 +2284,4 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202280%20-%20MinimumLinesToRepresentALineChart/MinimumLinesToRepresentALineChart/MinimumLinesToRepresentALineChart/Program.cs) |✔️|
 |2281 | [Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/)| Hard |  |:heavy_minus_sign: |
 |22 | []()|  | [C#]() |✔️|
-|2255 | []()|  |  |:heavy_minus_sign: |
+|22 | []()|  |  |:heavy_minus_sign: |
