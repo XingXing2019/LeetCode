@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b95ec7b7-368d-48a1-a06e-3fffa6d94b41": {
+      "ProjectGuid": "b95ec7b7-368d-48a1-a06e-3fffa6d94b41",
+      "DisplayName": "FallingSquares",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
