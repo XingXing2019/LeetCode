@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd50408f-06c0-4e28-b149-75c830023202": {
+      "ProjectGuid": "cd50408f-06c0-4e28-b149-75c830023202",
+      "DisplayName": "MinimumCostTreeFromLeafValues",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
