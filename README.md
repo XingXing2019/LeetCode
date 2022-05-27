@@ -2283,5 +2283,6 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202279%20-%20MaximumBagsWithFullCapacityOfRocks/MaximumBagsWithFullCapacityOfRocks/MaximumBagsWithFullCapacityOfRocks/Program.cs) |✔️|
 |2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202280%20-%20MinimumLinesToRepresentALineChart/MinimumLinesToRepresentALineChart/MinimumLinesToRepresentALineChart/Program.cs) |✔️|
 |2281 | [Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/)| Hard |  |:heavy_minus_sign: |
+|2282 | [Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202282%20-%20NumberOfPeopleThatCanBeSeenInAGrid/NumberOfPeople/NumberOfPeople/Program.cs) |✔️|
 |22 | []()|  | [C#]() |✔️|
 |22 | []()|  |  |:heavy_minus_sign: |
