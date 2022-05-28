@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\LeetCode\\HashTable\\LeetCode 2284 - SenderWithLargestWordCount\\SenderWithLargestWordCount\\SenderWithLargestWordCount\\SenderWithLargestWordCount.csproj": {}
+  },
+  "projects": {
+    "D:\\LeetCode\\HashTable\\LeetCode 2284 - SenderWithLargestWordCount\\SenderWithLargestWordCount\\SenderWithLargestWordCount\\SenderWithLargestWordCount.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LeetCode\\HashTable\\LeetCode 2284 - SenderWithLargestWordCount\\SenderWithLargestWordCount\\SenderWithLargestWordCount\\SenderWithLargestWordCount.csproj",
+        "projectName": "SenderWithLargestWordCount",
+        "projectPath": "D:\\LeetCode\\HashTable\\LeetCode 2284 - SenderWithLargestWordCount\\SenderWithLargestWordCount\\SenderWithLargestWordCount\\SenderWithLargestWordCount.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\HashTable\\LeetCode 2284 - SenderWithLargestWordCount\\SenderWithLargestWordCount\\SenderWithLargestWordCount\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
