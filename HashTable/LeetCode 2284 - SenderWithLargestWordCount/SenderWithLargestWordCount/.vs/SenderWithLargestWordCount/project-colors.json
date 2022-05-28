@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11cfc2f3-a74b-436c-9078-ea129238c4b3": {
+      "ProjectGuid": "11cfc2f3-a74b-436c-9078-ea129238c4b3",
+      "DisplayName": "SenderWithLargestWordCount",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
