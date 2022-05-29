@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RearrangeCharacters", "RearrangeCharacters\RearrangeCharacters.csproj", "{3B2574D4-DD92-498B-9CD1-78D65580CEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2574D4-DD92-498B-9CD1-78D65580CEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2574D4-DD92-498B-9CD1-78D65580CEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2574D4-DD92-498B-9CD1-78D65580CEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2574D4-DD92-498B-9CD1-78D65580CEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97361DED-F7CA-41D9-9608-47F3267EF683}
+	EndGlobalSection
+EndGlobal
