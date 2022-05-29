@@ -23,11 +23,9 @@ int MinimumObstacles(int[][] grid)
         {
             int newX = cur[0] + dirs[i], newY = cur[1] + dirs[i + 1];
             if (newX < 0 || newX >= m || newY < 0 || newY >= n) continue;
-            if (cur[2] + grid[newX][newY] < dp[newX][newY])
-            {
-                dp[newX][newY] = cur[2] + grid[newX][newY];
-                queue.Enqueue(new []{newX, newY, cur[2] + grid[newX][newY]}, cur[2] + grid[newX][newY]);
-            }
+            if (cur[2] + grid[newX][newY] >= dp[newX][newY]) continue;
+            dp[newX][newY] = cur[2] + grid[newX][newY];
+            queue.Enqueue(new []{newX, newY, cur[2] + grid[newX][newY]}, cur[2] + grid[newX][newY]);
         }
     }
     return -1;
