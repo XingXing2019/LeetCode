@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumObstacleRemoval", "MinimumObstacleRemoval\MinimumObstacleRemoval.csproj", "{8197BD5C-25A3-4608-9075-CCA3F40A0C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8197BD5C-25A3-4608-9075-CCA3F40A0C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8197BD5C-25A3-4608-9075-CCA3F40A0C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8197BD5C-25A3-4608-9075-CCA3F40A0C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8197BD5C-25A3-4608-9075-CCA3F40A0C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A852D46C-DC0E-4729-9A74-381E7C4F8EAA}
+	EndGlobalSection
+EndGlobal
