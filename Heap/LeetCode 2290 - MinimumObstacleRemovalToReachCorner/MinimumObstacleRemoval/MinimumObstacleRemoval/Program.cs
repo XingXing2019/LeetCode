@@ -12,7 +12,7 @@ int MinimumObstacles(int[][] grid)
     }
     int[] dirs = { 1, 0, -1, 0, 1 };
     var queue = new PriorityQueue<int[], int>();
-    queue.Enqueue(new []{0, 0, 0}, 0);
+    queue.Enqueue(new[] { 0, 0, 0 }, 0);
     dp[0][0] = 0;
     while (queue.Count != 0)
     {
@@ -25,7 +25,7 @@ int MinimumObstacles(int[][] grid)
             if (newX < 0 || newX >= m || newY < 0 || newY >= n) continue;
             if (cur[2] + grid[newX][newY] >= dp[newX][newY]) continue;
             dp[newX][newY] = cur[2] + grid[newX][newY];
-            queue.Enqueue(new []{newX, newY, cur[2] + grid[newX][newY]}, cur[2] + grid[newX][newY]);
+            queue.Enqueue(new[] { newX, newY, cur[2] + grid[newX][newY] }, cur[2] + grid[newX][newY]);
         }
     }
     return -1;
