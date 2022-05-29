@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8197bd5c-25a3-4608-9075-cca3f40a0c4e": {
+      "ProjectGuid": "8197bd5c-25a3-4608-9075-cca3f40a0c4e",
+      "DisplayName": "MinimumObstacleRemoval",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
