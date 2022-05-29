@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b2574d4-dd92-498b-9cd1-78d65580cebb": {
+      "ProjectGuid": "3b2574d4-dd92-498b-9cd1-78d65580cebb",
+      "DisplayName": "RearrangeCharacters",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
