@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d836755-d51f-4a0a-bc13-b7e7f3531828": {
+      "ProjectGuid": "8d836755-d51f-4a0a-bc13-b7e7f3531828",
+      "DisplayName": "SplitConcatenatedStrings",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
