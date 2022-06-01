@@ -2292,5 +2292,6 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202288%20-%20ApplyDiscountToPrices/ApplyDiscountToPrices/ApplyDiscountToPrices/Program.cs) |✔️|
 |2289 | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202289%20-%20StepsToMakeArrayNonDecreasing/StepsToMakeArrayNonDecreasing/StepsToMakeArrayNonDecreasing/Program.cs) |✔️|
 |2290 | [Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202290%20-%20MinimumObstacleRemovalToReachCorner/MinimumObstacleRemoval/MinimumObstacleRemoval/Program.cs) |✔️|
+|2291 | [Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202291%20-%20MaximumProfitFromTradingStocks/MaximumProfit/MaximumProfit/Program.cs) |✔️|
 |22 | []()|  | [C#]() |✔️|
 |22 | []()|  |  |:heavy_minus_sign: |
