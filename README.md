@@ -2297,7 +2297,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Recursion/LeetCode%202293%20-%20MinMaxGame/MinMaxGame/MinMaxGame/Program.cs) |✔️|
 |2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202294%20-%20PartitionArraySuchThatMaximumDifferenceIsK/PartitionArray/PartitionArray/Program.cs) |✔️|
 |2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202295%20-%20ReplaceElementsInAnArray/ReplaceElementsInAnArray/ReplaceElementsInAnArray/Program.cs) |✔️|
-|2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)| Hard |  |:heavy_minus_sign: |
+|2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202296%20-%20DesignATextEditor/DesignATextEditor_C%23/DesignATextEditor/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202296%20-%20DesignATextEditor/DesignATextEditor_Java/src/com/company/Main.java) |✔️|
 |22 | []()|  | [C#]() |✔️|
 |22 | []()|  |  |:heavy_minus_sign: |
 |22 | []()|  | [SQLServer](), [MySQL]() |✔️|
