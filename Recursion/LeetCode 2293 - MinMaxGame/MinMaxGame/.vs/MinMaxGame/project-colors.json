@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "683ff303-fc04-41b3-8337-3aebebea8f7f": {
+      "ProjectGuid": "683ff303-fc04-41b3-8337-3aebebea8f7f",
+      "DisplayName": "MinMaxGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
