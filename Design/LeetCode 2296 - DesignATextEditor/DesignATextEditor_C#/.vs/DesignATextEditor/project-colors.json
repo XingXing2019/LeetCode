@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c33966c1-fdac-4cab-951a-cda2099a2b02": {
+      "ProjectGuid": "c33966c1-fdac-4cab-951a-cda2099a2b02",
+      "DisplayName": "DesignATextEditor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
