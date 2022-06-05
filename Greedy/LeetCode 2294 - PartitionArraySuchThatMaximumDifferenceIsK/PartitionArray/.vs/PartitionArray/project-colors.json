@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb750d00-d94c-45d6-8cab-6d9a6af106d8": {
+      "ProjectGuid": "cb750d00-d94c-45d6-8cab-6d9a6af106d8",
+      "DisplayName": "PartitionArray",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
