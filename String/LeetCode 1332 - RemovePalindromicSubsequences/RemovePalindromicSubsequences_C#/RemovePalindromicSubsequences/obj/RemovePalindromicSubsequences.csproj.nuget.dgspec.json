@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences.csproj": {}
+    "D:\\LeetCode\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences_C#\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences.csproj": {
+    "D:\\LeetCode\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences_C#\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences.csproj",
+        "projectUniqueName": "D:\\LeetCode\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences_C#\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences.csproj",
         "projectName": "RemovePalindromicSubsequences",
-        "projectPath": "F:\\C#\\Algorithm\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences\\obj\\",
+        "projectPath": "D:\\LeetCode\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences_C#\\RemovePalindromicSubsequences\\RemovePalindromicSubsequences.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\String\\LeetCode 1332 - RemovePalindromicSubsequences\\RemovePalindromicSubsequences_C#\\RemovePalindromicSubsequences\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

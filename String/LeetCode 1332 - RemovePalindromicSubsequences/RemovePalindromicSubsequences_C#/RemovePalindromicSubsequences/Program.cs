@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace RemovePalindromicSubsequences
 {
@@ -23,6 +24,11 @@ namespace RemovePalindromicSubsequences
                 if (s[li++] != s[hi--])
                     return false;
             return true;
+        }
+
+        public int RemovePalindromeSub_OneLine(string s)
+        {
+            return s == string.Join("", s.Reverse()) ? 1 : 2;
         }
     }
 }
