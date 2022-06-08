@@ -9,3 +9,17 @@ F:\C#\Algorithm\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomeran
 F:\C#\Algorithm\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.AssemblyInfo.cs
 F:\C#\Algorithm\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.dll
 F:\C#\Algorithm\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.pdb
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.csproj.AssemblyReference.cache
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.AssemblyInfoInputs.cache
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.AssemblyInfo.cs
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.csproj.CoreCompileInputs.cache
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.dll
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.pdb
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\bin\Debug\netcoreapp3.1\ValidBoomerang.exe
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\bin\Debug\netcoreapp3.1\ValidBoomerang.deps.json
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\bin\Debug\netcoreapp3.1\ValidBoomerang.runtimeconfig.json
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\bin\Debug\netcoreapp3.1\ValidBoomerang.runtimeconfig.dev.json
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\bin\Debug\netcoreapp3.1\ValidBoomerang.dll
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\bin\Debug\netcoreapp3.1\ValidBoomerang.pdb
+D:\LeetCode\Math\LeetCode 1037 - ValidBoomerang\ValidBoomerang\ValidBoomerang\obj\Debug\netcoreapp3.1\ValidBoomerang.genruntimeconfig.cache

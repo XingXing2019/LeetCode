@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "650e9c9c-d777-4038-913b-bd36d031e961": {
+      "ProjectGuid": "650e9c9c-d777-4038-913b-bd36d031e961",
+      "DisplayName": "RemovePalindromicSubsequences",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
