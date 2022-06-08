@@ -5,10 +5,10 @@ Console.WriteLine(MaxProfit(inventory, orders));
 
 int MaxProfit(int[] inventory, int orders)
 {
-    var groups = inventory.GroupBy(x => x).ToDictionary(x => x.Key, x => x.Count());
-    var heap = new PriorityQueue<int[], int>();
+    var groups = inventory.GroupBy(x => x).OrderByDescending(x => x.Key).ToDictionary(x => x.Key, x => x.Count());
+    var heap = new Queue<int[]>();
     foreach (var key in groups.Keys)
-        heap.Enqueue(new []{key, groups[key]}, -key);
+        heap.Enqueue(new []{key, groups[key]});
     long res = 0, mod = 1_000_000_000 + 7;
     while (orders > 0)
     {
