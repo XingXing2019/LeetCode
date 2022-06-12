@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a698122-bab6-4c7d-872d-79e9293ab7d5": {
+      "ProjectGuid": "1a698122-bab6-4c7d-872d-79e9293ab7d5",
+      "DisplayName": "MinimumPathCostInAGrid",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
