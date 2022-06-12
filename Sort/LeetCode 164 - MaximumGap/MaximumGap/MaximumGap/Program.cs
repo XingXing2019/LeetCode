@@ -22,20 +22,34 @@ namespace MaximumGap
 
         public static int MaximumGap_N(int[] nums)
         {
-            var max = nums.Max();
-            var buckets = new int[max + 1];
+            if (nums.Length < 2) return 0;
+            int min = int.MaxValue, max = int.MinValue, len = nums.Length;
             foreach (var num in nums)
-                buckets[num]++;
-            int prev = -1, res = 0;
-            for (int i = 0; i < buckets.Length; i++)
             {
-                if (buckets[i] == 0) 
-                    continue;
-                if (prev != -1)
-                    res = Math.Max(res, i - prev);
-                prev = i;
+                min = Math.Min(min, num);
+                max = Math.Max(max, num);
             }
-            return res;
+            var gap = (int)Math.Ceiling((double)(max - min) / (len - 1));
+            var minBucket = new int[len - 1];
+            var maxBucket = new int[len - 1];
+            Array.Fill(minBucket, int.MaxValue);
+            Array.Fill(maxBucket, int.MinValue);
+            foreach (var num in nums)
+            {
+                if (num == min || num == max) continue;
+                var index = (num - min) / gap;
+                minBucket[index] = Math.Min(minBucket[index], num);
+                maxBucket[index] = Math.Max(maxBucket[index], num);
+            }
+            int res = 0, prev = min;
+            for (int i = 0; i < len - 1; i++)
+            {
+                if (minBucket[i] == int.MaxValue && maxBucket[i] == int.MinValue)
+                    continue;
+                res = Math.Max(res, minBucket[i] - prev);
+                prev = maxBucket[i];
+            }
+            return Math.Max(res, max - prev);
         }
     }
 }
