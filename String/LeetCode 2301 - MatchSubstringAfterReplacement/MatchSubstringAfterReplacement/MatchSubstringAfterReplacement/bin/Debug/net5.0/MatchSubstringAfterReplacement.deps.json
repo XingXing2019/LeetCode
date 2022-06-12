@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MatchSubstringAfterReplacement/1.0.0": {
+        "runtime": {
+          "MatchSubstringAfterReplacement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatchSubstringAfterReplacement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
