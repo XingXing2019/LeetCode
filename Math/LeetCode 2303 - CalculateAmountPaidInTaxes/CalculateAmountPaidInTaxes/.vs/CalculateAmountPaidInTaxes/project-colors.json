@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e45d889-cd94-4fe5-8e35-af0a25bd5d9b": {
+      "ProjectGuid": "7e45d889-cd94-4fe5-8e35-af0a25bd5d9b",
+      "DisplayName": "CalculateAmountPaidInTaxes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
