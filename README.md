@@ -2299,6 +2299,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202295%20-%20ReplaceElementsInAnArray/ReplaceElementsInAnArray/ReplaceElementsInAnArray/Program.cs) |✔️|
 |2296 | [Design a Text Editor](https://leetcode.com/problems/design-a-text-editor/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202296%20-%20DesignATextEditor/DesignATextEditor_C%23/DesignATextEditor/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202296%20-%20DesignATextEditor/DesignATextEditor_Java/src/com/company/Main.java) |✔️|
 |2297 | [Jump Game IX](https://leetcode.com/problems/jump-game-ix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202297%20-%20JumpGameIX/JumpGameIX/JumpGameIX/Program.cs) |✔️|
-|22 | []()|  | [C#]() |✔️|
-|22 | []()|  |  |:heavy_minus_sign: |
-|22 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|2298 | [Tasks Count in the Weekend](https://leetcode.com/problems/tasks-count-in-the-weekend/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202298%20-%20TasksCountInTheWeekend/TasksCountInTheWeekend_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202298%20-%20TasksCountInTheWeekend/TasksCountInTheWeekend_MySQL.sql) |✔️|
+|2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202299%20-%20StrongPasswordCheckerII/StrongPasswordCheckerII/StrongPasswordCheckerII/Program.cs) |✔️|
+|2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202300%20-%20SuccessfulPairsOfSpellsAndPotions/SuccessfulPairsOfSpellsAndPotions/SuccessfulPairsOfSpellsAndPotions/Program.cs) |✔️|
+|2301 | [Match Substring After Replacement](https://leetcode.com/problems/match-substring-after-replacement/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202301%20-%20MatchSubstringAfterReplacement/MatchSubstringAfterReplacement/MatchSubstringAfterReplacement/Program.cs) |✔️|
+|2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)| Hard |  |:heavy_minus_sign: |
+|2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202303%20-%20CalculateAmountPaidInTaxes/CalculateAmountPaidInTaxes/CalculateAmountPaidInTaxes/Program.cs) |✔️|
+|2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202304%20-%20MinimumPathCostInAGrid/MinimumPathCostInAGrid/MinimumPathCostInAGrid/Program.cs) |✔️|
+|2305 | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202305%20-%20FairDistributionOfCookies/FairDistributionOfCookies/FairDistributionOfCookies/Program.cs) |✔️|
+|2305 | [Naming a Company](https://leetcode.com/problems/naming-a-company/)| Hard |  |:heavy_minus_sign: |
+|23 | []()|  | [C#]() |✔️|
+|23 | []()|  |  |:heavy_minus_sign: |
+|23 | []()|  | [SQLServer](), [MySQL]() |✔️|
