@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e12b8a7-2f16-4fb0-a6f3-24679b6aa28d": {
+      "ProjectGuid": "2e12b8a7-2f16-4fb0-a6f3-24679b6aa28d",
+      "DisplayName": "SuccessfulPairsOfSpellsAndPotions",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
