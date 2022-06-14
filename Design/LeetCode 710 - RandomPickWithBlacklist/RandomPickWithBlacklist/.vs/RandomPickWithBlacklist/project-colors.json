@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61b6d8a5-ebf4-4ec5-ade0-574932e44950": {
+      "ProjectGuid": "61b6d8a5-ebf4-4ec5-ade0-574932e44950",
+      "DisplayName": "RandomPickWithBlacklist",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
