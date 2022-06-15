@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "781f4be4-5759-4b38-a881-03a4698731f8": {
+      "ProjectGuid": "781f4be4-5759-4b38-a881-03a4698731f8",
+      "DisplayName": "FindKthSmallestPairDistance",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
