@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "62d51b94-ec9b-45ad-94e5-e79dfdec1be4": {
+      "ProjectGuid": "62d51b94-ec9b-45ad-94e5-e79dfdec1be4",
+      "DisplayName": "MinimizeRoundingErrorToMeetTarget",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
