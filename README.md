@@ -2307,7 +2307,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202303%20-%20CalculateAmountPaidInTaxes/CalculateAmountPaidInTaxes/CalculateAmountPaidInTaxes/Program.cs) |✔️|
 |2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202304%20-%20MinimumPathCostInAGrid/MinimumPathCostInAGrid/MinimumPathCostInAGrid/Program.cs) |✔️|
 |2305 | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202305%20-%20FairDistributionOfCookies/FairDistributionOfCookies/FairDistributionOfCookies/Program.cs) |✔️|
-|2305 | [Naming a Company](https://leetcode.com/problems/naming-a-company/)| Hard |  |:heavy_minus_sign: |
+|2306 | [Naming a Company](https://leetcode.com/problems/naming-a-company/)| Hard |  |:heavy_minus_sign: |
+|2307 | [Check for Contradictions in Equations](https://leetcode.com/problems/check-for-contradictions-in-equations/)| Hard |  |:heavy_minus_sign: |
+|2308 | [Arrange Table by Gender](https://leetcode.com/problems/arrange-table-by-gender/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202308%20-%20ArrangeTableByGender/ArrangeTableByGender_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202308%20-%20ArrangeTableByGender/ArrangeTableByGender_MySQL.sql) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
