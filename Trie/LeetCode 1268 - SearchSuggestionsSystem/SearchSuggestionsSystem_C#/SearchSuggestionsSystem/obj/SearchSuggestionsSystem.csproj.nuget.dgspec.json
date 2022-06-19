@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\String\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem\\SearchSuggestionsSystem\\SearchSuggestionsSystem.csproj": {}
+    "D:\\LeetCode\\Trie\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem_C#\\SearchSuggestionsSystem\\SearchSuggestionsSystem.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\String\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem\\SearchSuggestionsSystem\\SearchSuggestionsSystem.csproj": {
+    "D:\\LeetCode\\Trie\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem_C#\\SearchSuggestionsSystem\\SearchSuggestionsSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\String\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem\\SearchSuggestionsSystem\\SearchSuggestionsSystem.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Trie\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem_C#\\SearchSuggestionsSystem\\SearchSuggestionsSystem.csproj",
         "projectName": "SearchSuggestionsSystem",
-        "projectPath": "F:\\C#\\Algorithm\\String\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem\\SearchSuggestionsSystem\\SearchSuggestionsSystem.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\String\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem\\SearchSuggestionsSystem\\obj\\",
+        "projectPath": "D:\\LeetCode\\Trie\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem_C#\\SearchSuggestionsSystem\\SearchSuggestionsSystem.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\Trie\\LeetCode 1268 - SearchSuggestionsSystem\\SearchSuggestionsSystem_C#\\SearchSuggestionsSystem\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
