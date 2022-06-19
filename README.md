@@ -2310,6 +2310,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2306 | [Naming a Company](https://leetcode.com/problems/naming-a-company/)| Hard |  |:heavy_minus_sign: |
 |2307 | [Check for Contradictions in Equations](https://leetcode.com/problems/check-for-contradictions-in-equations/)| Hard |  |:heavy_minus_sign: |
 |2308 | [Arrange Table by Gender](https://leetcode.com/problems/arrange-table-by-gender/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202308%20-%20ArrangeTableByGender/ArrangeTableByGender_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202308%20-%20ArrangeTableByGender/ArrangeTableByGender_MySQL.sql) |✔️|
+|2309 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202309%20-%20GreatestEnglishLetterInUpperAndLowerCase/GreatestEnglishLetter/GreatestEnglishLetter/Program.cs) |✔️|
+|2310 | [Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202310%20-%20SumOfNumbersWithUnitsDigitK/SumOfNumbersWithUnitsDigitK/SumOfNumbersWithUnitsDigitK/Program.cs) |✔️|
+|2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202311%20-%20LongestBinarySubsequenceLessThanOrEqualToK/LongestBinarySubsequence/LongestBinarySubsequence/Program.cs) |✔️|
+|2312 | [Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/)| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
