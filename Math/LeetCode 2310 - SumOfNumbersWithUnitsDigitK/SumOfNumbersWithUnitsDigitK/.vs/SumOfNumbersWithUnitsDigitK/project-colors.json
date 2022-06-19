@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbb38fba-4b8f-495a-bb6c-1b006e1d4a97": {
+      "ProjectGuid": "dbb38fba-4b8f-495a-bb6c-1b006e1d4a97",
+      "DisplayName": "SumOfNumbersWithUnitsDigitK",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
