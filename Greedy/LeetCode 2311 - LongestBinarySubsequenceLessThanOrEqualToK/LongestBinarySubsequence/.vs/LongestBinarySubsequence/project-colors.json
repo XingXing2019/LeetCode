@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "94fb92e6-5c0d-48e1-9d99-6f00088fb187": {
+      "ProjectGuid": "94fb92e6-5c0d-48e1-9d99-6f00088fb187",
+      "DisplayName": "LongestBinarySubsequence",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
