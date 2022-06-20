@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t7lnymzETMXqLYoxswBJDUaglAiankWQ9HfMoylxPF2OVMjzAOGQH3Uzou7btnQKtcK1iJz2fgWlM9woi9Hd+g==",
+  "dgSpecHash": "pqk8Z5uRsvMGED+6oypx6QFmmt+2zLHVsMnIkLI1psw1kQgGNaw5ad6CKsOY+V4BEnBzdZcuP2IgRL8hgoEKUg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\JumpGameVI.csproj",
+  "projectFilePath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI\\JumpGameVI\\JumpGameVI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

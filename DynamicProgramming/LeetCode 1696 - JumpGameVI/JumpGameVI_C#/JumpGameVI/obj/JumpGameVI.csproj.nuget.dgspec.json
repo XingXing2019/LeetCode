@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\JumpGameVI.csproj": {}
+    "D:\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI\\JumpGameVI\\JumpGameVI.csproj": {}
   },
   "projects": {
-    "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\JumpGameVI.csproj": {
+    "D:\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI\\JumpGameVI\\JumpGameVI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\JumpGameVI.csproj",
+        "projectUniqueName": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI\\JumpGameVI\\JumpGameVI.csproj",
         "projectName": "JumpGameVI",
-        "projectPath": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\JumpGameVI.csproj",
+        "projectPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI\\JumpGameVI\\JumpGameVI.csproj",
         "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI_C#\\JumpGameVI\\obj\\",
+        "outputPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1696 - JumpGameVI\\JumpGameVI\\JumpGameVI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

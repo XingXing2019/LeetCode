@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGameVI", "JumpGameVI\JumpGameVI.csproj", "{1C8FE9F8-637E-4CBC-A05C-3A38A632AFFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGameVI", "JumpGameVI\JumpGameVI.csproj", "{13395CD4-70F9-4E45-8410-CBED6030D17F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1C8FE9F8-637E-4CBC-A05C-3A38A632AFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C8FE9F8-637E-4CBC-A05C-3A38A632AFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C8FE9F8-637E-4CBC-A05C-3A38A632AFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C8FE9F8-637E-4CBC-A05C-3A38A632AFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13395CD4-70F9-4E45-8410-CBED6030D17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13395CD4-70F9-4E45-8410-CBED6030D17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13395CD4-70F9-4E45-8410-CBED6030D17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13395CD4-70F9-4E45-8410-CBED6030D17F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {59768CA4-AC9F-48AA-970B-C4606EDDD6A5}
+		SolutionGuid = {43101972-F1F2-4680-9434-90916012FBB9}
 	EndGlobalSection
 EndGlobal
