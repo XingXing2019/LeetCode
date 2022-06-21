@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Sort\\LeetCode 2231 - LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Sort\\LeetCode 2231 - LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity_C#\\LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity.csproj",
       "projectName": "LargestNumberAfterDigitSwapsByParity",
-      "projectPath": "D:\\LeetCode\\Sort\\LeetCode 2231 - LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity.csproj",
+      "projectPath": "D:\\LeetCode\\Sort\\LeetCode 2231 - LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity_C#\\LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Sort\\LeetCode 2231 - LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity\\obj\\",
+      "outputPath": "D:\\LeetCode\\Sort\\LeetCode 2231 - LargestNumberAfterDigitSwapsByParity\\LargestNumberAfterDigitSwapsByParity_C#\\LargestNumberAfterDigitSwapsByParity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -26,3 +26,32 @@ public int LargestInteger(int num)
     }
     return res;
 }
+
+int LargestInteger_Heap(int num)
+{
+    int copy = num, res = 0, pow = 1;
+    var odd = new PriorityQueue<int, int>();
+    var even = new PriorityQueue<int, int>();
+    while (copy != 0)
+    {
+        var mod = copy % 10;
+        if (copy % 10 % 2 == 0)
+            even.Enqueue(mod, -mod);
+        else
+            odd.Enqueue(mod, -mod);
+        copy /= 10;
+        if (copy != 0)
+            pow *= 10;
+    }
+    while (num != 0)
+    {
+        var mod = num / pow % 10;
+        if (mod % 2 == 0)
+            res += even.Dequeue() * pow;
+        else
+            res += odd.Dequeue() * pow;
+        num %= pow;
+        pow /= 10;
+    }
+    return res;
+}
