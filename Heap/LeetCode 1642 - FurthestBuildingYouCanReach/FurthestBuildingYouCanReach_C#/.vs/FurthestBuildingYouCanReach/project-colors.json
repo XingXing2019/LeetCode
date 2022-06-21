@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6007f804-159e-4f2e-bce4-04c9bde99aa3": {
+      "ProjectGuid": "6007f804-159e-4f2e-bce4-04c9bde99aa3",
+      "DisplayName": "FurthestBuildingYouCanReach",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
