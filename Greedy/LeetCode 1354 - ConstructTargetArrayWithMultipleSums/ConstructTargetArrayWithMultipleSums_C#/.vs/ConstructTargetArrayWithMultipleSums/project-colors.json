@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbbd3563-a742-42c3-9e73-25c35f6d1653": {
+      "ProjectGuid": "bbbd3563-a742-42c3-9e73-25c35f6d1653",
+      "DisplayName": "ConstructTargetArrayWithMultipleSums",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

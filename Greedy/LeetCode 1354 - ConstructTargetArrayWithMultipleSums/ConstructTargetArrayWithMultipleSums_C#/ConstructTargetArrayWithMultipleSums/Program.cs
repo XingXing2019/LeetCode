@@ -1,40 +1,52 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿int[] target = { 8, 5 };
+Console.WriteLine(IsPossible_Heap(target));
 
-namespace ConstructTargetArrayWithMultipleSums
+bool IsPossible_Heap(int[] target)
 {
-	class Program
-	{
-		static void Main(string[] args)
-		{
-			int[] target = {3, 5, 9};
-			Console.WriteLine(IsPossible(target));
-		}
-		public static bool IsPossible(int[] target)
-		{
-			long sum = 0;
-			var maxHeap = new List<long>();
-			foreach (var num in target)
-			{
-				sum += num;
-				maxHeap.Add(num);
-			}
-			maxHeap.Sort();
-			sum -= maxHeap[^1];
-			while (maxHeap[^1] != 1)
-			{
-				long max = maxHeap[^1];
-				maxHeap.RemoveAt(maxHeap.Count - 1);
-				if (sum == 0 || max <= sum) return false;
-				max %= sum;
-				if (max < maxHeap[^1])
-					sum = sum - maxHeap[^1] + max;
-				var index = maxHeap.BinarySearch(max);
-				if (index < 0) index = ~index;
-				maxHeap.Insert(index, max);
-			}
-			return true;
-		}
-	}
+    var maxHeap = new PriorityQueue<int, int>();
+    long sum = 0;
+    foreach (var num in target)
+    {
+        maxHeap.Enqueue(num, -num);
+        sum += num;
+    }
+    while (sum != target.Length)
+    {
+        var max = maxHeap.Dequeue();
+        var rest = sum - max;
+        if (rest >= max || rest == 0)
+            return false;
+        var pre = (int)(max % rest);
+        if (pre == 0)
+            return rest == 1;
+        maxHeap.Enqueue(pre, -pre);
+        sum = rest + pre;
+    }
+    return true;
+}
+
+bool IsPossible_BinarySearch(int[] target)
+{
+    long sum = 0;
+    var heap = new List<long>();
+    foreach (var num in target)
+    {
+        sum += num;
+        heap.Add(num);
+    }
+    heap.Sort();
+    sum -= heap[^1];
+    while (heap[^1] != 1)
+    {
+        long max = heap[^1];
+        heap.RemoveAt(heap.Count - 1);
+        if (sum == 0 || max <= sum) return false;
+        max %= sum;
+        if (max < heap[^1])
+            sum = sum - heap[^1] + max;
+        int index = heap.BinarySearch(max);
+        if (index < 0) index = ~index;
+        heap.Insert(index, max);
+    }
+    return true;
 }

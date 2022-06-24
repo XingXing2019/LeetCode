@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructTargetArrayWithMultipleSums", "ConstructTargetArrayWithMultipleSums\ConstructTargetArrayWithMultipleSums.csproj", "{61D8C4BA-A955-419C-AAB4-F0228BAB83A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructTargetArrayWithMultipleSums", "ConstructTargetArrayWithMultipleSums\ConstructTargetArrayWithMultipleSums.csproj", "{BBBD3563-A742-42C3-9E73-25C35F6D1653}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{61D8C4BA-A955-419C-AAB4-F0228BAB83A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61D8C4BA-A955-419C-AAB4-F0228BAB83A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61D8C4BA-A955-419C-AAB4-F0228BAB83A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61D8C4BA-A955-419C-AAB4-F0228BAB83A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBD3563-A742-42C3-9E73-25C35F6D1653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBD3563-A742-42C3-9E73-25C35F6D1653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBD3563-A742-42C3-9E73-25C35F6D1653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBD3563-A742-42C3-9E73-25C35F6D1653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {728521A7-7593-4C80-B3D9-AD6ACC271CFA}
+		SolutionGuid = {A9066D5A-0C5E-46BB-AC43-DBFAEBFCB95A}
 	EndGlobalSection
 EndGlobal
