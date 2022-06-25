@@ -26,18 +26,17 @@ namespace CountUnreachablePairs
             foreach (var edge in edges)
                 Union(edge[0], edge[1]);
             var dict = new Dictionary<int, long>();
-            long res = 0;
+            long res = 0, sum = n;
             for (int i = 0; i < n; i++)
             {
                 var root = Find(i);
                 dict[root] = dict.GetValueOrDefault(root, 0) + 1;
             }
-            var freq = dict.Select(x => x.Value).ToArray();
-            long sum = n;
-            for (int i = 0; i < freq.Length; i++)
+            var groups = dict.Select(x => x.Value).ToArray();
+            foreach (var count in groups)
             {
-                res += freq[i] * (sum - freq[i]);
-                sum -= freq[i];
+                res += count * (sum - count);
+                sum -= count;
             }
             return res;
         }
