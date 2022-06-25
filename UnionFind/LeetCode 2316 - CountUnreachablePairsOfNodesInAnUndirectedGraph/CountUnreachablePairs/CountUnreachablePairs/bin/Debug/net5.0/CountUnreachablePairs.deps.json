@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CountUnreachablePairs/1.0.0": {
+        "runtime": {
+          "CountUnreachablePairs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountUnreachablePairs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

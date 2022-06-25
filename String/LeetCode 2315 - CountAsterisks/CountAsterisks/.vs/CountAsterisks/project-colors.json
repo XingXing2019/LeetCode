@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a115c7e8-b5df-4268-b21c-4cc4d0f3f26d": {
+      "ProjectGuid": "a115c7e8-b5df-4268-b21c-4cc4d0f3f26d",
+      "DisplayName": "CountAsterisks",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
