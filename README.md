@@ -2316,6 +2316,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2312 | [Selling Pieces of Wood](https://leetcode.com/problems/selling-pieces-of-wood/)| Hard |  |:heavy_minus_sign: |
 |2313 | [Minimum Flips in Binary Tree to Get Result](https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/)| Hard |  |:heavy_minus_sign: |
 |2314 | [The First Day of the Maximum Recorded Degree in Each City](https://leetcode.com/problems/the-first-day-of-the-maximum-recorded-degree-in-each-city/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202314%20-%20TheFirstDayOfTheMaximumRecordedDegreeInEachCity/TheFirstDayOfTheMaximumRecordedDegreeInEachCity_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202314%20-%20TheFirstDayOfTheMaximumRecordedDegreeInEachCity/TheFirstDayOfTheMaximumRecordedDegreeInEachCity_MySQL.sql) |✔️|
+|2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202315%20-%20CountAsterisks/CountAsterisks/CountAsterisks/Program.cs) |✔️|
+|2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%202316%20-%20CountUnreachablePairsOfNodesInAnUndirectedGraph/CountUnreachablePairs/CountUnreachablePairs/Program.cs) |✔️|
+|2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202317%20-%20MaximumXORAfterOperations/MaximumXORAfterOperations/MaximumXORAfterOperations/Program.cs) |✔️|
+|2318 | [Number of Distinct Roll Sequences](https://leetcode.com/problems/number-of-distinct-roll-sequences/)| Hard |  |:heavy_minus_sign: |
+|2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202319%20-%20CheckIfMatrixIsXMatrix/CheckIfMatrixIsXMatrix/CheckIfMatrixIsXMatrix/Program.cs) |✔️|
+|2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202320%20-%20CountNumberOfWaysToPlaceHouses/CountNumberOfWaysToPlaceHouses/CountNumberOfWaysToPlaceHouses/Program.cs) |✔️|
+|2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/)| Hard |  |:heavy_minus_sign: |
+|2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/)| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
