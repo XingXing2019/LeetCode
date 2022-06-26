@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d324784e-692f-4a2e-aad5-8a7e678449fc": {
+      "ProjectGuid": "d324784e-692f-4a2e-aad5-8a7e678449fc",
+      "DisplayName": "CountNumberOfWaysToPlaceHouses",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
