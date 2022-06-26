@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9035a72d-bc6f-4fba-9392-d8ef5fc6dd38": {
+      "ProjectGuid": "9035a72d-bc6f-4fba-9392-d8ef5fc6dd38",
+      "DisplayName": "CheckIfMatrixIsXMatrix",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
