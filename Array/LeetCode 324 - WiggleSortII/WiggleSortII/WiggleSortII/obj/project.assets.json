@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Search\\LeetCode 721 - AccountsMerge\\AccountsMerge_C#\\AccountsMerge\\AccountsMerge.csproj",
-      "projectName": "AccountsMerge",
-      "projectPath": "D:\\LeetCode\\Search\\LeetCode 721 - AccountsMerge\\AccountsMerge_C#\\AccountsMerge\\AccountsMerge.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Array\\LeetCode 324 - WiggleSortII\\WiggleSortII\\WiggleSortII\\WiggleSortII.csproj",
+      "projectName": "WiggleSortII",
+      "projectPath": "D:\\LeetCode\\Array\\LeetCode 324 - WiggleSortII\\WiggleSortII\\WiggleSortII\\WiggleSortII.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Search\\LeetCode 721 - AccountsMerge\\AccountsMerge_C#\\AccountsMerge\\obj\\",
+      "outputPath": "D:\\LeetCode\\Array\\LeetCode 324 - WiggleSortII\\WiggleSortII\\WiggleSortII\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",

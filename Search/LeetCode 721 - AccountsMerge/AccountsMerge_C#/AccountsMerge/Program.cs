@@ -10,10 +10,11 @@ namespace AccountsMerge
 		{
 			var accounts = new List<IList<string>>
 			{
-				new List<string> {"John", "johnsmith@mail.com", "john_newyork@mail.com"},
-				new List<string> {"John", "johnsmith@mail.com", "john00@mail.com"},
-				new List<string> {"Mary", "mary@mail.com"},
-				new List<string> {"John", "johnnybravo@mail.com"},
+				new List<string> {"David","David0@m.co","David1@m.co"},
+				new List<string> {"David","David3@m.co","David4@m.co"},
+				new List<string> {"David","David4@m.co","David5@m.co"},
+				new List<string> {"David","David2@m.co","David3@m.co"},
+				new List<string> {"David","David1@m.co","David2@m.co"},
 			};
 			Console.WriteLine(AccountsMerge(accounts));
 		}
@@ -58,5 +59,5 @@ namespace AccountsMerge
 			}
 			return res;
 		}
-	}
+    }
 }
