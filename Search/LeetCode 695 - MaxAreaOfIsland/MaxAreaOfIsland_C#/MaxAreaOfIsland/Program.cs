@@ -1,6 +1,8 @@
 ﻿//思路与LeetCode 200相同，但在深度优先遍历时需额外记录每个岛屿的area。
 //在主方法中每次遍历完一个岛屿就更新res。
 using System;
+using System.Collections.Generic;
+using System.Threading;
 
 namespace MaxAreaOfIsland
 {

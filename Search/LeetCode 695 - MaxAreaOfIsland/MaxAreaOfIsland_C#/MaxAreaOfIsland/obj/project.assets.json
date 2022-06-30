@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\xxing\\.nuget\\packages\\": {}
+    "C:\\Users\\61425\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\LeetCode\\Search\\LeetCode 695 - MaxAreaOfIsland\\MaxAreaOfIsland\\MaxAreaOfIsland\\MaxAreaOfIsland.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Search\\LeetCode 695 - MaxAreaOfIsland\\MaxAreaOfIsland_C#\\MaxAreaOfIsland\\MaxAreaOfIsland.csproj",
       "projectName": "MaxAreaOfIsland",
-      "projectPath": "F:\\C#\\LeetCode\\Search\\LeetCode 695 - MaxAreaOfIsland\\MaxAreaOfIsland\\MaxAreaOfIsland\\MaxAreaOfIsland.csproj",
-      "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\LeetCode\\Search\\LeetCode 695 - MaxAreaOfIsland\\MaxAreaOfIsland\\MaxAreaOfIsland\\obj\\",
+      "projectPath": "D:\\LeetCode\\Search\\LeetCode 695 - MaxAreaOfIsland\\MaxAreaOfIsland_C#\\MaxAreaOfIsland\\MaxAreaOfIsland.csproj",
+      "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+      "outputPath": "D:\\LeetCode\\Search\\LeetCode 695 - MaxAreaOfIsland\\MaxAreaOfIsland_C#\\MaxAreaOfIsland\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,12 +55,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
