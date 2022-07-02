@@ -2325,6 +2325,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2321 | [Maximum Score Of Spliced Array](https://leetcode.com/problems/maximum-score-of-spliced-array/)| Hard |  |:heavy_minus_sign: |
 |2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/)| Hard |  |:heavy_minus_sign: |
 |2323 | [Find Minimum Time to Finish All Jobs II](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202323%20-%20FindMinimumTimeToFinishAllJobsII/FindMinimumTimeToFinishAllJobsII/FindMinimumTimeToFinishAllJobsII/Program.cs) |✔️|
+|2324 | [Product Sales Analysis IV](https://leetcode.com/problems/product-sales-analysis-iv/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202324%20-%20ProductSalesAnalysisIV/ProductSalesAnalysisIV_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202324%20-%20ProductSalesAnalysisIV/ProductSalesAnalysisIV_MySQL.sql) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
