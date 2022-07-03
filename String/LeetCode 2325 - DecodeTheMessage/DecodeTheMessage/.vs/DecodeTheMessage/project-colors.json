@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6e8391c-a9cd-4c94-8af9-d5d87733a9e5": {
+      "ProjectGuid": "b6e8391c-a9cd-4c94-8af9-d5d87733a9e5",
+      "DisplayName": "DecodeTheMessage",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
