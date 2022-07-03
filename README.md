@@ -2330,6 +2330,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202326%20-%20SpiralMatrixIV/SpiralMatrixIV/SpiralMatrixIV/Program.cs) |✔️|
 |2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202327%20-%20NumberOfPeopleAwareOfASecret/NumberOfPeopleAwareOfASecret/NumberOfPeopleAwareOfASecret/Program.cs) |✔️|
 |2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)| Hard |  |:heavy_minus_sign: |
+|2329 | [Product Sales Analysis V](https://leetcode.com/problems/product-sales-analysis-v/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202329%20-%20ProductSalesAnalysisV/ProductSalesAnalysisV_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202329%20-%20ProductSalesAnalysisV/ProductSalesAnalysisV_MySQL.sql) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
