@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e18444c-1e97-4c29-bce0-d9aed493535b": {
+      "ProjectGuid": "6e18444c-1e97-4c29-bce0-d9aed493535b",
+      "DisplayName": "MaxAreaOfIsland",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
