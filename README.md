@@ -2326,6 +2326,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2322 | [Minimum Score After Removals on a Tree](https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/)| Hard |  |:heavy_minus_sign: |
 |2323 | [Find Minimum Time to Finish All Jobs II](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202323%20-%20FindMinimumTimeToFinishAllJobsII/FindMinimumTimeToFinishAllJobsII/FindMinimumTimeToFinishAllJobsII/Program.cs) |✔️|
 |2324 | [Product Sales Analysis IV](https://leetcode.com/problems/product-sales-analysis-iv/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202324%20-%20ProductSalesAnalysisIV/ProductSalesAnalysisIV_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202324%20-%20ProductSalesAnalysisIV/ProductSalesAnalysisIV_MySQL.sql) |✔️|
+|2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202325%20-%20DecodeTheMessage/DecodeTheMessage/DecodeTheMessage/Program.cs) |✔️|
+|2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202326%20-%20SpiralMatrixIV/SpiralMatrixIV/SpiralMatrixIV/Program.cs) |✔️|
+|2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202327%20-%20NumberOfPeopleAwareOfASecret/NumberOfPeopleAwareOfASecret/NumberOfPeopleAwareOfASecret/Program.cs) |✔️|
+|2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
