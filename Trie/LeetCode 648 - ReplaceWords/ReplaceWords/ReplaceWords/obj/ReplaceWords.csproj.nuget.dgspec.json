@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\HashTable\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\ReplaceWords.csproj": {}
+    "D:\\LeetCode\\Trie\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\ReplaceWords.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\HashTable\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\ReplaceWords.csproj": {
+    "D:\\LeetCode\\Trie\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\ReplaceWords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\HashTable\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\ReplaceWords.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Trie\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\ReplaceWords.csproj",
         "projectName": "ReplaceWords",
-        "projectPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\ReplaceWords.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\HashTable\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\obj\\",
+        "projectPath": "D:\\LeetCode\\Trie\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\ReplaceWords.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\Trie\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -58,7 +57,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

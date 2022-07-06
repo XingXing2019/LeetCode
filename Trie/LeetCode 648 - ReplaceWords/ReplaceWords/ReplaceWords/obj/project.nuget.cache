@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCgRtDf0UZqi4qbCOMYbg3Ng8r4XZiSRqZhzRoyZDXuSe0v5JDAKKruLyRRoqLBuEXur93TWAfrBUyhHF1K4XQ==",
+  "success": true,
+  "projectFilePath": "D:\\LeetCode\\Trie\\LeetCode 648 - ReplaceWords\\ReplaceWords\\ReplaceWords\\ReplaceWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\61425\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\61425\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
