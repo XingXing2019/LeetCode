@@ -2336,10 +2336,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202332%20-%20TheLatestTimeToCatchABus/TheLatestTimeToCatchABus/TheLatestTimeToCatchABus/Program.cs) |✔️|
 |2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202333%20-%20MinimumSumOfSquaredDifference/MinimumSumOfSquaredDifference/MinimumSumOfSquaredDifference/Program.cs) |✔️|
 |2334 | [Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)| Hard |  |:heavy_minus_sign: |
-|2335 | [Minimum Amount of Time to Fill Cups]()| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202335%20-%20MinimumAmountOfTimeToFillCups/MinimumAmountOfTimeToFillCups/MinimumAmountOfTimeToFillCups/Program.cs) |✔️|
-|2336 | [Smallest Number in Infinite Set]()| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202336%20-%20SmallestNumberInInfiniteSet/SmallestNumberInInfiniteSet/SmallestNumberInInfiniteSet/Program.cs) |✔️|
-|2337 | [Move Pieces to Obtain a String]()| Medium | [C#]() |✔️|
-|2338 | [Count the Number of Ideal Arrays]()| Hard |  |:heavy_minus_sign: |
+|2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202335%20-%20MinimumAmountOfTimeToFillCups/MinimumAmountOfTimeToFillCups/MinimumAmountOfTimeToFillCups/Program.cs) |✔️|
+|2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202336%20-%20SmallestNumberInInfiniteSet/SmallestNumberInInfiniteSet/SmallestNumberInInfiniteSet/Program.cs) |✔️|
+|2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/)| Medium | [C#]() |✔️|
+|2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/)| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
