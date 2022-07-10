@@ -1,0 +1,5 @@
+D:\LeetCode\Heap\LeetCode 2336 - SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\obj\Debug\net6.0\SmallestNumberInInfiniteSet.csproj.AssemblyReference.cache
+D:\LeetCode\Heap\LeetCode 2336 - SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\obj\Debug\net6.0\SmallestNumberInInfiniteSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Heap\LeetCode 2336 - SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\obj\Debug\net6.0\SmallestNumberInInfiniteSet.AssemblyInfoInputs.cache
+D:\LeetCode\Heap\LeetCode 2336 - SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\obj\Debug\net6.0\SmallestNumberInInfiniteSet.AssemblyInfo.cs
+D:\LeetCode\Heap\LeetCode 2336 - SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\SmallestNumberInInfiniteSet\obj\Debug\net6.0\SmallestNumberInInfiniteSet.csproj.CoreCompileInputs.cache
