@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumSumOfSquaredDifference", "MinimumSumOfSquaredDifference\MinimumSumOfSquaredDifference.csproj", "{91F7EB43-39C2-4FAF-894B-E2C7E50A99BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91F7EB43-39C2-4FAF-894B-E2C7E50A99BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F7EB43-39C2-4FAF-894B-E2C7E50A99BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F7EB43-39C2-4FAF-894B-E2C7E50A99BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F7EB43-39C2-4FAF-894B-E2C7E50A99BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA7864D-7275-4381-BBFC-766EF5B819BF}
+	EndGlobalSection
+EndGlobal
