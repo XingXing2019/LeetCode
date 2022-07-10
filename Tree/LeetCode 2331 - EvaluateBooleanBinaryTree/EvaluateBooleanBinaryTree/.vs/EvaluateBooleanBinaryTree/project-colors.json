@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b0a15d3-37d0-444f-a8d1-7f5713dff67e": {
+      "ProjectGuid": "2b0a15d3-37d0-444f-a8d1-7f5713dff67e",
+      "DisplayName": "EvaluateBooleanBinaryTree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

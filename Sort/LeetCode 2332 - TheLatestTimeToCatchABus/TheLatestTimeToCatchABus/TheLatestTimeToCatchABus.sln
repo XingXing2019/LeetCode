@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLatestTimeToCatchABus", "TheLatestTimeToCatchABus\TheLatestTimeToCatchABus.csproj", "{DC363B72-CBE4-4D84-9B3C-806A20609375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC363B72-CBE4-4D84-9B3C-806A20609375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC363B72-CBE4-4D84-9B3C-806A20609375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC363B72-CBE4-4D84-9B3C-806A20609375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC363B72-CBE4-4D84-9B3C-806A20609375}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B1FEE3-9456-43CF-BEE1-E258DE7A6F79}
+	EndGlobalSection
+EndGlobal

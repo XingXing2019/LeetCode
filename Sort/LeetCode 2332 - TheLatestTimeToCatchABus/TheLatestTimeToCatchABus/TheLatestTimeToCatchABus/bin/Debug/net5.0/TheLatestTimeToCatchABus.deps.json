@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TheLatestTimeToCatchABus/1.0.0": {
+        "runtime": {
+          "TheLatestTimeToCatchABus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheLatestTimeToCatchABus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
