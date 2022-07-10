@@ -2332,6 +2332,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/)| Hard |  |:heavy_minus_sign: |
 |2329 | [Product Sales Analysis V](https://leetcode.com/problems/product-sales-analysis-v/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202329%20-%20ProductSalesAnalysisV/ProductSalesAnalysisV_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202329%20-%20ProductSalesAnalysisV/ProductSalesAnalysisV_MySQL.sql) |✔️|
 |2330 | [Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202330%20-%20ValidPalindromeIV/ValidPalindromeIV/ValidPalindromeIV/Program.cs) |✔️|
+|2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202331%20-%20EvaluateBooleanBinaryTree/EvaluateBooleanBinaryTree/EvaluateBooleanBinaryTree/Program.cs) |✔️|
+|2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202332%20-%20TheLatestTimeToCatchABus/TheLatestTimeToCatchABus/TheLatestTimeToCatchABus/Program.cs) |✔️|
+|2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202333%20-%20MinimumSumOfSquaredDifference/MinimumSumOfSquaredDifference/MinimumSumOfSquaredDifference/Program.cs) |✔️|
+|2334 | [Subarray With Elements Greater Than Varying Threshold](https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold/)| Hard |  |:heavy_minus_sign: |
+|2335 | [Minimum Amount of Time to Fill Cups]()| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202335%20-%20MinimumAmountOfTimeToFillCups/MinimumAmountOfTimeToFillCups/MinimumAmountOfTimeToFillCups/Program.cs) |✔️|
+|2336 | [Smallest Number in Infinite Set]()| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202336%20-%20SmallestNumberInInfiniteSet/SmallestNumberInInfiniteSet/SmallestNumberInInfiniteSet/Program.cs) |✔️|
+|2337 | [Move Pieces to Obtain a String]()| Medium | [C#]() |✔️|
+|2338 | [Count the Number of Ideal Arrays]()| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
