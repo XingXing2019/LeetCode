@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a861c67-7480-4b30-8c85-ec32bace3851": {
+      "ProjectGuid": "1a861c67-7480-4b30-8c85-ec32bace3851",
+      "DisplayName": "MovePiecesToObtainAString",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

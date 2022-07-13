@@ -10,7 +10,7 @@ namespace MovePiecesToObtainAString
             Console.WriteLine("Hello World!");
         }
 
-        public bool CanChange(string start, string target)
+        public bool CanChange(string start, string target),
         {
             var trimStart = start.Replace("_", "");
             var trimTarget = target.Replace("_", "");

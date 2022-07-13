@@ -1,0 +1,5 @@
+D:\LeetCode\String\LeetCode 2337 - MovePiecesToObtainAString\MovePiecesToObtainAString\MovePiecesToObtainAString\obj\Debug\net5.0\MovePiecesToObtainAString.csproj.AssemblyReference.cache
+D:\LeetCode\String\LeetCode 2337 - MovePiecesToObtainAString\MovePiecesToObtainAString\MovePiecesToObtainAString\obj\Debug\net5.0\MovePiecesToObtainAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\String\LeetCode 2337 - MovePiecesToObtainAString\MovePiecesToObtainAString\MovePiecesToObtainAString\obj\Debug\net5.0\MovePiecesToObtainAString.AssemblyInfoInputs.cache
+D:\LeetCode\String\LeetCode 2337 - MovePiecesToObtainAString\MovePiecesToObtainAString\MovePiecesToObtainAString\obj\Debug\net5.0\MovePiecesToObtainAString.AssemblyInfo.cs
+D:\LeetCode\String\LeetCode 2337 - MovePiecesToObtainAString\MovePiecesToObtainAString\MovePiecesToObtainAString\obj\Debug\net5.0\MovePiecesToObtainAString.csproj.CoreCompileInputs.cache
