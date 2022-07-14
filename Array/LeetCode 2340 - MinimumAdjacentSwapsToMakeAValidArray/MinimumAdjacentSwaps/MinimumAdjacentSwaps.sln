@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumAdjacentSwaps", "MinimumAdjacentSwaps\MinimumAdjacentSwaps.csproj", "{5C978C27-81FF-4BB0-A4C4-DC193D1F4803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C978C27-81FF-4BB0-A4C4-DC193D1F4803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C978C27-81FF-4BB0-A4C4-DC193D1F4803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C978C27-81FF-4BB0-A4C4-DC193D1F4803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C978C27-81FF-4BB0-A4C4-DC193D1F4803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4A6C49-6717-4651-BB88-C06E09AD9AC0}
+	EndGlobalSection
+EndGlobal
