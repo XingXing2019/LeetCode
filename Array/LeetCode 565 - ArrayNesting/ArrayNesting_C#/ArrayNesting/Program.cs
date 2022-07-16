@@ -2,6 +2,7 @@
 //在record不等于nums[n]的条件下循环。每次使count加一。并将n设为nums[n]。同时将遍历过得数字设为-1，以防止重复遍历相同的数字(需要创建tem辅助记录n，因为此时n已经变味nums[n])。最后返回count
 //在主方法中创建maxLen记录最大长度。遍历nums，当nums[i]不等于-1时，计算以当前数字为开头的数字。并更新maxLen。
 using System;
+using System.Linq;
 
 namespace ArrayNesting
 {
@@ -12,6 +13,28 @@ namespace ArrayNesting
             int[] A = { 5, 4, 0, 3, 1, 6, 2 };
             Console.WriteLine(GetSetLength(A,5));
         }
+
+        public int ArrayNesting_N(int[] nums)
+        {
+            var lens = new int[nums.Length];
+            var res = 1;
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (lens[i] != 0)
+                {
+                    res = Math.Max(res, lens[i]);
+                    continue;
+                }
+                int index = i, len = 1;
+                while (lens[index] == 0)
+                {
+                    lens[index] = len++;
+                    index = nums[index];
+                }
+            }
+            return res;
+        }
+
         static int ArrayNesting(int[] nums)
         {
             int maxLen = 0;

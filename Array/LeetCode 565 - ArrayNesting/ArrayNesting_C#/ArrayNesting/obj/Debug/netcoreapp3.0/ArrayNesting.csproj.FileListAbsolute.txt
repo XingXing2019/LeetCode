@@ -9,3 +9,17 @@ F:\C#\Algorithm\Array\LeetCode 565 - ArrayNesting\ArrayNesting\ArrayNesting\bin\
 F:\C#\Algorithm\Array\LeetCode 565 - ArrayNesting\ArrayNesting\ArrayNesting\bin\Debug\netcoreapp3.0\ArrayNesting.pdb
 F:\C#\Algorithm\Array\LeetCode 565 - ArrayNesting\ArrayNesting\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.dll
 F:\C#\Algorithm\Array\LeetCode 565 - ArrayNesting\ArrayNesting\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.pdb
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\bin\Debug\netcoreapp3.0\ArrayNesting.exe
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\bin\Debug\netcoreapp3.0\ArrayNesting.deps.json
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\bin\Debug\netcoreapp3.0\ArrayNesting.runtimeconfig.json
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\bin\Debug\netcoreapp3.0\ArrayNesting.runtimeconfig.dev.json
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\bin\Debug\netcoreapp3.0\ArrayNesting.dll
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\bin\Debug\netcoreapp3.0\ArrayNesting.pdb
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.csproj.AssemblyReference.cache
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.AssemblyInfoInputs.cache
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.AssemblyInfo.cs
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.csproj.CoreCompileInputs.cache
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.dll
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.pdb
+D:\LeetCode\Array\LeetCode 565 - ArrayNesting\ArrayNesting_C#\ArrayNesting\obj\Debug\netcoreapp3.0\ArrayNesting.genruntimeconfig.cache
