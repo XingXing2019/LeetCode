@@ -2342,6 +2342,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2338 | [Count the Number of Ideal Arrays](https://leetcode.com/problems/count-the-number-of-ideal-arrays/)| Hard |  |:heavy_minus_sign: |
 |2339 | [All the Matches of the League](https://leetcode.com/problems/all-the-matches-of-the-league/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202340%20-%20MinimumAdjacentSwapsToMakeAValidArray/MinimumAdjacentSwaps/MinimumAdjacentSwaps/Program.cs) |✔️|
 |2340 | [Minimum Adjacent Swaps to Make a Valid Array](https://leetcode.com/problems/minimum-adjacent-swaps-to-make-a-valid-array/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202339%20-%20AllTheMatchesOfTheLeague/AllTheMatchesOfTheLeague_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202339%20-%20AllTheMatchesOfTheLeague/AllTheMatchesOfTheLeague_MySQL.sql) |✔️|
+|2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202341%20-%20MaximumNumberOfPairsInArray/MaximumNumberOfPairsInArray/MaximumNumberOfPairsInArray/Program.cs) |✔️|
+|2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202342%20-%20MaxSumOfAPairWithEqualSumOfDigits/MaxSumOfAPair/MaxSumOfAPair/Program.cs) |✔️|
+|2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202343%20-%20QueryKthSmallestTrimmedNumber/QueryKthSmallestTrimmedNumber/QueryKthSmallestTrimmedNumber/Program.cs) |✔️|
+|2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
