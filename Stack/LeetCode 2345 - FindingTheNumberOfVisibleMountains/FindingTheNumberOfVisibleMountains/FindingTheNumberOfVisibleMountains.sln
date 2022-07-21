@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindingTheNumberOfVisibleMountains", "FindingTheNumberOfVisibleMountains\FindingTheNumberOfVisibleMountains.csproj", "{D4516DC7-3704-437F-9AE0-FF937FA36C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4516DC7-3704-437F-9AE0-FF937FA36C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4516DC7-3704-437F-9AE0-FF937FA36C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4516DC7-3704-437F-9AE0-FF937FA36C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4516DC7-3704-437F-9AE0-FF937FA36C82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1747795-8D87-4E7A-96B3-721B49184A65}
+	EndGlobalSection
+EndGlobal
