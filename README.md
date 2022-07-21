@@ -2346,6 +2346,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202342%20-%20MaxSumOfAPairWithEqualSumOfDigits/MaxSumOfAPair/MaxSumOfAPair/Program.cs) |✔️|
 |2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202343%20-%20QueryKthSmallestTrimmedNumber/QueryKthSmallestTrimmedNumber/QueryKthSmallestTrimmedNumber/Program.cs) |✔️|
 |2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)| Hard |  |:heavy_minus_sign: |
+|2345 | [Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202345%20-%20FindingTheNumberOfVisibleMountains/FindingTheNumberOfVisibleMountains/FindingTheNumberOfVisibleMountains/Program.cs) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
