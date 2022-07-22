@@ -15,9 +15,9 @@ namespace AllPathsFromSourceLeadToDestination
                 new int[]{1, 2}, 
                 new int[]{2, 1}, 
             };
-            Console.WriteLine(LeadsToDestination(n, edges, source, destination));
+            Console.WriteLine(LeadsToDestination_BFS(n, edges, source, destination));
         }
-        static bool LeadsToDestination(int n, int[][] edges, int source, int destination)
+        static bool LeadsToDestination_BFS(int n, int[][] edges, int source, int destination)
         {
             var graph = new List<int>[n];
             for (int i = 0; i < graph.Length; i++)
@@ -48,6 +48,35 @@ namespace AllPathsFromSourceLeadToDestination
                     }
                     nodeOnPath[next].Add(cur);
                 }
+            }
+            return true;
+        }
+
+        public bool LeadsToDestination_DFS(int n, int[][] edges, int source, int destination)
+        {
+            var graph = new List<int>[n];
+            for (int i = 0; i < n; i++)
+                graph[i] = new List<int>();
+            foreach (var e in edges)
+                graph[e[0]].Add(e[1]);
+            if (graph[destination].Count != 0)
+                return false;
+            var visited = new HashSet<int> { source };
+            return DFS(source, destination, graph, visited);
+        }
+
+        public bool DFS(int cur, int destination, List<int>[] graph, HashSet<int> visited)
+        {
+            if (graph[cur].Count == 0 && cur != destination)
+                return false;
+            foreach (var next in graph[cur])
+            {
+                if (visited.Contains(next))
+                    return false;
+                visited.Add(next);
+                if (!DFS(next, destination, graph, visited))
+                    return false;
+                visited.Remove(next);
             }
             return true;
         }

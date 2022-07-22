@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cjp0/kDYf7LQpK3Cb0vvv9rmNCKm0+OTTMjhhei2lapufQYvCjODDI0CatjIqGb2xaPGIwlcmhWxkkeMIpztag==",
+  "dgSpecHash": "ziYPkKrxC9c0QU93tmwdQworX3hoVB+fqoMhHaoGjiP5qL5HP4LCNFbmaJ+8/WC1ES577YIh3k5+czd/6+IXZQ==",
   "success": true,
-  "projectFilePath": "F:\\C#\\Algorithm\\Graph\\LeetCode 1059 - AllPathsFromSourceLeadToDestination\\AllPathsFromSourceLeadToDestination\\AllPathsFromSourceLeadToDestination\\AllPathsFromSourceLeadToDestination.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\xxing\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\LeetCode\\Graph\\LeetCode 1059 - AllPathsFromSourceLeadToDestination\\AllPathsFromSourceLeadToDestination_C#\\AllPathsFromSourceLeadToDestination\\AllPathsFromSourceLeadToDestination.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
