@@ -2347,6 +2347,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2343 | [Query Kth Smallest Trimmed Number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202343%20-%20QueryKthSmallestTrimmedNumber/QueryKthSmallestTrimmedNumber/QueryKthSmallestTrimmedNumber/Program.cs) |✔️|
 |2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)| Hard |  |:heavy_minus_sign: |
 |2345 | [Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202345%20-%20FindingTheNumberOfVisibleMountains/FindingTheNumberOfVisibleMountains/FindingTheNumberOfVisibleMountains/Program.cs) |✔️|
+|2346 | [Compute the Rank as a Percentage](https://leetcode.com/problems/compute-the-rank-as-a-percentage/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202346%20-%20ComputeTheRankAsAPercentage/ComputeTheRankAsAPercentage_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202346%20-%20ComputeTheRankAsAPercentage/ComputeTheRankAsAPercentage_MySQL.sql) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
