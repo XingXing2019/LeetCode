@@ -2348,6 +2348,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)| Hard |  |:heavy_minus_sign: |
 |2345 | [Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202345%20-%20FindingTheNumberOfVisibleMountains/FindingTheNumberOfVisibleMountains/FindingTheNumberOfVisibleMountains/Program.cs) |✔️|
 |2346 | [Compute the Rank as a Percentage](https://leetcode.com/problems/compute-the-rank-as-a-percentage/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202346%20-%20ComputeTheRankAsAPercentage/ComputeTheRankAsAPercentage_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202346%20-%20ComputeTheRankAsAPercentage/ComputeTheRankAsAPercentage_MySQL.sql) |✔️|
+|2347 | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202347%20-%20BestPokerHand/BestPokerHand/BestPokerHand/Program.cs) |✔️|
+|2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202348%20-%20NumberOfZeroFilledSubarrays/NumberOfZeroFilledSubarrays/NumberOfZeroFilledSubarrays/Program.cs) |✔️|
+|2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202349%20-%20DesignANumberContainerSystem/DesignANumberContainerSystem/DesignANumberContainerSystem/Program.cs) |✔️|
+|2350 | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/)| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
