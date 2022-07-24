@@ -2352,6 +2352,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202348%20-%20NumberOfZeroFilledSubarrays/NumberOfZeroFilledSubarrays/NumberOfZeroFilledSubarrays/Program.cs) |✔️|
 |2349 | [Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202349%20-%20DesignANumberContainerSystem/DesignANumberContainerSystem/DesignANumberContainerSystem/Program.cs) |✔️|
 |2350 | [Shortest Impossible Sequence of Rolls](https://leetcode.com/problems/shortest-impossible-sequence-of-rolls/)| Hard |  |:heavy_minus_sign: |
+|2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202351%20-%20FirstLetterToAppearTwice/FirstLetterToAppearTwice/FirstLetterToAppearTwice/Program.cs) |✔️|
+|2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202352%20-%20EqualRowAndColumnPairs/EqualRowAndColumnPairs/EqualRowAndColumnPairs/Program.cs) |✔️|
+|2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202353%20-%20DesignAFoodRatingSystem/DesignAFoodRatingSystem/DesignAFoodRatingSystem/Program.cs) |✔️|
+|2354 | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/)| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
