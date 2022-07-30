@@ -2356,6 +2356,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202352%20-%20EqualRowAndColumnPairs/EqualRowAndColumnPairs/EqualRowAndColumnPairs/Program.cs) |✔️|
 |2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202353%20-%20DesignAFoodRatingSystem/DesignAFoodRatingSystem/DesignAFoodRatingSystem/Program.cs) |✔️|
 |2354 | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/)| Hard |  |:heavy_minus_sign: |
+|2355 | [Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/)| Hard |  |:heavy_minus_sign: |
+|2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202356%20-%20NumberOfUniqueSubjectsTaughtByEachTeacher/NumberOfUniqueSubjectsTaughtByEachTeacher_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202356%20-%20NumberOfUniqueSubjectsTaughtByEachTeacher/NumberOfUniqueSubjectsTaughtByEachTeacher_MySQL.sql) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
