@@ -11,7 +11,7 @@ namespace MaximumNumberOfGroups
         
         public int MaximumGroups(int[] grades)
         {
-            return (-1 + (int) Math.Sqrt(1 + 8 * grades.Length)) / 2;
+            return (-1 + (int)Math.Sqrt(1 + 8 * grades.Length)) / 2;
         }
     }
 }
