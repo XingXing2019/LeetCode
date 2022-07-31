@@ -2358,6 +2358,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2354 | [Number of Excellent Pairs](https://leetcode.com/problems/number-of-excellent-pairs/)| Hard |  |:heavy_minus_sign: |
 |2355 | [Maximum Number of Books You Can Take](https://leetcode.com/problems/maximum-number-of-books-you-can-take/)| Hard |  |:heavy_minus_sign: |
 |2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202356%20-%20NumberOfUniqueSubjectsTaughtByEachTeacher/NumberOfUniqueSubjectsTaughtByEachTeacher_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202356%20-%20NumberOfUniqueSubjectsTaughtByEachTeacher/NumberOfUniqueSubjectsTaughtByEachTeacher_MySQL.sql) |✔️|
+|2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202357%20-%20MakeArrayZeroBySubtractingEqualAmounts/MakeArrayZero/MakeArrayZero/Program.cs) |✔️|
+|2358 | [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202358%20-%20MaximumNumberOfGroupsEnteringACompetition/MaximumNumberOfGroups/MaximumNumberOfGroups/Program.cs) |✔️|
+|2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202359%20-%20FindClosestNodeToGivenTwoNodes/FindClosestNode/FindClosestNode/Program.cs) |✔️|
+|2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
