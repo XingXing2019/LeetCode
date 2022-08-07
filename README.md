@@ -2368,6 +2368,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2364 | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202364%20-%20CountNumberOfBadPairs/CountNumberOfBadPairs/CountNumberOfBadPairs/Program.cs) |✔️|
 |2365 | [Task Scheduler II](https://leetcode.com/problems/task-scheduler-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202365%20-%20TaskSchedulerII/TaskSchedulerII/TaskSchedulerII/Program.cs) |✔️|
 |2366 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/)| Hard |  |:heavy_minus_sign: |
+|2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202367%20-%20NumberOfArithmeticTriplets/NumberOfArithmeticTriplets/NumberOfArithmeticTriplets/Program.cs) |✔️|
+|2368 | [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202368%20-%20ReachableNodesWithRestrictions/ReachableNodesWithRestrictions/ReachableNodesWithRestrictions/Program.cs) |✔️|
+|2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202369%20-%20CheckIfThereIsAValidPartitionForTheArray/CheckIfThereIsAValidPartition/CheckIfThereIsAValidPartition/Program.cs) |✔️|
+|2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)| Medium |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
