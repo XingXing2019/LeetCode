@@ -2371,7 +2371,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202367%20-%20NumberOfArithmeticTriplets/NumberOfArithmeticTriplets/NumberOfArithmeticTriplets/Program.cs) |✔️|
 |2368 | [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202368%20-%20ReachableNodesWithRestrictions/ReachableNodesWithRestrictions/ReachableNodesWithRestrictions/Program.cs) |✔️|
 |2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202369%20-%20CheckIfThereIsAValidPartitionForTheArray/CheckIfThereIsAValidPartition/CheckIfThereIsAValidPartition/Program.cs) |✔️|
-|2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)| Medium |  |:heavy_minus_sign: |
+|2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202370%20-%20LongestIdealSubsequence/LongestIdealSubsequence/LongestIdealSubsequence/Program.cs) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
