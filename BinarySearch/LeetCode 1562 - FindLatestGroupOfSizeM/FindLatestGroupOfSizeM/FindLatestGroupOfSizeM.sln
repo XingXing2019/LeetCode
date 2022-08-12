@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLatestGroupOfSizeM", "FindLatestGroupOfSizeM\FindLatestGroupOfSizeM.csproj", "{8D42E2BA-7D37-48B1-9DCB-1B63197C7E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D42E2BA-7D37-48B1-9DCB-1B63197C7E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D42E2BA-7D37-48B1-9DCB-1B63197C7E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D42E2BA-7D37-48B1-9DCB-1B63197C7E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D42E2BA-7D37-48B1-9DCB-1B63197C7E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4398FA1-E3ED-4C5F-8CDA-565305687532}
+	EndGlobalSection
+EndGlobal
