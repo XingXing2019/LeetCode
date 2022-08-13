@@ -2372,6 +2372,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2368 | [Reachable Nodes With Restrictions](https://leetcode.com/problems/reachable-nodes-with-restrictions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202368%20-%20ReachableNodesWithRestrictions/ReachableNodesWithRestrictions/ReachableNodesWithRestrictions/Program.cs) |✔️|
 |2369 | [Check if There is a Valid Partition For The Array](https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202369%20-%20CheckIfThereIsAValidPartitionForTheArray/CheckIfThereIsAValidPartition/CheckIfThereIsAValidPartition/Program.cs) |✔️|
 |2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202370%20-%20LongestIdealSubsequence/LongestIdealSubsequence/LongestIdealSubsequence/Program.cs) |✔️|
+|2371 | [Minimize Maximum Value in a Grid](https://leetcode.com/problems/minimize-maximum-value-in-a-grid/)| Hard |  |:heavy_minus_sign: |
+|2372 | [Calculate the Influence of Each Salesperson](https://leetcode.com/problems/calculate-the-influence-of-each-salesperson/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202372%20-%20CalculateTheInfluenceOfEachSalesperson/CalculateTheInfluenceOfEachSalesperson_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202372%20-%20CalculateTheInfluenceOfEachSalesperson/CalculateTheInfluenceOfEachSalesperson_MySQL.sql) |✔️|
+|2373 | []()| Easy | [C#]() |✔️|
+|2374 | []()| Medium | [C#]() |✔️|
+|2375 | []()| Medium | [C#]() |✔️|
+|2376 | []()| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
