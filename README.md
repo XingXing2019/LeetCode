@@ -2374,10 +2374,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2370 | [Longest Ideal Subsequence](https://leetcode.com/problems/longest-ideal-subsequence/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202370%20-%20LongestIdealSubsequence/LongestIdealSubsequence/LongestIdealSubsequence/Program.cs) |✔️|
 |2371 | [Minimize Maximum Value in a Grid](https://leetcode.com/problems/minimize-maximum-value-in-a-grid/)| Hard |  |:heavy_minus_sign: |
 |2372 | [Calculate the Influence of Each Salesperson](https://leetcode.com/problems/calculate-the-influence-of-each-salesperson/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202372%20-%20CalculateTheInfluenceOfEachSalesperson/CalculateTheInfluenceOfEachSalesperson_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202372%20-%20CalculateTheInfluenceOfEachSalesperson/CalculateTheInfluenceOfEachSalesperson_MySQL.sql) |✔️|
-|2373 | []()| Easy | [C#]() |✔️|
-|2374 | []()| Medium | [C#]() |✔️|
-|2375 | []()| Medium | [C#]() |✔️|
-|2376 | []()| Hard |  |:heavy_minus_sign: |
+|2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202373%20-%20LargestLocalValuesInAMatrix/LargestLocalValuesInAMatrix/LargestLocalValuesInAMatrix/Program.cs) |✔️|
+|2374 | [Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202374%20-%20NodeWithHighestEdgeScore/NodeWithHighestEdgeScore/NodeWithHighestEdgeScore/Program.cs) |✔️|
+|2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202375%20-%20ConstructSmallestNumberFromDIString/ConstructSmallestNumberFromDIString/ConstructSmallestNumberFromDIString/Program.cs) |✔️|
+|2376 | [Count Special Integers](https://leetcode.com/problems/count-special-integers/)| Hard |  |:heavy_minus_sign: |
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
