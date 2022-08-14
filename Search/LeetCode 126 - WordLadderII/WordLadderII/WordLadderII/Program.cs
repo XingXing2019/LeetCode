@@ -8,8 +8,8 @@ namespace WordLadderII
     {
         static void Main(string[] args)
         {
-            string beginWord = "hit", endWord = "cog";
-            var wordList = new List<string> { "hot", "dot", "dog", "lot", "log", "cog" };
+            string beginWord = "hot", endWord = "dog";
+            var wordList = new List<string> { "hot", "dog" };
             Console.WriteLine(FindLadders(beginWord, endWord, wordList));
         }
 
@@ -62,24 +62,28 @@ namespace WordLadderII
             var queue = new Queue<Node>();
             queue.Enqueue(new Node(beginWord, beginWord, 1));
             var visited = new HashSet<string>();
+            var min = int.MaxValue;
             while (queue.Count != 0)
             {
                 var cur = queue.Dequeue();
                 if (cur.cur == endWord)
                 {
-                    res.Add(cur.path.Split("->"));
+                    var words = cur.path.Split("->");
+                    min = Math.Min(min, words.Length);
+                    res.Add(words);
                     continue;
                 }
+                if (!graph.ContainsKey(cur.cur)) continue;
                 foreach (var next in graph[cur.cur])
                 {
                     var path = $"{cur.path}->{next}";
-                    if (dp[cur.cur][next] < cur.count + 1 || visited.Contains(path)) continue;
+                    if (dp[cur.cur][next] < cur.count + 1 || visited.Contains(path) || cur.count + 1 > min) continue;
                     dp[cur.cur][next] = cur.count + 1;
                     visited.Add(path);
                     queue.Enqueue(new Node(next, path, cur.count + 1));
                 }
             }
-            return res;
+            return res.Where(x => x.Count == min).ToList();
         }
 
         public static bool IsValid(string word1, string word2)
