@@ -2378,6 +2378,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2374 | [Node With Highest Edge Score](https://leetcode.com/problems/node-with-highest-edge-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202374%20-%20NodeWithHighestEdgeScore/NodeWithHighestEdgeScore/NodeWithHighestEdgeScore/Program.cs) |✔️|
 |2375 | [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202375%20-%20ConstructSmallestNumberFromDIString/ConstructSmallestNumberFromDIString/ConstructSmallestNumberFromDIString/Program.cs) |✔️|
 |2376 | [Count Special Integers](https://leetcode.com/problems/count-special-integers/)| Hard |  |:heavy_minus_sign: |
+|2377 | [Sort the Olympic Table](https://leetcode.com/problems/sort-the-olympic-table/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202377%20-%20SortTheOlympicTable/SortTheOlympicTable_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202377%20-%20SortTheOlympicTable/SortTheOlympicTable_MySQL.sql) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
