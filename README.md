@@ -2388,6 +2388,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2384 | [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202384%20-%20LargestPalindromicNumber/LargestPalindromicNumber/LargestPalindromicNumber/Program.cs) |✔️|
 |2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202385%20-%20AmountOfTimeForBinaryTreeToBeInfected/AmountOfTime/AmountOfTime/Program.cs) |✔️|
 |2386 | [Find the K-Sum of an Array](https://leetcode.com/problems/find-the-k-sum-of-an-array/)| Hard |  |:heavy_minus_sign: |
+|2387 | [Median of a Row Wise Sorted Matrix](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202387%20-%20MedianOfARowWiseSortedMatrix/MedianOfARowWiseSortedMatrix/MedianOfARowWiseSortedMatrix/Program.cs) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
