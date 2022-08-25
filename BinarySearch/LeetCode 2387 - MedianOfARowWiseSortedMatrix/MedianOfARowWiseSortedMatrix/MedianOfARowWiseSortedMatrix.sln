@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianOfARowWiseSortedMatrix", "MedianOfARowWiseSortedMatrix\MedianOfARowWiseSortedMatrix.csproj", "{781D61E6-6EB0-465A-9630-84FF4F2AD0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{781D61E6-6EB0-465A-9630-84FF4F2AD0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781D61E6-6EB0-465A-9630-84FF4F2AD0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781D61E6-6EB0-465A-9630-84FF4F2AD0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781D61E6-6EB0-465A-9630-84FF4F2AD0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6135D45-1D78-4067-AA1F-FDE561D959A5}
+	EndGlobalSection
+EndGlobal

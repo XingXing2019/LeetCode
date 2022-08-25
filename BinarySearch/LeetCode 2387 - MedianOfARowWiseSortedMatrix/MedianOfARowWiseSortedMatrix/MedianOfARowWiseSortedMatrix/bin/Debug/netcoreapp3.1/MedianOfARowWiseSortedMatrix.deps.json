@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MedianOfARowWiseSortedMatrix/1.0.0": {
+        "runtime": {
+          "MedianOfARowWiseSortedMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedianOfARowWiseSortedMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
