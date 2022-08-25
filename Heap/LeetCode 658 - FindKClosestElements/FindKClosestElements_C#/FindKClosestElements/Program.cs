@@ -65,5 +65,42 @@ namespace FindKClosestElements
             }
             return res;
         }
+
+        public IList<int> FindClosestElements_Heap(int[] arr, int k, int x)
+        {
+            var heap = new PriorityQueue<int, ComparableInt>();
+            foreach (var num in arr)
+            {
+                heap.Enqueue(num, new ComparableInt(num, x));
+                if (heap.Count > k)
+                    heap.Dequeue();
+            }
+            var res = new List<int>();
+            while (heap.Count != 0)
+                res.Add(heap.Dequeue());
+            res.Sort();
+            return res;
+        }
+
+        class ComparableInt : IComparable
+        {
+            private int num;
+            private int x;
+            public ComparableInt(int num, int x)
+            {
+                this.num = num;
+                this.x = x;
+            }
+
+            public int CompareTo(object obj)
+            {
+                var that = obj as ComparableInt;
+                if (Math.Abs(this.num - x) < Math.Abs(that.num - x)) 
+                    return 1;
+                else if (Math.Abs(this.num - x) > Math.Abs(that.num - x))
+                    return -1;
+                return this.num < that.num ? 1 : -1;
+            }
+        }
     }
 }
