@@ -1,6 +1,6 @@
 with CoffeeShopRow as (
 	select row_number() over(order by null) as row_num, id, drink
-    from CoffeeShop
+	from CoffeeShop
 ),
 
 LastRow as (
