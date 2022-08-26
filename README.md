@@ -2389,6 +2389,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202385%20-%20AmountOfTimeForBinaryTreeToBeInfected/AmountOfTime/AmountOfTime/Program.cs) |✔️|
 |2386 | [Find the K-Sum of an Array](https://leetcode.com/problems/find-the-k-sum-of-an-array/)| Hard |  |:heavy_minus_sign: |
 |2387 | [Median of a Row Wise Sorted Matrix](https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202387%20-%20MedianOfARowWiseSortedMatrix/MedianOfARowWiseSortedMatrix/MedianOfARowWiseSortedMatrix/Program.cs) |✔️|
+|2388 | [Change Null Values in a Table to the Previous Value](https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202388%20-%20ChangeNullValuesInATableToThePreviousValue/ChangeNullValuesInATableToThePreviousValue_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202388%20-%20ChangeNullValuesInATableToThePreviousValue/ChangeNullValuesInATableToThePreviousValue_MySQL.sql) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
