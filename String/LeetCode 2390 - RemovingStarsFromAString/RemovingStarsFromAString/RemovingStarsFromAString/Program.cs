@@ -15,15 +15,10 @@ namespace RemovingStarsFromAString
             var sb = new StringBuilder();
             foreach (var l in s)
             {
-                if (l != '*')
-                    sb.Append(l);
+                if (l == '*' && sb.Length > 0)
+                    sb.Remove(sb.Length - 1, 1);
                 else
-                {
-                    if (sb.Length > 0)
-                        sb.Remove(sb.Length - 1, 1);
-                    else
-                        sb.Append(l);
-                }
+                    sb.Append(l);
             }
             return sb.ToString();
         }
