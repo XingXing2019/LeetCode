@@ -2394,6 +2394,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2390 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202390%20-%20RemovingStarsFromAString/RemovingStarsFromAString/RemovingStarsFromAString/Program.cs) |✔️|
 |2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202391%20-%20MinimumAmountOfTimeToCollectGarbage/MinimumAmountOfTimeToCollectGarbage/MinimumAmountOfTimeToCollectGarbage/Program.cs) |✔️|
 |2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)| Hard |  |:heavy_minus_sign: |
+|2393 | [Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202393%20-%20CountStrictlyIncreasingSubarrays/CountStrictlyIncreasingSubarrays/CountStrictlyIncreasingSubarrays/Program.cs) |✔️|
 |23 | []()|  | [C#]() |✔️|
 |23 | []()|  |  |:heavy_minus_sign: |
 |23 | []()|  | [SQLServer](), [MySQL]() |✔️|
