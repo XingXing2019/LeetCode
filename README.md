@@ -2395,6 +2395,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2391 | [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202391%20-%20MinimumAmountOfTimeToCollectGarbage/MinimumAmountOfTimeToCollectGarbage/MinimumAmountOfTimeToCollectGarbage/Program.cs) |✔️|
 |2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)| Hard |  |:heavy_minus_sign: |
 |2393 | [Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202393%20-%20CountStrictlyIncreasingSubarrays/CountStrictlyIncreasingSubarrays/CountStrictlyIncreasingSubarrays/Program.cs) |✔️|
-|23 | []()|  | [C#]() |✔️|
-|23 | []()|  |  |:heavy_minus_sign: |
-|23 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|2394 | [Employees With Deductions](https://leetcode.com/problems/employees-with-deductions/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202394%20-%20EmployeesWithDeductions/EmployeesWithDeductions_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202394%20-%20EmployeesWithDeductions/EmployeesWithDeductions_MySQL.sql) |✔️|
+|2395 | []()|  | [C#]() |✔️|
+|2396 | []()|  | [C#]() |✔️|
+|2397 | []()|  | [C#]() |✔️|
+|2398 | []()|  |  |:heavy_minus_sign: |
+|2399 | []()|  | [C#]() |✔️|
+|2400 | []()|  | [C#]() |✔️|
+|2401 | []()|  | [C#]() |✔️|
+|2402 | []()|  |  |:heavy_minus_sign: |
+|24 | []()|  | [C#]() |✔️|
+|24 | []()|  |  |:heavy_minus_sign: |
+|24 | []()|  | [SQLServer](), [MySQL]() |✔️|
