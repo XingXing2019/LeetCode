@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NumberOfWays
+build_property.ProjectDir = D:\LeetCode\DynamicProgramming\LeetCode 2400 - NumberOfWaysToReachAPositionAfterExactlyKSteps\NumberOfWays\NumberOfWays\
