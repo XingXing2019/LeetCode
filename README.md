@@ -2396,10 +2396,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2392 | [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)| Hard |  |:heavy_minus_sign: |
 |2393 | [Count Strictly Increasing Subarrays](https://leetcode.com/problems/count-strictly-increasing-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202393%20-%20CountStrictlyIncreasingSubarrays/CountStrictlyIncreasingSubarrays/CountStrictlyIncreasingSubarrays/Program.cs) |✔️|
 |2394 | [Employees With Deductions](https://leetcode.com/problems/employees-with-deductions/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202394%20-%20EmployeesWithDeductions/EmployeesWithDeductions_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202394%20-%20EmployeesWithDeductions/EmployeesWithDeductions_MySQL.sql) |✔️|
-|2395 | []()|  | [C#]() |✔️|
-|2396 | []()|  | [C#]() |✔️|
-|2397 | []()|  | [C#]() |✔️|
-|2398 | []()|  |  |:heavy_minus_sign: |
+|2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202395%20-%20FindSubarraysWithEqualSum/FindSubarraysWithEqualSum/FindSubarraysWithEqualSum/Program.cs) |✔️|
+|2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202396%20-%20StrictlyPalindromicNumber/StrictlyPalindromicNumber/StrictlyPalindromicNumber/Program.cs) |✔️|
+|2397 | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202397%20-%20MaximumRowsCoveredByColumns/MaximumRowsCoveredByColumns/MaximumRowsCoveredByColumns/Program.cs) |✔️|
+|2398 | [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/)| Hard |  |:heavy_minus_sign: |
 |2399 | []()|  | [C#]() |✔️|
 |2400 | []()|  | [C#]() |✔️|
 |2401 | []()|  | [C#]() |✔️|
