@@ -2400,10 +2400,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2396 | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202396%20-%20StrictlyPalindromicNumber/StrictlyPalindromicNumber/StrictlyPalindromicNumber/Program.cs) |✔️|
 |2397 | [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202397%20-%20MaximumRowsCoveredByColumns/MaximumRowsCoveredByColumns/MaximumRowsCoveredByColumns/Program.cs) |✔️|
 |2398 | [Maximum Number of Robots Within Budget](https://leetcode.com/problems/maximum-number-of-robots-within-budget/)| Hard |  |:heavy_minus_sign: |
-|2399 | []()|  | [C#]() |✔️|
-|2400 | []()|  | [C#]() |✔️|
-|2401 | []()|  | [C#]() |✔️|
-|2402 | []()|  |  |:heavy_minus_sign: |
+|2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202399%20-%20CheckDistancesBetweenSameLetters/CheckDistancesBetweenSameLetters/CheckDistancesBetweenSameLetters/Program.cs) |✔️|
+|2400 | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202400%20-%20NumberOfWaysToReachAPositionAfterExactlyKSteps/NumberOfWays/NumberOfWays/Program.cs) |✔️|
+|2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202401%20-%20LongestNiceSubarray/LongestNiceSubarray/LongestNiceSubarray/Program.cs) |✔️|
+|2402 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)| Hard |  |:heavy_minus_sign: |
 |24 | []()|  | [C#]() |✔️|
 |24 | []()|  |  |:heavy_minus_sign: |
 |24 | []()|  | [SQLServer](), [MySQL]() |✔️|
