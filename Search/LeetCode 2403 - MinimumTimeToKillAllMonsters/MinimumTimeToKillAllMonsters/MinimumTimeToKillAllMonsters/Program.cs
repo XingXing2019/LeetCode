@@ -29,8 +29,7 @@ namespace MinimumTimeToKillAllMonsters
             for (int i = 0; i < power.Length; i++)
             {
                 if (((mask >> i) & 1) != 0) continue;
-                var monster = power[i];
-                var temp = (monster + gain - 1) / gain;
+                var temp = (power[i] + gain - 1) / gain;
                 var days = temp + DFS(power, gain + 1, mask | (1 << i), dp);
                 min = Math.Min(min, days);
             }
