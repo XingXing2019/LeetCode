@@ -2404,6 +2404,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2400 | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202400%20-%20NumberOfWaysToReachAPositionAfterExactlyKSteps/NumberOfWays/NumberOfWays/Program.cs) |✔️|
 |2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202401%20-%20LongestNiceSubarray/LongestNiceSubarray/LongestNiceSubarray/Program.cs) |✔️|
 |2402 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)| Hard |  |:heavy_minus_sign: |
+|2403 | [Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202403%20-%20MinimumTimeToKillAllMonsters/MinimumTimeToKillAllMonsters/MinimumTimeToKillAllMonsters/Program.cs) |✔️|
+|2404 | []()|  | [C#]() |✔️|
+|2405 | []()|  | [C#]() |✔️|
+|2406 | []()|  | [C#]() |✔️|
+|2407 | []()|  |  |:heavy_minus_sign: |
 |24 | []()|  | [C#]() |✔️|
 |24 | []()|  |  |:heavy_minus_sign: |
 |24 | []()|  | [SQLServer](), [MySQL]() |✔️|
