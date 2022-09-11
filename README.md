@@ -2405,10 +2405,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2401 | [Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202401%20-%20LongestNiceSubarray/LongestNiceSubarray/LongestNiceSubarray/Program.cs) |✔️|
 |2402 | [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/)| Hard |  |:heavy_minus_sign: |
 |2403 | [Minimum Time to Kill All Monsters](https://leetcode.com/problems/minimum-time-to-kill-all-monsters/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202403%20-%20MinimumTimeToKillAllMonsters/MinimumTimeToKillAllMonsters/MinimumTimeToKillAllMonsters/Program.cs) |✔️|
-|2404 | []()|  | [C#]() |✔️|
-|2405 | []()|  | [C#]() |✔️|
-|2406 | []()|  | [C#]() |✔️|
-|2407 | []()|  |  |:heavy_minus_sign: |
+|2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202404%20-%20MostFrequentEvenElement/MostFrequentEvenElement/MostFrequentEvenElement/Program.cs) |✔️|
+|2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202405%20-%20OptimalPartitionOfString/OptimalPartitionOfString/OptimalPartitionOfString/Program.cs) |✔️|
+|2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202406%20-%20DivideIntervalsIntoMinimumNumberOfGroups/DivideIntervals/DivideIntervals/Program.cs) |✔️|
+|2407 | []()| Hard |  |:heavy_minus_sign: |
 |24 | []()|  | [C#]() |✔️|
 |24 | []()|  |  |:heavy_minus_sign: |
 |24 | []()|  | [SQLServer](), [MySQL]() |✔️|
