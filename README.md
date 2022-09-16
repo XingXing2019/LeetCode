@@ -2408,7 +2408,16 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202404%20-%20MostFrequentEvenElement/MostFrequentEvenElement/MostFrequentEvenElement/Program.cs) |✔️|
 |2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202405%20-%20OptimalPartitionOfString/OptimalPartitionOfString/OptimalPartitionOfString/Program.cs) |✔️|
 |2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202406%20-%20DivideIntervalsIntoMinimumNumberOfGroups/DivideIntervals/DivideIntervals/Program.cs) |✔️|
-|2407 | []()| Hard |  |:heavy_minus_sign: |
+|2407 | [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/)| Hard |  |:heavy_minus_sign: |
+|2408 | [Design SQL](https://leetcode.com/problems/design-sql/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202408%20-%20DesignSQL/DesignSQL/DesignSQL/Program.cs) |✔️|
+|2409 | []()|  | [C#]() |✔️|
+|2410 | []()|  | [C#]() |✔️|
+|2411 | []()|  | [C#]() |✔️|
+|2412 | []()|  |  |:heavy_minus_sign: |
+|2413 | []()|  | [C#]() |✔️|
+|2414 | []()|  | [C#]() |✔️|
+|2415 | []()|  | [C#]() |✔️|
+|2416 | []()|  |  |:heavy_minus_sign: |
 |24 | []()|  | [C#]() |✔️|
 |24 | []()|  |  |:heavy_minus_sign: |
 |24 | []()|  | [SQLServer](), [MySQL]() |✔️|
