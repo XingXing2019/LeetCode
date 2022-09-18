@@ -2410,10 +2410,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2406 | [Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202406%20-%20DivideIntervalsIntoMinimumNumberOfGroups/DivideIntervals/DivideIntervals/Program.cs) |✔️|
 |2407 | [Longest Increasing Subsequence II](https://leetcode.com/problems/longest-increasing-subsequence-ii/)| Hard |  |:heavy_minus_sign: |
 |2408 | [Design SQL](https://leetcode.com/problems/design-sql/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202408%20-%20DesignSQL/DesignSQL/DesignSQL/Program.cs) |✔️|
-|2409 | []()|  | [C#]() |✔️|
-|2410 | []()|  | [C#]() |✔️|
-|2411 | []()|  | [C#]() |✔️|
-|2412 | []()|  |  |:heavy_minus_sign: |
+|2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202409%20-%20CountDaysSpentTogether/CountDaysSpentTogether/CountDaysSpentTogether/Program.cs) |✔️|
+|2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202410%20-%20MaximumMatchingOfPlayersWithTrainers/MaximumMatchingOfPlayersWithTrainers/MaximumMatchingOfPlayersWithTrainers/Program.cs) |✔️|
+|2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202411%20-%20SmallestSubarraysWithMaximumBitwiseOR/SmallestSubarrays/SmallestSubarrays/Program.cs) |✔️|
+|2412 | [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/)| Hard |  |:heavy_minus_sign: |
 |2413 | []()|  | [C#]() |✔️|
 |2414 | []()|  | [C#]() |✔️|
 |2415 | []()|  | [C#]() |✔️|
