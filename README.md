@@ -2414,10 +2414,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202410%20-%20MaximumMatchingOfPlayersWithTrainers/MaximumMatchingOfPlayersWithTrainers/MaximumMatchingOfPlayersWithTrainers/Program.cs) |✔️|
 |2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202411%20-%20SmallestSubarraysWithMaximumBitwiseOR/SmallestSubarrays/SmallestSubarrays/Program.cs) |✔️|
 |2412 | [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/)| Hard |  |:heavy_minus_sign: |
-|2413 | []()|  | [C#]() |✔️|
-|2414 | []()|  | [C#]() |✔️|
-|2415 | []()|  | [C#]() |✔️|
-|2416 | []()|  |  |:heavy_minus_sign: |
+|2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202413%20-%20SmallestEvenMultiple/SmallestEvenMultiple/SmallestEvenMultiple/Program.cs) |✔️|
+|2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202414%20-%20LengthOfTheLongestAlphabeticalContinuousSubstring/LengthOfTheLongest/LengthOfTheLongest/Program.cs) |✔️|
+|2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202415%20-%20ReverseOddLevelsOfBinaryTree/ReverseOddLevelsOfBinaryTree/ReverseOddLevelsOfBinaryTree/Program.cs) |✔️|
+|2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)| Hard |  |:heavy_minus_sign: |
 |24 | []()|  | [C#]() |✔️|
 |24 | []()|  |  |:heavy_minus_sign: |
 |24 | []()|  | [SQLServer](), [MySQL]() |✔️|
