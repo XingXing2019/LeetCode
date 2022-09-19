@@ -30,5 +30,10 @@ namespace SortArrayByIncreasingFrequency
             }
             return res;
         }
+
+        public int[] FrequencySort(int[] nums)
+        {
+            return nums.GroupBy(x => x).OrderBy(x => x.Count()).ThenByDescending(x => x.Key).SelectMany(x => x).ToArray();
+        }
     }
 }

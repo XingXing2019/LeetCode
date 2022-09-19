@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\Algorithm\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency.csproj": {}
+    "D:\\LeetCode\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency.csproj": {}
   },
   "projects": {
-    "F:\\C#\\Algorithm\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency.csproj": {
+    "D:\\LeetCode\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\Algorithm\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency.csproj",
         "projectName": "SortArrayByIncreasingFrequency",
-        "projectPath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\Algorithm\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\obj\\",
+        "projectPath": "D:\\LeetCode\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\Sort\\LeetCode 1636 - SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\SortArrayByIncreasingFrequency\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,28 +38,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.2, 3.1.2]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
