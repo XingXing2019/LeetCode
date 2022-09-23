@@ -2418,6 +2418,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202414%20-%20LengthOfTheLongestAlphabeticalContinuousSubstring/LengthOfTheLongest/LengthOfTheLongest/Program.cs) |✔️|
 |2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202415%20-%20ReverseOddLevelsOfBinaryTree/ReverseOddLevelsOfBinaryTree/ReverseOddLevelsOfBinaryTree/Program.cs) |✔️|
 |2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)| Hard |  |:heavy_minus_sign: |
+|2417 | [Closest Fair Integer](https://leetcode.com/problems/closest-fair-integer/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202417%20-%20ClosestFairInteger/ClosestFairInteger/ClosestFairInteger/Program.cs) |✔️|
 |24 | []()|  | [C#]() |✔️|
 |24 | []()|  |  |:heavy_minus_sign: |
 |24 | []()|  | [SQLServer](), [MySQL]() |✔️|
