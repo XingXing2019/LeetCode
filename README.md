@@ -2419,6 +2419,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202415%20-%20ReverseOddLevelsOfBinaryTree/ReverseOddLevelsOfBinaryTree/ReverseOddLevelsOfBinaryTree/Program.cs) |✔️|
 |2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)| Hard |  |:heavy_minus_sign: |
 |2417 | [Closest Fair Integer](https://leetcode.com/problems/closest-fair-integer/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202417%20-%20ClosestFairInteger/ClosestFairInteger/ClosestFairInteger/Program.cs) |✔️|
-|24 | []()|  | [C#]() |✔️|
-|24 | []()|  |  |:heavy_minus_sign: |
+|2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202418%20-%20SortThePeople/SortThePeople/SortThePeople/Program.cs) |✔️|
+|2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202419%20-%20LongestSubarrayWithMaximumBitwiseAND/LongestSubarrayWithMaximumBitwiseAND/LongestSubarrayWithMaximumBitwiseAND/Program.cs) |✔️|
+|2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202420%20-%20FindAllGoodIndices/FindAllGoodIndices/FindAllGoodIndices/Program.cs) |✔️|
+|2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)| Hard |  |:heavy_minus_sign: |
+|24 | []()| Easy | [C#]() |✔️|
+|24 | []()| Medium | [C#]() |✔️|
+|24 | []()| Medium | [C#]() |✔️|
+|24 | []()| Hard |  |:heavy_minus_sign: |
 |24 | []()|  | [SQLServer](), [MySQL]() |✔️|
