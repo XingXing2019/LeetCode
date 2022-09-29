@@ -2423,6 +2423,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202419%20-%20LongestSubarrayWithMaximumBitwiseAND/LongestSubarrayWithMaximumBitwiseAND/LongestSubarrayWithMaximumBitwiseAND/Program.cs) |✔️|
 |2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202420%20-%20FindAllGoodIndices/FindAllGoodIndices/FindAllGoodIndices/Program.cs) |✔️|
 |2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)| Hard |  |:heavy_minus_sign: |
+|2422 | [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202422%20-%20MergeOperationsToTurnArrayIntoAPalindrome/MergeOperations/MergeOperations/Program.cs) |✔️|
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
