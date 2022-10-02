@@ -2424,6 +2424,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202420%20-%20FindAllGoodIndices/FindAllGoodIndices/FindAllGoodIndices/Program.cs) |✔️|
 |2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)| Hard |  |:heavy_minus_sign: |
 |2422 | [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202422%20-%20MergeOperationsToTurnArrayIntoAPalindrome/MergeOperations/MergeOperations/Program.cs) |✔️|
+|2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202423%20-%20RemoveLetterToEqualizeFrequency/RemoveLetterToEqualizeFrequency/RemoveLetterToEqualizeFrequency/Program.cs) |✔️|
+|2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202424%20-%20LongestUploadedPrefix/LongestUploadedPrefix/LongestUploadedPrefix/Program.cs) |✔️|
+|2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202425%20-%20BitwiseXOROfAllPairings/BitwiseXOROfAllPairings/BitwiseXOROfAllPairings/Program.cs) |✔️|
+|2426 | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)| Hard |  |:heavy_minus_sign: |
+|2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202427%20-%20NumberOfCommonFactors/NumberOfCommonFactors/NumberOfCommonFactors/Program.cs) |✔️|
+|2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202428%20-%20MaximumSumOfAnHourglass/MaximumSumOfAnHourglass/MaximumSumOfAnHourglass/Program.cs) |✔️|
+|2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202429%20-%20MinimizeXOR/MinimizeXOR/Program.cs) |✔️|
+|2430 | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/)| Hard |  |:heavy_minus_sign: |
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
