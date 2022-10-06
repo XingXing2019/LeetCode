@@ -2432,6 +2432,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202428%20-%20MaximumSumOfAnHourglass/MaximumSumOfAnHourglass/MaximumSumOfAnHourglass/Program.cs) |✔️|
 |2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202429%20-%20MinimizeXOR/MinimizeXOR/Program.cs) |✔️|
 |2430 | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/)| Hard |  |:heavy_minus_sign: |
+|2431 | [Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202431%20-%20MaximizeTotalTastinessOfPurchasedFruits/MaximizeTotalTastiness/MaximizeTotalTastiness/Program.cs) |✔️|
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
