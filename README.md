@@ -2433,6 +2433,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202429%20-%20MinimizeXOR/MinimizeXOR/Program.cs) |✔️|
 |2430 | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/)| Hard |  |:heavy_minus_sign: |
 |2431 | [Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202431%20-%20MaximizeTotalTastinessOfPurchasedFruits/MaximizeTotalTastiness/MaximizeTotalTastiness/Program.cs) |✔️|
+|2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202432%20-%20TheEmployeeThatWorkedOnTheLongestTask/TheEmployee/TheEmployee/Program.cs) |✔️|
+|2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202425%20-%20BitwiseXOROfAllPairings/BitwiseXOROfAllPairings/BitwiseXOROfAllPairings/Program.cs) |✔️|
+|2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202434%20-%20UsingARobotToPrintTheLexicographicallySmallestString/UsingARobotToPrint/UsingARobotToPrint/Program.cs) |✔️|
+|2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)| Hard |  |:heavy_minus_sign: |
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
