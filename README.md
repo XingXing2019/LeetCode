@@ -2437,6 +2437,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202425%20-%20BitwiseXOROfAllPairings/BitwiseXOROfAllPairings/BitwiseXOROfAllPairings/Program.cs) |✔️|
 |2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202434%20-%20UsingARobotToPrintTheLexicographicallySmallestString/UsingARobotToPrint/UsingARobotToPrint/Program.cs) |✔️|
 |2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)| Hard |  |:heavy_minus_sign: |
+|2436 | [Minimum Split Into Subarrays With GCD Greater Than One](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202436%20-%20MinimumSplitIntoSubarraysWithGCDGreaterThanOne/MinimumSplit/MinimumSplit/Program.cs) |✔️|
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
