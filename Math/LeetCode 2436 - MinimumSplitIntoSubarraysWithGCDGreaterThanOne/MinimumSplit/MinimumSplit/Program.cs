@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection;
 
 namespace MinimumSplit
 {
@@ -12,16 +13,15 @@ namespace MinimumSplit
 
         public static int MinimumSplits(int[] nums)
         {
-            int index = 1, res = 1, gcd = nums[0];
-            while (index < nums.Length)
+            int res = 1, gcd = nums[0];
+            for (int i = 1; i < nums.Length; i++)
             {
-                gcd = GCD(gcd, nums[index]);
+                gcd = GCD(gcd, nums[i]);
                 if (gcd == 1)
                 {
                     res++;
-                    gcd = nums[index];
+                    gcd = nums[i];
                 }
-                index++;
             }
             return res;
         }
