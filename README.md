@@ -2442,10 +2442,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202438%20-%20RangeProductQueriesOfPowers/RangeProductQueriesOfPowers/RangeProductQueriesOfPowers/Program.cs) |✔️|
 |2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202439%20-%20MinimizeMaximumOfArray/MinimizeMaximumOfArray/MinimizeMaximumOfArray/Program.cs) |✔️|
 |2440 | [Create Components With Same Value](https://leetcode.com/problems/create-components-with-same-value/)| Hard |  |:heavy_minus_sign: |
-|2441 | []()| Easy | [C#]() |✔️|
-|2442 | []()| Medium | [C#]() |✔️|
-|2443 | []()| Medium | [C#]() |✔️|
-|2444 | []()| Hard |  |:heavy_minus_sign: |
+|2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202441%20-%20LargestPositiveIntegerThatExistsWithItsNegative/LargestPositiveInteger/LargestPositiveInteger/Program.cs) |✔️|
+|2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202442%20-%20CountNumberOfDistinctIntegersAfterReverseOperations/CountNumber/CountNumber/Program.cs) |✔️|
+|2443 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202443%20-%20SumOfNumberAndItsReverse/SumOfNumberAndItsReverse/SumOfNumberAndItsReverse/Program.cs) |✔️|
+|2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)| Hard |  |:heavy_minus_sign: |
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
