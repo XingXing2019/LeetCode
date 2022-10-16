@@ -2438,6 +2438,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202434%20-%20UsingARobotToPrintTheLexicographicallySmallestString/UsingARobotToPrint/UsingARobotToPrint/Program.cs) |✔️|
 |2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/)| Hard |  |:heavy_minus_sign: |
 |2436 | [Minimum Split Into Subarrays With GCD Greater Than One](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202436%20-%20MinimumSplitIntoSubarraysWithGCDGreaterThanOne/MinimumSplit/MinimumSplit/Program.cs) |✔️|
+|2437 | [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202437%20-%20NumberOfValidClockTimes/NumberOfValidClockTimes/NumberOfValidClockTimes/Program.cs) |✔️|
+|2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202438%20-%20RangeProductQueriesOfPowers/RangeProductQueriesOfPowers/RangeProductQueriesOfPowers/Program.cs) |✔️|
+|2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202439%20-%20MinimizeMaximumOfArray/MinimizeMaximumOfArray/MinimizeMaximumOfArray/Program.cs) |✔️|
+|2440 | [Create Components With Same Value](https://leetcode.com/problems/create-components-with-same-value/)| Hard |  |:heavy_minus_sign: |
+|2441 | []()| Easy | [C#]() |✔️|
+|2442 | []()| Medium | [C#]() |✔️|
+|2443 | []()| Medium | [C#]() |✔️|
+|2444 | []()| Hard |  |:heavy_minus_sign: |
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
