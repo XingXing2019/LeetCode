@@ -2446,6 +2446,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202442%20-%20CountNumberOfDistinctIntegersAfterReverseOperations/CountNumber/CountNumber/Program.cs) |✔️|
 |2443 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202443%20-%20SumOfNumberAndItsReverse/SumOfNumberAndItsReverse/SumOfNumberAndItsReverse/Program.cs) |✔️|
 |2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)| Hard |  |:heavy_minus_sign: |
+|2445 | [Number of Nodes With Value One](https://leetcode.com/problems/number-of-nodes-with-value-one/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202445%20-%20NumberOfNodesWithValueOne/NumberOfNodesWithValueOne/NumberOfNodesWithValueOne/Program.cs) |✔️|
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
