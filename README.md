@@ -2450,7 +2450,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |24 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202446%20-%20DetermineIfTwoEventsHaveConflict/DetermineIfTwoEventsHaveConflict/DetermineIfTwoEventsHaveConflict/Program.cs) |✔️|
 |24 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202447%20-%20NumberOfSubarraysWithGCDEqualToK/NumberOfSubarraysWithGCDEqualToK/NumberOfSubarraysWithGCDEqualToK/Program.cs) |✔️|
 |24 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/)| Hard |  |:heavy_minus_sign: |
-|24 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/)| Hard |  |:heavy_minus_sign: |
+|24 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202449%20-%20MinimumNumberOfOperationsToMakeArraysSimilar/MinimumNumber/MinimumNumber/Program.cs) |✔️|
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
