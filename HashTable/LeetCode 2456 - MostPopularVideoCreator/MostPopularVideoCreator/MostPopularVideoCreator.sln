@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostPopularVideoCreator", "MostPopularVideoCreator\MostPopularVideoCreator.csproj", "{B33BA549-58A7-48F1-A5CD-DB1B60E556AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33BA549-58A7-48F1-A5CD-DB1B60E556AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33BA549-58A7-48F1-A5CD-DB1B60E556AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33BA549-58A7-48F1-A5CD-DB1B60E556AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33BA549-58A7-48F1-A5CD-DB1B60E556AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BEAB3FD-1C6C-4E8E-8C41-36F407DAF718}
+	EndGlobalSection
+EndGlobal
