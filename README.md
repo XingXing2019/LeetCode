@@ -2461,10 +2461,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202457%20-%20MinimumAdditionToMakeIntegerBeautiful/MinimumAddition/MinimumAddition/Program.cs) |✔️|
 |2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/)| Hard |  |:heavy_minus_sign: |
 |2459 | [Sort Array by Moving Items to Empty Space](https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/)| Hard |  |:heavy_minus_sign: |
-|2460 | []()| Easy | [C#]() |✔️|
-|2461 | []()| Medium | [C#]() |✔️|
-|2462 | []()| Medium | [C#]() |✔️|
-|2463 | []()| Hard |  |:heavy_minus_sign: |
+|2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202460%20-%20ApplyOperationsToAnArray/ApplyOperationsToAnArray/ApplyOperationsToAnArray/Program.cs) |✔️|
+|2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202461%20-%20MaximumSumOfDistinctSubarraysWithLengthK/MaximumSum/Program.cs) |✔️|
+|2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202462%20-%20TotalCostToHireKWorkers/TotalCostToHireKWorkers/TotalCostToHireKWorkers/Program.cs) |✔️|
+|2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/)| Hard |  |:heavy_minus_sign: |
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
