@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplyOperationsToAnArray", "ApplyOperationsToAnArray\ApplyOperationsToAnArray.csproj", "{A43EA384-A698-4A7D-9775-A85118C61822}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSum", "..\..\LeetCode 2461 - MaximumSumOfDistinctSubarraysWithLengthK\MaximumSum\MaximumSum.csproj", "{34E99E1E-25D5-4232-A44F-AC141F0B6AB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A43EA384-A698-4A7D-9775-A85118C61822}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A43EA384-A698-4A7D-9775-A85118C61822}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A43EA384-A698-4A7D-9775-A85118C61822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E99E1E-25D5-4232-A44F-AC141F0B6AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E99E1E-25D5-4232-A44F-AC141F0B6AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E99E1E-25D5-4232-A44F-AC141F0B6AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E99E1E-25D5-4232-A44F-AC141F0B6AB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
