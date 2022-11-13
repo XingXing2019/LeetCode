@@ -32,23 +32,36 @@ namespace MinimumNumberOfOperations
             {
                 var count = queue.Count;
                 var nodes = new List<int>();
-                var copy = new List<int>();
-                var noMatch = 0;
+                var sorted = new List<int>();
                 for (int i = 0; i < count; i++)
                 {
                     var cur = queue.Dequeue();
                     nodes.Add(cur.val);
-                    copy.Add(cur.val);
+                    sorted.Add(cur.val);
                     if (cur.left != null) queue.Enqueue(cur.left);
                     if (cur.right != null) queue.Enqueue(cur.right);
                 }
-                copy.Sort();
-                for (int i = 0; i < nodes.Count; i++)
+                sorted.Sort();
+                res += Swap(nodes, sorted);
+            }
+            return res;
+        }
+
+        public int Swap(List<int> nodes, List<int> sorted)
+        {
+            var dict = new Dictionary<int, int>();
+            for (int i = 0; i < sorted.Count; i++)
+                dict[sorted[i]] = i;
+            int res = 0, index = 0;
+            while (index < nodes.Count)
+            {
+                while (dict[nodes[index]] != index)
                 {
-                    if (nodes[i] == copy[i]) continue;
-                    noMatch++;
+                    var target = dict[nodes[index]];
+                    (nodes[index], nodes[target]) = (nodes[target], nodes[index]);
+                    res++;
                 }
-                res += (int)Math.Ceiling((double)noMatch / 2);
+                index++;
             }
             return res;
         }
