@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountWaysToBuildGoodStrings", "CountWaysToBuildGoodStrings\CountWaysToBuildGoodStrings.csproj", "{4200C92F-DAF0-4A53-9A7F-5702F124DEB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4200C92F-DAF0-4A53-9A7F-5702F124DEB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4200C92F-DAF0-4A53-9A7F-5702F124DEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4200C92F-DAF0-4A53-9A7F-5702F124DEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4200C92F-DAF0-4A53-9A7F-5702F124DEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0DB3286-573C-46FD-8D11-33D35233F269}
+	EndGlobalSection
+EndGlobal
