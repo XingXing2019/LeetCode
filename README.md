@@ -2475,6 +2475,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202471%20-%20MinimumNumberOfOperationsToSortABinaryTreeByLevel/MinimumNumberOfOperations/MinimumNumberOfOperations/Program.cs) |✔️|
 |2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/)| Hard |  |:heavy_minus_sign: |
 |2473 | [Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202473%20-%20MinimumCostToBuyApples/MinimumCostToBuyApples/MinimumCostToBuyApples/Program.cs) |✔️|
+
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
