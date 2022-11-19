@@ -6,8 +6,8 @@ with CustomerOrders as (
 
 CustomerLastOrder as (
 	select customer_id, max(year) as last_year
-    from CustomerOrders
-    group by customer_id
+	from CustomerOrders
+	group by customer_id
 ),
 
 InvalidCustomers as (
