@@ -20,17 +20,8 @@ InvalidCustomers AS (
 	ON c3.customer_id = c1.customer_id
 	WHERE c1.total_price >= ISNULL(c2.total_price, 0)
 	AND c1.year <> c3.last_year
-),
-
-OneOrderCustomer AS (
-	SELECT customer_id
-	FROM CustomerYearOrder
-	GROUP BY customer_id
-	HAVING COUNT(total_price) = 1
 )
 
 SELECT DISTINCT customer_id
 FROM Orders
 WHERE customer_id NOT IN (SELECT customer_id FROM InvalidCustomers)
-UNION
-SELECT customer_id FROM OneOrderCustomer
