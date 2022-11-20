@@ -2475,11 +2475,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202471%20-%20MinimumNumberOfOperationsToSortABinaryTreeByLevel/MinimumNumberOfOperations/MinimumNumberOfOperations/Program.cs) |✔️|
 |2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/)| Hard |  |:heavy_minus_sign: |
 |2473 | [Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202473%20-%20MinimumCostToBuyApples/MinimumCostToBuyApples/MinimumCostToBuyApples/Program.cs) |✔️|
-|2474 | [Customers With Strictly Increasing Purchases](https://leetcode.com/problems/customers-with-strictly-increasing-purchases/)|  | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202474%20-%20CustomersWithStrictlyIncreasingPurchases/CustomersWithStrictlyIncreasingPurchases_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202474%20-%20CustomersWithStrictlyIncreasingPurchases/CustomersWithStrictlyIncreasingPurchases_MySQL.sql) |✔️|
-|2475 | []()| Easy | [C#]() |✔️|
-|2476 | []()| Medium | [C#]() |✔️|
-|2477 | []()| Medium | [C#]() |✔️|
-|2478 | []()| Hard |  |:heavy_minus_sign: |
+|2474 | [Customers With Strictly Increasing Purchases](https://leetcode.com/problems/customers-with-strictly-increasing-purchases/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202474%20-%20CustomersWithStrictlyIncreasingPurchases/CustomersWithStrictlyIncreasingPurchases_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202474%20-%20CustomersWithStrictlyIncreasingPurchases/CustomersWithStrictlyIncreasingPurchases_MySQL.sql) |✔️|
+|2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202475%20-%20NumberOfUnequalTripletsInArray/NumberOfUnequalTripletsInArray/NumberOfUnequalTripletsInArray/Program.cs) |✔️|
+|2476 | [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202476%20-%20ClosestNodesQueriesInABinarySearchTree/ClosestNodesQueries/ClosestNodesQueries/Program.cs) |✔️|
+|2477 | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202477%20-%20MinimumFuelCostToReportToTheCapital/MinimumFuelCost/MinimumFuelCost/Program.cs) |✔️|
+|2478 | [Number of Beautiful Partitions](https://leetcode.com/problems/number-of-beautiful-partitions/)| Hard |  |:heavy_minus_sign: |
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
