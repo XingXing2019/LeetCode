@@ -2480,6 +2480,16 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2476 | [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202476%20-%20ClosestNodesQueriesInABinarySearchTree/ClosestNodesQueries/ClosestNodesQueries/Program.cs) |✔️|
 |2477 | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202477%20-%20MinimumFuelCostToReportToTheCapital/MinimumFuelCost/MinimumFuelCost/Program.cs) |✔️|
 |2478 | [Number of Beautiful Partitions](https://leetcode.com/problems/number-of-beautiful-partitions/)| Hard |  |:heavy_minus_sign: |
+|2479 | [Maximum XOR of Two Non-Overlapping Subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/)| Hard |  |:heavy_minus_sign: |
+|2480 | [Form a Chemical Bond](https://leetcode.com/problems/form-a-chemical-bond/)| Easy | [SQLServer](), [MySQL]() |✔️|
+|2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)| Easy | [C#]() |✔️|
+|2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)| Medium | [C#]() |✔️|
+|2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)| Medium | [C#]() |✔️|
+|2484 | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/)| Hard |  |:heavy_minus_sign: |
+|2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)| Easy | [C#]() |✔️|
+|2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)| Medium | [C#]() |✔️|
+|2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)| Medium | [C#]() |✔️|
+|2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)| Hard |  |:heavy_minus_sign: |
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
