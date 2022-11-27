@@ -2487,7 +2487,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202483%20-%20MinimumPenaltyForAShop/MinimumPenaltyForAShop/MinimumPenaltyForAShop/Program.cs) |✔️|
 |2484 | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/)| Hard |  |:heavy_minus_sign: |
 |2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202485%20-%20FindThePivotInteger/FindThePivotInteger/FindThePivotInteger/Program.cs) |✔️|
-|2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)| Medium | [C#]() |✔️|
+|2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202486%20-%20AppendCharactersToStringToMakeSubsequence/AppendCharactersToString/AppendCharactersToString/Program.cs) |✔️|
 |2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)| Medium | [C#]() |✔️|
 |2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)| Hard |  |:heavy_minus_sign: |
 |24 | []()| Easy | [C#]() |✔️|
