@@ -2482,7 +2482,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2478 | [Number of Beautiful Partitions](https://leetcode.com/problems/number-of-beautiful-partitions/)| Hard |  |:heavy_minus_sign: |
 |2479 | [Maximum XOR of Two Non-Overlapping Subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/)| Hard |  |:heavy_minus_sign: |
 |2480 | [Form a Chemical Bond](https://leetcode.com/problems/form-a-chemical-bond/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202480%20-%20FormAChemicalBond/FormAChemicalBond_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202480%20-%20FormAChemicalBond/FormAChemicalBond_MySQL.sql) |✔️|
-|2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)| Easy | [C#]() |✔️|
+|2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202481%20-%20MinimumCutsToDivideACircle/MinimumCutsToDivideACircle/MinimumCutsToDivideACircle/Program.cs) |✔️|
 |2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)| Medium | [C#]() |✔️|
 |2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/)| Medium | [C#]() |✔️|
 |2484 | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/)| Hard |  |:heavy_minus_sign: |
