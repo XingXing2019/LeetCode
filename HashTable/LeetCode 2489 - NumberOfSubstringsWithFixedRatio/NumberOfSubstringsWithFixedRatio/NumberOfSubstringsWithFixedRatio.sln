@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfSubstringsWithFixedRatio", "NumberOfSubstringsWithFixedRatio\NumberOfSubstringsWithFixedRatio.csproj", "{35496B85-6DDF-4E62-8405-C9307664773F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35496B85-6DDF-4E62-8405-C9307664773F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35496B85-6DDF-4E62-8405-C9307664773F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35496B85-6DDF-4E62-8405-C9307664773F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35496B85-6DDF-4E62-8405-C9307664773F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC5C32A6-2D2E-4FCF-AE9A-7E69FBD4068A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NumberOfSubstringsWithFixedRatio/1.0.0": {
+        "runtime": {
+          "NumberOfSubstringsWithFixedRatio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumberOfSubstringsWithFixedRatio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
