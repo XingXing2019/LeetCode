@@ -2490,6 +2490,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202486%20-%20AppendCharactersToStringToMakeSubsequence/AppendCharactersToString/AppendCharactersToString/Program.cs) |✔️|
 |2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202487%20-%20RemoveNodesFromLinkedList/RemoveNodesFromLinkedList/RemoveNodesFromLinkedList/Program.cs) |✔️|
 |2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)| Hard |  |:heavy_minus_sign: |
+|2489 | [Number of Substrings With Fixed Ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202489%20-%20NumberOfSubstringsWithFixedRatio/NumberOfSubstringsWithFixedRatio/NumberOfSubstringsWithFixedRatio/Program.cs) |✔️|
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
