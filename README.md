@@ -2491,6 +2491,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202487%20-%20RemoveNodesFromLinkedList/RemoveNodesFromLinkedList/RemoveNodesFromLinkedList/Program.cs) |✔️|
 |2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/)| Hard |  |:heavy_minus_sign: |
 |2489 | [Number of Substrings With Fixed Ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202489%20-%20NumberOfSubstringsWithFixedRatio/NumberOfSubstringsWithFixedRatio/NumberOfSubstringsWithFixedRatio/Program.cs) |✔️|
+|2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202490%20-%20CircularSentence/CircularSentence/CircularSentence/Program.cs) |✔️|
+|2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202491%20-%20DividePlayersIntoTeamsOfEqualSkill/DividePlayersIntoTeamsOfEqualSkill/DividePlayersIntoTeamsOfEqualSkill/Program.cs) |✔️|
+|2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202492%20-%20MinimumScoreOfAPathBetweenTwoCities/MinimumScoreOfAPathBetweenTwoCities/MinimumScoreOfAPathBetweenTwoCities/Program.cs) |✔️|
+|2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)| Hard |  |:heavy_minus_sign: |
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
