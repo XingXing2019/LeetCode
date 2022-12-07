@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Array\\LeetCode 1375 - BulbSwitcherIII\\BulbSwitcherIII\\BulbSwitcherIII\\BulbSwitcherIII.csproj",
-      "projectName": "BulbSwitcherIII",
-      "projectPath": "D:\\LeetCode\\Array\\LeetCode 1375 - BulbSwitcherIII\\BulbSwitcherIII\\BulbSwitcherIII\\BulbSwitcherIII.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Array\\LeetCode 2495 - NumberOfSubarraysHavingEvenProduct\\NumberOfSubarraysHavingEvenProduct\\NumberOfSubarraysHavingEvenProduct\\NumberOfSubarraysHavingEvenProduct.csproj",
+      "projectName": "NumberOfSubarraysHavingEvenProduct",
+      "projectPath": "D:\\LeetCode\\Array\\LeetCode 2495 - NumberOfSubarraysHavingEvenProduct\\NumberOfSubarraysHavingEvenProduct\\NumberOfSubarraysHavingEvenProduct\\NumberOfSubarraysHavingEvenProduct.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Array\\LeetCode 1375 - BulbSwitcherIII\\BulbSwitcherIII\\BulbSwitcherIII\\obj\\",
+      "outputPath": "D:\\LeetCode\\Array\\LeetCode 2495 - NumberOfSubarraysHavingEvenProduct\\NumberOfSubarraysHavingEvenProduct\\NumberOfSubarraysHavingEvenProduct\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
