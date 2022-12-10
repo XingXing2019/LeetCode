@@ -2497,10 +2497,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)| Hard |  |:heavy_minus_sign: |
 |2494 | [Merge Overlapping Events in the Same Hall](https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall/)| Hard |  |:heavy_minus_sign: |
 |2495 | [Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202495%20-%20NumberOfSubarraysHavingEvenProduct/NumberOfSubarraysHavingEvenProduct_C%23/NumberOfSubarraysHavingEvenProduct/Program.cs), [JS](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202495%20-%20NumberOfSubarraysHavingEvenProduct/NumberOfSubarraysHavingEvenProduct_JS/NumberOfSubarraysHavingEvenProduct.js) |✔️|
-|2496 | []()| Easy | [C#]() |✔️|
-|2497 | []()| Medium | [C#]() |✔️|
-|2498 | []()| Medium | [C#]() |✔️|
-|2499 | []()| Hard |  |:heavy_minus_sign: |
+|2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202496%20-%20MaximumValueOfAStringInAnArray/MaximumValueOfAStringInAnArray/MaximumValueOfAStringInAnArray/Program.cs) |✔️|
+|2497 | [Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202497%20-%20MaximumStarSumOfAGraph/MaximumStarSumOfAGraph/MaximumStarSumOfAGraph/Program.cs) |✔️|
+|2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202498%20-%20FrogJumpII/FrogJumpII/FrogJumpII/Program.cs) |✔️|
+|2499 | [Minimum Total Cost to Make Arrays Unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/)| Hard |  |:heavy_minus_sign: |
 |2500 | []()| Easy | [C#]() |✔️|
 |2501 | []()| Medium | [C#]() |✔️|
 |2502 | []()| Medium | [C#]() |✔️|
