@@ -2496,7 +2496,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202492%20-%20MinimumScoreOfAPathBetweenTwoCities/MinimumScoreOfAPathBetweenTwoCities/MinimumScoreOfAPathBetweenTwoCities/Program.cs) |✔️|
 |2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)| Hard |  |:heavy_minus_sign: |
 |2494 | [Merge Overlapping Events in the Same Hall](https://leetcode.com/problems/merge-overlapping-events-in-the-same-hall/)| Hard |  |:heavy_minus_sign: |
-|2495 | [Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202495%20-%20NumberOfSubarraysHavingEvenProduct/NumberOfSubarraysHavingEvenProduct/NumberOfSubarraysHavingEvenProduct/Program.cs) |✔️|
+|2495 | [Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202495%20-%20NumberOfSubarraysHavingEvenProduct/NumberOfSubarraysHavingEvenProduct_C%23/NumberOfSubarraysHavingEvenProduct/Program.cs), [JS](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202495%20-%20NumberOfSubarraysHavingEvenProduct/NumberOfSubarraysHavingEvenProduct_JS/NumberOfSubarraysHavingEvenProduct.js) |✔️|
 |24 | []()| Easy | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
 |24 | []()| Medium | [C#]() |✔️|
