@@ -8,52 +8,34 @@ namespace LongestSquareStreakInAnArray
     {
         static void Main(string[] args)
         {
-            int[] nums = { 4, 3, 6, 16, 8, 2 };
+            int[] nums = { 10, 2, 13, 16, 8, 9, 13 };
             Console.WriteLine(LongestSquareStreak(nums));
         }
 
         public static int LongestSquareStreak(int[] nums)
         {
-            var dict = new Dictionary<int, int>();
-            var subsequences = new List<List<int>>();
-            var res = -1;
-            foreach (var num in nums)
+            var unique = new HashSet<long>(nums.OrderBy(x => x).Select(x => (long)x));
+            var copy = new HashSet<long>(unique);
+            var max = nums.Max();
+            var dict = new Dictionary<long, int>();
+            foreach (var num in copy)
             {
-                if (dict.ContainsKey(num)) continue;
-                var pow = num * num;
-                var sqrt = Math.Sqrt(num);
-                var index = -1;
-                if (dict.ContainsKey(pow))
-                    index = dict[pow];
-                else if (IsPerfectSqrt(num) && dict.ContainsKey((int)sqrt))
-                    index = dict[(int)sqrt];
-                else
-                    index = subsequences.Count;
-                if (index == subsequences.Count)
-                    subsequences.Add(new List<int>());
-                subsequences[index].Add(num);
-                dict[num] = index;
-            }
-            foreach (var subsequence in subsequences)
-            {
-                if (subsequence.Count == 1) continue;
-                res = Math.Max(res, subsequence.Count);
-            }
-            return res;
-        }
-
-        private static bool IsPerfectSqrt(int num, out int sqrt)
-        {
-            sqrt = -1;
-            for (int i = 1; i < Math.Sqrt(num); i++)
-            {
-                if (i * i == num)
+                if (!unique.Contains(num)) continue;
+                var temp = num;
+                dict[num] = 0;
+                while (temp <= max)
                 {
-                    sqrt = i;
-                    return true;
+                    if (unique.Contains(temp))
+                    {
+                        unique.Remove(temp);
+                        dict[num]++;
+                    }
+                    else
+                        break;
+                    temp *= temp;
                 }
             }
-            return false;
+            return dict.Values.Where(count => count != 1).Append(-1).Max();
         }
     }
 }
