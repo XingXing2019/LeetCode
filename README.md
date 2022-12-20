@@ -2506,6 +2506,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202502%20-%20DesignMemoryAllocator/DesignMemoryAllocator/DesignMemoryAllocator/Program.cs) |✔️|
 |2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/)| Hard |  |:heavy_minus_sign: |
 |2504 | [Concatenate the Name and the Profession](https://leetcode.com/problems/concatenate-the-name-and-the-profession/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202504%20-%20ConcatenateTheNameAndTheProfession/ConcatenateTheNameAndTheProfession_SQL.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202504%20-%20ConcatenateTheNameAndTheProfession/ConcatenateTheNameAndTheProfession_MySQL.sql) |✔️|
+|2505 | [Bitwise OR of All Subsequence Sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Brainteaser/LeetCode%202505%20-%20BitwiseOrOfAllSubsequenceSums/BitwiseOrOfAllSubsequenceSums/BitwiseOrOfAllSubsequenceSums/Program.cs) |✔️|
+|2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202506%20-%20CountPairsOfSimilarStrings/CountPairsOfSimilarStrings/CountPairsOfSimilarStrings/Program.cs) |✔️|
+|2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202507%20-%20SmallestValueAfterReplacingWithSumOfPrimeFactors/SmallestValue/SmallestValue/Program.cs) |✔️|
+|2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/)| Hard |  |:heavy_minus_sign: |
+|2509 | [Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/)| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
