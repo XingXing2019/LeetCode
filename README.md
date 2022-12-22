@@ -2511,6 +2511,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202507%20-%20SmallestValueAfterReplacingWithSumOfPrimeFactors/SmallestValue/SmallestValue/Program.cs) |✔️|
 |2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/)| Hard |  |:heavy_minus_sign: |
 |2509 | [Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/)| Hard |  |:heavy_minus_sign: |
+|2510 | [Check if There is a Path With Equal Number of 0's And 1's](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202510%20-%20CheckIfThereIsAPathWithEqualNumberOf0sAnd1s/CheckIfThereIsAPath/CheckIfThereIsAPath/Program.cs) |✔️|
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
