@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfDistancesInTree", "SumOfDistancesInTree\SumOfDistancesInTree.csproj", "{1F041E3B-2BDD-4994-B676-E6B21098B1DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F041E3B-2BDD-4994-B676-E6B21098B1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F041E3B-2BDD-4994-B676-E6B21098B1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F041E3B-2BDD-4994-B676-E6B21098B1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F041E3B-2BDD-4994-B676-E6B21098B1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F37DEF-8CF9-4BD6-A9BD-31CAA691D4FC}
+	EndGlobalSection
+EndGlobal
