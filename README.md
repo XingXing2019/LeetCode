@@ -2516,10 +2516,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202512%20-%20RewardTopKStudents/RewardTopKStudents/RewardTopKStudents/Program.cs) |✔️|
 |2513 | [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202513%20-%20MinimizeTheMaximumOfTwoArrays/MinimizeTheMaximumOfTwoArrays/MinimizeTheMaximumOfTwoArrays/Program.cs) |✔️|
 |2514 | [Count Anagrams](https://leetcode.com/problems/count-anagrams/)| Hard |  |:heavy_minus_sign: |
-|2515 | []()| Easy | [C#]() |✔️|
-|2516 | []()| Medium | [C#]() |✔️|
-|2517 | []()| Medium | [C#]() |✔️|
-|2518 | []()| Hard |  |:heavy_minus_sign: |
+|2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202515%20-%20ShortestDistanceToTargetStringInACircularArray/ShortestDistanceToTarget/ShortestDistanceToTarget/Program.cs) |✔️|
+|2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202516%20-%20TakeKOfEachCharacterFromLeftAndRight/TakeKOfEachCharacter/TakeKOfEachCharacter/Program.cs) |✔️|
+|2517 | [Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202517%20-%20MaximumTastinessOfCandyBasket/MaximumTastinessOfCandyBasket/MaximumTastinessOfCandyBasket/Program.cs) |✔️|
+|2518 | [Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/)| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
