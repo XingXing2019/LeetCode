@@ -2512,6 +2512,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/)| Hard |  |:heavy_minus_sign: |
 |2509 | [Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/)| Hard |  |:heavy_minus_sign: |
 |2510 | [Check if There is a Path With Equal Number of 0's And 1's](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202510%20-%20CheckIfThereIsAPathWithEqualNumberOf0sAnd1s/CheckIfThereIsAPath/CheckIfThereIsAPath/Program.cs) |✔️|
+|2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202511%20-%20MaximumEnemyFortsThatCanBeCaptured/MaximumEnemyForts/MaximumEnemyForts/Program.cs) |✔️|
+|2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202512%20-%20RewardTopKStudents/RewardTopKStudents/RewardTopKStudents/Program.cs) |✔️|
+|2513 | [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202513%20-%20MinimizeTheMaximumOfTwoArrays/MinimizeTheMaximumOfTwoArrays/MinimizeTheMaximumOfTwoArrays/Program.cs) |✔️|
+|2514 | [Count Anagrams](https://leetcode.com/problems/count-anagrams/)| Hard |  |:heavy_minus_sign: |
+|2515 | []()| Easy | [C#]() |✔️|
+|2516 | []()| Medium | [C#]() |✔️|
+|2517 | []()| Medium | [C#]() |✔️|
+|2518 | []()| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
