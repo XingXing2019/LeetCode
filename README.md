@@ -2520,6 +2520,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202516%20-%20TakeKOfEachCharacterFromLeftAndRight/TakeKOfEachCharacter/TakeKOfEachCharacter/Program.cs) |✔️|
 |2517 | [Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202517%20-%20MaximumTastinessOfCandyBasket/MaximumTastinessOfCandyBasket/MaximumTastinessOfCandyBasket/Program.cs) |✔️|
 |2518 | [Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/)| Hard |  |:heavy_minus_sign: |
+|25 | [Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/)| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
