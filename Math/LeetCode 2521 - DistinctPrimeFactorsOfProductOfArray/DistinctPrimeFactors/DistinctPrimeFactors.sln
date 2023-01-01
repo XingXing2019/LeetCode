@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistinctPrimeFactors", "DistinctPrimeFactors\DistinctPrimeFactors.csproj", "{2E80E111-89C4-4C84-B4B6-E031749BC38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E80E111-89C4-4C84-B4B6-E031749BC38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E80E111-89C4-4C84-B4B6-E031749BC38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E80E111-89C4-4C84-B4B6-E031749BC38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E80E111-89C4-4C84-B4B6-E031749BC38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33353BDB-33D8-4560-987B-FD84C09900AD}
+	EndGlobalSection
+EndGlobal
