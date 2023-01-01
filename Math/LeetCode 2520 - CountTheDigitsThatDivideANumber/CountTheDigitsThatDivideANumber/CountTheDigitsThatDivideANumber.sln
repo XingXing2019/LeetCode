@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheDigitsThatDivideANumber", "CountTheDigitsThatDivideANumber\CountTheDigitsThatDivideANumber.csproj", "{75E1F282-F646-4061-9756-F5F36D1EA4D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E1F282-F646-4061-9756-F5F36D1EA4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E1F282-F646-4061-9756-F5F36D1EA4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E1F282-F646-4061-9756-F5F36D1EA4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E1F282-F646-4061-9756-F5F36D1EA4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91B09400-F2FD-4CC0-9FE7-E8007D958AD2}
+	EndGlobalSection
+EndGlobal
