@@ -2520,7 +2520,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2516 | [Take K of Each Character From Left and Right](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202516%20-%20TakeKOfEachCharacterFromLeftAndRight/TakeKOfEachCharacter/TakeKOfEachCharacter/Program.cs) |✔️|
 |2517 | [Maximum Tastiness of Candy Basket](https://leetcode.com/problems/maximum-tastiness-of-candy-basket/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202517%20-%20MaximumTastinessOfCandyBasket/MaximumTastinessOfCandyBasket/MaximumTastinessOfCandyBasket/Program.cs) |✔️|
 |2518 | [Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/)| Hard |  |:heavy_minus_sign: |
-|25 | [Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/)| Hard |  |:heavy_minus_sign: |
+|2519 | [Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/)| Hard |  |:heavy_minus_sign: |
+|2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202520%20-%20CountTheDigitsThatDivideANumber/CountTheDigitsThatDivideANumber/CountTheDigitsThatDivideANumber/Program.cs) |✔️|
+|2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202521%20-%20DistinctPrimeFactorsOfProductOfArray/DistinctPrimeFactors/DistinctPrimeFactors/Program.cs) |✔️|
+|2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202522%20-%20PartitionStringIntoSubstringsWithValuesAtMostK/PartitionString/PartitionString/Program.cs) |✔️|
+|2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202523%20-%20ClosestPrimeNumbersInRange/ClosestPrimeNumbersInRange/ClosestPrimeNumbersInRange/Program.cs) |✔️|
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
