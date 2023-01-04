@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Greedy\\LeetCode 2244 - MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Greedy\\LeetCode 2244 - MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks_C#\\MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks.csproj",
       "projectName": "MinimumRoundToCompleteAllTasks",
-      "projectPath": "D:\\LeetCode\\Greedy\\LeetCode 2244 - MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks.csproj",
+      "projectPath": "D:\\LeetCode\\Greedy\\LeetCode 2244 - MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks_C#\\MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Greedy\\LeetCode 2244 - MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks\\obj\\",
+      "outputPath": "D:\\LeetCode\\Greedy\\LeetCode 2244 - MinimumRoundToCompleteAllTasks\\MinimumRoundToCompleteAllTasks_C#\\MinimumRoundToCompleteAllTasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
