@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindConsecutiveIntegers", "FindConsecutiveIntegers\FindConsecutiveIntegers.csproj", "{94017B76-6C23-45DB-A9C2-88C0529AF9F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94017B76-6C23-45DB-A9C2-88C0529AF9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94017B76-6C23-45DB-A9C2-88C0529AF9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94017B76-6C23-45DB-A9C2-88C0529AF9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94017B76-6C23-45DB-A9C2-88C0529AF9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41F7DADB-43FC-4228-9EF1-2DC1C8067FBE}
+	EndGlobalSection
+EndGlobal
