@@ -9,7 +9,7 @@ namespace FindXorBeautyOfArray
             Console.WriteLine("Hello World!");
         }
 
-        public int XorBeauty(int[] nums)
+        public int XorBeauty_32N(int[] nums)
         {
             int combo = nums.Length * nums.Length, res = 0;
             for (int i = 0; i < 32; i++)
@@ -27,6 +27,14 @@ namespace FindXorBeautyOfArray
                 if (effectiveOne % 2 != 0)
                     res += 1 << i;
             }
+            return res;
+        }
+
+        public int XorBeauty_N(int[] nums)
+        {
+            var res = 0;
+            foreach (var num in nums)
+                res ^= num;
             return res;
         }
     }
