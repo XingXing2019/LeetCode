@@ -2525,6 +2525,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202521%20-%20DistinctPrimeFactorsOfProductOfArray/DistinctPrimeFactors/DistinctPrimeFactors/Program.cs) |✔️|
 |2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202522%20-%20PartitionStringIntoSubstringsWithValuesAtMostK/PartitionString/PartitionString/Program.cs) |✔️|
 |2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202523%20-%20ClosestPrimeNumbersInRange/ClosestPrimeNumbersInRange/ClosestPrimeNumbersInRange/Program.cs) |✔️|
+|2524 | [Maximum Frequency Score of a Subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/)| Hard |  |:heavy_minus_sign: |
+|2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202525%20-%20CategorizeBoxAccordingToCriteria/CategorizeBoxAccordingToCriteria/CategorizeBoxAccordingToCriteria/Program.cs) |✔️|
+|2526 | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202526%20-%20FindConsecutiveIntegersFromADataStream/FindConsecutiveIntegers/FindConsecutiveIntegers/Program.cs) |✔️|
+|2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202527%20-%20FindXorBeautyOfArray/FindXorBeautyOfArray/FindXorBeautyOfArray/Program.cs) |✔️|
+|2528 | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/)| Hard |  |:heavy_minus_sign: |
+|2529 | []()| Easy | [C#]() |✔️|
+|2530 | []()| Medium | [C#]() |✔️|
+|2531 | []()| Medium | [C#]() |✔️|
+|2532 | []()| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
