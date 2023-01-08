@@ -2530,10 +2530,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2526 | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202526%20-%20FindConsecutiveIntegersFromADataStream/FindConsecutiveIntegers/FindConsecutiveIntegers/Program.cs) |✔️|
 |2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202527%20-%20FindXorBeautyOfArray/FindXorBeautyOfArray/FindXorBeautyOfArray/Program.cs) |✔️|
 |2528 | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/)| Hard |  |:heavy_minus_sign: |
-|2529 | []()| Easy | [C#]() |✔️|
-|2530 | []()| Medium | [C#]() |✔️|
-|2531 | []()| Medium | [C#]() |✔️|
-|2532 | []()| Hard |  |:heavy_minus_sign: |
+|2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202529%20-%20MaximumCountOfPositiveIntegerAndNegativeInteger/MaximumCount/MaximumCount/Program.cs) |✔️|
+|2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202530%20-%20MaximalScoreAfterApplyingKOperations/MaximalScoreAfterApplyingKOperations/MaximalScoreAfterApplyingKOperations/Program.cs) |✔️|
+|2531 | [Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202531%20-%20MakeNumberOfDistinctCharactersEqual/MakeNumberOfDistinctCharactersEqual/MakeNumberOfDistinctCharactersEqual/Program.cs) |✔️|
+|2532 | [Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/)| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
