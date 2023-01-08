@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\LeetCode\\Heap\\LeetCode 2530 - MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations.csproj": {}
+  },
+  "projects": {
+    "D:\\LeetCode\\Heap\\LeetCode 2530 - MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\LeetCode\\Heap\\LeetCode 2530 - MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations.csproj",
+        "projectName": "MaximalScoreAfterApplyingKOperations",
+        "projectPath": "D:\\LeetCode\\Heap\\LeetCode 2530 - MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\Heap\\LeetCode 2530 - MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\MaximalScoreAfterApplyingKOperations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
