@@ -2538,7 +2538,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2534 | [Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door/)| Hard |  |:heavy_minus_sign: |
 |2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202535%20-%20DifferenceBetweenElementSumAndDigitSumOfAnArray/DifferenceBetween/DifferenceBetween/Program.cs) |✔️|
 |2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202536%20-%20IncrementSubmatricesByOne/IncrementSubmatricesByOne/IncrementSubmatricesByOne/Program.cs) |✔️|
-|2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)| Medium | [C#]() |✔️|
+|2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202537%20-%20CountTheNumberOfGoodSubarrays/CountTheNumberOfGoodSubarrays/CountTheNumberOfGoodSubarrays/Program.cs) |✔️|
 |2538 | [Difference Between Maximum and Minimum Price Sum](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/)| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
