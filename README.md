@@ -2534,6 +2534,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202530%20-%20MaximalScoreAfterApplyingKOperations/MaximalScoreAfterApplyingKOperations/MaximalScoreAfterApplyingKOperations/Program.cs) |✔️|
 |2531 | [Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202531%20-%20MakeNumberOfDistinctCharactersEqual/MakeNumberOfDistinctCharactersEqual/MakeNumberOfDistinctCharactersEqual/Program.cs) |✔️|
 |2532 | [Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/)| Hard |  |:heavy_minus_sign: |
+|2533 | [Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/)| Medium |  |:heavy_minus_sign: |
+|2534 | [Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door/)| Hard |  |:heavy_minus_sign: |
+|2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202535%20-%20DifferenceBetweenElementSumAndDigitSumOfAnArray/DifferenceBetween/DifferenceBetween/Program.cs) |✔️|
+|2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202536%20-%20IncrementSubmatricesByOne/IncrementSubmatricesByOne/IncrementSubmatricesByOne/Program.cs) |✔️|
+|2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)| Medium | [C#]() |✔️|
+|2538 | [Difference Between Maximum and Minimum Price Sum](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/)| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
