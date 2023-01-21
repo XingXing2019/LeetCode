@@ -2541,10 +2541,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202537%20-%20CountTheNumberOfGoodSubarrays/CountTheNumberOfGoodSubarrays/CountTheNumberOfGoodSubarrays/Program.cs) |✔️|
 |2538 | [Difference Between Maximum and Minimum Price Sum](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/)| Hard |  |:heavy_minus_sign: |
 |2539 | [Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/)| Medium |  |:heavy_minus_sign: |
-|2540 | []()| Easy | [C#]() |✔️|
-|2541 | []()| Medium | [C#]() |✔️|
-|2542 | []()| Medium | [C#]() |✔️|
-|2543 | []()| Hard |  |:heavy_minus_sign: |
+|2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202540%20-%20MinimumCommonValue/MinimumCommonValue/MinimumCommonValue/Program.cs) |✔️|
+|2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202541%20-%20MinimumOperationsToMakeArrayEqualII/MinimumOperationsToMakeArrayEqualII/MinimumOperationsToMakeArrayEqualII/Program.cs) |✔️|
+|2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202542%20-%20MaximumSubsequenceScore/MaximumSubsequenceScore/MaximumSubsequenceScore/Program.cs) |✔️|
+|2543 | [Check if Point Is Reachable](https://leetcode.com/problems/check-if-point-is-reachable/)| Hard |  |:heavy_minus_sign: |
 |2544 | []()| Easy | [C#]() |✔️|
 |2545 | []()| Medium | [C#]() |✔️|
 |2546 | []()| Medium | [C#]() |✔️|
