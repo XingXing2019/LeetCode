@@ -6,7 +6,7 @@
 		if (k == 0 && nums1[i] != nums2[i])
 			return -1;
 		var diff = nums1[i] - nums2[i];
-		if (k  != 0 && diff % k != 0)
+		if (k != 0 && diff % k != 0)
 			return -1;
 		if (diff >= 0)
 			pos += diff;
