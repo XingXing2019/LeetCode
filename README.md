@@ -2540,6 +2540,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202536%20-%20IncrementSubmatricesByOne/IncrementSubmatricesByOne/IncrementSubmatricesByOne/Program.cs) |✔️|
 |2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202537%20-%20CountTheNumberOfGoodSubarrays/CountTheNumberOfGoodSubarrays/CountTheNumberOfGoodSubarrays/Program.cs) |✔️|
 |2538 | [Difference Between Maximum and Minimum Price Sum](https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/)| Hard |  |:heavy_minus_sign: |
+|2539 | [Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/)| Medium |  |:heavy_minus_sign: |
+|2540 | []()| Easy | [C#]() |✔️|
+|2541 | []()| Medium | [C#]() |✔️|
+|2542 | []()| Medium | [C#]() |✔️|
+|2543 | []()| Hard |  |:heavy_minus_sign: |
+|2544 | []()| Easy | [C#]() |✔️|
+|2545 | []()| Medium | [C#]() |✔️|
+|2546 | []()| Medium | [C#]() |✔️|
+|2547 | []()| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
