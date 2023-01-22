@@ -2545,10 +2545,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202541%20-%20MinimumOperationsToMakeArrayEqualII/MinimumOperationsToMakeArrayEqualII/MinimumOperationsToMakeArrayEqualII/Program.cs) |✔️|
 |2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202542%20-%20MaximumSubsequenceScore/MaximumSubsequenceScore/MaximumSubsequenceScore/Program.cs) |✔️|
 |2543 | [Check if Point Is Reachable](https://leetcode.com/problems/check-if-point-is-reachable/)| Hard |  |:heavy_minus_sign: |
-|2544 | []()| Easy | [C#]() |✔️|
-|2545 | []()| Medium | [C#]() |✔️|
-|2546 | []()| Medium | [C#]() |✔️|
-|2547 | []()| Hard |  |:heavy_minus_sign: |
+|2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202544%20-%20AlternatingDigitSum/AlternatingDigitSum/AlternatingDigitSum/Program.cs) |✔️|
+|2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202545%20-%20SortTheStudentsByTheirKthScore/SortTheStudentsByTheirKthScore/SortTheStudentsByTheirKthScore/Program.cs) |✔️|
+|2546 | [Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202546%20-%20ApplyBitwiseOperationsToMakeStringsEqual/ApplyBitwiseOperations/ApplyBitwiseOperations/Program.cs) |✔️|
+|2547 | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/)| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
