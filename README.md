@@ -2549,6 +2549,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202545%20-%20SortTheStudentsByTheirKthScore/SortTheStudentsByTheirKthScore/SortTheStudentsByTheirKthScore/Program.cs) |✔️|
 |2546 | [Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202546%20-%20ApplyBitwiseOperationsToMakeStringsEqual/ApplyBitwiseOperations/ApplyBitwiseOperations/Program.cs) |✔️|
 |2547 | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/)| Hard |  |:heavy_minus_sign: |
+|2548 | [Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202548%20-%20MaximumPriceToFillABag/MaximumPriceToFillABag/MaximumPriceToFillABag/Program.cs) |✔️|
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
