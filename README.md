@@ -2552,7 +2552,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2548 | [Maximum Price to Fill a Bag](https://leetcode.com/problems/maximum-price-to-fill-a-bag/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202548%20-%20MaximumPriceToFillABag/MaximumPriceToFillABag/MaximumPriceToFillABag/Program.cs) |✔️|
 |2549 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202549%20-%20CountDistinctNumbersOnBoard/CountDistinctNumbersOnBoard/CountDistinctNumbersOnBoard/Program.cs) |✔️|
 |2550 | [Count Collisions of Monkeys on a Polygon](https://leetcode.com/problems/count-collisions-of-monkeys-on-a-polygon/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202550%20-%20CountCollisionsOfMonkeysOnAPolygon/CountCollisionsOfMonkeysOnAPolygon/CountCollisionsOfMonkeysOnAPolygon/Program.cs) |✔️|
-|2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)| Hard |  |:heavy_minus_sign: |
+|2551 | [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202551%20-%20PutMarblesInBags/PutMarblesInBags/PutMarblesInBags/Program.cs) |✔️|
 |2552 | [Count Increasing Quadruplets](https://leetcode.com/problems/count-increasing-quadruplets/)| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
