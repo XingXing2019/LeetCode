@@ -9,8 +9,8 @@ long PutMarbles(int[] weights, int k)
     for (int i = 1; i < weights.Length; i++)
     {
         var sum = weights[i] + weights[i - 1];
-        minHeap.Enqueue(sum, -sum);
-        maxHeap.Enqueue(sum, sum);
+        minHeap.Enqueue(sum, sum);
+        maxHeap.Enqueue(sum, -sum);
         if (minHeap.Count == k)
             minHeap.Dequeue();
         if (maxHeap.Count == k)
@@ -19,8 +19,8 @@ long PutMarbles(int[] weights, int k)
     long max = 0, min = 0;
     while (minHeap.Count != 0)
     {
-        max += maxHeap.Dequeue();
-        min += minHeap.Dequeue();
+        max += minHeap.Dequeue();
+        min += maxHeap.Dequeue();
     }
     return max - min;
 }
