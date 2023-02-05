@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
+using System.Linq;
 
 namespace DisconnectPathInABinaryMatrix
 {
@@ -11,7 +12,7 @@ namespace DisconnectPathInABinaryMatrix
             int[][] grid = new[]
             {
                 new[] { 1, 1, 1 },
-                new[] { 1, 0, 0 },
+                new[] { 1, 0, 1 },
                 new[] { 1, 1, 1 },
             };
             Console.WriteLine(IsPossibleToCutPath(grid));
@@ -20,32 +21,27 @@ namespace DisconnectPathInABinaryMatrix
         public static bool IsPossibleToCutPath(int[][] grid)
         {
             if (grid.Length * grid[0].Length < 3) return false;
-            var res = 0;
-            var dict = new Dictionary<string, int>();
-            DFS(grid, 0, 0, dict, new HashSet<string>(), ref res);
-            if (res < 2) return true;
-            foreach (var pos in dict.Keys)
-            {
-                if (pos == "0:0" || pos == $"{grid.Length - 1}:{grid[0].Length - 1}") continue;
-                if (dict[pos] == res)
-                    return true;
-            }
-            return false;
+            return DFS(grid, 0, 0, new HashSet<string>(), new List<HashSet<string>>());
         }
 
-        private static void DFS(int[][] grid, int x, int y, Dictionary<string, int> dict, HashSet<string> visited, ref int res)
+        private static bool DFS(int[][] grid, int x, int y, HashSet<string> path, List<HashSet<string>> paths)
         {
-            if (x < 0 || x >= grid.Length || y < 0 || y >= grid[0].Length || grid[x][y] == 0)
-                return;
-            if (!dict.ContainsKey($"{x}:{y}"))
-                dict[$"{x}:{y}"] = 0;
-            dict[$"{x}:{y}"]++;
-            if (x == grid.Length - 1 && x == grid[0].Length - 1)
-                res++;
-            if (!visited.Add($"{x}:{y}")) return;
-            DFS(grid, x + 1, y, dict, visited, ref res);
-            DFS(grid, x, y + 1, dict, visited, ref res);
-            visited.Remove($"{x}:{y}");
+            int m = grid.Length, n = grid[0].Length;
+            if (x >= m || y >= n || grid[x][y] == 0)
+                return true;
+            bool isStart = x == 0 && y == 0, isEnd = x == m - 1 && y == n - 1;
+            if (!isStart && !isEnd)
+                path.Add($"{x}:{y}");
+            if (x == m - 1 && y == n - 1)
+            {
+                if (paths.Any(x => x.All(x => !path.Contains(x))))
+                    return false;
+                paths.Add(new HashSet<string>(path));
+            }
+            var res = DFS(grid, x + 1, y, path, paths) && DFS(grid, x, y + 1, path, paths);
+            if (!isStart || !isEnd)
+                path.Remove($"{x}:{y}");
+            return res;
         }
     }
 }
