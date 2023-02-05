@@ -8,7 +8,7 @@ namespace MaximizeWinFromTwoSegments
     {
         static void Main(string[] args)
         {
-            int[] prizePositions = { 1, 1, 2, 2, 3, 3, 5, 6, 6, 6 };
+            int[] prizePositions = { 1, 1, 2, 2, 3, 3, 5, 6, 6, 6, 6 };
             var k = 2;
             Console.WriteLine(MaximizeWin(prizePositions, k));
         }
@@ -36,7 +36,11 @@ namespace MaximizeWinFromTwoSegments
             foreach (var prize in prizes.Keys)
             {
                 var next = nextLarge[prize];
-
+                var p1 = prizes[prize];
+                var p2 = rightMax.GetValueOrDefault(next, 0);
+                if (prize + k == next)
+                    p2 -= freq.GetValueOrDefault(next, 0);
+                res = Math.Max(res, p1 + p2);
             }
             return res;
         }
