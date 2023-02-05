@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisconnectPathInABinaryMatrix", "DisconnectPathInABinaryMatrix\DisconnectPathInABinaryMatrix.csproj", "{986A363E-50DA-4C75-8408-4D211762C1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{986A363E-50DA-4C75-8408-4D211762C1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986A363E-50DA-4C75-8408-4D211762C1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986A363E-50DA-4C75-8408-4D211762C1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986A363E-50DA-4C75-8408-4D211762C1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5779C0F0-5440-4910-B944-2BE29DD2DCA8}
+	EndGlobalSection
+EndGlobal
