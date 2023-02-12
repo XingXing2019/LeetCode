@@ -2563,6 +2563,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2559 | [Count Vowel Strings in Ranges](https://leetcode.com/problems/count-vowel-strings-in-ranges/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202559%20-%20CountVowelStringsInRanges/CountVowelStringsInRanges/CountVowelStringsInRanges/Program.cs) |✔️|
 |2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202560%20-%20HouseRobberIV/HouseRobberIV/HouseRobberIV/Program.cs) |✔️|
 |2561 | [Rearranging Fruits](https://leetcode.com/problems/rearranging-fruits/)| Hard |  |:heavy_minus_sign: |
+|2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202562%20-%20FindTheArrayConcatenationValue/FindTheArrayConcatenationValue/FindTheArrayConcatenationValue/Program.cs) |✔️|
+|2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/submissions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202563%20-%20CountTheNumberOfFairPairs/CountTheNumberOfFairPairs/CountTheNumberOfFairPairs/Program.cs) |✔️|
+|2564 | [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202564%20-%20SubstringXORQueries/SubstringXORQueries/SubstringXORQueries/Program.cs) |✔️|
+|2565 | []()| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
