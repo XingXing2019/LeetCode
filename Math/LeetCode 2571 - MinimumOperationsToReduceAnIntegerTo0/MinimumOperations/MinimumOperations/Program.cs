@@ -14,9 +14,9 @@ namespace MinimumOperations
             int res = 0, countOne = 0;
             while (n != 0)
             {
-                var digit = n % 2;
+                var bit = n % 2;
                 n /= 2;
-                if (digit == 1)
+                if (bit == 1)
                     countOne++;
                 else if (countOne != 0)
                 {
