@@ -2567,8 +2567,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2563 | [Count the Number of Fair Pairs](https://leetcode.com/problems/count-the-number-of-fair-pairs/submissions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202563%20-%20CountTheNumberOfFairPairs/CountTheNumberOfFairPairs/CountTheNumberOfFairPairs/Program.cs) |✔️|
 |2564 | [Substring XOR Queries](https://leetcode.com/problems/substring-xor-queries/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202564%20-%20SubstringXORQueries/SubstringXORQueries/SubstringXORQueries/Program.cs) |✔️|
 |2565 | []()| Hard |  |:heavy_minus_sign: |
-|25 | []()| Easy | [C#]() |✔️|
-|25 | []()| Medium | [C#]() |✔️|
-|25 | []()| Medium | [C#]() |✔️|
-|25 | []()| Hard |  |:heavy_minus_sign: |
+|2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202566%20-%20MaximumDifferenceByRemappingADigit/MaximumDifference/MaximumDifference/Program.cs) |✔️|
+|2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202567%20-%20MinimumScoreByChangingTwoElements/MinimumScoreByChangingTwoElements/MinimumScoreByChangingTwoElements/Program.cs) |✔️|
+|2568 | [Minimum Impossible OR](https://leetcode.com/problems/minimum-impossible-or/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202568%20-%20MinimumImpossibleOR/MinimumImpossibleOR/MinimumImpossibleOR/Program.cs) |✔️|
+|2569 | [Handling Sum Queries After Update](https://leetcode.com/problems/handling-sum-queries-after-update/)| Hard |  |:heavy_minus_sign: |
+|2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202570%20-%20MergeTwo2DArraysBySummingValues/MergeTwo2DArraysBySummingValues/MergeTwo2DArraysBySummingValues/Program.cs) |✔️|
+|2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202571%20-%20MinimumOperationsToReduceAnIntegerTo0/MinimumOperations/MinimumOperations/Program.cs) |✔️|
+|2572 | [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)| Medium |  |:heavy_minus_sign: |
+|2573 | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/)| Hard |  |:heavy_minus_sign: |
 |25 | []()|  | [SQLServer](), [MySQL]() |✔️|
