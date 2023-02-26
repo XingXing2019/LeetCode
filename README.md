@@ -2575,4 +2575,13 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2571 | [Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202571%20-%20MinimumOperationsToReduceAnIntegerTo0/MinimumOperations/MinimumOperations/Program.cs) |✔️|
 |2572 | [Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets/)| Medium |  |:heavy_minus_sign: |
 |2573 | [Find the String with LCP](https://leetcode.com/problems/find-the-string-with-lcp/)| Hard |  |:heavy_minus_sign: |
+|2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202574%20-%20LeftAndRightSumDifferences/LeftAndRightSumDifferences/LeftAndRightSumDifferences/Program.cs) |✔️|
+|2575 | [Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202575%20-%20FindTheDivisibilityArrayOfAString/FindTheDivisibilityArrayOfAString/FindTheDivisibilityArrayOfAString/Program.cs) |✔️|
+|2576 | [Find the Maximum Number of Marked Indices](https://leetcode.com/problems/find-the-maximum-number-of-marked-indices/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202576%20-%20FindTheMaximumNumberOfMarkedIndices/FindTheMaximumNumber/FindTheMaximumNumber/Program.cs) |✔️|
+|2577 | [Minimum Time to Visit a Cell In a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)| Hard |  |:heavy_minus_sign: |
+|25 | []()| Easy | [C#]() |✔️|
+|25 | []()| Medium | [C#]() |✔️|
+|25 | []()| Medium | [C#]() |✔️|
+|25 | []()| Hard |  |:heavy_minus_sign: |
 |25 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|25 | []() | Hard |  |:heavy_minus_sign: |
