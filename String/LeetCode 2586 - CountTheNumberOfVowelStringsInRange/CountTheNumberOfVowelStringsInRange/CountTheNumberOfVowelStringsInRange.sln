@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountTheNumberOfVowelStringsInRange", "CountTheNumberOfVowelStringsInRange\CountTheNumberOfVowelStringsInRange.csproj", "{E7DF7FAC-7843-4882-89F8-1DDA74C90F79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DF7FAC-7843-4882-89F8-1DDA74C90F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DF7FAC-7843-4882-89F8-1DDA74C90F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DF7FAC-7843-4882-89F8-1DDA74C90F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DF7FAC-7843-4882-89F8-1DDA74C90F79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A0B63D7-49AC-4607-9499-36EE7C9065B1}
+	EndGlobalSection
+EndGlobal
