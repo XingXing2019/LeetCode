@@ -2591,6 +2591,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202587%20-%20RearrangeArrayToMaximizePrefixScore/RearrangeArrayToMaximizePrefixScore/RearrangeArrayToMaximizePrefixScore/Program.cs) |✔️|
 |2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202588%20-%20CountTheNumberOfBeautifulSubarrays/CountTheNumberOfBeautifulSubarrays/CountTheNumberOfBeautifulSubarrays/Program.cs) |✔️|
 |2589 | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/)| Hard |  |:heavy_minus_sign: |
+|2590 | [Design a Todo List](https://leetcode.com/problems/design-a-todo-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202590%20-%20DesignATodoList/DesignATodoList/DesignATodoList/Program.cs) |✔️|
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
