@@ -2592,6 +2592,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2588 | [Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202588%20-%20CountTheNumberOfBeautifulSubarrays/CountTheNumberOfBeautifulSubarrays/CountTheNumberOfBeautifulSubarrays/Program.cs) |✔️|
 |2589 | [Minimum Time to Complete All Tasks](https://leetcode.com/problems/minimum-time-to-complete-all-tasks/)| Hard |  |:heavy_minus_sign: |
 |2590 | [Design a Todo List](https://leetcode.com/problems/design-a-todo-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202590%20-%20DesignATodoList/DesignATodoList/DesignATodoList/Program.cs) |✔️|
+|2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202591%20-%20DistributeMoneyToMaximumChildren/DistributeMoneyToMaximumChildren/DistributeMoneyToMaximumChildren/Program.cs) |✔️|
+|2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202592%20-%20MaximizeGreatnessOfAnArray/MaximizeGreatnessOfAnArray/MaximizeGreatnessOfAnArray/Program.cs) |✔️|
+|2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202593%20-%20FindScoreOfAnArrayAfterMarkingAllElements/FindScoreOfAnArray/FindScoreOfAnArray/Program.cs) |✔️|
+|2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202594%20-%20MinimumTimeToRepairCars/MinimumTimeToRepairCars/MinimumTimeToRepairCars/Program.cs) |✔️|
+|2595 | []()| Easy | [C#]() |✔️|
+|2596 | []()| Medium | [C#]() |✔️|
+|2597 | []()| Medium | [C#]() |✔️|
+|2598 | []()| Hard |  |:heavy_minus_sign: |
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
