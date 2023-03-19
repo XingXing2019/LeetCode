@@ -2596,10 +2596,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2592 | [Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202592%20-%20MaximizeGreatnessOfAnArray/MaximizeGreatnessOfAnArray/MaximizeGreatnessOfAnArray/Program.cs) |✔️|
 |2593 | [Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202593%20-%20FindScoreOfAnArrayAfterMarkingAllElements/FindScoreOfAnArray/FindScoreOfAnArray/Program.cs) |✔️|
 |2594 | [Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202594%20-%20MinimumTimeToRepairCars/MinimumTimeToRepairCars/MinimumTimeToRepairCars/Program.cs) |✔️|
-|2595 | []()| Easy | [C#]() |✔️|
-|2596 | []()| Medium | [C#]() |✔️|
-|2597 | []()| Medium | [C#]() |✔️|
-|2598 | []()| Hard |  |:heavy_minus_sign: |
+|2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202595%20-%20NumberOfEvenAndOddBits/NumberOfEvenAndOddBits/NumberOfEvenAndOddBits/Program.cs) |✔️|
+|2596 | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202596%20-%20CheckKnightTourConfiguration/CheckKnightTourConfiguration/CheckKnightTourConfiguration/Program.cs) |✔️|
+|2597 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202597%20-%20TheNumberOfBeautifulSubsets/TheNumberOfBeautifulSubsets/TheNumberOfBeautifulSubsets/Program.cs) |✔️|
+|2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/)| Medium | [C#]() |✔️|
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
