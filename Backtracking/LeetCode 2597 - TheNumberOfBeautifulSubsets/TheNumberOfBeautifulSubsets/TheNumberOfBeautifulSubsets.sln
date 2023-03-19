@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheNumberOfBeautifulSubsets", "TheNumberOfBeautifulSubsets\TheNumberOfBeautifulSubsets.csproj", "{61D8A94B-2008-4961-80BA-7F80C60B9CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D8A94B-2008-4961-80BA-7F80C60B9CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D8A94B-2008-4961-80BA-7F80C60B9CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D8A94B-2008-4961-80BA-7F80C60B9CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D8A94B-2008-4961-80BA-7F80C60B9CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C55CE8E6-4AF2-4995-8E61-041A6E357D59}
+	EndGlobalSection
+EndGlobal
