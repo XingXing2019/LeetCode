@@ -2599,7 +2599,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202595%20-%20NumberOfEvenAndOddBits/NumberOfEvenAndOddBits/NumberOfEvenAndOddBits/Program.cs) |✔️|
 |2596 | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202596%20-%20CheckKnightTourConfiguration/CheckKnightTourConfiguration/CheckKnightTourConfiguration/Program.cs) |✔️|
 |2597 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202597%20-%20TheNumberOfBeautifulSubsets/TheNumberOfBeautifulSubsets/TheNumberOfBeautifulSubsets/Program.cs) |✔️|
-|2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/)| Medium | [C#]() |✔️|
+|2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202598%20-%20SmallestMissingNonNegativeIntegerAfterOperations/SmallestMissingNonNegativeInteger/SmallestMissingNonNegativeInteger/Program.cs) |✔️|
 |25 | []()| Easy | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
 |25 | []()| Medium | [C#]() |✔️|
