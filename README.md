@@ -2601,10 +2601,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2597 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202597%20-%20TheNumberOfBeautifulSubsets/TheNumberOfBeautifulSubsets/TheNumberOfBeautifulSubsets/Program.cs) |✔️|
 |2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202598%20-%20SmallestMissingNonNegativeIntegerAfterOperations/SmallestMissingNonNegativeInteger/SmallestMissingNonNegativeInteger/Program.cs) |✔️|
 |2599 | [Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202599%20-%20MakeThePrefixSumNonNegative/MakeThePrefixSumNonNegative/MakeThePrefixSumNonNegative/Program.cs) |✔️|
-|2600 | []()| Easy | [C#]() |✔️|
-|2601 | []()| Medium | [C#]() |✔️|
-|2602 | []()| Medium | [C#]() |✔️|
-|2603 | []()| Hard |  |:heavy_minus_sign: |
+|2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202600%20-%20KItemsWithTheMaximumSum/KItemsWithTheMaximumSum/KItemsWithTheMaximumSum/Program.cs) |✔️|
+|2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202601%20-%20PrimeSubtractionOperation/PrimeSubtractionOperation/PrimeSubtractionOperation/Program.cs) |✔️|
+|2602 | [Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202602%20-%20MinimumOperationsToMakeAllArrayElementsEqual/MinimumOperations/MinimumOperations/Program.cs) |✔️|
+|2603 | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/)| Hard |  |:heavy_minus_sign: |
 |26 | []()| Easy | [C#]() |✔️|
 |26 | []()| Medium | [C#]() |✔️|
 |26 | []()| Medium | [C#]() |✔️|
