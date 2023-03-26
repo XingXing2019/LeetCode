@@ -2361,7 +2361,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202357%20-%20MakeArrayZeroBySubtractingEqualAmounts/MakeArrayZero/MakeArrayZero/Program.cs) |✔️|
 |2358 | [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202358%20-%20MaximumNumberOfGroupsEnteringACompetition/MaximumNumberOfGroups/MaximumNumberOfGroups/Program.cs) |✔️|
 |2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202359%20-%20FindClosestNodeToGivenTwoNodes/FindClosestNode_C%23/FindClosestNode/Program.cs), [Java](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202359%20-%20FindClosestNodeToGivenTwoNodes/FindClosestNode_Java/src/com/company/Main.java) |✔️|
-|2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)| Hard |  |:heavy_minus_sign: |
+|2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202360%20-%20LongestCycleInAGraph/LongestCycleInAGraph/LongestCycleInAGraph/Program.cs) |✔️|
 |2361 | [Minimum Costs Using the Train Line](https://leetcode.com/problems/minimum-costs-using-the-train-line/)| Hard |  |:heavy_minus_sign: |
 |2362 | [Generate the Invoice](https://leetcode.com/problems/generate-the-invoice/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202362%20-%20GenerateTheInvoice/GenerateTheInvoice_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202362%20-%20GenerateTheInvoice/GenerateTheInvoice_MySQL.sql) |✔️|
 |2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202363%20-%20MergeSimilarItems/MergeSimilarItems/MergeSimilarItems/Program.cs) |✔️|
@@ -2601,9 +2601,13 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2597 | [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202597%20-%20TheNumberOfBeautifulSubsets/TheNumberOfBeautifulSubsets/TheNumberOfBeautifulSubsets/Program.cs) |✔️|
 |2598 | [Smallest Missing Non-negative Integer After Operations](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202598%20-%20SmallestMissingNonNegativeIntegerAfterOperations/SmallestMissingNonNegativeInteger/SmallestMissingNonNegativeInteger/Program.cs) |✔️|
 |2599 | [Make the Prefix Sum Non-negative](https://leetcode.com/problems/make-the-prefix-sum-non-negative/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%202599%20-%20MakeThePrefixSumNonNegative/MakeThePrefixSumNonNegative/MakeThePrefixSumNonNegative/Program.cs) |✔️|
-|25 | []()| Easy | [C#]() |✔️|
-|25 | []()| Medium | [C#]() |✔️|
-|25 | []()| Medium | [C#]() |✔️|
-|25 | []()| Hard |  |:heavy_minus_sign: |
-|25 | []()|  | [SQLServer](), [MySQL]() |✔️|
-|25 | []() | Hard |  |:heavy_minus_sign: |
+|2600 | []()| Easy | [C#]() |✔️|
+|2601 | []()| Medium | [C#]() |✔️|
+|2602 | []()| Medium | [C#]() |✔️|
+|2603 | []()| Hard |  |:heavy_minus_sign: |
+|26 | []()| Easy | [C#]() |✔️|
+|26 | []()| Medium | [C#]() |✔️|
+|26 | []()| Medium | [C#]() |✔️|
+|26 | []()| Hard |  |:heavy_minus_sign: |
+|26 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|26 | []() | Hard |  |:heavy_minus_sign: |
