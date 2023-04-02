@@ -2605,6 +2605,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2601 | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202601%20-%20PrimeSubtractionOperation/PrimeSubtractionOperation/PrimeSubtractionOperation/Program.cs) |✔️|
 |2602 | [Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202602%20-%20MinimumOperationsToMakeAllArrayElementsEqual/MinimumOperations/MinimumOperations/Program.cs) |✔️|
 |2603 | [Collect Coins in a Tree](https://leetcode.com/problems/collect-coins-in-a-tree/)| Hard |  |:heavy_minus_sign: |
+|2604 | [Minimum Time to Eat All Grains](https://leetcode.com/problems/minimum-time-to-eat-all-grains/)| Hard |  |:heavy_minus_sign: |
+|2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202605%20-%20FormSmallestNumberFromTwoDigitArrays/FormSmallestNumber/FormSmallestNumber/Program.cs) |✔️|
+|2606 | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202606%20-%20FindTheSubstringWithMaximumCost/FindTheSubstringWithMaximumCost/FindTheSubstringWithMaximumCost/Program.cs) |✔️|
+|2607 | [Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/)| Medium | [C#]() |✔️|
+|2608 | [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/)| Hard |  |:heavy_minus_sign: |
+|2609 | []()| Easy | [C#]() |✔️|
+|2610 | []()| Medium | [C#]() |✔️|
+|2611 | []()| Medium | [C#]() |✔️|
+|2612 | []()| Hard |  |:heavy_minus_sign: |
 |26 | []()| Easy | [C#]() |✔️|
 |26 | []()| Medium | [C#]() |✔️|
 |26 | []()| Medium | [C#]() |✔️|
