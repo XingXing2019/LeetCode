@@ -23,9 +23,7 @@ namespace MakeKSubarraySumsEqual
                 var group = new HashSet<int>();
                 var index = i;
                 while (group.Add(index))
-                {
                     index = (index + k) % arr.Length;
-                }
                 visited.UnionWith(group);
                 groups.Add(group);
             }
@@ -39,7 +37,10 @@ namespace MakeKSubarraySumsEqual
         {
             var nums = indexes.Select(x => arr[x]).OrderBy(x => x).ToArray();
             var median = nums[nums.Length / 2];
-            return nums.Sum(x => Math.Abs(x - median));
+            long res = 0;
+            foreach (var num in nums) 
+                res += Math.Abs(num - median);
+            return res;
         }
     }
 }
