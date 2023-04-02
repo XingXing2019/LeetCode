@@ -2610,10 +2610,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2606 | [Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202606%20-%20FindTheSubstringWithMaximumCost/FindTheSubstringWithMaximumCost/FindTheSubstringWithMaximumCost/Program.cs) |✔️|
 |2607 | [Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202607%20-%20MakeKSubarraySumsEqual/MakeKSubarraySumsEqual/MakeKSubarraySumsEqual/Program.cs) |✔️|
 |2608 | [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/)| Hard |  |:heavy_minus_sign: |
-|2609 | []()| Easy | [C#]() |✔️|
-|2610 | []()| Medium | [C#]() |✔️|
-|2611 | []()| Medium | [C#]() |✔️|
-|2612 | []()| Hard |  |:heavy_minus_sign: |
+|2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202609%20-%20FindTheLongestBalancedSubstringOfABinaryString/FindTheLongestBalancedSubstring/FindTheLongestBalancedSubstring/Program.cs) |✔️|
+|2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202610%20-%20ConvertAnArrayIntoA2DArrayWithConditions/ConvertAnArrayIntoA2DArray/ConvertAnArrayIntoA2DArray/Program.cs) |✔️|
+|2611 | [Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202611%20-%20MiceAndCheese/MiceAndCheese/MiceAndCheese/Program.cs) |✔️|
+|2612 | [Minimum Reverse Operations](https://leetcode.com/problems/minimum-reverse-operations/)| Hard |  |:heavy_minus_sign: |
 |26 | []()| Easy | [C#]() |✔️|
 |26 | []()| Medium | [C#]() |✔️|
 |26 | []()| Medium | [C#]() |✔️|
