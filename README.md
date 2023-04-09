@@ -2614,6 +2614,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2610 | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202610%20-%20ConvertAnArrayIntoA2DArrayWithConditions/ConvertAnArrayIntoA2DArray/ConvertAnArrayIntoA2DArray/Program.cs) |✔️|
 |2611 | [Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202611%20-%20MiceAndCheese/MiceAndCheese/MiceAndCheese/Program.cs) |✔️|
 |2612 | [Minimum Reverse Operations](https://leetcode.com/problems/minimum-reverse-operations/)| Hard |  |:heavy_minus_sign: |
+|2613 | [Beautiful Pairs](https://leetcode.com/problems/beautiful-pairs/)| Hard |  |:heavy_minus_sign: |
+|2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202614%20-%20PrimeInDiagonal/PrimeInDiagonal/PrimeInDiagonal/Program.cs) |✔️|
+|2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202615%20-%20SumOfDistances/SumOfDistances/SumOfDistances/Program.cs) |✔️|
+|2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202616%20-%20MinimizeTheMaximumDifferenceOfPairs/MinimizeTheMaximumDifferenceOfPairs/MinimizeTheMaximumDifferenceOfPairs/Program.cs) |✔️|
+|2617 | []()| Hard |  |:heavy_minus_sign: |
 |26 | []()| Easy | [C#]() |✔️|
 |26 | []()| Medium | [C#]() |✔️|
 |26 | []()| Medium | [C#]() |✔️|
