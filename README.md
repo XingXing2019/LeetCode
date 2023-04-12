@@ -2620,12 +2620,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202616%20-%20MinimizeTheMaximumDifferenceOfPairs/MinimizeTheMaximumDifferenceOfPairs/MinimizeTheMaximumDifferenceOfPairs/Program.cs) |✔️|
 |2617 | []()| Hard |  |:heavy_minus_sign: |
 |2618 | []()| Easy | [JS]() |✔️|
-|2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202619%20-%20ArrayPrototypeLast/ArrayPrototypeLast_JS/ArrayPrototypeLast.js) |✔️|
-|2620 | [Counter](https://leetcode.com/problems/counter/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202620%20-%20Counter/Counter_JS/Counter.js) |✔️|
-|2624 | [Snail Traversal](https://leetcode.com/problems/snail-traversal/)| Medium | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202624%20-%20SnailTraversal/SnailTraversal_JS/SnailTraversal.js) |✔️|
-|2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202626%20-%20ArrayReduceTransformation/ArrayReduceTransformation_JS/ArrayReduceTransformation.js) |✔️|
-
-
+|2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202619%20-%20ArrayPrototypeLast/ArrayPrototypeLast.js) |✔️|
+|2620 | [Counter](https://leetcode.com/problems/counter/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202620%20-%20Counter/Counter.js) |✔️|
+|2624 | [Snail Traversal](https://leetcode.com/problems/snail-traversal/)| Medium | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202624%20-%20SnailTraversal/SnailTraversal.js) |✔️|
+|2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202626%20-%20ArrayReduceTransformation/ArrayReduceTransformation.js) |✔️|
+|2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202635%20-%20ApplyTransformOverEachElementInArray/ApplyTransformOverEachElementInArray.js) |✔️|
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Easy | [C#]() |✔️|
