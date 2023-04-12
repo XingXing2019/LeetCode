@@ -2624,6 +2624,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2620 | [Counter](https://leetcode.com/problems/counter/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202620%20-%20Counter/Counter.js) |✔️|
 |2624 | [Snail Traversal](https://leetcode.com/problems/snail-traversal/)| Medium | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202624%20-%20SnailTraversal/SnailTraversal.js) |✔️|
 |2626 | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202626%20-%20ArrayReduceTransformation/ArrayReduceTransformation.js) |✔️|
+|2626 | [Function Composition](https://leetcode.com/problems/function-composition/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202629%20-%20FunctionComposition/FunctionComposition.js) |✔️|
 |2634 | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202634%20-%20FilterElementsFromArray/FilterElementsFromArray.js) |✔️|
 |2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202635%20-%20ApplyTransformOverEachElementInArray/ApplyTransformOverEachElementInArray.js) |✔️|
 
