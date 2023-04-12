@@ -2621,8 +2621,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2617 | []()| Hard |  |:heavy_minus_sign: |
 |2618 | []()| Easy | [JS]() |✔️|
 |2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202619%20-%20ArrayPrototypeLast/ArrayPrototypeLast_JS/ArrayPrototypeLast.js) |✔️|
+|2620 | [Counter](https://leetcode.com/problems/counter/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202620%20-%20Counter/Counter_JS/Counter.js) |✔️|
 
-
+|26 | []()| Easy | [JS]() |✔️|
 
 |26 | []()| Easy | [C#]() |✔️|
 |26 | []()| Medium | [C#]() |✔️|
