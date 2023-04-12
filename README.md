@@ -2619,7 +2619,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2615 | [Sum of Distances](https://leetcode.com/problems/sum-of-distances/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202615%20-%20SumOfDistances/SumOfDistances/SumOfDistances/Program.cs) |✔️|
 |2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202616%20-%20MinimizeTheMaximumDifferenceOfPairs/MinimizeTheMaximumDifferenceOfPairs/MinimizeTheMaximumDifferenceOfPairs/Program.cs) |✔️|
 |2617 | []()| Hard |  |:heavy_minus_sign: |
-|2618 | []()| Easy | [JS]() |✔️|
+|2618 | [Check if Object Instance of Class](https://leetcode.com/problems/check-if-object-instance-of-class/)| Medium | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202618%20-%20CheckIfObjectInstanceOfClass/CheckIfObjectInstanceOfClass.js) |✔️|
 |2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202619%20-%20ArrayPrototypeLast/ArrayPrototypeLast.js) |✔️|
 |2620 | [Counter](https://leetcode.com/problems/counter/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202620%20-%20Counter/Counter.js) |✔️|
 |2624 | [Snail Traversal](https://leetcode.com/problems/snail-traversal/)| Medium | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202624%20-%20SnailTraversal/SnailTraversal.js) |✔️|
