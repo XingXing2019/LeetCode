@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignGraphWithShortestPathCalculator", "DesignGraphWithShortestPathCalculator\DesignGraphWithShortestPathCalculator.csproj", "{C5F76E8A-BF05-4B74-84CA-71C6F9DF8306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F76E8A-BF05-4B74-84CA-71C6F9DF8306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F76E8A-BF05-4B74-84CA-71C6F9DF8306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F76E8A-BF05-4B74-84CA-71C6F9DF8306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F76E8A-BF05-4B74-84CA-71C6F9DF8306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08271166-5777-4DC5-8A7A-4452BBD7A34C}
+	EndGlobalSection
+EndGlobal
