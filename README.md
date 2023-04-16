@@ -2634,7 +2634,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2635 | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202635%20-%20ApplyTransformOverEachElementInArray/ApplyTransformOverEachElementInArray.js) |✔️|
 |2636 | [Promise Pool](https://leetcode.com/problems/promise-pool/)| Medium | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202636%20-%20PromisePool/PromisePool.js) |✔️|
 |2637 | [Promise Time Limit](https://leetcode.com/problems/promise-time-limit/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202637%20-%20PromiseTimeLimit/PromiseTimeLimit.js) |✔️|
-
+|2638 | [Count the Number of K-Free Subsets](https://leetcode.com/problems/count-the-number-of-k-free-subsets/)| Medium |  |:heavy_minus_sign: |
+|2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202639%20-%20FindTheWidthOfColumnsOfAGrid/FindTheWidthOfColumnsOfAGrid/FindTheWidthOfColumnsOfAGrid/Program.cs) |✔️|
+|2640 | [Find the Score of All Prefixes of an Array](https://leetcode.com/problems/find-the-score-of-all-prefixes-of-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202640%20-%20FindTheScoreOfAllPrefixesOfAnArray/FindTheScoreOfAllPrefixesOfAnArray/FindTheScoreOfAllPrefixesOfAnArray/Program.cs) |✔️|
+|2641 | [Cousins in Binary Tree II](https://leetcode.com/problems/cousins-in-binary-tree-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202641%20-%20CousinsInBinaryTreeII/CousinsInBinaryTreeII/CousinsInBinaryTreeII/Program.cs) |✔️|
+|2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/)| Hard |  |:heavy_minus_sign: |
+|2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202643%20-%20RowWithMaximumOnes/RowWithMaximumOnes/RowWithMaximumOnes/Program.cs) |✔️|
+|2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202644%20-%20FindTheMaximumDivisibilityScore/FindTheMaximumDivisibilityScore/FindTheMaximumDivisibilityScore/Program.cs) |✔️|
+|2645 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202645%20-%20MinimumAdditionsToMakeValidString/MinimumAdditionsToMakeValidString/MinimumAdditionsToMakeValidString/Program.cs) |✔️|
+|2646 | [Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/)| Hard |  |:heavy_minus_sign: |
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
