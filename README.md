@@ -2643,6 +2643,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202644%20-%20FindTheMaximumDivisibilityScore/FindTheMaximumDivisibilityScore/FindTheMaximumDivisibilityScore/Program.cs) |✔️|
 |2645 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202645%20-%20MinimumAdditionsToMakeValidString/MinimumAdditionsToMakeValidString/MinimumAdditionsToMakeValidString/Program.cs) |✔️|
 |2646 | [Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/)| Hard |  |:heavy_minus_sign: |
+|2647 | [Color the Triangle Red](https://leetcode.com/problems/color-the-triangle-red/)| Hard |  |:heavy_minus_sign: |
+|2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/)| Easy |  |:heavy_minus_sign: |
+|2649 | [Nested Array Generator](https://leetcode.com/problems/nested-array-generator/)| Medium |  |:heavy_minus_sign: |
+|2650 | [Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/)| Medium |  |:heavy_minus_sign: |
+|2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202651%20-%20CalculateDelayedArrivalTime/CalculateDelayedArrivalTime/CalculateDelayedArrivalTime/Program.cs) |✔️|
+|2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202652%20-%20SumMultiples/SumMultiples/SumMultiples/Program.cs) |✔️|
+|2653 | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202653%20-%20SlidingSubarrayBeauty/SlidingSubarrayBeauty/SlidingSubarrayBeauty/Program.cs) |✔️|
+|2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202654%20-%20MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1/MinimumNumberOfOperations/MinimumNumberOfOperations/Program.cs) |✔️|
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
