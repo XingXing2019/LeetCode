@@ -29,7 +29,7 @@ namespace SimilarStringGroups
                     string x = strs[i], y = strs[j];
                     if (!IsSimilar(x, y)) continue;
                     Union(x, y);
-                }   
+                }
             }
             var res = new HashSet<string>();
             foreach (var s in strs)
@@ -47,10 +47,10 @@ namespace SimilarStringGroups
             return parents[x];
         }
 
-        private bool Union(string x, string y)
+        private void Union(string x, string y)
         {
             string rootX = Find(x), rootY = Find(y);
-            if (rootX == rootY) return false;
+            if (rootX == rootY) return;
             if (rank[rootX] < rank[rootY])
                 parents[rootX] = rootY;
             else
@@ -59,7 +59,6 @@ namespace SimilarStringGroups
                 if (rank[rootX] == rank[rootY])
                     rank[rootX]++;
             }
-            return true;
         }
 
         private bool IsSimilar(string word1, string word2)
