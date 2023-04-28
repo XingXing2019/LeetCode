@@ -2651,6 +2651,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202652%20-%20SumMultiples/SumMultiples/SumMultiples/Program.cs) |✔️|
 |2653 | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202653%20-%20SlidingSubarrayBeauty/SlidingSubarrayBeauty/SlidingSubarrayBeauty/Program.cs) |✔️|
 |2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202654%20-%20MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1/MinimumNumberOfOperations/MinimumNumberOfOperations/Program.cs) |✔️|
+|2655 | [Find Maximal Uncovered Ranges](https://leetcode.com/problems/find-maximal-uncovered-ranges/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202655%20-%20FindMaximalUncoveredRanges/FindMaximalUncoveredRanges/FindMaximalUncoveredRanges/Program.cs) |✔️|
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
