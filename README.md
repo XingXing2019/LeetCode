@@ -2652,6 +2652,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2653 | [Sliding Subarray Beauty](https://leetcode.com/problems/sliding-subarray-beauty/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202653%20-%20SlidingSubarrayBeauty/SlidingSubarrayBeauty/SlidingSubarrayBeauty/Program.cs) |✔️|
 |2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202654%20-%20MinimumNumberOfOperationsToMakeAllArrayElementsEqualTo1/MinimumNumberOfOperations/MinimumNumberOfOperations/Program.cs) |✔️|
 |2655 | [Find Maximal Uncovered Ranges](https://leetcode.com/problems/find-maximal-uncovered-ranges/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202655%20-%20FindMaximalUncoveredRanges/FindMaximalUncoveredRanges/FindMaximalUncoveredRanges/Program.cs) |✔️|
+|2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202656%20-%20MaximumSumWithExactlyKElements/MaximumSumWithExactlyKElements/MaximumSumWithExactlyKElements/Program.cs) |✔️|
+|2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202657%20-%20FindThePrefixCommonArrayOfTwoArrays/FindThePrefixCommonArray/FindThePrefixCommonArray/Program.cs) |✔️|
+|2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%202658%20-%20MaximumNumberOfFishInAGrid/MaximumNumberOfFishInAGrid/MaximumNumberOfFishInAGrid/Program.cs) |✔️|
+|2659 | [Make Array Empty](https://leetcode.com/problems/make-array-empty/)| Hard |  |:heavy_minus_sign: |
+|2660 | []()| Easy | [C#]() |✔️|
+|2661 | []()| Medium | [C#]() |✔️|
+|2662 | []()| Medium | [C#]() |✔️|
+|2663 | []()| Hard |  |:heavy_minus_sign: |
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
