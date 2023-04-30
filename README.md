@@ -2656,10 +2656,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202657%20-%20FindThePrefixCommonArrayOfTwoArrays/FindThePrefixCommonArray/FindThePrefixCommonArray/Program.cs) |✔️|
 |2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%202658%20-%20MaximumNumberOfFishInAGrid/MaximumNumberOfFishInAGrid/MaximumNumberOfFishInAGrid/Program.cs) |✔️|
 |2659 | [Make Array Empty](https://leetcode.com/problems/make-array-empty/)| Hard |  |:heavy_minus_sign: |
-|2660 | []()| Easy | [C#]() |✔️|
-|2661 | []()| Medium | [C#]() |✔️|
+|2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202660%20-%20DetermineTheWinnerOfABowlingGame/DetermineTheWinnerOfABowlingGame/DetermineTheWinnerOfABowlingGame/Program.cs) |✔️|
+|2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202661%20-%20FirstCompletelyPaintedRowOrColumn/FirstCompletelyPaintedRowOrColumn/FirstCompletelyPaintedRowOrColumn/Program.cs) |✔️|
 |2662 | []()| Medium | [C#]() |✔️|
-|2663 | []()| Hard |  |:heavy_minus_sign: |
+|2663 | [Lexicographically Smallest Beautiful String](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/)| Hard |  |:heavy_minus_sign: |
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
