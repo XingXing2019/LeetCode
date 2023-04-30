@@ -2658,7 +2658,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2659 | [Make Array Empty](https://leetcode.com/problems/make-array-empty/)| Hard |  |:heavy_minus_sign: |
 |2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202660%20-%20DetermineTheWinnerOfABowlingGame/DetermineTheWinnerOfABowlingGame/DetermineTheWinnerOfABowlingGame/Program.cs) |✔️|
 |2661 | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202661%20-%20FirstCompletelyPaintedRowOrColumn/FirstCompletelyPaintedRowOrColumn/FirstCompletelyPaintedRowOrColumn/Program.cs) |✔️|
-|2662 | []()| Medium | [C#]() |✔️|
+|2662 | [Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202662%20-%20MinimumCostOfAPathWithSpecialRoads/MinimumCostOfAPathWithSpecialRoads/MinimumCostOfAPathWithSpecialRoads/Program.cs) |✔️|
 |2663 | [Lexicographically Smallest Beautiful String](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/)| Hard |  |:heavy_minus_sign: |
 
 |26 | []()| Easy | [JS]() |✔️|
