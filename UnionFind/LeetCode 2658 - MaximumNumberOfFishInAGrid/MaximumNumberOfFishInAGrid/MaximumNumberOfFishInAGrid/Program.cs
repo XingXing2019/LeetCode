@@ -34,9 +34,7 @@ namespace MaximumNumberOfFishInAGrid
                 for (int j = 0; j < grid[0].Length; j++)
                 {
                     if (grid[i][j] == 0)
-                    {
                         parents[i * 10 + j] = -1;
-                    }
                     else
                     {
                         var x = i * 10 + j;
