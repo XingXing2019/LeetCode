@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCostOfAPathWithSpecialRoads", "MinimumCostOfAPathWithSpecialRoads\MinimumCostOfAPathWithSpecialRoads.csproj", "{169DA079-EB5B-4E78-8D7A-470ED7E638A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169DA079-EB5B-4E78-8D7A-470ED7E638A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169DA079-EB5B-4E78-8D7A-470ED7E638A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169DA079-EB5B-4E78-8D7A-470ED7E638A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169DA079-EB5B-4E78-8D7A-470ED7E638A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07288DAE-6D79-4BAA-9952-1EC6A059672C}
+	EndGlobalSection
+EndGlobal
