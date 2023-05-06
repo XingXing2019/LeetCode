@@ -2661,6 +2661,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2662 | [Minimum Cost of a Path With Special Roads](https://leetcode.com/problems/minimum-cost-of-a-path-with-special-roads/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202662%20-%20MinimumCostOfAPathWithSpecialRoads/MinimumCostOfAPathWithSpecialRoads/MinimumCostOfAPathWithSpecialRoads/Program.cs) |✔️|
 |2663 | [Lexicographically Smallest Beautiful String](https://leetcode.com/problems/lexicographically-smallest-beautiful-string/)| Hard |  |:heavy_minus_sign: |
 |2664 | [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202664%20-%20TheKnightsTour/TheKnightsTour/TheKnightsTour/Program.cs) |✔️|
+|2668 | [Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202668%20-%20FindLatestSalaries/FindLatestSalaries_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202668%20-%20FindLatestSalaries/FindLatestSalaries_MySQL.sql) |✔️|
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
