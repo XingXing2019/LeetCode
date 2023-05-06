@@ -2646,8 +2646,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2646 | [Minimize the Total Price of the Trips](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/)| Hard |  |:heavy_minus_sign: |
 |2647 | [Color the Triangle Red](https://leetcode.com/problems/color-the-triangle-red/)| Hard |  |:heavy_minus_sign: |
 |2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202648%20-%20GenerateFibonacciSequence/GenerateFibonacciSequence.js) |✔️|
-|2648 | [Generate Fibonacci Sequence](https://leetcode.com/problems/generate-fibonacci-sequence/)| Easy |  |:heavy_minus_sign: |
-|2649 | [Nested Array Generator](https://leetcode.com/problems/nested-array-generator/)| Medium |  |:heavy_minus_sign: |
+|2649 | [Nested Array Generator](https://leetcode.com/problems/nested-array-generator/)| Medium | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202649%20-%20NestedArrayGenerator/NestedArrayGenerator.js) |:heavy_minus_sign: |
 |2650 | [Design Cancellable Function](https://leetcode.com/problems/design-cancellable-function/)| Medium |  |:heavy_minus_sign: |
 |2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202651%20-%20CalculateDelayedArrivalTime/CalculateDelayedArrivalTime/CalculateDelayedArrivalTime/Program.cs) |✔️|
 |2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202652%20-%20SumMultiples/SumMultiples/SumMultiples/Program.cs) |✔️|
