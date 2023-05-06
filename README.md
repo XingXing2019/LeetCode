@@ -2666,6 +2666,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202666%20-%20AllowOneFunctionCall/AllowOneFunctionCall.js) |✔️|
 |2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202667%20-%20CreateHelloWorldFunction/CreateHelloWorldFunction.js) |✔️|
 |2668 | [Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202668%20-%20FindLatestSalaries/FindLatestSalaries_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202668%20-%20FindLatestSalaries/FindLatestSalaries_MySQL.sql) |✔️|
+|2669 | [Count Artist Occurrences On Spotify Ranking List](https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202669%20-%20CountArtistOccurrencesOnSpotifyRankingList/CountArtistOccurrencesOnSpotifyRankingList_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202669%20-%20CountArtistOccurrencesOnSpotifyRankingList/CountArtistOccurrencesOnSpotifyRankingList_MySQL.sql) |✔️|
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
