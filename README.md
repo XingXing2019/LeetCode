@@ -2663,6 +2663,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2664 | [The Knight’s Tour](https://leetcode.com/problems/the-knights-tour/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202664%20-%20TheKnightsTour/TheKnightsTour/TheKnightsTour/Program.cs) |✔️|
 |2665 | [Counter II](https://leetcode.com/problems/counter-ii/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202665%20-%20CounterII/CounterII.js) |✔️|
 |2666 | [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202666%20-%20AllowOneFunctionCall/AllowOneFunctionCall.js) |✔️|
+|2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202667%20-%20CreateHelloWorldFunction/CreateHelloWorldFunction.js) |✔️|
 |2668 | [Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202668%20-%20FindLatestSalaries/FindLatestSalaries_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202668%20-%20FindLatestSalaries/FindLatestSalaries_MySQL.sql) |✔️|
 
 |26 | []()| Easy | [JS]() |✔️|
