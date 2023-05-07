@@ -2667,10 +2667,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202667%20-%20CreateHelloWorldFunction/CreateHelloWorldFunction.js) |✔️|
 |2668 | [Find Latest Salaries](https://leetcode.com/problems/find-latest-salaries/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202668%20-%20FindLatestSalaries/FindLatestSalaries_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202668%20-%20FindLatestSalaries/FindLatestSalaries_MySQL.sql) |✔️|
 |2669 | [Count Artist Occurrences On Spotify Ranking List](https://leetcode.com/problems/count-artist-occurrences-on-spotify-ranking-list/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202669%20-%20CountArtistOccurrencesOnSpotifyRankingList/CountArtistOccurrencesOnSpotifyRankingList_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202669%20-%20CountArtistOccurrencesOnSpotifyRankingList/CountArtistOccurrencesOnSpotifyRankingList_MySQL.sql) |✔️|
-|2670 | []()| Easy | [C#]() |✔️|
-|2671 | []()| Medium | [C#]() |✔️|
-|2672 | []()| Medium | [C#]() |✔️|
-|2673 | []()| Hard |  |:heavy_minus_sign: |
+|2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202670%20-%20FindTheDistinctDifferenceArray/FindTheDistinctDifferenceArray/FindTheDistinctDifferenceArray/Program.cs) |✔️|
+|2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202671%20-%20FrequencyTracker/FrequencyTracker/FrequencyTracker/Program.cs) |✔️|
+|2672 | [Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202672%20-%20NumberOfAdjacentElementsWithTheSameColor/NumberOfAdjacentElements/NumberOfAdjacentElements/Program.cs) |✔️|
+|2673 | [Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202673%20-%20MakeCostsOfPathsEqualInABinaryTree/MakeCostsOfPathsEqualInABinaryTree/MakeCostsOfPathsEqualInABinaryTree/Program.cs) |✔️|
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
