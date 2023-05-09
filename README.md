@@ -2679,4 +2679,3 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |26 | []()| Medium | [C#]() |✔️|
 |26 | []()| Hard |  |:heavy_minus_sign: |
 |26 | []()|  | [SQLServer](), [MySQL]() |✔️|
-|26 | []() | Hard |  |:heavy_minus_sign: |
