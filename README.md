@@ -2671,10 +2671,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2671 | [Frequency Tracker](https://leetcode.com/problems/frequency-tracker/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%202671%20-%20FrequencyTracker/FrequencyTracker/FrequencyTracker/Program.cs) |✔️|
 |2672 | [Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202672%20-%20NumberOfAdjacentElementsWithTheSameColor/NumberOfAdjacentElements/NumberOfAdjacentElements/Program.cs) |✔️|
 |2673 | [Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202673%20-%20MakeCostsOfPathsEqualInABinaryTree/MakeCostsOfPathsEqualInABinaryTree/MakeCostsOfPathsEqualInABinaryTree/Program.cs) |✔️|
-|2674 | []()| Easy | [C#]() |✔️|
-|2675 | []()| Medium | [C#]() |✔️|
+|2674 | [Split a Circular Linked List](https://leetcode.com/problems/split-a-circular-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202674%20-%20SplitACircularLinkedList/SplitACircularLinkedList/SplitACircularLinkedList/Program.cs) |✔️|
+|2675 | []()| Easy | [C#]() |✔️|
 |2676 | []()| Medium | [C#]() |✔️|
-|2677 | []()| Hard |  |:heavy_minus_sign: |
+|2677 | []()| Medium | [C#]() |✔️|
+|2678 | []()| Hard |  |:heavy_minus_sign: |
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
