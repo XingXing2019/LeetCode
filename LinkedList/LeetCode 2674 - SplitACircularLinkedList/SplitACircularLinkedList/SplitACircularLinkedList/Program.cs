@@ -22,18 +22,18 @@ namespace SplitACircularLinkedList
 
         public static ListNode[] SplitCircularLinkedList(ListNode list)
         {
-            var count = 0;
+            var visited = false;
             ListNode slowPre = new ListNode(0, list), fastPre = new ListNode(0, list);
             ListNode slow = list, fast = list;
-            while (count != 1)
+            while (!visited)
             {
                 slowPre = slowPre.next;
                 slow = slow.next;
-                for (int i = 0; i < 2 && count != 1; i++)
+                for (int i = 0; i < 2 && !visited; i++)
                 {
                     fastPre = fastPre.next;
                     fast = fast.next;
-                    if (fast == list) count++;
+                    if (fast == list) visited = true;
                 }
             }
             fastPre.next = slow;
