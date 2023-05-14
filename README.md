@@ -2679,6 +2679,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202679%20-%20SumInAMatrix/SumInAMatrix/SumInAMatrix/Program.cs) |✔️|
 |2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202680%20-%20MaximumOR/MaximumOR/MaximumOR/Program.cs) |✔️|
 |2681 | [Power of Heroes](https://leetcode.com/problems/power-of-heroes/)| Hard |  |:heavy_minus_sign: |
+|2682 | [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202682%20-%20FindTheLosersOfTheCircularGame/FindTheLosersOfTheCircularGame/FindTheLosersOfTheCircularGame/Program.cs) |✔️|
+|2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202683%20-%20NeighboringBitwiseXOR/NeighboringBitwiseXOR/NeighboringBitwiseXOR/Program.cs) |✔️|
+|2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202684%20-%20MaximumNumberOfMovesInAGrid/MaximumNumberOfMovesInAGrid/MaximumNumberOfMovesInAGrid/Program.cs) |✔️|
+|2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%202685%20-%20CountTheNumberOfCompleteComponents/CountTheNumberOfCompleteComponents/CountTheNumberOfCompleteComponents/Program.cs) |✔️|
+
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
