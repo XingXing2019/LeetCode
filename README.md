@@ -2672,7 +2672,13 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2672 | [Number of Adjacent Elements With the Same Color](https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202672%20-%20NumberOfAdjacentElementsWithTheSameColor/NumberOfAdjacentElements/NumberOfAdjacentElements/Program.cs) |✔️|
 |2673 | [Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202673%20-%20MakeCostsOfPathsEqualInABinaryTree/MakeCostsOfPathsEqualInABinaryTree/MakeCostsOfPathsEqualInABinaryTree/Program.cs) |✔️|
 |2674 | [Split a Circular Linked List](https://leetcode.com/problems/split-a-circular-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202674%20-%20SplitACircularLinkedList/SplitACircularLinkedList/SplitACircularLinkedList/Program.cs) |✔️|
-
+|2675 | [Array of Objects to Matrix](https://leetcode.com/problems/array-of-objects-to-matrix/)| Medium |  |:heavy_minus_sign: |
+|2676 | [Throttle](https://leetcode.com/problems/throttle/)| Medium |  |:heavy_minus_sign: |
+|2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/)| Easy |  |:heavy_minus_sign: |
+|2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202678%20-%20NumberOfSeniorCitizens/NumberOfSeniorCitizens/NumberOfSeniorCitizens/Program.cs) |✔️|
+|2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202679%20-%20SumInAMatrix/SumInAMatrix/SumInAMatrix/Program.cs) |✔️|
+|2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202680%20-%20MaximumOR/MaximumOR/MaximumOR/Program.cs) |✔️|
+|2681 | [Power of Heroes](https://leetcode.com/problems/power-of-heroes/)| Hard |  |:heavy_minus_sign: |
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
