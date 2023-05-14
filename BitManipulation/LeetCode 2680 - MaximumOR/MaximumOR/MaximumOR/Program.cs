@@ -18,20 +18,20 @@ namespace MaximumOR
             long res = 0;
             for (int i = 0; i < 32; i++)
             {
-                var count = 0;
                 foreach (var num in nums)
-                    count += (num >> i) & 1;
-                digits[i] = count;
+                {
+                    digits[i] += (num >> i) & 1;
+                }
             }
             for (int i = 0; i < nums.Length; i++)
             {
-                var num = 0;
+                var or = 0;
                 for (int j = 0; j < 32; j++)
                 {
-                    if (digits[j] - ((nums[i] >> j) & 1) > 0)
-                        num += 1 << j;
+                    if (digits[j] - ((nums[i] >> j) & 1) < 1) continue;
+                    or += 1 << j;
                 }
-                ors[i] = num;
+                ors[i] = or;
             }
             for (int i = 0; i < nums.Length; i++)
                 res = Math.Max(res, ors[i] | (long)nums[i] << k);
