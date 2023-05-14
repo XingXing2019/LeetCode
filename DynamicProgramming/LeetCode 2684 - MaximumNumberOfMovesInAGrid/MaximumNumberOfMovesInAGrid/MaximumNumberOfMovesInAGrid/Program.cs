@@ -37,8 +37,8 @@ namespace MaximumNumberOfMovesInAGrid
                         max = Math.Max(max, dp[newX][newY]);
                     }
                     dp[x][y] = max + 1;
-                    if (y == 0)
-                        res = Math.Max(res, dp[x][y]);
+                    if (y != 0) continue;
+                    res = Math.Max(res, dp[x][y]);
                 }
             }
             return res - 1;

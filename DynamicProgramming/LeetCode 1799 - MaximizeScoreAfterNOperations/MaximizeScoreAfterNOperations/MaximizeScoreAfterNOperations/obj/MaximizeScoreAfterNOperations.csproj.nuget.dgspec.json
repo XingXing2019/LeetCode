@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LeetCode\\Backtracking\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj": {}
+    "D:\\LeetCode\\DynamicProgramming\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj": {}
   },
   "projects": {
-    "D:\\LeetCode\\Backtracking\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj": {
+    "D:\\LeetCode\\DynamicProgramming\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LeetCode\\Backtracking\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj",
+        "projectUniqueName": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj",
         "projectName": "MaximizeScoreAfterNOperations",
-        "projectPath": "D:\\LeetCode\\Backtracking\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj",
+        "projectPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj",
         "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-        "outputPath": "D:\\LeetCode\\Backtracking\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\obj\\",
+        "outputPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",

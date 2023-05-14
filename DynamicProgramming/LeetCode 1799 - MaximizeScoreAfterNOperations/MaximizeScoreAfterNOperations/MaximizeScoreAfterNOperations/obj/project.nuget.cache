@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+48ISXF+zCK/bwHFg7q/KsOE1vaUQHuDvKqhgV1x79eAGApremN7MmdGf7SP5t5PjIf6mbUjBOIbvDRMUoknVA==",
+  "dgSpecHash": "D1uT1OTNgaZYuHWLGZPYdbYXFrbEh7IPWOwUKHduCIQBopd39NZZW4Q9A+GLoFxbQEui17SoBX0J6UJi2trdOA==",
   "success": true,
-  "projectFilePath": "D:\\LeetCode\\Backtracking\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj",
+  "projectFilePath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 1799 - MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations\\MaximizeScoreAfterNOperations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
