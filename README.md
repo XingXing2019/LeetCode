@@ -2683,7 +2683,16 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202683%20-%20NeighboringBitwiseXOR/NeighboringBitwiseXOR/NeighboringBitwiseXOR/Program.cs) |✔️|
 |2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202684%20-%20MaximumNumberOfMovesInAGrid/MaximumNumberOfMovesInAGrid/MaximumNumberOfMovesInAGrid/Program.cs) |✔️|
 |2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/UnionFind/LeetCode%202685%20-%20CountTheNumberOfCompleteComponents/CountTheNumberOfCompleteComponents/CountTheNumberOfCompleteComponents/Program.cs) |✔️|
-
+|2686 | [Immediate Food Delivery III](https://leetcode.com/problems/immediate-food-delivery-iii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202686%20-%20ImmediateFoodDeliveryIII/ImmediateFoodDeliveryIII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202686%20-%20ImmediateFoodDeliveryIII/ImmediateFoodDeliveryIII_MySQL.sql) |✔️|
+|2687 | [Bikes Last Time Used](https://leetcode.com/problems/bikes-last-time-used/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202687%20-%20BikesLastTimeUsed/BikesLastTimeUsed_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202687%20-%20BikesLastTimeUsed/BikesLastTimeUsed_MySQL.sql) |✔️|
+|2688 | [Find Active Users](https://leetcode.com/problems/find-active-users/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202688%20-%20FindActiveUsers/FindActiveUsers_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202688%20-%20FindActiveUsers/FindActiveUsers_MySQL.sql) |✔️|
+|2689 | [Extract Kth Character From The Rope Tree](https://leetcode.com/problems/extract-kth-character-from-the-rope-tree/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202689%20-%20ExtractKthCharacterFromTheRopeTree/ExtractKthCharacterFromTheRopeTree/ExtractKthCharacterFromTheRopeTree/Program.cs) |✔️|
+|2690 | [Infinite Method Object](https://leetcode.com/problems/infinite-method-object/)| Easy |  |:heavy_minus_sign: |
+|2691 | [Immutability Helper](https://leetcode.com/problems/immutability-helper/)| Hard |  |:heavy_minus_sign: |
+|2692 | [Make Object Immutable](https://leetcode.com/problems/make-object-immutable/)| Medium |  |:heavy_minus_sign: |
+|2693 | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/)| Medium |  |:heavy_minus_sign: |
+|2694 | [Event Emitter](https://leetcode.com/problems/event-emitter/)| Medium |  |:heavy_minus_sign: |
+|2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/)| Easy |  |:heavy_minus_sign: |
 
 |26 | []()| Easy | [JS]() |✔️|
 |26 | []()| Medium | [JS]() |✔️|
