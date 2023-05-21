@@ -2692,7 +2692,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2692 | [Make Object Immutable](https://leetcode.com/problems/make-object-immutable/)| Medium |  |:heavy_minus_sign: |
 |2693 | [Call Function with Custom Context](https://leetcode.com/problems/call-function-with-custom-context/)| Medium |  |:heavy_minus_sign: |
 |2694 | [Event Emitter](https://leetcode.com/problems/event-emitter/)| Medium |  |:heavy_minus_sign: |
-|2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/)| Easy |  |:heavy_minus_sign: |
+|2695 | [Array Wrapper](https://leetcode.com/problems/array-wrapper/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202695%20-%20ArrayWrapper/ArrayWrapper.js) |✔️|
 |2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202696%20-%20MinimumStringLengthAfterRemovingSubstrings/MinimumStringLength/MinimumStringLength/Program.cs) |✔️|
 |2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202697%20-%20LexicographicallySmallestPalindrome/LexicographicallySmallestPalindrome/LexicographicallySmallestPalindrome/Program.cs) |✔️|
 |2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202698%20-%20FindThePunishmentNumberOfAnInteger/FindThePunishmentNumberOfAnInteger/FindThePunishmentNumberOfAnInteger/Program.cs) |✔️|
