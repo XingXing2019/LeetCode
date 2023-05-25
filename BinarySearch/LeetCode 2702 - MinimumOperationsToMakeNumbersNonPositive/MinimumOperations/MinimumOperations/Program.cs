@@ -14,7 +14,6 @@ namespace MinimumOperations
 
         public static int MinOperations(int[] nums, int x, int y)
         {
-            Array.Sort(nums, (a, b) => b - a);
             int li = 0, hi = nums.Max() / y + 1;
             while (li <= hi)
             {
