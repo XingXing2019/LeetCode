@@ -2697,15 +2697,18 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202697%20-%20LexicographicallySmallestPalindrome/LexicographicallySmallestPalindrome/LexicographicallySmallestPalindrome/Program.cs) |✔️|
 |2698 | [Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202698%20-%20FindThePunishmentNumberOfAnInteger/FindThePunishmentNumberOfAnInteger/FindThePunishmentNumberOfAnInteger/Program.cs) |✔️|
 |2699 | [Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/)| Hard |  |:heavy_minus_sign: |
+|2700 | [Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/)| Medium |  |:heavy_minus_sign: |
+|2701 | [Consecutive Transactions with Increasing Amounts](https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202701%20-%20ConsecutiveTransactionsWithIncreasingAmounts/ConsecutiveTransactionsWithIncreasingAmounts_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202701%20-%20ConsecutiveTransactionsWithIncreasingAmounts/ConsecutiveTransactionsWithIncreasingAmounts_MySQL.sql) |✔️|
+|2702 | [Minimum Operations to Make Numbers Non-positive](https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive/)| Hard |  |:heavy_minus_sign: |
 
-|26 | []()| Easy | [JS]() |✔️|
-|26 | []()| Medium | [JS]() |✔️|
-|26 | []()| Easy | [C#]() |✔️|
-|26 | []()| Medium | [C#]() |✔️|
-|26 | []()| Medium | [C#]() |✔️|
-|26 | []()| Hard |  |:heavy_minus_sign: |
-|26 | []()| Easy | [C#]() |✔️|
-|26 | []()| Medium | [C#]() |✔️|
-|26 | []()| Medium | [C#]() |✔️|
-|26 | []()| Hard |  |:heavy_minus_sign: |
-|26 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|27 | []()| Easy | [JS]() |✔️|
+|27 | []()| Medium | [JS]() |✔️|
+|27 | []()| Easy | [C#]() |✔️|
+|27 | []()| Medium | [C#]() |✔️|
+|27 | []()| Medium | [C#]() |✔️|
+|27 | []()| Hard |  |:heavy_minus_sign: |
+|27 | []()| Easy | [C#]() |✔️|
+|27 | []()| Medium | [C#]() |✔️|
+|27 | []()| Medium | [C#]() |✔️|
+|27 | []()| Hard |  |:heavy_minus_sign: |
+|27 | []()|  | [SQLServer](), [MySQL]() |✔️|
