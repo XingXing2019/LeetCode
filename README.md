@@ -2674,7 +2674,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2674 | [Split a Circular Linked List](https://leetcode.com/problems/split-a-circular-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202674%20-%20SplitACircularLinkedList/SplitACircularLinkedList/SplitACircularLinkedList/Program.cs) |✔️|
 |2675 | [Array of Objects to Matrix](https://leetcode.com/problems/array-of-objects-to-matrix/)| Medium |  |:heavy_minus_sign: |
 |2676 | [Throttle](https://leetcode.com/problems/throttle/)| Medium |  |:heavy_minus_sign: |
-|2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/)| Easy |  |:heavy_minus_sign: |
+|2677 | [Chunk Array](https://leetcode.com/problems/chunk-array/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202677%20-%20ChunkArray/ChunkArray.js) |✔️|
 |2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202678%20-%20NumberOfSeniorCitizens/NumberOfSeniorCitizens/NumberOfSeniorCitizens/Program.cs) |✔️|
 |2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202679%20-%20SumInAMatrix/SumInAMatrix/SumInAMatrix/Program.cs) |✔️|
 |2680 | [Maximum OR](https://leetcode.com/problems/maximum-or/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202680%20-%20MaximumOR/MaximumOR/MaximumOR/Program.cs) |✔️|
