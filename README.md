@@ -2700,6 +2700,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2700 | [Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/)| Medium |  |:heavy_minus_sign: |
 |2701 | [Consecutive Transactions with Increasing Amounts](https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202701%20-%20ConsecutiveTransactionsWithIncreasingAmounts/ConsecutiveTransactionsWithIncreasingAmounts_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202701%20-%20ConsecutiveTransactionsWithIncreasingAmounts/ConsecutiveTransactionsWithIncreasingAmounts_MySQL.sql) |✔️|
 |2702 | [Minimum Operations to Make Numbers Non-positive](https://leetcode.com/problems/minimum-operations-to-make-numbers-non-positive/)| Hard | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202702%20-%20MinimumOperationsToMakeNumbersNonPositive/MinimumOperations/MinimumOperations/Program.cs) |✔️|
+|2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202703%20-%20ReturnLengthOfArgumentsPassed/ReturnLengthOfArgumentsPassed.js) |✔️|
+|2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202704%20-%20ToBeOrNotToBe/ToBeOrNotToBe.js) |✔️|
+|2705 | [Compact Object](https://leetcode.com/problems/compact-object/)| Medium |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
