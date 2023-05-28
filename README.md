@@ -2709,7 +2709,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2709 | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)| Hard |  |:heavy_minus_sign: |
 |2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202710%20-%20RemoveTrailingZerosFromAString/RemoveTrailingZerosFromAString/RemoveTrailingZerosFromAString/Program.cs) |✔️|
 |2711 | [Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202711%20-%20DifferenceOfNumberOfDistinctValuesOnDiagonals/DifferenceOfNumber/DifferenceOfNumber/Program.cs) |✔️|
-|2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/)| Medium | [C#]() |✔️|
+|2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202712%20-%20MinimumCostToMakeAllCharactersEqual/MinimumCostToMakeAllCharactersEqual/MinimumCostToMakeAllCharactersEqual/Program.cs) |✔️|
 |2713 | [Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/)| Hard |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
