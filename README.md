@@ -2703,6 +2703,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2703 | [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202703%20-%20ReturnLengthOfArgumentsPassed/ReturnLengthOfArgumentsPassed.js) |✔️|
 |2704 | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202704%20-%20ToBeOrNotToBe/ToBeOrNotToBe.js) |✔️|
 |2705 | [Compact Object](https://leetcode.com/problems/compact-object/)| Medium |  |:heavy_minus_sign: |
+|2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202706%20-%20BuyTwoChocolates/BuyTwoChocolates/BuyTwoChocolates/Program.cs) |✔️|
+|2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202707%20-%20ExtraCharactersInAString/ExtraCharactersInAString/ExtraCharactersInAString/Program.cs) |✔️|
+|2708 | [Maximum Strength of a Group](https://leetcode.com/problems/maximum-strength-of-a-group/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202708%20-%20MaximumStrengthOfAGroup/MaximumStrengthOfAGroup/MaximumStrengthOfAGroup/Program.cs) |✔️|
+|2709 | [Greatest Common Divisor Traversal](https://leetcode.com/problems/greatest-common-divisor-traversal/)| Hard |  |:heavy_minus_sign: |
+|2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202710%20-%20RemoveTrailingZerosFromAString/RemoveTrailingZerosFromAString/RemoveTrailingZerosFromAString/Program.cs) |✔️|
+|2711 | [Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202711%20-%20DifferenceOfNumberOfDistinctValuesOnDiagonals/DifferenceOfNumber/DifferenceOfNumber/Program.cs) |✔️|
+|2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/)| Medium | [C#]() |✔️|
+|2713 | [Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/)| Hard |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
