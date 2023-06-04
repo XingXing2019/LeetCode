@@ -6,18 +6,21 @@ namespace MinimumCostToMakeAllCharactersEqual
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] nums = { 2, 1, 4, 3 };
+            Console.WriteLine(SemiOrderedPermutation(nums));
         }
 
-        public long MinimumCost(string s)
+        public static int SemiOrderedPermutation(int[] nums)
         {
-            long res = 0;
-            for (int i = 1; i < s.Length; i++)
+            int one = 0, n = 0;
+            for (int i = 0; i < nums.Length; i++)
             {
-                if (s[i] == s[i - 1]) continue;
-                res += Math.Min(i, s.Length - i);
+                if (nums[i] == 1)
+                    one = i;
+                else if (nums[i] == nums.Length)
+                    n = i;
             }
-            return res;
+            return one < n ? one + nums.Length - n - 1 : one + nums.Length - n - 2;
         }
     }
 }
