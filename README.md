@@ -2711,6 +2711,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2711 | [Difference of Number of Distinct Values on Diagonals](https://leetcode.com/problems/difference-of-number-of-distinct-values-on-diagonals/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202711%20-%20DifferenceOfNumberOfDistinctValuesOnDiagonals/DifferenceOfNumber/DifferenceOfNumber/Program.cs) |✔️|
 |2712 | [Minimum Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-cost-to-make-all-characters-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202712%20-%20MinimumCostToMakeAllCharactersEqual/MinimumCostToMakeAllCharactersEqual/MinimumCostToMakeAllCharactersEqual/Program.cs) |✔️|
 |2713 | [Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/)| Hard |  |:heavy_minus_sign: |
+|2714 | [Find Shortest Path with K Hops](https://leetcode.com/problems/find-shortest-path-with-k-hops/)| Hard |  |:heavy_minus_sign: |
+|2715 | [Execute Cancellable Function With Delay](https://leetcode.com/problems/execute-cancellable-function-with-delay/)| Easy |  |:heavy_minus_sign: |
+|2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202716%20-%20MinimizeStringLength/MinimizeStringLength/MinimizeStringLength/Program.cs) |✔️|
+|2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202717%20-%20SemiOrderedPermutation/SemiOrderedPermutation/SemiOrderedPermutation/Program.cs) |✔️|
+|2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202718%20-%20SumOfMatrixAfterQueries/SumOfMatrixAfterQueries/SumOfMatrixAfterQueries/Program.cs) |✔️|
+|2719 | [Count of Integers](https://leetcode.com/problems/count-of-integers/)| Hard |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
