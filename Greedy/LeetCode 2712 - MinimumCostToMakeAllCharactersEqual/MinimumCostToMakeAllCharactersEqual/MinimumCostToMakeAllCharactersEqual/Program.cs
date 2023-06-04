@@ -10,17 +10,15 @@ namespace MinimumCostToMakeAllCharactersEqual
             Console.WriteLine(SemiOrderedPermutation(nums));
         }
 
-        public static int SemiOrderedPermutation(int[] nums)
+        public long MinimumCost(string s)
         {
-            int one = 0, n = 0;
-            for (int i = 0; i < nums.Length; i++)
+            long res = 0;
+            for (int i = 1; i < s.Length; i++)
             {
-                if (nums[i] == 1)
-                    one = i;
-                else if (nums[i] == nums.Length)
-                    n = i;
+                if (s[i] == s[i - 1]) continue;
+                res += Math.Min(i, s.Length - i);
             }
-            return one < n ? one + nums.Length - n - 1 : one + nums.Length - n - 2;
+            return res;
         }
     }
 }
