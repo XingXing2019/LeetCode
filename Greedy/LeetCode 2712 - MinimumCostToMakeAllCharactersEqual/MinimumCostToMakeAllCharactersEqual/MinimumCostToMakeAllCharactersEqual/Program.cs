@@ -6,8 +6,7 @@ namespace MinimumCostToMakeAllCharactersEqual
     {
         static void Main(string[] args)
         {
-            int[] nums = { 2, 1, 4, 3 };
-            Console.WriteLine(SemiOrderedPermutation(nums));
+            
         }
 
         public long MinimumCost(string s)
