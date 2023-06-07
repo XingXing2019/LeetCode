@@ -2724,7 +2724,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2724 | [Sort By](https://leetcode.com/problems/sort-by/)| Easy | [JS]() |✔️|
 |2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/)| Easy | [JS]() |✔️|
 |2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)| Easy | [JS]() |✔️|
-|2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/)| Easy | [JS]() |✔️|
+|2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202727%20-%20IsObjectEmpty/IsObjectEmpty.js) |✔️|
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
