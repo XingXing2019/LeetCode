@@ -2723,7 +2723,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/)| Easy | [JS]() |✔️|
 |2724 | [Sort By](https://leetcode.com/problems/sort-by/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202724%20-%20SortBy/SortBy.js) |✔️|
 |2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202725%20-%20IntervalCancellation/IntervalCancellation.js) |✔️|
-|2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)| Easy | [JS]() |✔️|
+|2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202726%20-%20CalculatorWithMethodChaining/CalculatorWithMethodChaining.js) |✔️|
 |2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202727%20-%20IsObjectEmpty/IsObjectEmpty.js) |✔️|
 
 |27 | []()| Easy | [JS]() |✔️|
