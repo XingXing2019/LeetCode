@@ -2717,6 +2717,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202717%20-%20SemiOrderedPermutation/SemiOrderedPermutation/SemiOrderedPermutation/Program.cs) |✔️|
 |2718 | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202718%20-%20SumOfMatrixAfterQueries/SumOfMatrixAfterQueries/SumOfMatrixAfterQueries/Program.cs) |✔️|
 |2719 | [Count of Integers](https://leetcode.com/problems/count-of-integers/)| Hard |  |:heavy_minus_sign: |
+|2720 | [Popularity Percentage](https://leetcode.com/problems/popularity-percentage/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202720%20-%20PopularityPercentage/PopularityPercentage_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202720%20-%20PopularityPercentage/PopularityPercentage_MySQL.sql) |✔️|
+|2721 | [Execute Asynchronous Functions in Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/)| Medium |  |:heavy_minus_sign: |
+|2722 | [Join Two Arrays by ID](https://leetcode.com/problems/join-two-arrays-by-id/)| Medium |  |:heavy_minus_sign: |
+|2723 | [Add Two Promises](https://leetcode.com/problems/add-two-promises/)| Easy | [JS]() |✔️|
+|2724 | [Sort By](https://leetcode.com/problems/sort-by/)| Easy | [JS]() |✔️|
+|2725 | [Interval Cancellation](https://leetcode.com/problems/interval-cancellation/)| Easy | [JS]() |✔️|
+|2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)| Easy | [JS]() |✔️|
+|2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/)| Easy | [JS]() |✔️|
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
