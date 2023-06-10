@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfTheNumberIsFascinating", "CheckIfTheNumberIsFascinating\CheckIfTheNumberIsFascinating.csproj", "{626DB67F-ED4B-4FA8-A8FD-CDE913B8FCC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626DB67F-ED4B-4FA8-A8FD-CDE913B8FCC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626DB67F-ED4B-4FA8-A8FD-CDE913B8FCC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626DB67F-ED4B-4FA8-A8FD-CDE913B8FCC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626DB67F-ED4B-4FA8-A8FD-CDE913B8FCC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29940AEB-36F8-433A-B78B-FF89FC1898A1}
+	EndGlobalSection
+EndGlobal
