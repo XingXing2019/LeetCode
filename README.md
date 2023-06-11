@@ -2726,6 +2726,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2726 | [Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202726%20-%20CalculatorWithMethodChaining/CalculatorWithMethodChaining.js) |✔️|
 |2727 | [Is Object Empty](https://leetcode.com/problems/is-object-empty/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202727%20-%20IsObjectEmpty/IsObjectEmpty.js) |✔️|
 |2728 | [Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202728%20-%20CountHousesInACircularStreet/CountHousesInACircularStreet/CountHousesInACircularStreet/Program.cs) |✔️|
+|2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202729%20-%20CheckIfTheNumberIsFascinating/CheckIfTheNumberIsFascinating/CheckIfTheNumberIsFascinating/Program.cs) |✔️|
+|2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202730%20-%20FindTheLongestSemiRepetitiveSubstring/FindTheLongestSemiRepetitiveSubstring/FindTheLongestSemiRepetitiveSubstring/Program.cs) |✔️|
+|2731 | [Movement of Robots](https://leetcode.com/problems/movement-of-robots/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202731%20-%20MovementOfRobots/MovementOfRobots/MovementOfRobots/Program.cs) |✔️|
+|2732 | [Find a Good Subset of the Matrix](https://leetcode.com/problems/find-a-good-subset-of-the-matrix/)| Hard |  |:heavy_minus_sign: |
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
 |27 | []()| Easy | [C#]() |✔️|
