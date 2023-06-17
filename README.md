@@ -2730,6 +2730,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2730 | [Find the Longest Semi-Repetitive Substring](https://leetcode.com/problems/find-the-longest-semi-repetitive-substring/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202730%20-%20FindTheLongestSemiRepetitiveSubstring/FindTheLongestSemiRepetitiveSubstring/FindTheLongestSemiRepetitiveSubstring/Program.cs) |✔️|
 |2731 | [Movement of Robots](https://leetcode.com/problems/movement-of-robots/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202731%20-%20MovementOfRobots/MovementOfRobots/MovementOfRobots/Program.cs) |✔️|
 |2732 | [Find a Good Subset of the Matrix](https://leetcode.com/problems/find-a-good-subset-of-the-matrix/)| Hard |  |:heavy_minus_sign: |
+|2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202733%20-%20NeitherMinimumNorMaximum/NeitherMinimumNorMaximum/NeitherMinimumNorMaximum/Program.cs) |✔️|
+|2734 | [Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202734%20-%20LexicographicallySmallestStringAfterSubstringOperation/LexicographicallySmallestString/LexicographicallySmallestString/Program.cs) |✔️|
+|2735 | [Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202735%20-%20CollectingChocolates/CollectingChocolates/CollectingChocolates/Program.cs) |✔️|
+|2736 | [Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)| Hard |  |:heavy_minus_sign: |
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
 |27 | []()| Easy | [C#]() |✔️|
