@@ -2734,6 +2734,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2734 | [Lexicographically Smallest String After Substring Operation](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202734%20-%20LexicographicallySmallestStringAfterSubstringOperation/LexicographicallySmallestString/LexicographicallySmallestString/Program.cs) |✔️|
 |2735 | [Collecting Chocolates](https://leetcode.com/problems/collecting-chocolates/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202735%20-%20CollectingChocolates/CollectingChocolates/CollectingChocolates/Program.cs) |✔️|
 |2736 | [Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)| Hard |  |:heavy_minus_sign: |
+|2737 | [Count Occurrences in Text](https://leetcode.com/problems/count-occurrences-in-text/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202738%20-%20CountOccurrencesInText/CountOccurrencesInText_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202738%20-%20CountOccurrencesInText/CountOccurrencesInText_MySQL.sql) |✔️|
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
 |27 | []()| Easy | [C#]() |✔️|
