@@ -2736,6 +2736,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2736 | [Maximum Sum Queries](https://leetcode.com/problems/maximum-sum-queries/)| Hard |  |:heavy_minus_sign: |
 |2737 | [Find the Closest Marked Node](https://leetcode.com/problems/find-the-closest-marked-node/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202737%20-%20FindTheClosestMarkedNode/FindTheClosestMarkedNode/FindTheClosestMarkedNode/Program.cs) |✔️|
 |2738 | [Count Occurrences in Text](https://leetcode.com/problems/count-occurrences-in-text/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202738%20-%20CountOccurrencesInText/CountOccurrencesInText_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202738%20-%20CountOccurrencesInText/CountOccurrencesInText_MySQL.sql) |✔️|
+|2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202739%20-%20TotalDistanceTraveled/TotalDistanceTraveled/TotalDistanceTraveled/Program.cs) |✔️|
+|2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202740%20-%20FindTheValueOfThePartition/FindTheValueOfThePartition/FindTheValueOfThePartition/Program.cs) |✔️|
+|2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202741%20-%20SpecialPermutations/SpecialPermutations/SpecialPermutations/Program.cs) |✔️|
+|2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/)| Hard |  |:heavy_minus_sign: |
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
 |27 | []()| Easy | [C#]() |✔️|
