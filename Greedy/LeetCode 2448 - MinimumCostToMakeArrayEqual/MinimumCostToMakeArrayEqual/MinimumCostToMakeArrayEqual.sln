@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCostToMakeArrayEqual", "MinimumCostToMakeArrayEqual\MinimumCostToMakeArrayEqual.csproj", "{E0422677-0EF6-40F7-894C-36A62135329C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0422677-0EF6-40F7-894C-36A62135329C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0422677-0EF6-40F7-894C-36A62135329C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0422677-0EF6-40F7-894C-36A62135329C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0422677-0EF6-40F7-894C-36A62135329C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAF8FB63-75EE-4F94-B0C2-E2C966C52B8B}
+	EndGlobalSection
+EndGlobal
