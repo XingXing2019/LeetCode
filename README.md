@@ -2740,6 +2740,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202740%20-%20FindTheValueOfThePartition/FindTheValueOfThePartition/FindTheValueOfThePartition/Program.cs) |✔️|
 |2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202741%20-%20SpecialPermutations/SpecialPermutations/SpecialPermutations/Program.cs) |✔️|
 |2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/)| Hard |  |:heavy_minus_sign: |
+|2743 | [Count Substrings Without Repeating Character](https://leetcode.com/problems/count-substrings-without-repeating-character/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202743%20-%20CountSubstringsWithoutRepeatingCharacter/CountSubstrings/CountSubstrings/Program.cs) |✔️|
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
 |27 | []()| Easy | [C#]() |✔️|
