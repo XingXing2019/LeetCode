@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CountSubstrings
+build_property.ProjectDir = D:\LeetCode\TwoPointers\LeetCode 2743 - CountSubstringsWithoutRepeatingCharacter\CountSubstrings\CountSubstrings\
