@@ -16,6 +16,7 @@ namespace TallestBillboard
         public static int TallestBillboard(int[] rods)
         {
             var dp = new Dictionary<int, int>();
+            dp[0] = 0;
             foreach (var rod in rods)
             {
                 var cur = new Dictionary<int, int>();
@@ -27,7 +28,7 @@ namespace TallestBillboard
                     dp[Math.Abs(key - rod)] = Math.Max(dp.GetValueOrDefault(Math.Abs(key - rod), 0), cur[key] + Math.Min(rod, key));
                 }
             }
-            return dp[0];
+            return dp.GetValueOrDefault(0, 0);
         }
     }
 }
