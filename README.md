@@ -2741,6 +2741,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2741 | [Special Permutations](https://leetcode.com/problems/special-permutations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202741%20-%20SpecialPermutations/SpecialPermutations/SpecialPermutations/Program.cs) |✔️|
 |2742 | [Painting the Walls](https://leetcode.com/problems/painting-the-walls/)| Hard |  |:heavy_minus_sign: |
 |2743 | [Count Substrings Without Repeating Character](https://leetcode.com/problems/count-substrings-without-repeating-character/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202743%20-%20CountSubstringsWithoutRepeatingCharacter/CountSubstrings/CountSubstrings/Program.cs) |✔️|
+|2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202744%20-%20FindMaximumNumberOfStringPairs/FindMaximumNumber/FindMaximumNumber/Program.cs) |✔️|
+|2745 | [Construct the Longest New String](https://leetcode.com/problems/construct-the-longest-new-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202745%20-%20ConstructTheLongestNewString/ConstructTheLongestNewString/ConstructTheLongestNewString/Program.cs) |✔️|
+|2746 | [Decremental String Concatenation](https://leetcode.com/problems/decremental-string-concatenation/)| Medium |  |:heavy_minus_sign: |
+|2747 | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/)| Medium |  |:heavy_minus_sign: |
+|2748 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202748%20-%20NumberOfBeautifulPairs/NumberOfBeautifulPairs/NumberOfBeautifulPairs/Program.cs) |✔️|
+|2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202749%20-%20MinimumOperationsToMakeTheIntegerZero/MinimumOperations/MinimumOperations/Program.cs) |✔️|
+|2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/)| Medium |  |:heavy_minus_sign: |
+|2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/)| Hard |  |:heavy_minus_sign: |
+
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
 |27 | []()| Easy | [C#]() |✔️|
