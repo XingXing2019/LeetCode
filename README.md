@@ -2749,7 +2749,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2749 | [Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202749%20-%20MinimumOperationsToMakeTheIntegerZero/MinimumOperations/MinimumOperations/Program.cs) |✔️|
 |2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/)| Medium |  |:heavy_minus_sign: |
 |2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/)| Hard |  |:heavy_minus_sign: |
-
+|2752 | [Customers with Maximum Number of Transactions on Consecutive Days](https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202752%20-%20CustomersWithMaximumNumberOfTransactionsOnConsecutiveDays/CustomersWithMaximumNumberOfTransactionsOnConsecutiveDays_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202752%20-%20CustomersWithMaximumNumberOfTransactionsOnConsecutiveDays/CustomersWithMaximumNumberOfTransactionsOnConsecutiveDays_MySQL.sql) |✔️|
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
 |27 | []()| Easy | [C#]() |✔️|
