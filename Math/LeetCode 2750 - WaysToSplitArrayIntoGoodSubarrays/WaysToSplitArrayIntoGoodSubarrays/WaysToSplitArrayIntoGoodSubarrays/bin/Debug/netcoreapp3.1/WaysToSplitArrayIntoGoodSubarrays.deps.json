@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WaysToSplitArrayIntoGoodSubarrays/1.0.0": {
+        "runtime": {
+          "WaysToSplitArrayIntoGoodSubarrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WaysToSplitArrayIntoGoodSubarrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
