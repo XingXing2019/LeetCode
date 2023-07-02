@@ -2750,6 +2750,18 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2750 | [Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202750%20-%20WaysToSplitArrayIntoGoodSubarrays/WaysToSplitArrayIntoGoodSubarrays/WaysToSplitArrayIntoGoodSubarrays/Program.cs) |✔️|
 |2751 | [Robot Collisions](https://leetcode.com/problems/robot-collisions/)| Hard |  |:heavy_minus_sign: |
 |2752 | [Customers with Maximum Number of Transactions on Consecutive Days](https://leetcode.com/problems/customers-with-maximum-number-of-transactions-on-consecutive-days/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202752%20-%20CustomersWithMaximumNumberOfTransactionsOnConsecutiveDays/CustomersWithMaximumNumberOfTransactionsOnConsecutiveDays_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202752%20-%20CustomersWithMaximumNumberOfTransactionsOnConsecutiveDays/CustomersWithMaximumNumberOfTransactionsOnConsecutiveDays_MySQL.sql) |✔️|
+|2753 | [Count Houses in a Circular Street II](https://leetcode.com/problems/count-houses-in-a-circular-street-ii/)| Hard |  |:heavy_minus_sign: |
+|2754 | [Bind Function to Context](https://leetcode.com/problems/bind-function-to-context/)| Medium |  |:heavy_minus_sign: |
+|2755 | [Deep Merge of Two Objects](https://leetcode.com/problems/deep-merge-of-two-objects/)| Medium |  |:heavy_minus_sign: |
+|2756 | [Query Batching](https://leetcode.com/problems/query-batching/)| Hard |  |:heavy_minus_sign: |
+|2757 | [Generate Circular Array Values](https://leetcode.com/problems/generate-circular-array-values/)| Medium |  |:heavy_minus_sign: |
+|2758 | [Next Day](https://leetcode.com/problems/next-day/)| Easy |  |:heavy_minus_sign: |
+|2759 | [Convert JSON String to Object](https://leetcode.com/problems/convert-json-string-to-object/)| Hard |  |:heavy_minus_sign: |
+|2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202760%20-%20LongestEvenOddSubarrayWithThreshold/LongestEvenOddSubarray/LongestEvenOddSubarray/Program.cs) |✔️|
+|2761 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202761%20-%20ContinuousSubarrays/ContinuousSubarrays/ContinuousSubarrays/Program.cs) |✔️|
+|2762 | [Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202762%20-%20PrimePairsWithTargetSum/PrimePairsWithTargetSum/PrimePairsWithTargetSum/Program.cs) |✔️|
+|2763 | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/)| Hard |  |:heavy_minus_sign: |
+
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
 |27 | []()| Easy | [C#]() |✔️|
