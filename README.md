@@ -2761,6 +2761,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2761 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202761%20-%20ContinuousSubarrays/ContinuousSubarrays/ContinuousSubarrays/Program.cs) |✔️|
 |2762 | [Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202762%20-%20PrimePairsWithTargetSum/PrimePairsWithTargetSum/PrimePairsWithTargetSum/Program.cs) |✔️|
 |2763 | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/)| Hard |  |:heavy_minus_sign: |
+|2764 | [Is Array a Preorder of Some ‌Binary Tree](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202764%20-%20IsArrayAPreorderOfSomeBinaryTree/IsArrayAPreorderOfSomeBinaryTree/IsArrayAPreorderOfSomeBinaryTree/Program.cs) |✔️|
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
