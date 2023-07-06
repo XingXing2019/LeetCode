@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\BitManipulation\\LeetCode 137 - SingleNumberII\\SingleNumberII_C#\\SingleNumberII\\SingleNumberII.csproj",
-      "projectName": "SingleNumberII",
-      "projectPath": "D:\\LeetCode\\BitManipulation\\LeetCode 137 - SingleNumberII\\SingleNumberII_C#\\SingleNumberII\\SingleNumberII.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Tree\\LeetCode 2764 - IsArrayAPreorderOfSomeBinaryTree\\IsArrayAPreorderOfSomeBinaryTree\\IsArrayAPreorderOfSomeBinaryTree\\IsArrayAPreorderOfSomeBinaryTree.csproj",
+      "projectName": "IsArrayAPreorderOfSomeBinaryTree",
+      "projectPath": "D:\\LeetCode\\Tree\\LeetCode 2764 - IsArrayAPreorderOfSomeBinaryTree\\IsArrayAPreorderOfSomeBinaryTree\\IsArrayAPreorderOfSomeBinaryTree\\IsArrayAPreorderOfSomeBinaryTree.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\BitManipulation\\LeetCode 137 - SingleNumberII\\SingleNumberII_C#\\SingleNumberII\\obj\\",
+      "outputPath": "D:\\LeetCode\\Tree\\LeetCode 2764 - IsArrayAPreorderOfSomeBinaryTree\\IsArrayAPreorderOfSomeBinaryTree\\IsArrayAPreorderOfSomeBinaryTree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
