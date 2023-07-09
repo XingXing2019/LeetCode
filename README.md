@@ -2762,6 +2762,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2762 | [Prime Pairs With Target Sum](https://leetcode.com/problems/prime-pairs-with-target-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202762%20-%20PrimePairsWithTargetSum/PrimePairsWithTargetSum/PrimePairsWithTargetSum/Program.cs) |✔️|
 |2763 | [Sum of Imbalance Numbers of All Subarrays](https://leetcode.com/problems/sum-of-imbalance-numbers-of-all-subarrays/)| Hard |  |:heavy_minus_sign: |
 |2764 | [Is Array a Preorder of Some ‌Binary Tree](https://leetcode.com/problems/is-array-a-preorder-of-some-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202764%20-%20IsArrayAPreorderOfSomeBinaryTree/IsArrayAPreorderOfSomeBinaryTree/IsArrayAPreorderOfSomeBinaryTree/Program.cs) |✔️|
+|2765 | [Longest Alternating Subarray](https://leetcode.com/problems/longest-alternating-subarray/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202765%20-%20LongestAlternatingSubarray/LongestAlternatingSubarray/LongestAlternatingSubarray/Program.cs) |✔️|
+|2766 | [Relocate Marbles](https://leetcode.com/problems/relocate-marbles/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202766%20-%20RelocateMarbles/RelocateMarbles/RelocateMarbles/Program.cs) |✔️|
+|2767 | [Partition String Into Minimum Beautiful Substrings](https://leetcode.com/problems/partition-string-into-minimum-beautiful-substrings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202767%20-%20PartitionStringIntoMinimumBeautifulSubstrings/PartitionString/PartitionString/Program.cs) |✔️|
+|2768 | [Number of Black Blocks](https://leetcode.com/problems/number-of-black-blocks/)| Hard |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
