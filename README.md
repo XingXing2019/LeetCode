@@ -2769,7 +2769,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202769%20-%20FindTheMaximumAchievableNumber/FindTheMaximumAchievableNumber/FindTheMaximumAchievableNumber/Program.cs) |✔️|
 |2770 | [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202770%20-%20MaximumNumberOfJumpsToReachTheLastIndex/MaximumNumberOfJumps/MaximumNumberOfJumps/Program.cs) |✔️|
 |2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202771%20-%20LongestNonDecreasingSubarrayFromTwoArrays/LongestNonDecreasingSubarray/LongestNonDecreasingSubarray/Program.cs) |✔️|
-|2772 | [Apply Operations to Make All Array Elements Equal to Zero](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/)| Medium |  |:heavy_minus_sign: |
+|2772 | [Apply Operations to Make All Array Elements Equal to Zero](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202772%20-%20ApplyOperationsToMakeAllArrayElementsEqualToZero/ApplyOperations/ApplyOperations/Program.cs) |✔️|
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
