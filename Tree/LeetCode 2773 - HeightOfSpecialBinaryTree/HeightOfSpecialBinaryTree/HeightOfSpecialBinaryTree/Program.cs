@@ -29,7 +29,7 @@ namespace HeightOfSpecialBinaryTree
         {
             var leaves = new HashSet<int>();
             GetLeaves(root, leaves, new HashSet<int>());
-            return DFS(root, leaves);
+            return GetHeight(root, leaves);
         }
 
         public static void GetLeaves(TreeNode node, HashSet<int> leaves, HashSet<int> visited)
@@ -44,12 +44,12 @@ namespace HeightOfSpecialBinaryTree
             GetLeaves(node.right, leaves, visited);
         }
 
-        public static int DFS(TreeNode node, HashSet<int> leaves)
+        public static int GetHeight(TreeNode node, HashSet<int> leaves)
         {
             if (node == null || leaves.Contains(node.val))
                 return 0;
-            var left = DFS(node.left, leaves);
-            var right = DFS(node.right, leaves);
+            var left = GetHeight(node.left, leaves);
+            var right = GetHeight(node.right, leaves);
             return Math.Max(left, right) + 1;
         }
     }
