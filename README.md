@@ -2770,6 +2770,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2770 | [Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202770%20-%20MaximumNumberOfJumpsToReachTheLastIndex/MaximumNumberOfJumps/MaximumNumberOfJumps/Program.cs) |✔️|
 |2771 | [Longest Non-decreasing Subarray From Two Arrays](https://leetcode.com/problems/longest-non-decreasing-subarray-from-two-arrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202771%20-%20LongestNonDecreasingSubarrayFromTwoArrays/LongestNonDecreasingSubarray/LongestNonDecreasingSubarray/Program.cs) |✔️|
 |2772 | [Apply Operations to Make All Array Elements Equal to Zero](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202772%20-%20ApplyOperationsToMakeAllArrayElementsEqualToZero/ApplyOperations/ApplyOperations/Program.cs) |✔️|
+|2773 | [Height of Special Binary Tree](https://leetcode.com/problems/height-of-special-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202773%20-%20HeightOfSpecialBinaryTree/HeightOfSpecialBinaryTree/HeightOfSpecialBinaryTree/Program.cs) |✔️|
+|2774 | [Array Upper Bound](https://leetcode.com/problems/array-upper-bound/)| Easy |  |:heavy_minus_sign: |
+|2775 | [Undefined to Null](https://leetcode.com/problems/undefined-to-null/)| Medium |  |:heavy_minus_sign: |
+|2776 | [Convert Callback Based Function to Promise Based Function](https://leetcode.com/problems/convert-callback-based-function-to-promise-based-function/)| Medium |  |:heavy_minus_sign: |
+|2777 | [Date Range Generator](https://leetcode.com/problems/date-range-generator/)| Medium |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
