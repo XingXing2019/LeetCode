@@ -2775,6 +2775,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2775 | [Undefined to Null](https://leetcode.com/problems/undefined-to-null/)| Medium |  |:heavy_minus_sign: |
 |2776 | [Convert Callback Based Function to Promise Based Function](https://leetcode.com/problems/convert-callback-based-function-to-promise-based-function/)| Medium |  |:heavy_minus_sign: |
 |2777 | [Date Range Generator](https://leetcode.com/problems/date-range-generator/)| Medium |  |:heavy_minus_sign: |
+|2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202778%20-%20SumOfSquaresOfSpecialElements/SumOfSquaresOfSpecialElements/SumOfSquaresOfSpecialElements/Program.cs) |✔️|
+|2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202779%20-%20MaximumBeautyOfAnArrayAfterApplyingOperation/MaximumBeauty/MaximumBeauty/Program.cs) |✔️|
+|2780 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202780%20-%20MinimumIndexOfAValidSplit/MinimumIndexOfAValidSplit/MinimumIndexOfAValidSplit/Program.cs) |✔️|
+|2781 | [Length of the Longest Valid Substring](https://leetcode.com/problems/length-of-the-longest-valid-substring/)| Hard |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
