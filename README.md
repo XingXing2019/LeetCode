@@ -2779,6 +2779,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202779%20-%20MaximumBeautyOfAnArrayAfterApplyingOperation/MaximumBeauty/MaximumBeauty/Program.cs) |✔️|
 |2780 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202780%20-%20MinimumIndexOfAValidSplit/MinimumIndexOfAValidSplit/MinimumIndexOfAValidSplit/Program.cs) |✔️|
 |2781 | [Length of the Longest Valid Substring](https://leetcode.com/problems/length-of-the-longest-valid-substring/)| Hard |  |:heavy_minus_sign: |
+|2782 | [Number of Unique Categories](https://leetcode.com/problems/number-of-unique-categories/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Brainteaser/LeetCode%202782%20-%20NumberOfUniqueCategories/NumberOfUniqueCategories/NumberOfUniqueCategories/Program.cs) |✔️|
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
