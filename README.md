@@ -2780,6 +2780,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2780 | [Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202780%20-%20MinimumIndexOfAValidSplit/MinimumIndexOfAValidSplit/MinimumIndexOfAValidSplit/Program.cs) |✔️|
 |2781 | [Length of the Longest Valid Substring](https://leetcode.com/problems/length-of-the-longest-valid-substring/)| Hard |  |:heavy_minus_sign: |
 |2782 | [Number of Unique Categories](https://leetcode.com/problems/number-of-unique-categories/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Brainteaser/LeetCode%202782%20-%20NumberOfUniqueCategories/NumberOfUniqueCategories/NumberOfUniqueCategories/Program.cs) |✔️|
+|2783 | [Flight Occupancy and Waitlist Analysis](https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis/)|  | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202783%20-%20FlightOccupancyAndWaitlistAnalysis/FlightOccupancyAndWaitlistAnalysis_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202783%20-%20FlightOccupancyAndWaitlistAnalysis/FlightOccupancyAndWaitlistAnalysis_MySQL.sql) |✔️|
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
