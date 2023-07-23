@@ -27,7 +27,7 @@ namespace WaysToExpressAnIntegerAsSumOfPowers
             if (dp[sum][start] != 0)
                 return dp[sum][start];
             long res = 0;
-            for (long i = start; i <= n - sum; i++)
+            for (long i = n - sum; i >= start; i--)
                 res += DFS(n, sum + (long)Math.Pow(i, x), i + 1, x, dp) % mod;
             return dp[sum][start] = res % mod;
         }
