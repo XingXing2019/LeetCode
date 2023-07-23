@@ -2781,6 +2781,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2781 | [Length of the Longest Valid Substring](https://leetcode.com/problems/length-of-the-longest-valid-substring/)| Hard |  |:heavy_minus_sign: |
 |2782 | [Number of Unique Categories](https://leetcode.com/problems/number-of-unique-categories/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Brainteaser/LeetCode%202782%20-%20NumberOfUniqueCategories/NumberOfUniqueCategories/NumberOfUniqueCategories/Program.cs) |✔️|
 |2783 | [Flight Occupancy and Waitlist Analysis](https://leetcode.com/problems/flight-occupancy-and-waitlist-analysis/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202783%20-%20FlightOccupancyAndWaitlistAnalysis/FlightOccupancyAndWaitlistAnalysis_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202783%20-%20FlightOccupancyAndWaitlistAnalysis/FlightOccupancyAndWaitlistAnalysis_MySQL.sql) |✔️|
+|2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202784%20-%20CheckIfArrayIsGood/CheckIfArrayIsGood/CheckIfArrayIsGood/Program.cs) |✔️|
+|2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202785%20-%20SortVowelsInAString/SortVowelsInAString/SortVowelsInAString/Program.cs) |✔️|
+|2786 | [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202786%20-%20VisitArrayPositionsToMaximizeScore/VisitArrayPositionsToMaximizeScore/VisitArrayPositionsToMaximizeScore/Program.cs) |✔️|
+|2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202787%20-%20WaysToExpressAnIntegerAsSumOfPowers/WaysToExpressAnIntegerAsSumOfPowers/WaysToExpressAnIntegerAsSumOfPowers/Program.cs) |✔️|
+|2788 | []()| Easy | [C#]() |✔️|
+|2789 | []()| Medium | [C#]() |✔️|
+|2790 | []()| Medium | [C#]() |✔️|
+|2791 | []()| Hard |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
