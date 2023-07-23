@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WaysToExpressAnIntegerAsSumOfPowers/1.0.0": {
+        "runtime": {
+          "WaysToExpressAnIntegerAsSumOfPowers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WaysToExpressAnIntegerAsSumOfPowers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
