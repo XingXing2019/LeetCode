@@ -2785,10 +2785,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202785%20-%20SortVowelsInAString/SortVowelsInAString/SortVowelsInAString/Program.cs) |✔️|
 |2786 | [Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202786%20-%20VisitArrayPositionsToMaximizeScore/VisitArrayPositionsToMaximizeScore/VisitArrayPositionsToMaximizeScore/Program.cs) |✔️|
 |2787 | [Ways to Express an Integer as Sum of Powers](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202787%20-%20WaysToExpressAnIntegerAsSumOfPowers/WaysToExpressAnIntegerAsSumOfPowers/WaysToExpressAnIntegerAsSumOfPowers/Program.cs) |✔️|
-|2788 | []()| Easy | [C#]() |✔️|
-|2789 | []()| Medium | [C#]() |✔️|
-|2790 | []()| Medium | [C#]() |✔️|
-|2791 | []()| Hard |  |:heavy_minus_sign: |
+|2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202788%20-%20SplitStringsBySeparator/SplitStringsBySeparator/SplitStringsBySeparator/Program.cs) |✔️|
+|2789 | [Largest Element in an Array after Merge Operations](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202789%20-%20LargestElementInAnArrayAfterMergeOperations/LargestElement/LargestElement/Program.cs) |✔️|
+|2790 | [Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/)| Hard |  |:heavy_minus_sign: |
+|2791 | [Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/)| Hard |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
