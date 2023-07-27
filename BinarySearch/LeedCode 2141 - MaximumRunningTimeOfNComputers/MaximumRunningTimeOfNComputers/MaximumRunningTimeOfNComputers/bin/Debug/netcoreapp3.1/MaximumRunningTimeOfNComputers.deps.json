@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MaximumRunningTimeOfNComputers/1.0.0": {
+        "runtime": {
+          "MaximumRunningTimeOfNComputers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaximumRunningTimeOfNComputers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
