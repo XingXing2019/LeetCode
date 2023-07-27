@@ -2789,6 +2789,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2789 | [Largest Element in an Array after Merge Operations](https://leetcode.com/problems/largest-element-in-an-array-after-merge-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202789%20-%20LargestElementInAnArrayAfterMergeOperations/LargestElement/LargestElement/Program.cs) |✔️|
 |2790 | [Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/)| Hard |  |:heavy_minus_sign: |
 |2791 | [Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/)| Hard |  |:heavy_minus_sign: |
+|2792 | [Count Nodes That Are Great Enough](https://leetcode.com/problems/count-nodes-that-are-great-enough/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202792%20-%20CountNodesThatAreGreatEnough/CountNodesThatAreGreatEnough/CountNodesThatAreGreatEnough/Program.cs) |✔️|
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
