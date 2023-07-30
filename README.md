@@ -2790,6 +2790,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2790 | [Maximum Number of Groups With Increasing Length](https://leetcode.com/problems/maximum-number-of-groups-with-increasing-length/)| Hard |  |:heavy_minus_sign: |
 |2791 | [Count Paths That Can Form a Palindrome in a Tree](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/)| Hard |  |:heavy_minus_sign: |
 |2792 | [Count Nodes That Are Great Enough](https://leetcode.com/problems/count-nodes-that-are-great-enough/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202792%20-%20CountNodesThatAreGreatEnough/CountNodesThatAreGreatEnough/CountNodesThatAreGreatEnough/Program.cs) |✔️|
+|2793 | [Status of Flight Tickets](https://leetcode.com/problems/status-of-flight-tickets/)|  | [SQLServer](), [MySQL]() |✔️|
+|2794 | [Create Object from Two Arrays](https://leetcode.com/problems/create-object-from-two-arrays/)| Easy |  |:heavy_minus_sign: |
+|2795 | [Parallel Execution of Promises for Individual Results Retrieval](https://leetcode.com/problems/parallel-execution-of-promises-for-individual-results-retrieval/)| Medium |  |:heavy_minus_sign: |
+|2796 | [Repeat String](https://leetcode.com/problems/repeat-string/)| Easy |  |:heavy_minus_sign: |
+|2797 | [Partial Function with Placeholders](https://leetcode.com/problems/partial-function-with-placeholders/)| Medium |  |:heavy_minus_sign: |
+|2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202798%20-%20NumberOfEmployeesWhoMeetTheTarget/NumberOfEmployees/NumberOfEmployees/Program.cs) |✔️|
+|2799 | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202799%20-%20CountCompleteSubarraysInAnArray/CountCompleteSubarraysInAnArray/CountCompleteSubarraysInAnArray/Program.cs) |✔️|
+|2800 | [Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202800%20-%20ShortestStringThatContainsThreeStrings/ShortestStringThatContainsThreeStrings/ShortestStringThatContainsThreeStrings/Program.cs) |✔️|
+|2801 | [Count Stepping Numbers in Range](https://leetcode.com/problems/count-stepping-numbers-in-range/)| Hard |  |:heavy_minus_sign: |
 
 |27 | []()| Easy | [JS]() |✔️|
 |27 | []()| Medium | [JS]() |✔️|
