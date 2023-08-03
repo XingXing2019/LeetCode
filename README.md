@@ -2799,15 +2799,19 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2799 | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202799%20-%20CountCompleteSubarraysInAnArray/CountCompleteSubarraysInAnArray/CountCompleteSubarraysInAnArray/Program.cs) |✔️|
 |2800 | [Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202800%20-%20ShortestStringThatContainsThreeStrings/ShortestStringThatContainsThreeStrings/ShortestStringThatContainsThreeStrings/Program.cs) |✔️|
 |2801 | [Count Stepping Numbers in Range](https://leetcode.com/problems/count-stepping-numbers-in-range/)| Hard |  |:heavy_minus_sign: |
+|2802 | [Find The K-th Lucky Number](https://leetcode.com/problems/find-the-k-th-lucky-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202802%20-%20FindTheKthLuckyNumber/FindTheKthLuckyNumber/FindTheKthLuckyNumber/Program.cs) |✔️|
+|2803 | [Factorial Generator](https://leetcode.com/problems/factorial-generator/)| Easy |  |  |:heavy_minus_sign: |
+|2804 | [Array Prototype ForEach](https://leetcode.com/problems/array-prototype-foreach/)| Easy |  |  |:heavy_minus_sign: |
+|2805 | [Custom Interval](https://leetcode.com/problems/custom-interval/)| Medium |  |  |:heavy_minus_sign: |
 
-|27 | []()| Easy | [JS]() |✔️|
-|27 | []()| Medium | [JS]() |✔️|
-|27 | []()| Easy | [C#]() |✔️|
-|27 | []()| Medium | [C#]() |✔️|
-|27 | []()| Medium | [C#]() |✔️|
-|27 | []()| Hard |  |:heavy_minus_sign: |
-|27 | []()| Easy | [C#]() |✔️|
-|27 | []()| Medium | [C#]() |✔️|
-|27 | []()| Medium | [C#]() |✔️|
-|27 | []()| Hard |  |:heavy_minus_sign: |
-|27 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
+|28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
+|28 | []()| Easy | [C#]() |✔️|
+|28 | []()| Medium | [C#]() |✔️|
+|28 | []()| Medium | [C#]() |✔️|
+|28 | []()| Hard |  |:heavy_minus_sign: |
+|28 | []()| Easy | [C#]() |✔️|
+|28 | []()| Medium | [C#]() |✔️|
+|28 | []()| Medium | [C#]() |✔️|
+|28 | []()| Hard |  |:heavy_minus_sign: |
+|28 | []()|  | [SQLServer](), [MySQL]() |✔️|
