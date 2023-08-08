@@ -2803,6 +2803,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2803 | [Factorial Generator](https://leetcode.com/problems/factorial-generator/)| Easy |  |  |:heavy_minus_sign: |
 |2804 | [Array Prototype ForEach](https://leetcode.com/problems/array-prototype-foreach/)| Easy |  |  |:heavy_minus_sign: |
 |2805 | [Custom Interval](https://leetcode.com/problems/custom-interval/)| Medium |  |  |:heavy_minus_sign: |
+|2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202806%20-%20AccountBalanceAfterRoundedPurchase/AccountBalanceAfterRoundedPurchase/AccountBalanceAfterRoundedPurchase/Program.cs) |✔️|
+|2807 | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202807%20-%20InsertGreatestCommonDivisorsInLinkedList/InsertGreatestCommonDivisorsInLinkedList/InsertGreatestCommonDivisorsInLinkedList/Program.cs) |✔️|
+|2808 | [Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202808%20-%20MinimumSecondsToEqualizeACircularArray/MinimumSecondsToEqualizeACircularArray/MinimumSecondsToEqualizeACircularArray/Program.cs) |✔️|
+|2809 | [Minimum Time to Make Array Sum At Most x](https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x/)| Hard |  |:heavy_minus_sign: |
+|2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202810%20-%20FaultyKeyboard/FaultyKeyboard/FaultyKeyboard/Program.cs) |✔️|
+|2811 | [Check if it is Possible to Split Array](https://leetcode.com/problems/check-if-it-is-possible-to-split-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DivideAndConquer/LeetCode%202811%20-%20CheckIfItIsPossibleToSplitArray/CheckIfItIsPossibleToSplitArray/CheckIfItIsPossibleToSplitArray/Program.cs) |✔️|
+|2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202812%20-%20FindTheSafestPathInAGrid/FindTheSafestPathInAGrid/FindTheSafestPathInAGrid/Program.cs) |✔️|
+|2813 | [Maximum Elegance of a K-Length Subsequence](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/)| Hard |  |:heavy_minus_sign: |
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
