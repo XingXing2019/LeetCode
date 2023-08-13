@@ -2811,6 +2811,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2811 | [Check if it is Possible to Split Array](https://leetcode.com/problems/check-if-it-is-possible-to-split-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DivideAndConquer/LeetCode%202811%20-%20CheckIfItIsPossibleToSplitArray/CheckIfItIsPossibleToSplitArray/CheckIfItIsPossibleToSplitArray/Program.cs) |✔️|
 |2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202812%20-%20FindTheSafestPathInAGrid/FindTheSafestPathInAGrid/FindTheSafestPathInAGrid/Program.cs) |✔️|
 |2813 | [Maximum Elegance of a K-Length Subsequence](https://leetcode.com/problems/maximum-elegance-of-a-k-length-subsequence/)| Hard |  |:heavy_minus_sign: |
+|2814 | [https://leetcode.com/problems/max-pair-sum-in-an-array/](https://leetcode.com/problems/max-pair-sum-in-an-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202815%20-%20MaxPairSumInAnArray/MaxPairSumInAnArray/MaxPairSumInAnArray/Program.cs) |✔️|
+|2815 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202816%20-%20DoubleANumberRepresentedAsALinkedList/DoubleANumberRepresentedAsALinkedList/DoubleANumberRepresentedAsALinkedList/Program.cs) |✔️|
+|2816 | [Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202817%20-%20MinimumAbsoluteDifferenceBetweenElementsWithConstraint/MinimumAbsoluteDifference/MinimumAbsoluteDifference/Program.cs) |✔️|
+|2817 | [Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/)| Hard |  |:heavy_minus_sign: |
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
