@@ -2816,6 +2816,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%202816%20-%20DoubleANumberRepresentedAsALinkedList/DoubleANumberRepresentedAsALinkedList/DoubleANumberRepresentedAsALinkedList/Program.cs) |✔️|
 |2817 | [Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202817%20-%20MinimumAbsoluteDifferenceBetweenElementsWithConstraint/MinimumAbsoluteDifference/MinimumAbsoluteDifference/Program.cs) |✔️|
 |2818 | [Apply Operations to Maximize Score](https://leetcode.com/problems/apply-operations-to-maximize-score/)| Hard |  |:heavy_minus_sign: |
+|2819 | [Minimum Relative Loss After Buying Chocolates](https://leetcode.com/problems/minimum-relative-loss-after-buying-chocolates/)| Hard |  |:heavy_minus_sign: |
+|2820 | [Election Results](https://leetcode.com/problems/election-results/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202820%20-%20ElectionResults/ElectionResults_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202820%20-%20ElectionResults/ElectionResults_MySQL.sql) |✔️|
+|2821 | [Delay the Resolution of Each Promise](https://leetcode.com/problems/delay-the-resolution-of-each-promise/)| Easy |  |:heavy_minus_sign: |
+|2822 | [Inversion of Object](https://leetcode.com/problems/inversion-of-object/)| Easy |  |:heavy_minus_sign: |
+|2823 | [Deep Object Filter](https://leetcode.com/problems/deep-object-filter/)| Medium |  |:heavy_minus_sign: |
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
