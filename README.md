@@ -2821,6 +2821,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2821 | [Delay the Resolution of Each Promise](https://leetcode.com/problems/delay-the-resolution-of-each-promise/)| Easy |  |:heavy_minus_sign: |
 |2822 | [Inversion of Object](https://leetcode.com/problems/inversion-of-object/)| Easy |  |:heavy_minus_sign: |
 |2823 | [Deep Object Filter](https://leetcode.com/problems/deep-object-filter/)| Medium |  |:heavy_minus_sign: |
+|2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202824%20-%20CountPairsWhoseSumIsLessThanTarget/CountPairsWhoseSumIsLessThanTarget/CountPairsWhoseSumIsLessThanTarget/Program.cs) |✔️|
+|2825 | [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202825%20-%20MakeStringASubsequenceUsingCyclicIncrements/MakeStringASubsequence/MakeStringASubsequence/Program.cs) |✔️|
+|2826 | [Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202826%20-%20SortingThreeGroups/SortingThreeGroups/SortingThreeGroups/Program.cs) |✔️|
+|2827 | [Number of Beautiful Integers in the Range](https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/)| Hard |  |:heavy_minus_sign: |
+|2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202828%20-%20CheckIfAStringIsAnAcronymOfWords/CheckIfAStringIsAnAcronymOfWords/CheckIfAStringIsAnAcronymOfWords/Program.cs) |✔️|
+|2829 | [Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202829%20-%20DetermineTheMinimumSumOfAkAvoidingArray/DetermineTheMinimumSum/DetermineTheMinimumSum/Program.cs) |✔️|
+|2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/)| Medium |  |:heavy_minus_sign: |
+|2831 | [Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202831%20-%20FindTheLongestEqualSubarray/FindTheLongestEqualSubarray/FindTheLongestEqualSubarray/Program.cs) |✔️|
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
