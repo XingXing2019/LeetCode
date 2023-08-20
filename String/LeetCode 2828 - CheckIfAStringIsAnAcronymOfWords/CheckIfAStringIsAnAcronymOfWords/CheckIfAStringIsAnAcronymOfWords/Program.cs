@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace CheckIfAStringIsAnAcronymOfWords
 {
@@ -12,7 +13,7 @@ namespace CheckIfAStringIsAnAcronymOfWords
 
         public bool IsAcronym(IList<string> words, string s)
         {
-
+            return string.Join("", words.Select(x => x[0])) == s;
         }
     }
 }
