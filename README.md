@@ -2829,6 +2829,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2829 | [Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202829%20-%20DetermineTheMinimumSumOfAkAvoidingArray/DetermineTheMinimumSum/DetermineTheMinimumSum/Program.cs) |✔️|
 |2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/)| Medium |  |:heavy_minus_sign: |
 |2831 | [Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202831%20-%20FindTheLongestEqualSubarray/FindTheLongestEqualSubarray/FindTheLongestEqualSubarray/Program.cs) |✔️|
+|2832 | [Maximal Range That Each Element Is Maximum in It](https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202832%20-%20MaximalRangeThatEachElementIsMaximumInIt/MaximalRange/MaximalRange/Program.cs) |✔️|
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
