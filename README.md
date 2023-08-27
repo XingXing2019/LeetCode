@@ -2830,6 +2830,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2830 | [Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/)| Medium |  |:heavy_minus_sign: |
 |2831 | [Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202831%20-%20FindTheLongestEqualSubarray/FindTheLongestEqualSubarray/FindTheLongestEqualSubarray/Program.cs) |✔️|
 |2832 | [Maximal Range That Each Element Is Maximum in It](https://leetcode.com/problems/maximal-range-that-each-element-is-maximum-in-it/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202832%20-%20MaximalRangeThatEachElementIsMaximumInIt/MaximalRange/MaximalRange/Program.cs) |✔️|
+|2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202833%20-%20FurthestPointFromOrigin/FurthestPointFromOrigin/FurthestPointFromOrigin/Program.cs) |✔️|
+|2834 | [Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202834%20-%20FindTheMinimumPossibleSumOfABeautifulArray/FindTheMinimumPossibleSum/FindTheMinimumPossibleSum/Program.cs) |✔️|
+|2835 | [Minimum Operations to Form Subsequence With Target Sum](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/)| Hard |  |:heavy_minus_sign: |
+|2836 | [Maximize Value of Function in a Ball Passing Game](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/)| Hard |  |:heavy_minus_sign: |
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
