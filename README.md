@@ -2834,6 +2834,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2834 | [Find the Minimum Possible Sum of a Beautiful Array](https://leetcode.com/problems/find-the-minimum-possible-sum-of-a-beautiful-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202834%20-%20FindTheMinimumPossibleSumOfABeautifulArray/FindTheMinimumPossibleSum/FindTheMinimumPossibleSum/Program.cs) |✔️|
 |2835 | [Minimum Operations to Form Subsequence With Target Sum](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/)| Hard |  |:heavy_minus_sign: |
 |2836 | [Maximize Value of Function in a Ball Passing Game](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/)| Hard |  |:heavy_minus_sign: |
+|2837 | [Total Traveled Distance](https://leetcode.com/problems/total-traveled-distance/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202837%20-%20TotalTraveledDistance/TotalTraveledDistance_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202837%20-%20TotalTraveledDistance/TotalTraveledDistance_MySQL.sql) |✔️|
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
