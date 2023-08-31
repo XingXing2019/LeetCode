@@ -2835,6 +2835,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2835 | [Minimum Operations to Form Subsequence With Target Sum](https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/)| Hard |  |:heavy_minus_sign: |
 |2836 | [Maximize Value of Function in a Ball Passing Game](https://leetcode.com/problems/maximize-value-of-function-in-a-ball-passing-game/)| Hard |  |:heavy_minus_sign: |
 |2837 | [Total Traveled Distance](https://leetcode.com/problems/total-traveled-distance/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202837%20-%20TotalTraveledDistance/TotalTraveledDistance_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202837%20-%20TotalTraveledDistance/TotalTraveledDistance_MySQL.sql) |✔️|
+|2838 | [Maximum Coins Heroes Can Collect](https://leetcode.com/problems/maximum-coins-heroes-can-collect/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202838%20-%20MaximumCoinsHeroesCanCollect/MaximumCoinsHeroesCanCollect/MaximumCoinsHeroesCanCollect/Program.cs) |✔️|
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
