@@ -2840,6 +2840,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2840 | [Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202840%20-%20CheckIfStringsCanBeMadeEqualWithOperationsII/CheckIfStringsCanBeMadeEqual/CheckIfStringsCanBeMadeEqual/Program.cs) |✔️|
 |2841 | [Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202841%20-%20MaximumSumOfAlmostUniqueSubarray/MaximumSumOfAlmostUniqueSubarray/MaximumSumOfAlmostUniqueSubarray/Program.cs) |✔️|
 |2842 | [Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/)| Hard |  |:heavy_minus_sign: |
+|2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202843%20-%20CountSymmetricIntegers/CountSymmetricIntegers/CountSymmetricIntegers/Program.cs) |✔️|
+|2844 | [Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202844%20-%20MinimumOperationsToMakeASpecialNumber/MinimumOperations/MinimumOperations/Program.cs) |✔️|
+|2845 | [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202845%20-%20CountOfInterestingSubarrays/CountOfInterestingSubarrays/CountOfInterestingSubarrays/Program.cs) |✔️|
+|2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)| Hard |  |:heavy_minus_sign: |
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
