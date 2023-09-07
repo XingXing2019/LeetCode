@@ -2844,6 +2844,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2844 | [Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202844%20-%20MinimumOperationsToMakeASpecialNumber/MinimumOperations/MinimumOperations/Program.cs) |✔️|
 |2845 | [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202845%20-%20CountOfInterestingSubarrays/CountOfInterestingSubarrays/CountOfInterestingSubarrays/Program.cs) |✔️|
 |2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)| Hard |  |:heavy_minus_sign: |
+|2847 | [Smallest Number With Given Digit Product](https://leetcode.com/problems/smallest-number-with-given-digit-product/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202847%20-%20SmallestNumberWithGivenDigitProduct/SmallestNumberWithGivenDigitProduct/SmallestNumberWithGivenDigitProduct/Program.cs) |✔️|
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
