@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Search\\LeetCode 2850 - MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Backtracking\\LeetCode 2850 - MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid.csproj",
       "projectName": "MinimumMovesToSpreadStonesOverGrid",
-      "projectPath": "D:\\LeetCode\\Search\\LeetCode 2850 - MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid.csproj",
+      "projectPath": "D:\\LeetCode\\Backtracking\\LeetCode 2850 - MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Search\\LeetCode 2850 - MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\obj\\",
+      "outputPath": "D:\\LeetCode\\Backtracking\\LeetCode 2850 - MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\MinimumMovesToSpreadStonesOverGrid\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",

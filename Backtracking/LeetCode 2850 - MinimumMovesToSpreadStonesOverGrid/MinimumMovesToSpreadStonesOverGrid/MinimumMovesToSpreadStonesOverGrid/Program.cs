@@ -25,13 +25,10 @@ namespace MinimumMovesToSpreadStonesOverGrid
                 for (int j = 0; j < grid[0].Length; j++)
                 {
                     if (grid[i][j] == 0)
-                        zeros.Add(new []{i, j, 0});
-                    else if (grid[i][j] > 1)
+                        zeros.Add(new[] { i, j, 0 });
+                    for (int k = 0; k < grid[i][j] - 1; k++)
                     {
-                        for (int k = 0; k < grid[i][j] - 1; k++)
-                        {
-                            extras.Add(new[] { i, j });
-                        }
+                        extras.Add(new[] { i, j });
                     }
                 }
             }
@@ -39,7 +36,7 @@ namespace MinimumMovesToSpreadStonesOverGrid
             Backtracking(extras, zeros, 0, 0, ref res);
             return res;
         }
-        
+
         public static void Backtracking(List<int[]> extras, List<int[]> zeros, int start, int moves, ref int res)
         {
             if (start == extras.Count)
