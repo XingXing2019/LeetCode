@@ -2845,6 +2845,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2845 | [Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202845%20-%20CountOfInterestingSubarrays/CountOfInterestingSubarrays/CountOfInterestingSubarrays/Program.cs) |✔️|
 |2846 | [Minimum Edge Weight Equilibrium Queries in a Tree](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/)| Hard |  |:heavy_minus_sign: |
 |2847 | [Smallest Number With Given Digit Product](https://leetcode.com/problems/smallest-number-with-given-digit-product/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202847%20-%20SmallestNumberWithGivenDigitProduct/SmallestNumberWithGivenDigitProduct/SmallestNumberWithGivenDigitProduct/Program.cs) |✔️|
+|2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202848%20-%20PointsThatIntersectWithCars/PointsThatIntersectWithCars/PointsThatIntersectWithCars/Program.cs) |✔️|
+|2849 | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202849%20-%20DetermineIfACellIsReachableAtAGivenTime/DetermineIfACellIsReachableAtAGivenTime/DetermineIfACellIsReachableAtAGivenTime/Program.cs) |✔️|
+|2850 | [https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202850%20-%20MinimumMovesToSpreadStonesOverGrid/MinimumMovesToSpreadStonesOverGrid/MinimumMovesToSpreadStonesOverGrid/Program.cs) |✔️|
+|2851 | [String Transformation](https://leetcode.com/problems/string-transformation/)| Hard |  |:heavy_minus_sign: |
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
