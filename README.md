@@ -2849,6 +2849,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2849 | [Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202849%20-%20DetermineIfACellIsReachableAtAGivenTime/DetermineIfACellIsReachableAtAGivenTime/DetermineIfACellIsReachableAtAGivenTime/Program.cs) |✔️|
 |2850 | [https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%202850%20-%20MinimumMovesToSpreadStonesOverGrid/MinimumMovesToSpreadStonesOverGrid/MinimumMovesToSpreadStonesOverGrid/Program.cs) |✔️|
 |2851 | [String Transformation](https://leetcode.com/problems/string-transformation/)| Hard |  |:heavy_minus_sign: |
+|2852 | [Sum of Remoteness of All Cells](https://leetcode.com/problems/sum-of-remoteness-of-all-cells/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%202852%20-%20SumOfRemotenessOfAllCells/SumOfRemotenessOfAllCells/SumOfRemotenessOfAllCells/Program.cs) |✔️|
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
