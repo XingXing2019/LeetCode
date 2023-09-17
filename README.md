@@ -2856,6 +2856,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2856 | [Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202856%20-%20MinimumArrayLengthAfterPairRemovals/MinimumArrayLengthAfterPairRemovals/MinimumArrayLengthAfterPairRemovals/Program.cs) |✔️|
 |2857 | [Count Pairs of Points With Distance k](https://leetcode.com/problems/count-pairs-of-points-with-distance-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202857%20-%20CountPairsOfPointsWithDistanceK/CountPairsOfPointsWithDistanceK/CountPairsOfPointsWithDistanceK/Program.cs) |✔️|
 |2858 | [Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/)| Hard |  |:heavy_minus_sign: |
+|2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202859%20-%20SumOfValuesAtIndicesWithKSetBits/SumOfValuesAtIndicesWithKSetBits/SumOfValuesAtIndicesWithKSetBits/Program.cs) |✔️|
+|2860 | [Happy Students](https://leetcode.com/problems/happy-students/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202860%20-%20HappyStudents/HappyStudents/HappyStudents/Program.cs) |✔️|
+|2861 | [Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202861%20-%20MaximumNumberOfAlloys/MaximumNumberOfAlloys/MaximumNumberOfAlloys/Program.cs) |✔️|
+|2862 | [Maximum Element-Sum of a Complete Subset of Indices](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/)| Hard |  |:heavy_minus_sign: |
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
