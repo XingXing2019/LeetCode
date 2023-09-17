@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfValuesAtIndicesWithKSetBits", "SumOfValuesAtIndicesWithKSetBits\SumOfValuesAtIndicesWithKSetBits.csproj", "{5F376EE4-3C70-4919-83F7-230B3AEFDB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F376EE4-3C70-4919-83F7-230B3AEFDB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F376EE4-3C70-4919-83F7-230B3AEFDB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F376EE4-3C70-4919-83F7-230B3AEFDB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F376EE4-3C70-4919-83F7-230B3AEFDB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B89ED4-E9C6-4F2C-9506-457C55E8DB5C}
+	EndGlobalSection
+EndGlobal
