@@ -4,7 +4,7 @@ Console.WriteLine(SumIndicesWithKSetBits(nums, k));
 
 int SumIndicesWithKSetBits(IList<int> nums, int k)
 {
-    return nums.Where((x, i) => IsKSetBits(i, k)).Select((x, i) => x).Sum();
+    return nums.Where((x, i) => IsKSetBits(i, k)).Sum();
 }
 
 bool IsKSetBits(int num, int k)
