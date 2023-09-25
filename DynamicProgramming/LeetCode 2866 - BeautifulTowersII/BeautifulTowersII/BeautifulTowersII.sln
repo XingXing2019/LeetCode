@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautifulTowersII", "BeautifulTowersII\BeautifulTowersII.csproj", "{FEF990E9-8759-42E0-9E55-DBB494D76531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF990E9-8759-42E0-9E55-DBB494D76531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF990E9-8759-42E0-9E55-DBB494D76531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF990E9-8759-42E0-9E55-DBB494D76531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF990E9-8759-42E0-9E55-DBB494D76531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1823985D-86E5-40AD-8CF5-E61B4C6B11DC}
+	EndGlobalSection
+EndGlobal
