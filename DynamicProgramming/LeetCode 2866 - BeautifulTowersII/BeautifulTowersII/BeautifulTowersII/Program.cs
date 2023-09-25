@@ -19,7 +19,7 @@ long[] GetLeft(IList<int> maxHeights)
     {
         while (stack.Count != 0 && maxHeights[stack.Peek()] >= maxHeights[i])
             stack.Pop();
-        left[i] = stack.Count == 0 ? maxHeights[i] * (i + 1) : maxHeights[i] * (i - stack.Peek()) + left[stack.Peek()];
+        left[i] = stack.Count == 0 ? (long)maxHeights[i] * (i + 1) : (long)maxHeights[i] * (i - stack.Peek()) + left[stack.Peek()];
         stack.Push(i);
     }
     return left;
@@ -33,7 +33,7 @@ long[] GetRight(IList<int> maxHeights)
     {
         while (stack.Count != 0 && maxHeights[stack.Peek()] >= maxHeights[i])
             stack.Pop();
-        right[i] = stack.Count == 0 ? maxHeights[i] * (maxHeights.Count - i - 1) : maxHeights[i] * (stack.Peek() - i - 1) + right[stack.Peek()] + maxHeights[stack.Peek()];
+        right[i] = stack.Count == 0 ? (long)maxHeights[i] * (maxHeights.Count - i - 1) : (long)maxHeights[i] * (stack.Peek() - i - 1) + right[stack.Peek()] + maxHeights[stack.Peek()];
         stack.Push(i);
     }
     return right;
