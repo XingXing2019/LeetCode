@@ -2860,6 +2860,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2860 | [Happy Students](https://leetcode.com/problems/happy-students/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202860%20-%20HappyStudents/HappyStudents/HappyStudents/Program.cs) |✔️|
 |2861 | [Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202861%20-%20MaximumNumberOfAlloys/MaximumNumberOfAlloys/MaximumNumberOfAlloys/Program.cs) |✔️|
 |2862 | [Maximum Element-Sum of a Complete Subset of Indices](https://leetcode.com/problems/maximum-element-sum-of-a-complete-subset-of-indices/)| Hard |  |:heavy_minus_sign: |
+|2863 | [Maximum Length of Semi-Decreasing Subarrays](https://leetcode.com/problems/maximum-length-of-semi-decreasing-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202863%20-%20MaximumLengthOfSemiDecreasingSubarrays/MaximumLength/MaximumLength/Program.cs) |✔️|
+|2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202864%20-%20MaximumOddBinaryNumber/MaximumOddBinaryNumber/MaximumOddBinaryNumber/Program.cs) |✔️|
+|2865 | [Beautiful Towers I](https://leetcode.com/problems/beautiful-towers-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202865%20-%20BeautifulTowersI/BeautifulTowersI/BeautifulTowersI/Program.cs) |✔️|
+|2866 | [Beautiful Towers II](https://leetcode.com/problems/beautiful-towers-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202866%20-%20BeautifulTowersII/BeautifulTowersII/BeautifulTowersII/Program.cs) |✔️|
+|2867 | [Count Valid Paths in a Tree](https://leetcode.com/problems/count-valid-paths-in-a-tree/)| Hard |  |:heavy_minus_sign: |
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
