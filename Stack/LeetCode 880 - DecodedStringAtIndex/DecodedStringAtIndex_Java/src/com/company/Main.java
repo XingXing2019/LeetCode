@@ -6,14 +6,16 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        String s = "a2345678999999999999999";
+        int k = 1;
+        System.out.println(decodeAtIndex(s, k));
     }
 
-    public String decodeAtIndex(String s, int k) {
-        int size = 0;
+    public static String decodeAtIndex(String s, int k) {
+        long size = 0;
         for (Character l : s.toCharArray()) {
             if (Character.isDigit(l))
-                size += l - '0';
+                size *= l - '0';
             else
                 size++;
         }
