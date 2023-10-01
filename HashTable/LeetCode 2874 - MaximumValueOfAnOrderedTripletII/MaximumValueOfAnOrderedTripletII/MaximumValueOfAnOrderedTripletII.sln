@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumValueOfAnOrderedTripletII", "MaximumValueOfAnOrderedTripletII\MaximumValueOfAnOrderedTripletII.csproj", "{A4987B77-F3AD-4D0B-BFBF-C4909B511E29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4987B77-F3AD-4D0B-BFBF-C4909B511E29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4987B77-F3AD-4D0B-BFBF-C4909B511E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4987B77-F3AD-4D0B-BFBF-C4909B511E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4987B77-F3AD-4D0B-BFBF-C4909B511E29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0023B85-03AA-46C4-ADF8-5A2720C4F571}
+	EndGlobalSection
+EndGlobal
