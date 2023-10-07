@@ -2874,6 +2874,23 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2874 | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202874%20-%20MaximumValueOfAnOrderedTripletII/MaximumValueOfAnOrderedTripletII/MaximumValueOfAnOrderedTripletII/Program.cs) |✔️|
 |2875 | [Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202875%20-%20MinimumSizeSubarrayInInfiniteArray/MinimumSizeSubarrayInInfiniteArray/MinimumSizeSubarrayInInfiniteArray/Program.cs) |✔️|
 |2876 | [Count Visited Nodes in a Directed Graph](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/)| Hard |  |:heavy_minus_sign: |
+|2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202877%20-%20CreateADataFrameFromList/main.py) |  |✔️|
+|2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202878%20-%20GetTheSizeOfADataFrame/main.py) |  |✔️|
+|2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/)| Easy | [Pandas]() |:heavy_minus_sign: |
+|2880 | [Select Data](https://leetcode.com/problems/select-data/)| Easy |  |:heavy_minus_sign: |
+|2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/)| Easy |  |:heavy_minus_sign: |
+|2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/)| Easy |  |:heavy_minus_sign: |
+|2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/)| Easy |  |:heavy_minus_sign: |
+|2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/)| Easy |  |:heavy_minus_sign: |
+|2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/)| Easy |  |:heavy_minus_sign: |
+|2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/)| Easy |  |:heavy_minus_sign: |
+|2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/)| Easy |  |:heavy_minus_sign: |
+|2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/)| Easy |  |:heavy_minus_sign: |
+|2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/)| Easy |  |:heavy_minus_sign: |
+|2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/)| Easy |  |:heavy_minus_sign: |
+|2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/)| Easy |  |:heavy_minus_sign: |
+|2892 | [Minimizing Array After Replacing Pairs With Their Product](https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202892%20-%20MinimizingArrayAfterReplacingPairsWithTheirProduct/MinimizingArray/MinimizingArray/Program.cs) |✔️|
+|2893 | [Calculate Orders Within Each Interval](https://leetcode.com/problems/calculate-orders-within-each-interval/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202893%20-%20CalculateOrdersWithinEachInterval/CalculateOrdersWithinEachInterval_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202893%20-%20CalculateOrdersWithinEachInterval/CalculateOrdersWithinEachInterval_MySQL.sql) |✔️|
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
