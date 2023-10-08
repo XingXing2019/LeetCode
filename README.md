@@ -2879,7 +2879,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202879%20-%20DisplayTheFirstThreeRows/main.py) |✔️|
 |2880 | [Select Data](https://leetcode.com/problems/select-data/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202880%20-%20SelectData/main.py) |✔️|
 |2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202881%20-%20CreateANewColumn/main.py) |✔️|
-|2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/)| Easy |  |:heavy_minus_sign: |
+|2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202882%20-%20DropDuplicateRows/main.py) |:heavy_minus_sign: |
 |2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/)| Easy |  |:heavy_minus_sign: |
 |2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/)| Easy |  |:heavy_minus_sign: |
 |2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/)| Easy |  |:heavy_minus_sign: |
