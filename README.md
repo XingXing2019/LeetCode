@@ -2882,7 +2882,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202882%20-%20DropDuplicateRows/main.py) |✔️|
 |2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202883%20-%20DropMissingData/main.py) |✔️|
 |2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202884%20-%20ModifyColumns/main.py) |✔️|
-|2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202884%20-%20ModifyColumns/main.py) |✔️|
+|2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202885%20-%20RenameColumns/main.py) |✔️|
 |2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202886%20-%20ChangeDataType/main.py) |✔️|
 |2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202887%20-%20FillMissingData/main.py) |✔️|
 |2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202888%20-%20ReshapeDataConcatenate/main.py) |✔️|
