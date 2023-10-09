@@ -2879,16 +2879,16 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202879%20-%20DisplayTheFirstThreeRows/main.py) |✔️|
 |2880 | [Select Data](https://leetcode.com/problems/select-data/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202880%20-%20SelectData/main.py) |✔️|
 |2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202881%20-%20CreateANewColumn/main.py) |✔️|
-|2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202882%20-%20DropDuplicateRows/main.py) |:heavy_minus_sign: |
-|2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202883%20-%20DropMissingData/main.py) |:heavy_minus_sign: |
-|2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202884%20-%20ModifyColumns/main.py) |:heavy_minus_sign: |
-|2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202884%20-%20ModifyColumns/main.py) |:heavy_minus_sign: |
-|2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202886%20-%20ChangeDataType/main.py) |:heavy_minus_sign: |
-|2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/)| Easy |  |:heavy_minus_sign: |
-|2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/)| Easy |  |:heavy_minus_sign: |
-|2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/)| Easy |  |:heavy_minus_sign: |
-|2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/)| Easy |  |:heavy_minus_sign: |
-|2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/)| Easy |  |:heavy_minus_sign: |
+|2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202882%20-%20DropDuplicateRows/main.py) |✔️|
+|2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202883%20-%20DropMissingData/main.py) |✔️|
+|2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202884%20-%20ModifyColumns/main.py) |✔️|
+|2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202884%20-%20ModifyColumns/main.py) |✔️|
+|2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202886%20-%20ChangeDataType/main.py) |✔️|
+|2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202887%20-%20FillMissingData/main.py) |✔️|
+|2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/)| Easy |  |✔️|
+|2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/)| Easy |  |✔️|
+|2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/)| Easy |  |✔️|
+|2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/)| Easy |  |✔️|
 |2892 | [Minimizing Array After Replacing Pairs With Their Product](https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%202892%20-%20MinimizingArrayAfterReplacingPairsWithTheirProduct/MinimizingArray/MinimizingArray/Program.cs) |✔️|
 |2893 | [Calculate Orders Within Each Interval](https://leetcode.com/problems/calculate-orders-within-each-interval/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202893%20-%20CalculateOrdersWithinEachInterval/CalculateOrdersWithinEachInterval_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202893%20-%20CalculateOrdersWithinEachInterval/CalculateOrdersWithinEachInterval_MySQL.sql) |✔️|
 |2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202894%20-%20DivisibleAndNonDivisibleSumsDifference/DivisibleAndNonDivisibleSumsDifference/DivisibleAndNonDivisibleSumsDifference/Program.cs) |✔️|
