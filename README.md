@@ -2883,7 +2883,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202883%20-%20DropMissingData/main.py) |:heavy_minus_sign: |
 |2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202884%20-%20ModifyColumns/main.py) |:heavy_minus_sign: |
 |2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202884%20-%20ModifyColumns/main.py) |:heavy_minus_sign: |
-|2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/)| Easy |  |:heavy_minus_sign: |
+|2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/)| Easy | [Pandas](https://github.com/XingXing2019/LeetCode/blob/master/Pandas/LeetCode%202886%20-%20ChangeDataType/main.py) |:heavy_minus_sign: |
 |2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/)| Easy |  |:heavy_minus_sign: |
 |2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/)| Easy |  |:heavy_minus_sign: |
 |2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/)| Easy |  |:heavy_minus_sign: |
