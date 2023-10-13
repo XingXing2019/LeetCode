@@ -2895,6 +2895,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2895 | [Minimum Processing Time](https://leetcode.com/problems/minimum-processing-time/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202895%20-%20MinimumProcessingTime/MinimumProcessingTime/MinimumProcessingTime/Program.cs) |✔️|
 |2896 | [Apply Operations to Make Two Strings Equal](https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202896%20-%20ApplyOperationsToMakeTwoStringsEqual/ApplyOperationsToMakeTwoStringsEqual/ApplyOperationsToMakeTwoStringsEqual/Program.cs) |✔️|
 |2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/)| Hard |  |:heavy_minus_sign: |
+|2898 | [Maximum Linear Stock Score](https://leetcode.com/problems/maximum-linear-stock-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202898%20-%20MaximumLinearStockScore/MaximumLinearStockScore/MaximumLinearStockScore/Program.cs) |✔️|
 
 |28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
