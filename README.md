@@ -2896,15 +2896,23 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2896 | [Apply Operations to Make Two Strings Equal](https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202896%20-%20ApplyOperationsToMakeTwoStringsEqual/ApplyOperationsToMakeTwoStringsEqual/ApplyOperationsToMakeTwoStringsEqual/Program.cs) |✔️|
 |2897 | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/)| Hard |  |:heavy_minus_sign: |
 |2898 | [Maximum Linear Stock Score](https://leetcode.com/problems/maximum-linear-stock-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202898%20-%20MaximumLinearStockScore/MaximumLinearStockScore/MaximumLinearStockScore/Program.cs) |✔️|
+|2899 | [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202899%20-%20LastVisitedIntegers/LastVisitedIntegers/LastVisitedIntegers/Program.cs) |✔️|
+|2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202900%20-%20LongestUnequalAdjacentGroupsSubsequenceI/LongestUnequalAdjacentGroupsSubsequenceI/LongestUnequalAdjacentGroupsSubsequenceI/Program.cs) |✔️|
+|2901 | [Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202901%20-%20LongestUnequalAdjacentGroupsSubsequenceII/LongestUnequal/LongestUnequal/Program.cs) |✔️|
+|2902 | [Count of Sub-Multisets With Bounded Sum](https://leetcode.com/problems/count-of-sub-multisets-with-bounded-sum/)| Hard |  |:heavy_minus_sign: |
+|2903 | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202903%20-%20FindIndicesWithIndexAndValueDifferenceI/FindIndices/FindIndices/Program.cs) |✔️|
+|2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202904%20-%20ShortestAndLexicographicallySmallestBeautifulString/ShortestAndLexicographicallySmallest/ShortestAndLexicographicallySmallest/Program.cs) |✔️|
+|2905 | [Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202905%20-%20FindIndicesWithIndexAndValueDifferenceII/FindIndices/FindIndices/Program.cs) |✔️|
+|2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202906%20-%20ConstructProductMatrix/ConstructProductMatrix/ConstructProductMatrix/Program.cs) |✔️|
 
-|28 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
-|28 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
-|28 | []()| Easy | [C#]() |✔️|
-|28 | []()| Medium | [C#]() |✔️|
-|28 | []()| Medium | [C#]() |✔️|
-|28 | []()| Hard |  |:heavy_minus_sign: |
-|28 | []()| Easy | [C#]() |✔️|
-|28 | []()| Medium | [C#]() |✔️|
-|28 | []()| Medium | [C#]() |✔️|
-|28 | []()| Hard |  |:heavy_minus_sign: |
-|28 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
+|29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
+|29 | []()| Easy | [C#]() |✔️|
+|29 | []()| Medium | [C#]() |✔️|
+|29 | []()| Medium | [C#]() |✔️|
+|29 | []()| Hard |  |:heavy_minus_sign: |
+|29 | []()| Easy | [C#]() |✔️|
+|29 | []()| Medium | [C#]() |✔️|
+|29 | []()| Medium | [C#]() |✔️|
+|29 | []()| Hard |  |:heavy_minus_sign: |
+|29 | []()|  | [SQLServer](), [MySQL]() |✔️|
