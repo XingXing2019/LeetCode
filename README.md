@@ -2904,6 +2904,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202904%20-%20ShortestAndLexicographicallySmallestBeautifulString/ShortestAndLexicographicallySmallest/ShortestAndLexicographicallySmallest/Program.cs) |✔️|
 |2905 | [Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202905%20-%20FindIndicesWithIndexAndValueDifferenceII/FindIndices/FindIndices/Program.cs) |✔️|
 |2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202906%20-%20ConstructProductMatrix/ConstructProductMatrix/ConstructProductMatrix/Program.cs) |✔️|
+|2907 | [Maximum Profitable Triplets With Increasing Prices I](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202907%20-%20MaximumProfitableTripletsWithIncreasingPricesI/MaximumProfitableTriplets/MaximumProfitableTriplets/Program.cs) |✔️|
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
