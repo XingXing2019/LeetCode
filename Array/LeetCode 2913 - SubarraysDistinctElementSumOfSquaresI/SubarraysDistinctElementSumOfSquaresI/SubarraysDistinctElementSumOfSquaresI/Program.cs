@@ -4,7 +4,7 @@ Console.WriteLine(SumCounts(nums));
 int SumCounts(IList<int> nums)
 {
     var res = 0;
-    for (int i = 1; i < nums.Count; i++)
+    for (int i = 1; i <= nums.Count; i++)
         res += GetSquare(nums, i);
     return res;
 }
