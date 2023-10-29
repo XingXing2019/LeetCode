@@ -2914,10 +2914,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202914%20-%20MinimumNumberOfChangesToMakeBinaryStringBeautiful/MinimumNumberOfChanges/MinimumNumberOfChanges/Program.cs) |✔️|
 |2915 | [Length of the Longest Subsequence That Sums to Target](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202915%20-%20LengthOfTheLongestSubsequenceThatSumsToTarget/LengthOfTheLongestSubsequence/LengthOfTheLongestSubsequence/Program.cs) |✔️|
 |2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/)| Hard |  |:heavy_minus_sign: |
-|2917 | []()| Easy | [C#]() |✔️|
-|2918 | []()| Medium | [C#]() |✔️|
-|2919 | []()| Medium | [C#]() |✔️|
-|2920 | []()| Hard |  |:heavy_minus_sign: |
+|2917 | [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202917%20-%20FindTheKorOfAnArray/FindTheKorOfAnArray/FindTheKorOfAnArray/Program.cs) |✔️|
+|2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202918%20-%20MinimumEqualSumOfTwoArraysAfterReplacingZeros/MinimumEqualSum/MinimumEqualSum/Program.cs) |✔️|
+|2919 | [Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202919%20-%20MinimumIncrementOperationsToMakeArrayBeautiful/MinimumIncrementOperations/MinimumIncrementOperations/Program.cs) |✔️|
+|2920 | [Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/)| Hard |  |:heavy_minus_sign: |
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
