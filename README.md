@@ -2914,6 +2914,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2914 | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202914%20-%20MinimumNumberOfChangesToMakeBinaryStringBeautiful/MinimumNumberOfChanges/MinimumNumberOfChanges/Program.cs) |✔️|
 |2915 | [Length of the Longest Subsequence That Sums to Target](https://leetcode.com/problems/length-of-the-longest-subsequence-that-sums-to-target/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202915%20-%20LengthOfTheLongestSubsequenceThatSumsToTarget/LengthOfTheLongestSubsequence/LengthOfTheLongestSubsequence/Program.cs) |✔️|
 |2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/)| Hard |  |:heavy_minus_sign: |
+|2917 | []()| Easy | [C#]() |✔️|
+|2918 | []()| Medium | [C#]() |✔️|
+|2919 | []()| Medium | [C#]() |✔️|
+|2920 | []()| Hard |  |:heavy_minus_sign: |
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
