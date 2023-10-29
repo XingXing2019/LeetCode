@@ -3,7 +3,7 @@
     int cur = 1, res = 0;
     for (int i = 0; i < 32; i++)
     {
-        var count;
+        var count = 0;
         foreach (var num in nums)
         {
             if ((cur & num) != cur) continue;
