@@ -2918,6 +2918,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2918 | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202918%20-%20MinimumEqualSumOfTwoArraysAfterReplacingZeros/MinimumEqualSum/MinimumEqualSum/Program.cs) |✔️|
 |2919 | [Minimum Increment Operations to Make Array Beautiful](https://leetcode.com/problems/minimum-increment-operations-to-make-array-beautiful/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202919%20-%20MinimumIncrementOperationsToMakeArrayBeautiful/MinimumIncrementOperations/MinimumIncrementOperations/Program.cs) |✔️|
 |2920 | [Maximum Points After Collecting Coins From All Nodes](https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/)| Hard |  |:heavy_minus_sign: |
+|29 | [Maximum Profitable Triplets With Increasing Prices II](https://leetcode.com/problems/maximum-profitable-triplets-with-increasing-prices-ii/)| Hard |  |:heavy_minus_sign: |
+|29 | [Market Analysis III](https://leetcode.com/problems/market-analysis-iii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202922%20-%20MarketAnalysisIII/MarketAnalysisIII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202922%20-%20MarketAnalysisIII/MarketAnalysisIII_MySQL.sql) |✔️|
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
