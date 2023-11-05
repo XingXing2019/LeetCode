@@ -6,6 +6,6 @@ int FindChampion(int n, int[][] edges)
     var inDegree = new int[n];
     foreach (var edge in edges)
         inDegree[edge[1]]++;
-    var teams = inDegree.Where((i, x) => x == 0).Select((i, x) => i).ToList();
-    return teams.Count != 1 ? -1 : teams.First();
+    var teams = inDegree.Select((x, i) => new int[] { x, i }).Where(x => x[0] == 0).ToList();
+    return teams.Count != 1 ? -1 : teams.First()[1];
 }
