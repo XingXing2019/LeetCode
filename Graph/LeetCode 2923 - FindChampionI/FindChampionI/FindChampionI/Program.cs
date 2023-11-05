@@ -8,7 +8,7 @@
         {
             if (grid[i][j] == 0) continue;
             inDegree[i]++;
-            if (inDegree[i] == n)
+            if (inDegree[i] == n - 1)
                 return i;
         }
     }
