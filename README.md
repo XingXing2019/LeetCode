@@ -2929,10 +2929,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2929 | [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202929%20-%20DistributeCandiesAmongChildrenII/DistributeCandiesAmongChildrenII/DistributeCandiesAmongChildrenII/Program.cs) |✔️|
 |2930 | [Number of Strings Which Can Be Rearranged to Contain Substring](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202930%20-%20NumberOfStringsWhichCanBeRearrangedToContainSubstring/NumberOfStrings/NumberOfStrings/Program.cs) |✔️|
 |2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/)| Hard |  |:heavy_minus_sign: |
-|2932 | []()| Easy | [C#]() |✔️|
-|2933 | []()| Medium | [C#]() |✔️|
-|2934 | []()| Medium | [C#]() |✔️|
-|2935 | []()| Hard |  |:heavy_minus_sign: |
+|2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202932%20-%20MaximumStrongPairXORI/MaximumStrongPairXORI/MaximumStrongPairXORI/Program.cs) |✔️|
+|2933 | [High-Access Employees](https://leetcode.com/problems/high-access-employees/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202933%20-%20HighAccessEmployees/HighAccessEmployees/HighAccessEmployees/Program.cs) |✔️|
+|2934 | [Minimum Operations to Maximize Last Elements in Arrays](https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202934%20-%20MinimumOperationsToMaximizeLastElementsInArrays/MinimumOperations/MinimumOperations/Program.cs) |✔️|
+|2935 | [Maximum Strong Pair XOR II](https://leetcode.com/problems/maximum-strong-pair-xor-ii/)| Hard |  |:heavy_minus_sign: |
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
