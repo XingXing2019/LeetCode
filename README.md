@@ -2924,6 +2924,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2924 | [Find Champion II](https://leetcode.com/problems/find-champion-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202924%20-%20FindChampionII/FindChampionII/FindChampionII/Program.cs) |✔️|
 |2925 | [Maximum Score After Applying Operations on a Tree](https://leetcode.com/problems/maximum-score-after-applying-operations-on-a-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202925%20-%20MaximumScoreAfterApplyingOperationsOnATree/MaximumScore/MaximumScore/Program.cs) |✔️|
 |2926 | [Maximum Balanced Subsequence Sum](https://leetcode.com/problems/maximum-balanced-subsequence-sum/)| Hard |  |:heavy_minus_sign: |
+|2927 | [Distribute Candies Among Children III](https://leetcode.com/problems/distribute-candies-among-children-iii/)| Hard |  |:heavy_minus_sign: |
+|2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202928%20-%20DistributeCandiesAmongChildrenI/DistributeCandiesAmongChildrenI/DistributeCandiesAmongChildrenI/Program.cs) |✔️|
+|2929 | [Distribute Candies Among Children II](https://leetcode.com/problems/distribute-candies-among-children-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202929%20-%20DistributeCandiesAmongChildrenII/DistributeCandiesAmongChildrenII/DistributeCandiesAmongChildrenII/Program.cs) |✔️|
+|2930 | [Number of Strings Which Can Be Rearranged to Contain Substring](https://leetcode.com/problems/number-of-strings-which-can-be-rearranged-to-contain-substring/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202930%20-%20NumberOfStringsWhichCanBeRearrangedToContainSubstring/NumberOfStrings/NumberOfStrings/Program.cs) |✔️|
+|2931 | [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/)| Hard |  |:heavy_minus_sign: |
+|2932 | []()| Easy | [C#]() |✔️|
+|2933 | []()| Medium | [C#]() |✔️|
+|2934 | []()| Medium | [C#]() |✔️|
+|2935 | []()| Hard |  |:heavy_minus_sign: |
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
