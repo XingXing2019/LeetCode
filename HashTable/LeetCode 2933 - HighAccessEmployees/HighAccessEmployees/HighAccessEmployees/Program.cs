@@ -20,6 +20,7 @@
 
 bool IsHighAccess(List<int> times)
 {
+    times.Sort();
     for (int i = 0; i <= times.Count - 3; i++)
     {
         if (times[i + 2] - times[i] >= 60) continue;
