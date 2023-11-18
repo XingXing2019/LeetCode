@@ -2933,6 +2933,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2933 | [High-Access Employees](https://leetcode.com/problems/high-access-employees/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202933%20-%20HighAccessEmployees/HighAccessEmployees/HighAccessEmployees/Program.cs) |✔️|
 |2934 | [Minimum Operations to Maximize Last Elements in Arrays](https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202934%20-%20MinimumOperationsToMaximizeLastElementsInArrays/MinimumOperations/MinimumOperations/Program.cs) |✔️|
 |2935 | [Maximum Strong Pair XOR II](https://leetcode.com/problems/maximum-strong-pair-xor-ii/)| Hard |  |:heavy_minus_sign: |
+|2936 | [Number of Equal Numbers Blocks](https://leetcode.com/problems/number-of-equal-numbers-blocks/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202936%20-%20NumberOfEqualNumbersBlocks/NumberOfEqualNumbersBlocks/NumberOfEqualNumbersBlocks/Program.cs) |✔️|
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
