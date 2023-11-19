@@ -2934,6 +2934,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2934 | [Minimum Operations to Maximize Last Elements in Arrays](https://leetcode.com/problems/minimum-operations-to-maximize-last-elements-in-arrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202934%20-%20MinimumOperationsToMaximizeLastElementsInArrays/MinimumOperations/MinimumOperations/Program.cs) |✔️|
 |2935 | [Maximum Strong Pair XOR II](https://leetcode.com/problems/maximum-strong-pair-xor-ii/)| Hard |  |:heavy_minus_sign: |
 |2936 | [Number of Equal Numbers Blocks](https://leetcode.com/problems/number-of-equal-numbers-blocks/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%202936%20-%20NumberOfEqualNumbersBlocks/NumberOfEqualNumbersBlocks/NumberOfEqualNumbersBlocks/Program.cs) |✔️|
+|2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202937%20-%20MakeThreeStringsEqual/MakeThreeStringsEqual/MakeThreeStringsEqual/Program.cs) |✔️|
+|2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202938%20-%20SeparateBlackAndWhiteBalls/SeparateBlackAndWhiteBalls/SeparateBlackAndWhiteBalls/Program.cs) |✔️|
+|2939 | [Maximum Xor Product](https://leetcode.com/problems/maximum-xor-product/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202939%20-%20MaximumXorProduct/MaximumXorProduct/MaximumXorProduct/Program.cs) |✔️|
+|2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)| Hard |  |:heavy_minus_sign: |
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
