@@ -2938,6 +2938,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202938%20-%20SeparateBlackAndWhiteBalls/SeparateBlackAndWhiteBalls/SeparateBlackAndWhiteBalls/Program.cs) |✔️|
 |2939 | [Maximum Xor Product](https://leetcode.com/problems/maximum-xor-product/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%202939%20-%20MaximumXorProduct/MaximumXorProduct/MaximumXorProduct/Program.cs) |✔️|
 |2940 | [Find Building Where Alice and Bob Can Meet](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/)| Hard |  |:heavy_minus_sign: |
+|2941 | [Maximum GCD-Sum of a Subarray](https://leetcode.com/problems/maximum-gcd-sum-of-a-subarray/)| Hard |  |:heavy_minus_sign: |
+|2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/tree/master/String/LeetCode%202942%20-%20FindWordsContainingCharacter/FindWordsContainingCharacter/FindWordsContainingCharacter) |✔️|
+|2943 | [Maximize Area of Square Hole in Grid](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/)| Medium | [C#]() |✔️|
+|2944 | [Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%202944%20-%20MinimumNumberOfCoinsForFruits/MinimumNumberOfCoinsForFruits/MinimumNumberOfCoinsForFruits/Program.cs) |✔️|
+|2945 | [Find Maximum Non-decreasing Array Length](https://leetcode.com/problems/find-maximum-non-decreasing-array-length/)| Hard |  |:heavy_minus_sign: |
+|2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202946%20-%20MatrixSimilarityAfterCyclicShifts/MatrixSimilarityAfterCyclicShifts/MatrixSimilarityAfterCyclicShifts/Program.cs) |✔️|
+|2947 | [Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/tree/master/String/LeetCode%202947%20-%20CountBeautifulSubstringsI/CountBeautifulSubstringsI/CountBeautifulSubstringsI) |✔️|
+|2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202948%20-%20MakeLexicographicallySmallestArrayBySwappingElements/MakeLexicographicallySmallest/MakeLexicographicallySmallest/Program.cs) |✔️|
+|2949 | [Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/)| Hard |  |:heavy_minus_sign: |
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
