@@ -2947,6 +2947,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2947 | [Count Beautiful Substrings I](https://leetcode.com/problems/count-beautiful-substrings-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202947%20-%20CountBeautifulSubstringsI/CountBeautifulSubstringsI/CountBeautifulSubstringsI/Program.cs) |✔️|
 |2948 | [Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202948%20-%20MakeLexicographicallySmallestArrayBySwappingElements/MakeLexicographicallySmallest/MakeLexicographicallySmallest/Program.cs) |✔️|
 |2949 | [Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/)| Hard |  |:heavy_minus_sign: |
+|2950 | [Number of Divisible Substrings](https://leetcode.com/problems/number-of-divisible-substrings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202950%20-%20NumberOfDivisibleSubstrings/NumberOfDivisibleSubstrings/NumberOfDivisibleSubstrings/Program.cs) |✔️|
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
