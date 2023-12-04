@@ -5,7 +5,8 @@ Console.WriteLine(MinimumAddedCoins(coins, target));
 int MinimumAddedCoins(int[] coins, int target)
 {
     Array.Sort(coins);
-    int res = 0, maxReach = 0, index = 0;
+    int res = 0, index = 0;
+    long maxReach = 0;
     while (index < coins.Length)
     {
         if (maxReach + 1 >= coins[index])
