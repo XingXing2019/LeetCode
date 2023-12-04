@@ -2950,7 +2950,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2950 | [Number of Divisible Substrings](https://leetcode.com/problems/number-of-divisible-substrings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202950%20-%20NumberOfDivisibleSubstrings/NumberOfDivisibleSubstrings/NumberOfDivisibleSubstrings/Program.cs) |✔️|
 |2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202951%20-%20FindThePeaks/FindThePeaks/FindThePeaks/Program.cs) |✔️|
 |2952 | [Minimum Number of Coins to be Added](https://leetcode.com/problems/minimum-number-of-coins-to-be-added/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202952%20-%20MinimumNumberOfCoinsToBeAdded/MinimumNumberOfCoinsToBeAdded/MinimumNumberOfCoinsToBeAdded/Program.cs) |✔️|
-|2953 | [Count Complete Substrings](https://leetcode.com/problems/count-complete-substrings/)| Medium |  |:heavy_minus_sign: |
+|2953 | [Count Complete Substrings](https://leetcode.com/problems/count-complete-substrings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%202953%20-%20CountCompleteSubstrings/CountCompleteSubstrings/CountCompleteSubstrings/Program.cs) |✔️|
 |2954 | [Count the Number of Infection Sequences](https://leetcode.com/problems/count-the-number-of-infection-sequences/)| Hard |  |:heavy_minus_sign: |
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
