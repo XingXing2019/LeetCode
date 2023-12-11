@@ -2959,7 +2959,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2959 | [Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/)| Hard |  |:heavy_minus_sign: |
 |2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202960%20-%20CountTestedDevicesAfterTestOperations/CountTestedDevicesAfterTestOperations/CountTestedDevicesAfterTestOperations/Program.cs) |✔️|
 |2961 | [Double Modular Exponentiation](https://leetcode.com/problems/double-modular-exponentiation/)| Medium | [C#]() |✔️|
-|2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)| Medium | [C#]() |✔️|
+|2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202962%20-%20CountSubarraysWhereMaxElementAppearsAtLeastKTimes/CountSubarrays/CountSubarrays/Program.cs) |✔️|
 |2963 | [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/)| Hard |  |:heavy_minus_sign: |
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
