@@ -2961,6 +2961,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2961 | [Double Modular Exponentiation](https://leetcode.com/problems/double-modular-exponentiation/)| Medium | [C#]() |✔️|
 |2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202962%20-%20CountSubarraysWhereMaxElementAppearsAtLeastKTimes/CountSubarrays/CountSubarrays/Program.cs) |✔️|
 |2963 | [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/)| Hard |  |:heavy_minus_sign: |
+|2964 | [Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202964%20-%20NumberOfDivisibleTripletSums/NumberOfDivisibleTripletSums/NumberOfDivisibleTripletSums/Program.cs) |✔️|
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
