@@ -1,7 +1,7 @@
 ﻿int[] FindMissingAndRepeatedValues(int[][] grid)
 {
     var n = grid.Length;
-    var nums = new int[n * n];
+    var nums = new int[n * n + 1];
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < n; j++)
@@ -10,7 +10,7 @@
         }
     }
     var res = new int[2];
-    for (int i = 0; i < nums.Length; i++)
+    for (int i = 1; i < nums.Length; i++)
     {
         if (nums[i] == 2)
             res[0] = i;
