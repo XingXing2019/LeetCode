@@ -2962,6 +2962,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202962%20-%20CountSubarraysWhereMaxElementAppearsAtLeastKTimes/CountSubarrays/CountSubarrays/Program.cs) |✔️|
 |2963 | [Count the Number of Good Partitions](https://leetcode.com/problems/count-the-number-of-good-partitions/)| Hard |  |:heavy_minus_sign: |
 |2964 | [Number of Divisible Triplet Sums](https://leetcode.com/problems/number-of-divisible-triplet-sums/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202964%20-%20NumberOfDivisibleTripletSums/NumberOfDivisibleTripletSums/NumberOfDivisibleTripletSums/Program.cs) |✔️|
+|2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202965%20-%20FindMissingAndRepeatedValues/FindMissingAndRepeatedValues/FindMissingAndRepeatedValues/Program.cs) |✔️|
+|2966 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202966%20-%20DivideArrayIntoArraysWithMaxDifference/DivideArrayIntoArraysWithMaxDifference/DivideArrayIntoArraysWithMaxDifference/Program.cs) |✔️|
+|2967 | [Minimum Cost to Make Array Equalindromic](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202967%20-%20MinimumCostToMakeArrayEqualindromic/MinimumCostToMakeArrayEqualindromic/MinimumCostToMakeArrayEqualindromic/Program.cs) |✔️|
+|2968 | [Apply Operations to Maximize Frequency Score](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/)| Hard |  |:heavy_minus_sign: |
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
