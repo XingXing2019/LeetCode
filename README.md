@@ -2966,6 +2966,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2966 | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202966%20-%20DivideArrayIntoArraysWithMaxDifference/DivideArrayIntoArraysWithMaxDifference/DivideArrayIntoArraysWithMaxDifference/Program.cs) |✔️|
 |2967 | [Minimum Cost to Make Array Equalindromic](https://leetcode.com/problems/minimum-cost-to-make-array-equalindromic/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202967%20-%20MinimumCostToMakeArrayEqualindromic/MinimumCostToMakeArrayEqualindromic/MinimumCostToMakeArrayEqualindromic/Program.cs) |✔️|
 |2968 | [Apply Operations to Maximize Frequency Score](https://leetcode.com/problems/apply-operations-to-maximize-frequency-score/)| Hard |  |:heavy_minus_sign: |
+|2969 | [Minimum Number of Coins for Fruits II](https://leetcode.com/problems/minimum-number-of-coins-for-fruits-ii/)| Hard |  |:heavy_minus_sign: |
+|2970 | [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202970%20-%20CountTheNumberOfIncremovableSubarraysI/CountTheNumberOfIncremovableSubarraysI/CountTheNumberOfIncremovableSubarraysI/Program.cs) |✔️|
+|2971 | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202971%20-%20FindPolygonWithTheLargestPerimeter/FindPolygonWithTheLargestPerimeter/FindPolygonWithTheLargestPerimeter/Program.cs) |✔️|
+|2972 | [Count the Number of Incremovable Subarrays II](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/)| Hard |  |:heavy_minus_sign: |
+|2973 | [Find Number of Coins to Place in Tree Nodes](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/)| Hard |  |:heavy_minus_sign: |4
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
