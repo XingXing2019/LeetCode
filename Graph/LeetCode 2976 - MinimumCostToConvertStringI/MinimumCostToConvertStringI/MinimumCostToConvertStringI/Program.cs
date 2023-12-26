@@ -20,9 +20,10 @@ long MinimumCost(string source, string target, char[] original, char[] changed, 
         dp[i][i] = 0;
     }
     long res = 0;
+    var dict = new Dictionary<string, long>();
     for (int i = 0; i < source.Length; i++)
     {
-        var temp = BFS(source[i] - 'a', target[i] - 'a', graph, dp);
+        var temp = BFS(source[i] - 'a', target[i] - 'a', graph, dp, dict);
         if (temp == -1)
             return -1;
         res += temp;
@@ -30,8 +31,10 @@ long MinimumCost(string source, string target, char[] original, char[] changed, 
     return res;
 }
 
-long BFS(int source, int target, List<int[]>[] graph, long[][] dp)
+long BFS(int source, int target, List<int[]>[] graph, long[][] dp, Dictionary<string, long> dict)
 {
+    if (dict.ContainsKey($"{source}:{target}"))
+        return dict[$"{source}:{target}"];
     var queue = new Queue<int[]>();
     queue.Enqueue(new[] { source, 0 });
     while (queue.Count != 0)
@@ -39,12 +42,10 @@ long BFS(int source, int target, List<int[]>[] graph, long[][] dp)
         var cur = queue.Dequeue();
         foreach (var next in graph[cur[0]])
         {
-            if (dp[source][next[0]] > cur[1] + next[1])
-            {
-                dp[source][next[0]] = cur[1] + next[1];
-                queue.Enqueue(new[] { next[0], cur[1] + next[1] });
-            }
+            if (dp[source][next[0]] <= cur[1] + next[1]) continue;
+            dp[source][next[0]] = cur[1] + next[1];
+            queue.Enqueue(new[] { next[0], cur[1] + next[1] });
         }
     }
-    return dp[source][target] == long.MaxValue ? -1 : dp[source][target];
+    return dict[$"{source}:{target}"] = dp[source][target] == long.MaxValue ? -1 : dp[source][target];
 }
