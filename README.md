@@ -2971,6 +2971,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2971 | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%202971%20-%20FindPolygonWithTheLargestPerimeter/FindPolygonWithTheLargestPerimeter/FindPolygonWithTheLargestPerimeter/Program.cs) |✔️|
 |2972 | [Count the Number of Incremovable Subarrays II](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-ii/)| Hard |  |:heavy_minus_sign: |
 |2973 | [Find Number of Coins to Place in Tree Nodes](https://leetcode.com/problems/find-number-of-coins-to-place-in-tree-nodes/)| Hard |  |:heavy_minus_sign: |4
+|2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%202974%20-%20MinimumNumberGame/MinimumNumberGame/MinimumNumberGame/Program.cs) |✔️|
+|2975 | [Maximum Square Area by Removing Fences From a Field](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%202975%20-%20MaximumSquareAreaByRemovingFencesFromAField/MaximumSquareArea/MaximumSquareArea/Program.cs) |✔️|
+|2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202976%20-%20MinimumCostToConvertStringI/MinimumCostToConvertStringI/MinimumCostToConvertStringI/Program.cs) |✔️|
+|2977 | [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/)| Hard |  |:heavy_minus_sign: |
+|2978 | [Symmetric Coordinates](https://leetcode.com/problems/symmetric-coordinates/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202978%20-%20SymmetricCoordinates/SymmetricCoordinates_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202978%20-%20SymmetricCoordinates/SymmetricCoordinates_MySQL.sql) |✔️|
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
