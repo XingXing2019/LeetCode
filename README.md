@@ -2976,6 +2976,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2976 | [Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%202976%20-%20MinimumCostToConvertStringI/MinimumCostToConvertStringI/MinimumCostToConvertStringI/Program.cs) |✔️|
 |2977 | [Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/)| Hard |  |:heavy_minus_sign: |
 |2978 | [Symmetric Coordinates](https://leetcode.com/problems/symmetric-coordinates/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202978%20-%20SymmetricCoordinates/SymmetricCoordinates_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%202978%20-%20SymmetricCoordinates/SymmetricCoordinates_MySQL.sql) |✔️|
+|2979 | [Most Expensive Item That Can Not Be Bought](https://leetcode.com/problems/most-expensive-item-that-can-not-be-bought/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%202979%20-%20MostExpensiveItemThatCanNotBeBought/MostExpensiveItemThatCanNotBeBought/MostExpensiveItemThatCanNotBeBought/Program.cs) |✔️|
 
 |29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
 |29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
