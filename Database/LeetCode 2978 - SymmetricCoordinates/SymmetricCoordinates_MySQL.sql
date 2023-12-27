@@ -1,6 +1,6 @@
 with CoordinateRows as (
-	select *, row_number() over() as CoordinateRows
-    from Coordinates 
+	select *, row_number() over() as CoordinateRows 
+	from Coordinates 
 )
 
 select distinct c1.X, c1.Y
