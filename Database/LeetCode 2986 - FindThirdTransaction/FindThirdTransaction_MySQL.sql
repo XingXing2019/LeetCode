@@ -1,6 +1,6 @@
 with DateRank as (
 	select *, rank() over(partition by user_id order by transaction_date) as date_rank
-    from Transactions
+	from Transactions
 )
 
 select d3.user_id, d3.spend as third_transaction_spend, d3.transaction_date as third_transaction_date
