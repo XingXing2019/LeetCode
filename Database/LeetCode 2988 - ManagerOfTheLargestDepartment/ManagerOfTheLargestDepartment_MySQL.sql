@@ -1,6 +1,6 @@
 with EmployeeCount as (
 	select dep_id, count(emp_id) as emp_count
-    from Employees group by dep_id
+	from Employees group by dep_id
 )
 
 select e.emp_name as manager_name, e.dep_id
