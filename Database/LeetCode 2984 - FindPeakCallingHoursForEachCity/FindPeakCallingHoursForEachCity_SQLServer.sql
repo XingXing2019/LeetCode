@@ -1,6 +1,6 @@
 WITH PeakCalls AS (
-	SELECT city, DATEPART(HOUR, call_time) AS peak_calling_hour, COUNT(*) AS number_of_calls FROM Calls
-	GROUP BY city, DATEPART(HOUR, call_time)
+	SELECT city, DATEPART(HOUR, call_time) AS peak_calling_hour, COUNT(*) AS number_of_calls 
+	FROM Calls GROUP BY city, DATEPART(HOUR, call_time)
 ) 
 
 SELECT city, peak_calling_hour, number_of_calls FROM (
