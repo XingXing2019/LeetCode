@@ -1,6 +1,6 @@
 with SessionRank as (
 	select *, rank() over(partition by user_id order by session_start) as session_rank
-    from Sessions
+    	from Sessions
 )
 
 select user_id, count(session_id) as sessions_count
