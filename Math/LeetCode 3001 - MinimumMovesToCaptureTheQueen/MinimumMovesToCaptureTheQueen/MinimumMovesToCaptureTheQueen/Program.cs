@@ -18,9 +18,9 @@ int MinMovesToCaptureTheQueen(int a, int b, int c, int d, int e, int f)
         return 1;
     if (e - c == f - d && e > c && (a - c != b - d || a < c || a > e))
         return 1;                        
-    if (c - e == d - f && e < c && (a - e != b - f || a > e || a < c))
+    if (c - e == d - f && e < c && (a - e != b - f || a < e || a > c))
         return 1;                        
-    if (c - e == f - d && e < c && (a - e != f - b || a < c || a > e))
+    if (c - e == f - d && e < c && (a - e != f - b || a > c || a < e))
         return 1;                        
     if (e - c == d - f && e > c && (e - a != b - f || a > e || a < c))
         return 1;
