@@ -3002,14 +3002,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3002 | [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203002%20-%20MaximumSizeOfASetAfterRemovals/MaximumSizeOfASetAfterRemovals/MaximumSizeOfASetAfterRemovals/Program.cs) |✔️|
 |3003 | [Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/)| Hard |  |:heavy_minus_sign: |
 
-|29 | []()| Easy | [JS]() |  |:heavy_minus_sign: |
-|29 | []()| Medium | [JS]() |  |:heavy_minus_sign: |
-|29 | []()| Easy | [C#]() |✔️|
-|29 | []()| Medium | [C#]() |✔️|
-|29 | []()| Medium | [C#]() |✔️|
-|29 | []()| Hard |  |:heavy_minus_sign: |
-|29 | []()| Easy | [C#]() |✔️|
-|29 | []()| Medium | [C#]() |✔️|
-|29 | []()| Medium | [C#]() |✔️|
-|29 | []()| Hard |  |:heavy_minus_sign: |
-|29 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|30 | []()| Easy | [C#]() |✔️|
+|30 | []()| Medium | [C#]() |✔️|
+|30 | []()| Medium | [C#]() |✔️|
+|30 | []()| Hard |  |:heavy_minus_sign: |
+|30 | []()|  | [SQLServer](), [MySQL]() |✔️|
