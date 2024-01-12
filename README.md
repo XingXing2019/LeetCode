@@ -3001,6 +3001,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3001 | [Minimum Moves to Capture The Queen](https://leetcode.com/problems/minimum-moves-to-capture-the-queen/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203001%20-%20MinimumMovesToCaptureTheQueen/MinimumMovesToCaptureTheQueen/MinimumMovesToCaptureTheQueen/Program.cs) |✔️|
 |3002 | [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203002%20-%20MaximumSizeOfASetAfterRemovals/MaximumSizeOfASetAfterRemovals/MaximumSizeOfASetAfterRemovals/Program.cs) |✔️|
 |3003 | [Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/)| Hard |  |:heavy_minus_sign: |
+|3004 | [Maximum Subtree of the Same Color](https://leetcode.com/problems/maximum-subtree-of-the-same-color/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203004%20-%20MaximumSubtreeOfTheSameColor/MaximumSubtreeOfTheSameColor/MaximumSubtreeOfTheSameColor/Program.cs) |✔️|
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
