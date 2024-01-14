@@ -3002,6 +3002,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3002 | [Maximum Size of a Set After Removals](https://leetcode.com/problems/maximum-size-of-a-set-after-removals/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203002%20-%20MaximumSizeOfASetAfterRemovals/MaximumSizeOfASetAfterRemovals/MaximumSizeOfASetAfterRemovals/Program.cs) |✔️|
 |3003 | [Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/)| Hard |  |:heavy_minus_sign: |
 |3004 | [Maximum Subtree of the Same Color](https://leetcode.com/problems/maximum-subtree-of-the-same-color/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203004%20-%20MaximumSubtreeOfTheSameColor/MaximumSubtreeOfTheSameColor/MaximumSubtreeOfTheSameColor/Program.cs) |✔️|
+|3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203005%20-%20CountElementsWithMaximumFrequency/CountElementsWithMaximumFrequency/CountElementsWithMaximumFrequency/Program.cs) |✔️|
+|3006 | [Find Beautiful Indices in the Given Array I](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203006%20-%20FindBeautifulIndicesInTheGivenArrayI/FindBeautifulIndices/FindBeautifulIndices/Program.cs) |✔️|
+|3007 | [Maximum Number That Sum of the Prices Is Less Than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203007%20-%20MaximumNumberThatSumOfThePricesIsLessThanOrEqualToK/MaximumNumber/MaximumNumber/Program.cs) |✔️|
+|3008 | [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
