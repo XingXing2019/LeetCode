@@ -9,5 +9,5 @@
         freq[num]++;
         min = Math.Min(min, num);
     }
-    return (int)Math.Ceiling((double)freq[min] / 2);
+    return freq[min] == 1 || nums.Any(x => x % min != 0) ? 1 : (int)Math.Ceiling((double)freq[min] / 2);
 }
