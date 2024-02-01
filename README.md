@@ -3015,6 +3015,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3015 | [Count the Number of Houses at a Certain Distance I](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203015%20-%20CountTheNumberOfHousesAtACertainDistanceI/CountTheNumberOfHouses/CountTheNumberOfHouses/Program.cs) |✔️|
 |3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203016%20-%20MinimumNumberOfPushesToTypeWordII/MinimumNumberOfPushes/MinimumNumberOfPushes/Program.cs) |✔️|
 |3017 | [Count the Number of Houses at a Certain Distance II](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/)| Hard |  |:heavy_minus_sign: |
+|3018 | [Maximum Number of Removal Queries That Can Be Processed I](https://leetcode.com/problems/maximum-number-of-removal-queries-that-can-be-processed-i/)| Hard |  |:heavy_minus_sign: |
+|3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203019%20-%20NumberOfChangingKeys/NumberOfChangingKeys/NumberOfChangingKeys/Program.cs) |✔️|
+|3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203020%20-%20FindTheMaximumNumberOfElementsInSubset/FindTheMaximumNumberOfElementsInSubset/FindTheMaximumNumberOfElementsInSubset/Program.cs) |✔️|
+|3021 | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203021%20-%20AliceAndBobPlayingFlowerGame/AliceAndBobPlayingFlowerGame/AliceAndBobPlayingFlowerGame/Program.cs) |✔️|
+|3022 | [Minimize OR of Remaining Elements Using Operations](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
