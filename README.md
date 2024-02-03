@@ -3021,6 +3021,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3021 | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203021%20-%20AliceAndBobPlayingFlowerGame/AliceAndBobPlayingFlowerGame/AliceAndBobPlayingFlowerGame/Program.cs) |✔️|
 |3022 | [Minimize OR of Remaining Elements Using Operations](https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations/)| Hard |  |:heavy_minus_sign: |
 |3023 | [Find Pattern in Infinite Stream I](https://leetcode.com/problems/find-pattern-in-infinite-stream-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203023%20-%20FindPatternInInfiniteStreamI/FindPatternInInfiniteStreamI/FindPatternInInfiniteStreamI/Program.cs) |✔️|
+|3024 | [Type of Triangle II](https://leetcode.com/problems/type-of-triangle-ii/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203024%20-%20TypeOfTriangleII/TypeOfTriangleII/TypeOfTriangleII/Program.cs) |✔️|
+|3025 | [Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203025%20-%20FindTheNumberOfWaysToPlacePeopleI/FindTheNumberOfWaysToPlacePeopleI/FindTheNumberOfWaysToPlacePeopleI/Program.cs) |✔️|
+|3026 | [Maximum Good Subarray Sum](https://leetcode.com/problems/maximum-good-subarray-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203026%20-%20MaximumGoodSubarraySum/MaximumGoodSubarraySum/MaximumGoodSubarraySum/Program.cs) |✔️|
+|3027 | [Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
