@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheGridOfRegionAverage", "FindTheGridOfRegionAverage\FindTheGridOfRegionAverage.csproj", "{0C3474F2-7868-46FB-BDED-A11F00A0ECAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C3474F2-7868-46FB-BDED-A11F00A0ECAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3474F2-7868-46FB-BDED-A11F00A0ECAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3474F2-7868-46FB-BDED-A11F00A0ECAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3474F2-7868-46FB-BDED-A11F00A0ECAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6420E9A-E20B-4440-99C9-2661DA3AD376}
+	EndGlobalSection
+EndGlobal
