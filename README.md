@@ -3034,6 +3034,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3034 | [Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203034%20-%20NumberOfSubarraysThatMatchAPatternI/NumberOfSubarraysThatMatchAPatternI/NumberOfSubarraysThatMatchAPatternI/Program.cs) |✔️|
 |3035 | [Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203035%20-%20MaximumPalindromesAfterOperations/MaximumPalindromesAfterOperations/MaximumPalindromesAfterOperations/Program.cs) |✔️|
 |3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/)| Hard |  |:heavy_minus_sign: |
+|3037 | [Find Pattern in Infinite Stream II](https://leetcode.com/problems/find-pattern-in-infinite-stream-ii/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
