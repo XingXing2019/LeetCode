@@ -3039,6 +3039,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3039 | [Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203039%20-%20ApplyOperationsToMakeStringEmpty/ApplyOperationsToMakeStringEmpty/ApplyOperationsToMakeStringEmpty/Program.cs) |✔️|
 |3040 | [Maximum Number of Operations With the Same Score II](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203040%20-%20MaximumNumberOfOperationsWithTheSameScoreII/MaximumNumberOfOperations/MaximumNumberOfOperations/Program.cs) |✔️|
 |3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/)| Hard |  |:heavy_minus_sign: |
+|3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203042%20-%20CountPrefixAndSuffixPairsI/CountPrefixAndSuffixPairsI/CountPrefixAndSuffixPairsI/Program.cs) |✔️|
+|3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Trie/LeetCode%203043%20-%20FindTheLengthOfTheLongestCommonPrefix/FindTheLengthOfTheLongestCommonPrefix/FindTheLengthOfTheLongestCommonPrefix/Program.cs) |✔️|
+|3044 | [Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203044%20-%20MostFrequentPrime/MostFrequentPrime/MostFrequentPrime/Program.cs) |✔️|
+|3045 | [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
