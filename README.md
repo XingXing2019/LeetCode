@@ -3035,6 +3035,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3035 | [Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203035%20-%20MaximumPalindromesAfterOperations/MaximumPalindromesAfterOperations/MaximumPalindromesAfterOperations/Program.cs) |✔️|
 |3036 | [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/)| Hard |  |:heavy_minus_sign: |
 |3037 | [Find Pattern in Infinite Stream II](https://leetcode.com/problems/find-pattern-in-infinite-stream-ii/)| Hard |  |:heavy_minus_sign: |
+|3038 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203038%20-%20MaximumNumberOfOperationsWithTheSameScoreI/MaximumNumberOfOperations/MaximumNumberOfOperations/Program.cs) |✔️|
+|3039 | [Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203039%20-%20ApplyOperationsToMakeStringEmpty/ApplyOperationsToMakeStringEmpty/ApplyOperationsToMakeStringEmpty/Program.cs) |✔️|
+|3040 | [Maximum Number of Operations With the Same Score II](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203040%20-%20MaximumNumberOfOperationsWithTheSameScoreII/MaximumNumberOfOperations/MaximumNumberOfOperations/Program.cs) |✔️|
+|3041 | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
