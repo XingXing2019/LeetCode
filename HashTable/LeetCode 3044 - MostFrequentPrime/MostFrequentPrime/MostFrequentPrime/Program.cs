@@ -18,7 +18,7 @@ int MostFrequentPrime(int[][] mat)
             Travel(mat, x, y, primes, freq, ref max);
         }
     }
-    return freq.Where(x => x.Value == max).Max(x => x.Key);
+    return freq.Count == 0 ? -1 : freq.Where(x => x.Value == max).Max(x => x.Key);
 }
 
 HashSet<int> GetPrimes(int m, int n)
