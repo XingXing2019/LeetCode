@@ -1,0 +1,13 @@
+WITH NodeType AS (
+	SELECT t1.N,
+		CASE
+			WHEN t1.P IS NULL THEN 'Root'
+			WHEN t2.N IS NULL THEN 'Leaf'
+			ELSE 'Inner'
+		END AS Type
+	FROM Tree t1
+	LEFT JOIN Tree t2 ON t1.N = t2.P
+)
+
+SELECT DISTINCT * FROM NodeType
+ORDER BY N
