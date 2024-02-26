@@ -3044,6 +3044,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3044 | [Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203044%20-%20MostFrequentPrime/MostFrequentPrime/MostFrequentPrime/Program.cs) |✔️|
 |3045 | [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/)| Hard |  |:heavy_minus_sign: |
 
+|3050 | [Pizza Toppings Cost Analysis](https://leetcode.com/problems/pizza-toppings-cost-analysis/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203050%20-%20PizzaToppingsCostAnalysis/PizzaToppingsCostAnalysis_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203050%20-%20PizzaToppingsCostAnalysis/PizzaToppingsCostAnalysis_MySQL.sql) |✔️|
+
+
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
