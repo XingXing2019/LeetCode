@@ -3045,7 +3045,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3045 | [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/)| Hard |  |:heavy_minus_sign: |
 
 |3050 | [Pizza Toppings Cost Analysis](https://leetcode.com/problems/pizza-toppings-cost-analysis/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203050%20-%20PizzaToppingsCostAnalysis/PizzaToppingsCostAnalysis_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203050%20-%20PizzaToppingsCostAnalysis/PizzaToppingsCostAnalysis_MySQL.sql) |✔️|
-
+|3051 | [Find Candidates for Data Scientist Position](https://leetcode.com/problems/find-candidates-for-data-scientist-position/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203051%20-%20FindCandidatesForDataScientistPosition/FindCandidatesForDataScientistPosition_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203051%20-%20FindCandidatesForDataScientistPosition/FindCandidatesForDataScientistPosition_MySQL.sql) |✔️|
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
