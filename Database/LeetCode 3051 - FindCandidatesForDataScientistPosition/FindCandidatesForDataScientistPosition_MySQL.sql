@@ -1,6 +1,6 @@
 with CandidatsSkill as (
 	select * from Candidates
-    where skill in ('Python', 'Tableau', 'PostgreSQL')
+	where skill in ('Python', 'Tableau', 'PostgreSQL')
 )
 
 select candidate_id from CandidatsSkill
