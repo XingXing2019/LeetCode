@@ -17,8 +17,8 @@ with TriangleSize as (
 select	
 	case
 		when sum - max <= max then 'Not A Triangle'
-        when A = B and A = C then 'Equilateral'
-        when A = B or A = C or B = C then 'Isosceles'
-        else 'Scalene'
+        	when A = B and A = C then 'Equilateral'
+        	when A = B or A = C or B = C then 'Isosceles'
+        	else 'Scalene'
 	end as triangle_type
 from TriangleSize
