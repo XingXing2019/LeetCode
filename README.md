@@ -3043,7 +3043,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Trie/LeetCode%203043%20-%20FindTheLengthOfTheLongestCommonPrefix/FindTheLengthOfTheLongestCommonPrefix/FindTheLengthOfTheLongestCommonPrefix/Program.cs) |✔️|
 |3044 | [Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203044%20-%20MostFrequentPrime/MostFrequentPrime/MostFrequentPrime/Program.cs) |✔️|
 |3045 | [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/)| Hard |  |:heavy_minus_sign: |
-
+|3046 | []()| Easy | [C#]() |✔️|
+|3047 | []()| Medium | [C#]() |✔️|
+|3048 | []()| Medium | [C#]() |✔️|
+|3049 | []()| Hard |  |:heavy_minus_sign: |
 |3050 | [Pizza Toppings Cost Analysis](https://leetcode.com/problems/pizza-toppings-cost-analysis/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203050%20-%20PizzaToppingsCostAnalysis/PizzaToppingsCostAnalysis_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203050%20-%20PizzaToppingsCostAnalysis/PizzaToppingsCostAnalysis_MySQL.sql) |✔️|
 |3051 | [Find Candidates for Data Scientist Position](https://leetcode.com/problems/find-candidates-for-data-scientist-position/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203051%20-%20FindCandidatesForDataScientistPosition/FindCandidatesForDataScientistPosition_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203051%20-%20FindCandidatesForDataScientistPosition/FindCandidatesForDataScientistPosition_MySQL.sql) |✔️|
 |3052 | [Maximize Items](https://leetcode.com/problems/maximize-items/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203052%20-%20MaximizeItems/MaximizeItems_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203052%20-%20MaximizeItems/MaximizeItems_MySQL.sql) |✔️|
