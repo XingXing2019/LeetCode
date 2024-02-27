@@ -5,12 +5,12 @@ with EmployeeProject as (
 
 TeamWorkload as (
 	select team, sum(workload) / count(*) as team_workload from EmployeeProject
-    group by team
+	group by team
 ),
 
 EmployeeWorkload as (
 	select project_id, team, employee_id, name, workload
-    from EmployeeProject
+	from EmployeeProject
 )
 
 select employee_id, project_id, name AS employee_name, workload AS project_workload
