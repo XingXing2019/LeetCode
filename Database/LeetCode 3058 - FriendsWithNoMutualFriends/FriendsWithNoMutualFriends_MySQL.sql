@@ -1,7 +1,7 @@
 with AllFriends as (
 	select user_id1, user_id2 from Friends
-    union
-    select user_id2, user_id1 from Friends
+	union
+	select user_id2, user_id1 from Friends
 )
 
 select * from Friends
