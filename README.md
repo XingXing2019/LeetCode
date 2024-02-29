@@ -3058,6 +3058,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3058 | [Friends With No Mutual Friends](https://leetcode.com/problems/friends-with-no-mutual-friends/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203058%20-%20FriendsWithNoMutualFriends/FriendsWithNoMutualFriends_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203058%20-%20FriendsWithNoMutualFriends/FriendsWithNoMutualFriends_MySQL.sql) |✔️|
 |3059 | [Find All Unique Email Domains](https://leetcode.com/problems/find-all-unique-email-domains/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203059%20-%20FindAllUniqueEmailDomains/FindAllUniqueEmailDomains_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203059%20-%20FindAllUniqueEmailDomains/FindAllUniqueEmailDomains_MySQL.sql) |✔️|
 |3060 | [User Activities within Time Bounds](https://leetcode.com/problems/user-activities-within-time-bounds/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203060%20-%20UserActivitiesWithinTimeBounds/UserActivitiesWithinTimeBounds_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203060%20-%20UserActivitiesWithinTimeBounds/UserActivitiesWithinTimeBounds_MySQL.sql) |✔️|
+|3061 | [Calculate Trapping Rain Water](https://leetcode.com/problems/calculate-trapping-rain-water/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203061%20-%20CalculateTrappingRainWater/CalculateTrappingRainWater_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203061%20-%20CalculateTrappingRainWater/CalculateTrappingRainWater_MySQL.sql) |✔️|
+|3062 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|3063 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|3064 | []()|  | [SQLServer](), [MySQL]() |✔️|
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
