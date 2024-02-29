@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿bool IsPossibleToSplit(int[] nums)
+{
+    return nums.GroupBy(x => x).All(x => x.Count() <= 2);
+}

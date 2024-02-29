@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LeetCode\\Math\\LeetCode 3047 - FindTheLargestAreaOfSquareInsideTwoRectangles\\FindTheLargestArea\\FindTheLargestArea\\FindTheLargestArea.csproj": {}
+    "D:\\LeetCode\\LinkedList\\LeetCode 3062 - WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame.csproj": {}
   },
   "projects": {
-    "D:\\LeetCode\\Math\\LeetCode 3047 - FindTheLargestAreaOfSquareInsideTwoRectangles\\FindTheLargestArea\\FindTheLargestArea\\FindTheLargestArea.csproj": {
+    "D:\\LeetCode\\LinkedList\\LeetCode 3062 - WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LeetCode\\Math\\LeetCode 3047 - FindTheLargestAreaOfSquareInsideTwoRectangles\\FindTheLargestArea\\FindTheLargestArea\\FindTheLargestArea.csproj",
-        "projectName": "FindTheLargestArea",
-        "projectPath": "D:\\LeetCode\\Math\\LeetCode 3047 - FindTheLargestAreaOfSquareInsideTwoRectangles\\FindTheLargestArea\\FindTheLargestArea\\FindTheLargestArea.csproj",
+        "projectUniqueName": "D:\\LeetCode\\LinkedList\\LeetCode 3062 - WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame.csproj",
+        "projectName": "WinnerOfTheLinkedListGame",
+        "projectPath": "D:\\LeetCode\\LinkedList\\LeetCode 3062 - WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame.csproj",
         "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-        "outputPath": "D:\\LeetCode\\Math\\LeetCode 3047 - FindTheLargestAreaOfSquareInsideTwoRectangles\\FindTheLargestArea\\FindTheLargestArea\\obj\\",
+        "outputPath": "D:\\LeetCode\\LinkedList\\LeetCode 3062 - WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\WinnerOfTheLinkedListGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
