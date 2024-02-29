@@ -3061,7 +3061,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3061 | [Calculate Trapping Rain Water](https://leetcode.com/problems/calculate-trapping-rain-water/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203061%20-%20CalculateTrappingRainWater/CalculateTrappingRainWater_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203061%20-%20CalculateTrappingRainWater/CalculateTrappingRainWater_MySQL.sql) |✔️|
 |3062 | [Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%203062%20-%20WinnerOfTheLinkedListGame/WinnerOfTheLinkedListGame/WinnerOfTheLinkedListGame/Program.cs) |✔️|
 |3063 | [Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%203063%20-%20LinkedListFrequency/LinkedListFrequency/LinkedListFrequency/Program.cs) |✔️|
-|3064 | []()| Medium | [C#]() |✔️|
+|3064 | [Guess the Number Using Bitwise Questions I](https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203064%20-%20GuessTheNumberUsingBitwiseQuestionsI/GuessTheNumberUsingBitwiseQuestionsI/GuessTheNumberUsingBitwiseQuestionsI/Program.cs) |✔️|
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
