@@ -8,7 +8,7 @@ RightMax as (
 
 MinHeight as (
 	select l.id, if(left_max < right_max, left_max, right_max) as min_height
-    from LeftMax l join RightMax r on l.id = r.id
+	from LeftMax l join RightMax r on l.id = r.id
 )
 
 select sum(if(min_height > height, min_height - height, 0)) as total_trapped_water
