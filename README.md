@@ -3043,7 +3043,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3043 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Trie/LeetCode%203043%20-%20FindTheLengthOfTheLongestCommonPrefix/FindTheLengthOfTheLongestCommonPrefix/FindTheLengthOfTheLongestCommonPrefix/Program.cs) |✔️|
 |3044 | [Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203044%20-%20MostFrequentPrime/MostFrequentPrime/MostFrequentPrime/Program.cs) |✔️|
 |3045 | [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/)| Hard |  |:heavy_minus_sign: |
-|3046 | []()| Easy | [C#]() |✔️|
+|3046 | [Split the Array](https://leetcode.com/problems/split-the-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203046%20-%20SplitTheArray/SplitTheArray/SplitTheArray/Program.cs) |✔️|
 |3047 | []()| Medium | [C#]() |✔️|
 |3048 | []()| Medium | [C#]() |✔️|
 |3049 | [Earliest Second to Mark Indices II](https://leetcode.com/problems/earliest-second-to-mark-indices-ii/)| Hard |  |:heavy_minus_sign: |
@@ -3062,6 +3062,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3062 | [Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%203062%20-%20WinnerOfTheLinkedListGame/WinnerOfTheLinkedListGame/WinnerOfTheLinkedListGame/Program.cs) |✔️|
 |3063 | [Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%203063%20-%20LinkedListFrequency/LinkedListFrequency/LinkedListFrequency/Program.cs) |✔️|
 |3064 | [Guess the Number Using Bitwise Questions I](https://leetcode.com/problems/guess-the-number-using-bitwise-questions-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203064%20-%20GuessTheNumberUsingBitwiseQuestionsI/GuessTheNumberUsingBitwiseQuestionsI/GuessTheNumberUsingBitwiseQuestionsI/Program.cs) |✔️|
+|3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203065%20-%20MinimumOperationsToExceedThresholdValueI/MinimumOperationsToExceedThresholdValueI/MinimumOperationsToExceedThresholdValueI/Program.cs) |✔️|
+|3066 | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203066%20-%20MinimumOperationsToExceedThresholdValueII/MinimumOperationsToExceedThresholdValueII/MinimumOperationsToExceedThresholdValueII/Program.cs) |✔️|
+|3067 | [Count Pairs of Connectable Servers in a Weighted Tree Network](https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203067%20-%20CountPairsOfConnectableServersInAWeightedTreeNetwork/CountPairsOfConnectableServers/CountPairsOfConnectableServers/Program.cs) |✔️|
+|3068 | [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
