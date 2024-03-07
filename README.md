@@ -3070,6 +3070,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203070%20-%20CountSubmatricesWithTopLeftElementAndSumLessThanK/CountSubmatrices/CountSubmatrices/Program.cs) |✔️|
 |3071 | [Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203071%20-%20MinimumOperationsToWriteTheLetterYOnAGrid/MinimumOperations/MinimumOperations/Program.cs) |✔️|
 |3072 | [Distribute Elements Into Two Arrays II](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/)| Hard |  |:heavy_minus_sign: |
+|3073 | [Maximum Increasing Triplet Value](https://leetcode.com/problems/maximum-increasing-triplet-value/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203073%20-%20MaximumIncreasingTripletValue/MaximumIncreasingTripletValue/MaximumIncreasingTripletValue/Program.cs) |✔️|
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
