@@ -3071,6 +3071,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3071 | [Minimum Operations to Write the Letter Y on a Grid](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203071%20-%20MinimumOperationsToWriteTheLetterYOnAGrid/MinimumOperations/MinimumOperations/Program.cs) |✔️|
 |3072 | [Distribute Elements Into Two Arrays II](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/)| Hard |  |:heavy_minus_sign: |
 |3073 | [Maximum Increasing Triplet Value](https://leetcode.com/problems/maximum-increasing-triplet-value/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203073%20-%20MaximumIncreasingTripletValue/MaximumIncreasingTripletValue/MaximumIncreasingTripletValue/Program.cs) |✔️|
+|3074 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%203074%20-%20AppleRedistributionIntoBoxes/AppleRedistributionIntoBoxes/AppleRedistributionIntoBoxes/Program.cs) |✔️|
+|3075 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203075%20-%20MaximizeHappinessOfSelectedChildren/MaximizeHappinessOfSelectedChildren/MaximizeHappinessOfSelectedChildren/Program.cs) |✔️|
+|3076 | [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203076%20-%20ShortestUncommonSubstringInnArray/ShortestUncommonSubstringInnArray/ShortestUncommonSubstringInnArray/Program.cs) |✔️|
+|3077 | [Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
