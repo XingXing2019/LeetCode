@@ -3075,6 +3075,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3075 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203075%20-%20MaximizeHappinessOfSelectedChildren/MaximizeHappinessOfSelectedChildren/MaximizeHappinessOfSelectedChildren/Program.cs) |✔️|
 |3076 | [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203076%20-%20ShortestUncommonSubstringInnArray/ShortestUncommonSubstringInnArray/ShortestUncommonSubstringInnArray/Program.cs) |✔️|
 |3077 | [Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/)| Hard |  |:heavy_minus_sign: |
+|3078 | [Match Alphanumerical Pattern in Matrix I](https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203078%20-%20MatchAlphanumericalPatternInMatrixI/MatchAlphanumericalPatternInMatrixI/MatchAlphanumericalPatternInMatrixI/Program.cs) |✔️|
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
