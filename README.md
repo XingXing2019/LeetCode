@@ -3076,6 +3076,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3076 | [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203076%20-%20ShortestUncommonSubstringInnArray/ShortestUncommonSubstringInnArray/ShortestUncommonSubstringInnArray/Program.cs) |✔️|
 |3077 | [Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays/)| Hard |  |:heavy_minus_sign: |
 |3078 | [Match Alphanumerical Pattern in Matrix I](https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203078%20-%20MatchAlphanumericalPatternInMatrixI/MatchAlphanumericalPatternInMatrixI/MatchAlphanumericalPatternInMatrixI/Program.cs) |✔️|
+|3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203079%20-%20FindTheSumOfEncryptedIntegers/FindTheSumOfEncryptedIntegers/FindTheSumOfEncryptedIntegers/Program.cs) |✔️|
+|3080 | [Mark Elements on Array by Performing Queries](https://leetcode.com/problems/mark-elements-on-array-by-performing-queries/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203080%20-%20MarkElementsOnArrayByPerformingQueries/MarkElementsOnArrayByPerformingQueries/MarkElementsOnArrayByPerformingQueries/Program.cs) |✔️|
+|3081 | [Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203081%20-%20ReplaceQuestionMarksInStringToMinimizeItsValue/ReplaceQuestionMarks/ReplaceQuestionMarks/Program.cs) |✔️|
+|3082 | [Find the Sum of the Power of All Subsequences](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
