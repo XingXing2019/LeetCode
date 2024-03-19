@@ -3084,6 +3084,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3084 | [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203084%20-%20CountSubstringsStartingAndEndingWithGivenCharacter/CountSubstrings/CountSubstrings/Program.cs) |✔️|
 |3085 | [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203085%20-%20MinimumDeletionsToMakeStringKSpecial/MinimumDeletionsToMakeStringKSpecial/MinimumDeletionsToMakeStringKSpecial/Program.cs) |✔️|
 |3086 | [Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/)| Hard |  |:heavy_minus_sign: |
+|3087 | [Find Trending Hashtags](https://leetcode.com/problems/find-trending-hashtags/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203087%20-%20FindTrendingHashtags/FindTrendingHashtags_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203087%20-%20FindTrendingHashtags/FindTrendingHashtags_MySQL.sql) |✔️|
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
