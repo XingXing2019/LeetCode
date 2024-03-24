@@ -3085,6 +3085,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3085 | [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203085%20-%20MinimumDeletionsToMakeStringKSpecial/MinimumDeletionsToMakeStringKSpecial/MinimumDeletionsToMakeStringKSpecial/Program.cs) |✔️|
 |3086 | [Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones/)| Hard |  |:heavy_minus_sign: |
 |3087 | [Find Trending Hashtags](https://leetcode.com/problems/find-trending-hashtags/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203087%20-%20FindTrendingHashtags/FindTrendingHashtags_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203087%20-%20FindTrendingHashtags/FindTrendingHashtags_MySQL.sql) |✔️|
+|3088 | []()| Hard |  |:heavy_minus_sign: |
+|3089 | [Find Bursty Behavior](https://leetcode.com/problems/find-bursty-behavior/)| Medium | [SQLServer](), [MySQL]() |✔️|
+|3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%203090%20-%20MaximumLengthSubstringWithTwoOccurrences/MaximumLengthSubstring/MaximumLengthSubstring/Program.cs) |✔️|
+|3091 | [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203091%20-%20ApplyOperationsToMakeSumOfArrayGreaterThanOrEqualToK/ApplyOperations/ApplyOperations/Program.cs) |✔️|
+|3092 | [Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203092%20-%20MostFrequentIDs/MostFrequentIDs/MostFrequentIDs/Program.cs) |✔️|
+|3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
