@@ -3091,6 +3091,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3091 | [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203091%20-%20ApplyOperationsToMakeSumOfArrayGreaterThanOrEqualToK/ApplyOperations/ApplyOperations/Program.cs) |✔️|
 |3092 | [Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203092%20-%20MostFrequentIDs/MostFrequentIDs/MostFrequentIDs/Program.cs) |✔️|
 |3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/)| Hard |  |:heavy_minus_sign: |
+|3094 | [Guess the Number Using Bitwise Questions II](https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203094%20-%20GuessTheNumberUsingBitwiseQuestionsII/GuessTheNumber/GuessTheNumber/Program.cs) |✔️|
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
