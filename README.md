@@ -3092,6 +3092,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3092 | [Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203092%20-%20MostFrequentIDs/MostFrequentIDs/MostFrequentIDs/Program.cs) |✔️|
 |3093 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/)| Hard |  |:heavy_minus_sign: |
 |3094 | [Guess the Number Using Bitwise Questions II](https://leetcode.com/problems/guess-the-number-using-bitwise-questions-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203094%20-%20GuessTheNumberUsingBitwiseQuestionsII/GuessTheNumber/GuessTheNumber/Program.cs) |✔️|
+|3095 | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203095%20-%20ShortestSubarrayWithORAtLeastKI/ShortestSubarrayWithORAtLeastKI/ShortestSubarrayWithORAtLeastKI/Program.cs) |✔️|
+|3096 | [Minimum Levels to Gain More Points](https://leetcode.com/problems/minimum-levels-to-gain-more-points/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203096%20-%20MinimumLevelsToGainMorePoints/MinimumLevelsToGainMorePoints/MinimumLevelsToGainMorePoints/Program.cs) |✔️|
+|3097 | [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203097%20-%20ShortestSubarrayWithORAtLeastKII/ShortestSubarrayWithORAtLeastKII/ShortestSubarrayWithORAtLeastKII/Program.cs) |✔️|
+|3098 | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/)| Hard |  |:heavy_minus_sign: |
 
 |30 | []()| Easy | [C#]() |✔️|
 |30 | []()| Medium | [C#]() |✔️|
