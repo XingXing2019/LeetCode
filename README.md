@@ -3096,9 +3096,13 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3096 | [Minimum Levels to Gain More Points](https://leetcode.com/problems/minimum-levels-to-gain-more-points/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203096%20-%20MinimumLevelsToGainMorePoints/MinimumLevelsToGainMorePoints/MinimumLevelsToGainMorePoints/Program.cs) |✔️|
 |3097 | [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203097%20-%20ShortestSubarrayWithORAtLeastKII/ShortestSubarrayWithORAtLeastKII/ShortestSubarrayWithORAtLeastKII/Program.cs) |✔️|
 |3098 | [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/)| Hard |  |:heavy_minus_sign: |
+|3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203099%20-%20HarshadNumber/HarshadNumber/HarshadNumber/Program.cs) |✔️|
+|3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203100%20-%20WaterBottlesII/WaterBottlesII/WaterBottlesII/Program.cs) |✔️|
+|3101 | [Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%203101%20-%20CountAlternatingSubarrays/CountAlternatingSubarrays/CountAlternatingSubarrays/Program.cs) |✔️|
+|3102 | [Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/)| Hard |  |:heavy_minus_sign: |
 
-|30 | []()| Easy | [C#]() |✔️|
-|30 | []()| Medium | [C#]() |✔️|
-|30 | []()| Medium | [C#]() |✔️|
-|30 | []()| Hard |  |:heavy_minus_sign: |
-|30 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|31 | []()| Easy | [C#]() |✔️|
+|31 | []()| Medium | [C#]() |✔️|
+|31 | []()| Medium | [C#]() |✔️|
+|31 | []()| Hard |  |:heavy_minus_sign: |
+|31 | []()|  | [SQLServer](), [MySQL]() |✔️|
