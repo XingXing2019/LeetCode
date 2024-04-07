@@ -3100,6 +3100,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203100%20-%20WaterBottlesII/WaterBottlesII/WaterBottlesII/Program.cs) |✔️|
 |3101 | [Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%203101%20-%20CountAlternatingSubarrays/CountAlternatingSubarrays/CountAlternatingSubarrays/Program.cs) |✔️|
 |3102 | [Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/)| Hard |  |:heavy_minus_sign: |
+|3103 | [Find Trending Hashtags II](https://leetcode.com/problems/find-trending-hashtags-ii/)| Hard | [SQLServer](), [MySQL]() |✔️|
+|3104 | [Find Longest Self-Contained Substring](https://leetcode.com/problems/find-longest-self-contained-substring/)| Hard |  |:heavy_minus_sign: |
+|3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203105%20-%20LongestStrictlyIncreasingOrStrictlyDecreasingSubarray/LongestSubarray/LongestSubarray/Program.cs) |✔️|
+|3106 | [Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203106%20-%20LexicographicallySmallestStringAfterOperationsWithConstraint/LexicographicallySmallestString/LexicographicallySmallestString/Program.cs) |✔️|
+|3107 | [Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%203107%20-%20MinimumOperationsToMakeMedianOfArrayEqualToK/MinimumOperations/MinimumOperations/Program.cs) |✔️|
+|3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/)| Hard |  |:heavy_minus_sign: |
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
