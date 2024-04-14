@@ -3106,6 +3106,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3106 | [Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203106%20-%20LexicographicallySmallestStringAfterOperationsWithConstraint/LexicographicallySmallestString/LexicographicallySmallestString/Program.cs) |✔️|
 |3107 | [Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%203107%20-%20MinimumOperationsToMakeMedianOfArrayEqualToK/MinimumOperations/MinimumOperations/Program.cs) |✔️|
 |3108 | [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/)| Hard |  |:heavy_minus_sign: |
+|3109 | [Find the Index of Permutation](https://leetcode.com/problems/find-the-index-of-permutation/)| Medium |  |:heavy_minus_sign: |
+|3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203110%20-%20ScoreOfAString/ScoreOfAString/ScoreOfAString/Program.cs) |✔️|
+|3111 | [Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%203111%20-%20MinimumRectanglesToCoverPoints/MinimumRectanglesToCoverPoints/MinimumRectanglesToCoverPoints/Program.cs) |✔️|
+|3112 | [Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203112%20-%20MinimumTimeToVisitDisappearingNodes/MinimumTimeToVisitDisappearingNodes/MinimumTimeToVisitDisappearingNodes/Program.cs) |✔️|
+|3113 | [Find the Number of Subarrays Where Boundary Elements Are Maximum](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/)| Hard |  |:heavy_minus_sign: |
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
