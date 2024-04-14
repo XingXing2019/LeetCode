@@ -3111,6 +3111,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3111 | [Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%203111%20-%20MinimumRectanglesToCoverPoints/MinimumRectanglesToCoverPoints/MinimumRectanglesToCoverPoints/Program.cs) |✔️|
 |3112 | [Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203112%20-%20MinimumTimeToVisitDisappearingNodes/MinimumTimeToVisitDisappearingNodes/MinimumTimeToVisitDisappearingNodes/Program.cs) |✔️|
 |3113 | [Find the Number of Subarrays Where Boundary Elements Are Maximum](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/)| Hard |  |:heavy_minus_sign: |
+|3114 | [Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203114%20-%20LatestTimeYouCanObtainAfterReplacingCharacters/LatestTimeYouCanObtain/LatestTimeYouCanObtain/Program.cs) |✔️|
+|3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203115%20-%20MaximumPrimeDifference/MaximumPrimeDifference/MaximumPrimeDifference/Program.cs) |✔️|
+|3116 | [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/)| Hard |  |:heavy_minus_sign: |
+|3117 | [Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/)| Hard |  |:heavy_minus_sign: |
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
