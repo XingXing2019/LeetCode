@@ -3115,6 +3115,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3115 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203115%20-%20MaximumPrimeDifference/MaximumPrimeDifference/MaximumPrimeDifference/Program.cs) |✔️|
 |3116 | [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/)| Hard |  |:heavy_minus_sign: |
 |3117 | [Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/)| Hard |  |:heavy_minus_sign: |
+|3118 | [Friday Purchase III](https://leetcode.com/problems/friday-purchase-iii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203118%20-%20FridayPurchaseIII/FridayPurchaseIII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203118%20-%20FridayPurchaseIII/FridayPurchaseIII_MySQL.sql) |✔️|
+|3119 | [Maximum Number of Potholes That Can Be Fixed](https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203119%20-%20MaximumNumberOfPotholesThatCanBeFixed/MaximumNumberOfPotholes/MaximumNumberOfPotholes/Program.cs) |✔️|
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
