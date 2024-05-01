@@ -3117,6 +3117,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3117 | [Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/)| Hard |  |:heavy_minus_sign: |
 |3118 | [Friday Purchase III](https://leetcode.com/problems/friday-purchase-iii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203118%20-%20FridayPurchaseIII/FridayPurchaseIII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203118%20-%20FridayPurchaseIII/FridayPurchaseIII_MySQL.sql) |✔️|
 |3119 | [Maximum Number of Potholes That Can Be Fixed](https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203119%20-%20MaximumNumberOfPotholesThatCanBeFixed/MaximumNumberOfPotholes/MaximumNumberOfPotholes/Program.cs) |✔️|
+|3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203120%20-%20CountTheNumberOfSpecialCharactersI/CountTheNumberOfSpecialCharactersI/CountTheNumberOfSpecialCharactersI/Program.cs) |✔️|
+|3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203121%20-%20CountTheNumberOfSpecialCharactersII/CountTheNumberOfSpecialCharactersII/CountTheNumberOfSpecialCharactersII/Program.cs) |✔️|
+|3122 | []()| Medium | [C#]() |✔️|
+|3123 | []()| Hard |  |:heavy_minus_sign: |
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
