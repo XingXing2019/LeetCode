@@ -3120,7 +3120,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203120%20-%20CountTheNumberOfSpecialCharactersI/CountTheNumberOfSpecialCharactersI/CountTheNumberOfSpecialCharactersI/Program.cs) |✔️|
 |3121 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203121%20-%20CountTheNumberOfSpecialCharactersII/CountTheNumberOfSpecialCharactersII/CountTheNumberOfSpecialCharactersII/Program.cs) |✔️|
 |3122 | []()| Medium | [C#]() |✔️|
-|3123 | []()| Hard |  |:heavy_minus_sign: |
+|3123 | [Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/)| Hard |  |:heavy_minus_sign: |
+|3124 | [Find Longest Calls](https://leetcode.com/problems/find-longest-calls/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203124%20-%20FindLongestCalls/FindLongestCalls_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203124%20-%20FindLongestCalls/FindLongestCalls_MySQL.sql) |✔️|
+|3125 | [Maximum Number That Makes Result of Bitwise AND Zero](https://leetcode.com/problems/maximum-number-that-makes-result-of-bitwise-and-zero/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203125%20-%20MaximumNumberThatMakesResultOfBitwiseANDZero/MaximumNumber/MaximumNumber/Program.cs) |✔️|
+|3126 | [Server Utilization Time](https://leetcode.com/problems/server-utilization-time/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203126%20-%20ServerUtilizationTime/ServerUtilizationTime_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203126%20-%20ServerUtilizationTime/ServerUtilizationTime_MySQL.sql) |✔️|
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
