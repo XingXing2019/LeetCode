@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays.csproj": {}
+    "D:\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays.csproj": {}
   },
   "projects": {
-    "F:\\C#\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays.csproj": {
+    "D:\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays.csproj",
+        "projectUniqueName": "D:\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays.csproj",
         "projectName": "CountPairsInTwoArrays",
-        "projectPath": "F:\\C#\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays.csproj",
-        "packagesPath": "C:\\Users\\xxing\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\obj\\",
+        "projectPath": "D:\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays.csproj",
+        "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
+        "outputPath": "D:\\LeetCode\\Sort\\LeetCode 1885 - CountPairsInTwoArrays\\CountPairsInTwoArrays\\CountPairsInTwoArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\xxing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
