@@ -3137,6 +3137,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3137 | [Minimum Number of Operations to Make Word K-Periodic](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203137%20-%20MinimumNumberOfOperationsToMakeWordKPeriodic/MinimumNumberOfOperations/MinimumNumberOfOperations/Program.cs) |✔️|
 |3138 | [Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203138%20-%20MinimumLengthOfAnagramConcatenation/MinimumLengthOfAnagramConcatenation/MinimumLengthOfAnagramConcatenation/Program.cs) |✔️|
 |3139 | []()| Hard |  |:heavy_minus_sign: |
+|3140 | [Consecutive Available Seats II](https://leetcode.com/problems/consecutive-available-seats-ii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203140%20-%20ConsecutiveAvailableSeatsII/ConsecutiveAvailableSeatsII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203140%20-%20ConsecutiveAvailableSeatsII/ConsecutiveAvailableSeatsII_MySQL.sql) |✔️|
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
