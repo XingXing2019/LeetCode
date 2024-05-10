@@ -2772,7 +2772,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2772 | [Apply Operations to Make All Array Elements Equal to Zero](https://leetcode.com/problems/apply-operations-to-make-all-array-elements-equal-to-zero/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202772%20-%20ApplyOperationsToMakeAllArrayElementsEqualToZero/ApplyOperations/ApplyOperations/Program.cs) |✔️|
 |2773 | [Height of Special Binary Tree](https://leetcode.com/problems/height-of-special-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%202773%20-%20HeightOfSpecialBinaryTree/HeightOfSpecialBinaryTree/HeightOfSpecialBinaryTree/Program.cs) |✔️|
 |2774 | [Array Upper Bound](https://leetcode.com/problems/array-upper-bound/)| Easy |  |:heavy_minus_sign: |
-|2775 | [Undefined to Null](https://leetcode.com/problems/undefined-to-null/)| Medium |  |:heavy_minus_sign: |
+|2775 | [Undefined to Null](https://leetcode.com/problems/undefined-to-null/)| Medium | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202775%20-%20UndefinedToNull/UndefinedToNull.js) |✔️|
 |2776 | [Convert Callback Based Function to Promise Based Function](https://leetcode.com/problems/convert-callback-based-function-to-promise-based-function/)| Medium |  |:heavy_minus_sign: |
 |2777 | [Date Range Generator](https://leetcode.com/problems/date-range-generator/)| Medium |  |:heavy_minus_sign: |
 |2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202778%20-%20SumOfSquaresOfSpecialElements/SumOfSquaresOfSpecialElements/SumOfSquaresOfSpecialElements/Program.cs) |✔️|
