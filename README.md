@@ -2755,7 +2755,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |2755 | [Deep Merge of Two Objects](https://leetcode.com/problems/deep-merge-of-two-objects/)| Medium |  |:heavy_minus_sign: |
 |2756 | [Query Batching](https://leetcode.com/problems/query-batching/)| Hard |  |:heavy_minus_sign: |
 |2757 | [Generate Circular Array Values](https://leetcode.com/problems/generate-circular-array-values/)| Medium |  |:heavy_minus_sign: |
-|2758 | [Next Day](https://leetcode.com/problems/next-day/)| Easy |  |:heavy_minus_sign: |
+|2758 | [Next Day](https://leetcode.com/problems/next-day/)| Easy | [JS](https://github.com/XingXing2019/LeetCode/blob/master/JavaScript/LeetCode%202758%20-%20NextDay/NextDay.js) |✔️|
 |2759 | [Convert JSON String to Object](https://leetcode.com/problems/convert-json-string-to-object/)| Hard |  |:heavy_minus_sign: |
 |2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%202760%20-%20LongestEvenOddSubarrayWithThreshold/LongestEvenOddSubarray/LongestEvenOddSubarray/Program.cs) |✔️|
 |2761 | [Continuous Subarrays](https://leetcode.com/problems/continuous-subarrays/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%202761%20-%20ContinuousSubarrays/ContinuousSubarrays/ContinuousSubarrays/Program.cs) |✔️|
