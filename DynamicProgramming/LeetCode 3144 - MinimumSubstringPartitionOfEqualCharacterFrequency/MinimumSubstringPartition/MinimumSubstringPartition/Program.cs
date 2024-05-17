@@ -15,7 +15,7 @@ int MinimumSubstringsInPartition(string s)
     for (int i = 1; i < s.Length; i++)
     {
         var min = int.MaxValue;
-        for (int j = 0; j <= i; j++)
+        for (int j = 0; j <= i && min != 0; j++)
         {
             if (!IsBalance(freq, i, j)) continue;
             min = Math.Min(min, j == 0 ? 0 : dp[j - 1]);
