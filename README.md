@@ -3148,6 +3148,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3148 | [Maximum Difference Score in a Grid](https://leetcode.com/problems/maximum-difference-score-in-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203148%20-%20MaximumDifferenceScoreInAGrid/MaximumDifferenceScoreInAGrid/MaximumDifferenceScoreInAGrid/Program.cs) |✔️|
 |3149 | [Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/)| Hard |  |:heavy_minus_sign: |
 |3150 | [Invalid Tweets II](https://leetcode.com/problems/invalid-tweets-ii/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203150%20-%20InvalidTweetsII/InvalidTweetsII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203150%20-%20InvalidTweetsII/InvalidTweetsII_MySQL.sql) |✔️|
+|3151 | [Maximum Number of Upgradable Servers](https://leetcode.com/problems/maximum-number-of-upgradable-servers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203151%20-%20MaximumNumberOfUpgradableServers/MaximumNumberOfUpgradableServers/MaximumNumberOfUpgradableServers/Program.cs) |✔️|
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
