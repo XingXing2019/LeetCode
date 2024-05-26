@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheXOROfNumbersWhichAppearTwice", "FindTheXOROfNumbersWhichAppearTwice\FindTheXOROfNumbersWhichAppearTwice.csproj", "{0F958C24-2FD4-4DB3-99E3-E279948F22D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F958C24-2FD4-4DB3-99E3-E279948F22D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F958C24-2FD4-4DB3-99E3-E279948F22D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F958C24-2FD4-4DB3-99E3-E279948F22D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F958C24-2FD4-4DB3-99E3-E279948F22D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58E0B8DB-5B55-4612-9D22-67A7A158FE77}
+	EndGlobalSection
+EndGlobal
