@@ -3163,6 +3163,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3163 | [String Compression III](https://leetcode.com/problems/string-compression-iii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203163%20-%20StringCompressionIII/StringCompressionIII/StringCompressionIII/Program.cs) |✔️|
 |3164 | [Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203164%20-%20FindTheNumberOfGoodPairsII/FindTheNumberOfGoodPairsII/FindTheNumberOfGoodPairsII/Program.cs) |✔️|
 |3165 | [Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/)| Hard |  |:heavy_minus_sign: |
+|3166 | [Calculate Parking Fees and Duration](https://leetcode.com/problems/calculate-parking-fees-and-duration/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203166%20-%20CalculateParkingFeesAndDuration/CalculateParkingFeesAndDuration_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203166%20-%20CalculateParkingFeesAndDuration/CalculateParkingFeesAndDuration_MySQL.sql) |✔️|
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
