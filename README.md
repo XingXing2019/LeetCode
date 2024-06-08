@@ -3169,6 +3169,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3169 | [Count Days Without Meetings](https://leetcode.com/problems/count-days-without-meetings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%203169%20-%20CountDaysWithoutMeetings/CountDaysWithoutMeetings/CountDaysWithoutMeetings/Program.cs) |✔️|
 |3170 | [Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203170%20-%20LexicographicallyMinimumStringAfterRemovingStars/LexicographicallyMinimumString/LexicographicallyMinimumString/Program.cs) |✔️|
 |3171 | [Find Subarray With Bitwise AND Closest to K](https://leetcode.com/problems/find-subarray-with-bitwise-and-closest-to-k/)| Hard |  |:heavy_minus_sign: |
+|3172 | [Second Day Verification](https://leetcode.com/problems/second-day-verification/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203172%20-%20SecondDayVerification/SecondDayVerification_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203172%20-%20SecondDayVerification/SecondDayVerification_MySQL.sql) |✔️|
+|3173 | [Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203173%20-%20BitwiseOROfAdjacentElements/BitwiseOROfAdjacentElements/BitwiseOROfAdjacentElements/Program.cs) |✔️|
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
