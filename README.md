@@ -3171,6 +3171,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3171 | [Find Subarray With Bitwise AND Closest to K](https://leetcode.com/problems/find-subarray-with-bitwise-and-closest-to-k/)| Hard |  |:heavy_minus_sign: |
 |3172 | [Second Day Verification](https://leetcode.com/problems/second-day-verification/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203172%20-%20SecondDayVerification/SecondDayVerification_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203172%20-%20SecondDayVerification/SecondDayVerification_MySQL.sql) |✔️|
 |3173 | [Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203173%20-%20BitwiseOROfAdjacentElements/BitwiseOROfAdjacentElements/BitwiseOROfAdjacentElements/Program.cs) |✔️|
+|3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%203174%20-%20ClearDigits/ClearDigits/ClearDigits/Program.cs) |✔️|
+|3175 | [Find The First Player to win K Games in a Row](https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%203175%20-%20FindTheFirstPlayerToWinKGamesInARow/FindTheFirstPlayerToWinKGamesInARow/FindTheFirstPlayerToWinKGamesInARow/Program.cs) |✔️|
+|3176 | []()| Medium | [C#]() |✔️|
+|3177 | [Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/)| Hard |  |:heavy_minus_sign: |
+|3178 | [Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203178%20-%20FindTheChildWhoHasTheBallAfterKSeconds/FindTheChildWhoHasTheBallAfterKSeconds/FindTheChildWhoHasTheBallAfterKSeconds/Program.cs) |✔️|
+|3179 | [Find the N-th Value After K Seconds](https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203179%20-%20FindTheNthValueAfterKSeconds/FindTheNthValueAfterKSeconds/FindTheNthValueAfterKSeconds/Program.cs) |✔️|
+|3180 | []()| Medium | [C#]() |✔️|
+|3181 | [Maximum Total Reward Using Operations II](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/)| Hard |  |:heavy_minus_sign: |
+|3182 | [Find Top Scoring Students](https://leetcode.com/problems/find-top-scoring-students/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203182%20-%20FindTopScoringStudents/FindTopScoringStudents_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203182%20-%20FindTopScoringStudents/FindTopScoringStudents_MySQL.sql) |✔️|
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
