@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheFirstPlayerToWinKGamesInARow", "FindTheFirstPlayerToWinKGamesInARow\FindTheFirstPlayerToWinKGamesInARow.csproj", "{79FAD8A4-7A9A-4C4E-A034-68AAD492FAFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FAD8A4-7A9A-4C4E-A034-68AAD492FAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FAD8A4-7A9A-4C4E-A034-68AAD492FAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FAD8A4-7A9A-4C4E-A034-68AAD492FAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FAD8A4-7A9A-4C4E-A034-68AAD492FAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B506194-2C86-46BE-BD94-DC376D0DADAA}
+	EndGlobalSection
+EndGlobal
