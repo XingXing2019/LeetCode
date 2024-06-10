@@ -23,9 +23,9 @@ int DFS(int[] nums, int index, int prev, int remain, int[][][] dp)
     if (dp[index][prev + 1][remain] != -1) return dp[index][prev + 1][remain];
     int skip = DFS(nums, index + 1, prev, remain, dp);
     int include = 0;
-    if (prev != -1 && nums[index] == nums[prev])
+    if (prev != -1 && nums[index] == nums[prev] || prev == -1)
         include = 1 + DFS(nums, index + 1, index, remain, dp);
-    else if (prev == -1 || remain > 0)
-        include = 1 + DFS(nums, index + 1, index, remain - (prev != -1 ? 1 : 0), dp);
+    else if (remain > 0)
+        include = 1 + DFS(nums, index + 1, index, remain - 1, dp);
     return dp[index][prev + 1][remain] = Math.Max(include, skip);
 }
