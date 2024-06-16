@@ -3181,6 +3181,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3181 | [Maximum Total Reward Using Operations II](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/)| Hard |  |:heavy_minus_sign: |
 |3182 | [Find Top Scoring Students](https://leetcode.com/problems/find-top-scoring-students/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203182%20-%20FindTopScoringStudents/FindTopScoringStudents_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203182%20-%20FindTopScoringStudents/FindTopScoringStudents_MySQL.sql) |✔️|
 |3183 | [The Number of Ways to Make the Sum](https://leetcode.com/problems/the-number-of-ways-to-make-the-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203183%20-%20TheNumberOfWaysToMakeTheSum/TheNumberOfWaysToMakeTheSum/TheNumberOfWaysToMakeTheSum/Program.cs) |✔️|
+|3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203184%20-%20CountPairsThatFormACompleteDayI/CountPairsThatFormACompleteDayI/CountPairsThatFormACompleteDayI/Program.cs) |✔️|
+|3185 | [Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203185%20-%20CountPairsThatFormACompleteDayII/CountPairsThatFormACompleteDayII/CountPairsThatFormACompleteDayII/Program.cs) |✔️|
+|3186 | [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203186%20-%20MaximumTotalDamageWithSpellCasting/MaximumTotalDamageWithSpellCasting/MaximumTotalDamageWithSpellCasting/Program.cs) |✔️|
+|3187 | [Peaks in Array](https://leetcode.com/problems/peaks-in-array/)| Hard |  |:heavy_minus_sign: |
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
