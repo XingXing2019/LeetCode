@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountPairsThatFormACompleteDayII", "CountPairsThatFormACompleteDayII\CountPairsThatFormACompleteDayII.csproj", "{CE21847D-EB8E-4AC7-9732-88D1FA220E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE21847D-EB8E-4AC7-9732-88D1FA220E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE21847D-EB8E-4AC7-9732-88D1FA220E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE21847D-EB8E-4AC7-9732-88D1FA220E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE21847D-EB8E-4AC7-9732-88D1FA220E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2A1D2F9-1143-47A3-A865-161971E3663E}
+	EndGlobalSection
+EndGlobal
