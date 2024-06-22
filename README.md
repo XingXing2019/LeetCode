@@ -3185,6 +3185,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3185 | [Count Pairs That Form a Complete Day II](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203185%20-%20CountPairsThatFormACompleteDayII/CountPairsThatFormACompleteDayII/CountPairsThatFormACompleteDayII/Program.cs) |✔️|
 |3186 | [Maximum Total Damage With Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203186%20-%20MaximumTotalDamageWithSpellCasting/MaximumTotalDamageWithSpellCasting/MaximumTotalDamageWithSpellCasting/Program.cs) |✔️|
 |3187 | [Peaks in Array](https://leetcode.com/problems/peaks-in-array/)| Hard |  |:heavy_minus_sign: |
+|3188 | [Find Top Scoring Students II](https://leetcode.com/problems/find-top-scoring-students-ii/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203188%20-%20FindTopScoringStudentsII/FindTopScoringStudentsII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203188%20-%20FindTopScoringStudentsII/FindTopScoringStudentsII_MySQL.sql) |✔️|
+|3189 | [Minimum Moves to Get a Peaceful Board](https://leetcode.com/problems/minimum-moves-to-get-a-peaceful-board/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203189%20-%20MinimumMovesToGetAPeacefulBoard/MinimumMovesToGetAPeacefulBoard/MinimumMovesToGetAPeacefulBoard/Program.cs) |✔️|
 
 |31 | []()| Easy | [C#]() |✔️|
 |31 | []()| Medium | [C#]() |✔️|
