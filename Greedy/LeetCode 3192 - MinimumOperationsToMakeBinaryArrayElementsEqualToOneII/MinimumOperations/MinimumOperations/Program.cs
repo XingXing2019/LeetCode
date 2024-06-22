@@ -1,10 +1,10 @@
 ﻿int MinOperations(int[] nums)
 {
     var res = 0;
-    for (int i = 0; i < nums.Length; i++)
+    foreach (var num in nums)
     {
-        if (nums[i] == 0 && res % 2 == 0 || nums[i] == 1 && res % 2 != 0)
-            res++;
+        if (num != res % 2) continue;
+        res++;
     }
     return res;
 }
