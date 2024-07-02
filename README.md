@@ -3197,9 +3197,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3197 | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/)| Hard |  |:heavy_minus_sign: |
 |3198 | [Find Cities in Each State](https://leetcode.com/problems/find-cities-in-each-state/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203198%20-%20FindCitiesInEachState/FindCitiesInEachState_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203198%20-%20FindCitiesInEachState/FindCitiesInEachState_MySQL.sql) |✔️|
 |3199 | [https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i/](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203199%20-%20CountTripletsWithEvenXORSetBitsI/CountTripletsWithEvenXORSetBitsI/CountTripletsWithEvenXORSetBitsI/Program.cs) |✔️|
+|3200 | [Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203200%20-%20MaximumHeightOfATriangle/MaximumHeightOfATriangle/MaximumHeightOfATriangle/Program.cs) |✔️|
+|3201 | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203201%20-%20FindTheMaximumLengthOfValidSubsequenceI/FindTheMaximumLength/FindTheMaximumLength/Program.cs) |✔️|
+|3202 | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203202%20-%20FindTheMaximumLengthOfValidSubsequenceII/FindTheMaximumLength/FindTheMaximumLength/Program.cs) |✔️|
+|3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)| Hard |  |:heavy_minus_sign: |
+|3204 | [https://leetcode.com/problems/bitwise-user-permissions-analysis/](https://leetcode.com/problems/bitwise-user-permissions-analysis/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203204%20-%20BitwiseUserPermissionsAnalysis/BitwiseUserPermissionsAnalysis_MySQL.sql) |✔️|
 
-|31 | []()| Easy | [C#]() |✔️|
-|31 | []()| Medium | [C#]() |✔️|
-|31 | []()| Medium | [C#]() |✔️|
-|31 | []()| Hard |  |:heavy_minus_sign: |
-|31 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|32 | []()| Easy | [C#]() |✔️|
+|32 | []()| Medium | [C#]() |✔️|
+|32 | []()| Medium | [C#]() |✔️|
+|32 | []()| Hard |  |:heavy_minus_sign: |
+|32 | []()|  | [SQLServer](), [MySQL]() |✔️|
