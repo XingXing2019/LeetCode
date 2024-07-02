@@ -3201,7 +3201,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3201 | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203201%20-%20FindTheMaximumLengthOfValidSubsequenceI/FindTheMaximumLength/FindTheMaximumLength/Program.cs) |✔️|
 |3202 | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203202%20-%20FindTheMaximumLengthOfValidSubsequenceII/FindTheMaximumLength/FindTheMaximumLength/Program.cs) |✔️|
 |3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)| Hard |  |:heavy_minus_sign: |
-|3204 | [https://leetcode.com/problems/bitwise-user-permissions-analysis/](https://leetcode.com/problems/bitwise-user-permissions-analysis/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203204%20-%20BitwiseUserPermissionsAnalysis/BitwiseUserPermissionsAnalysis_MySQL.sql) |✔️|
+|3204 | [Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203204%20-%20BitwiseUserPermissionsAnalysis/BitwiseUserPermissionsAnalysis_MySQL.sql) |✔️|
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
