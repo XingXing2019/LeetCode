@@ -3202,6 +3202,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3202 | [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203202%20-%20FindTheMaximumLengthOfValidSubsequenceII/FindTheMaximumLength/FindTheMaximumLength/Program.cs) |✔️|
 |3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)| Hard |  |:heavy_minus_sign: |
 |3204 | [Bitwise User Permissions Analysis](https://leetcode.com/problems/bitwise-user-permissions-analysis/)| Medium | [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203204%20-%20BitwiseUserPermissionsAnalysis/BitwiseUserPermissionsAnalysis_MySQL.sql) |✔️|
+|3205 | [Maximum Array Hopping Score I](https://leetcode.com/problems/maximum-array-hopping-score-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203205%20-%20MaximumArrayHoppingScoreI/MaximumArrayHoppingScoreI/MaximumArrayHoppingScoreI/Program.cs) |✔️|
+|3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203206%20-%20AlternatingGroupsI/AlternatingGroupsI/AlternatingGroupsI/Program.cs) |✔️|
+|3207 | [Maximum Points After Enemy Battles](https://leetcode.com/problems/maximum-points-after-enemy-battles/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203207%20-%20MaximumPointsAfterEnemyBattles/MaximumPointsAfterEnemyBattles/MaximumPointsAfterEnemyBattles/Program.cs) |✔️|
+|3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203079%20-%20FindTheSumOfEncryptedIntegers/FindTheSumOfEncryptedIntegers/FindTheSumOfEncryptedIntegers/Program.cs) |✔️|
+|3209 | [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
