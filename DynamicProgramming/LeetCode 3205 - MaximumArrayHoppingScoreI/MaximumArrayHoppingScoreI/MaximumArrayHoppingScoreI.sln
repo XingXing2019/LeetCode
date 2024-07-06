@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumArrayHoppingScoreI", "MaximumArrayHoppingScoreI\MaximumArrayHoppingScoreI.csproj", "{03EA1E00-C7F1-46FC-A8A7-5AF09143F44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EA1E00-C7F1-46FC-A8A7-5AF09143F44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EA1E00-C7F1-46FC-A8A7-5AF09143F44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EA1E00-C7F1-46FC-A8A7-5AF09143F44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EA1E00-C7F1-46FC-A8A7-5AF09143F44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F775DC3F-6DC9-44ED-887B-0B6BF27C4278}
+	EndGlobalSection
+EndGlobal
