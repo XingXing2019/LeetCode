@@ -7,7 +7,7 @@ int MaxScore(int[] nums)
     {
         var max = 0;
         for (int j = 0; j < i; j++)
-            max = Math.Max(max, (j - i) * nums[i] + dp[j]);
+            max = Math.Max(max, (i - j) * nums[i] + dp[j]);
         dp[i] = max;
     }
     return dp[^1];
