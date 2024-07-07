@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateBinaryStrings", "GenerateBinaryStrings\GenerateBinaryStrings.csproj", "{CD5F4D5F-EFE3-4C77-A9A4-39E921CADC70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5F4D5F-EFE3-4C77-A9A4-39E921CADC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5F4D5F-EFE3-4C77-A9A4-39E921CADC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5F4D5F-EFE3-4C77-A9A4-39E921CADC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5F4D5F-EFE3-4C77-A9A4-39E921CADC70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A977F2-89B9-4BD2-A601-A36839B75F13}
+	EndGlobalSection
+EndGlobal
