@@ -3207,6 +3207,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3207 | [Maximum Points After Enemy Battles](https://leetcode.com/problems/maximum-points-after-enemy-battles/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203207%20-%20MaximumPointsAfterEnemyBattles/MaximumPointsAfterEnemyBattles/MaximumPointsAfterEnemyBattles/Program.cs) |✔️|
 |3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203079%20-%20FindTheSumOfEncryptedIntegers/FindTheSumOfEncryptedIntegers/FindTheSumOfEncryptedIntegers/Program.cs) |✔️|
 |3209 | [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/)| Hard |  |:heavy_minus_sign: |
+|3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203210%20-%20FindTheEncryptedString/FindTheEncryptedString/FindTheEncryptedString/Program.cs) |✔️|
+|3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%203211%20-%20GenerateBinaryStringsWithoutAdjacentZeros/GenerateBinaryStrings/GenerateBinaryStrings/Program.cs) |✔️|
+|3212 | [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203212%20-%20CountSubmatricesWithEqualFrequencyOfXAndY/CountSubmatrices/CountSubmatrices/Program.cs) |✔️|
+|3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
