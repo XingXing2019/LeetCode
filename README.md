@@ -3211,6 +3211,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%203211%20-%20GenerateBinaryStringsWithoutAdjacentZeros/GenerateBinaryStrings/GenerateBinaryStrings/Program.cs) |✔️|
 |3212 | [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203212%20-%20CountSubmatricesWithEqualFrequencyOfXAndY/CountSubmatrices/CountSubmatrices/Program.cs) |✔️|
 |3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/)| Hard |  |:heavy_minus_sign: |
+|3214 | []()| Hard | [SQLServer](), [MySQL]() |✔️|
+|3215 | [Count Triplets with Even XOR Set Bits II](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203215%20-%20CountTripletsWithEvenXORSetBitsII/CountTripletsWithEvenXORSetBitsII/CountTripletsWithEvenXORSetBitsII/Program.cs) |✔️|
+|3216 | [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203216%20-%20LexicographicallySmallestStringAfterASwap/LexicographicallySmallestStringAfterASwap/LexicographicallySmallestStringAfterASwap/Program.cs) |✔️|
+|3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%203217%20-%20DeleteNodesFromLinkedListPresentInArray/DeleteNodesFromLinkedListPresentInArray/DeleteNodesFromLinkedListPresentInArray/Program.cs) |✔️|
+|3218 | [Minimum Cost for Cutting Cake I](https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203218%20-%20MinimumCostForCuttingCakeI/MinimumCostForCuttingCakeI/MinimumCostForCuttingCakeI/Program.cs) |✔️|
+|3219 | [Minimum Cost for Cutting Cake II](https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
