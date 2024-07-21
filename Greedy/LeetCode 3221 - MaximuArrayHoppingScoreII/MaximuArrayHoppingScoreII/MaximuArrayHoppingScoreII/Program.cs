@@ -3,19 +3,21 @@ Console.WriteLine(MaxScore(nums));
 
 long MaxScore(int[] nums)
 {
-    var suffix = new long[nums.Length][];
-    long max = 0, res = 0, index = nums.Length;
+    var suffix = new int[nums.Length][];
+    int max = 0, index = nums.Length;
+    long res = 0;
     for (int i = nums.Length - 1; i >= 0; i--)
     {
-        max = Math.Max(max, nums[i]);
         suffix[i] = new[] { index, max };
+        max = Math.Max(max, nums[i]);
         if (nums[i] >= max) index = i;
     }
-    index = 0;
-    while (index < nums.Length)
+    int cur = 0, next = suffix[0][0];
+    while (next < nums.Length)
     {
-        res += suffix[index][1] * (suffix[index][0] - index);
-        index = suffix[index][0];
+        res += (long)suffix[cur][1] * (next - cur);
+        cur = suffix[cur][0];
+        next = suffix[next][0];
     }
     return res;
 }
