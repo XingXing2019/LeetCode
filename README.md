@@ -3227,6 +3227,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3227 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203227%20-%20VowelsGameInAString/VowelsGameInAString/VowelsGameInAString/Program.cs) |✔️|
 |3228 | [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/TwoPointers/LeetCode%203228%20-%20MaximumNumberOfOperationsToMoveOnesToTheEnd/MaximumNumberOfOperations/MaximumNumberOfOperations/Program.cs) |✔️|
 |3229 | [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/)| Hard |  |:heavy_minus_sign: |
+|3230 | [Customer Purchasing Behavior Analysis](https://leetcode.com/problems/customer-purchasing-behavior-analysis/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203230%20-%20CustomerPurchasingBehaviorAnalysis/CustomerPurchasingBehaviorAnalysis_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203230%20-%20CustomerPurchasingBehaviorAnalysis/CustomerPurchasingBehaviorAnalysis_MySQL.sql) |✔️|
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
