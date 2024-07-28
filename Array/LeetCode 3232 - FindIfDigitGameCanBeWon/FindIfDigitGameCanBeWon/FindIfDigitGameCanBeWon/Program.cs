@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿bool CanAliceWin(int[] nums)
+{
+    var a = nums.Where(x => x < 10).Sum();
+    var b = nums.Sum() - a;
+    return a != b;
+}
