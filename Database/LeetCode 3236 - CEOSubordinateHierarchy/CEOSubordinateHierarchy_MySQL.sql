@@ -1,5 +1,5 @@
 with recursive Hierarchy as (
-	select *, 0 as hierarchy_level  
+    select *, 0 as hierarchy_level  
     from Employees
     where manager_id is null
     union all
@@ -9,7 +9,7 @@ with recursive Hierarchy as (
 )
 
 select
-	h1.employee_id as subordinate_id,
+    h1.employee_id as subordinate_id,
     h1.employee_name as subordinate_name,
     h1.hierarchy_level,
     (h1.salary - h2.salary) as salary_difference
