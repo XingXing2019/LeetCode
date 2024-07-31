@@ -3233,6 +3233,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3233 | [Find the Count of Numbers Which Are Not Special](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203233%20-%20FindTheCountOfNumbersWhichAreNotSpecial/FindTheCountOfNumbers/FindTheCountOfNumbers/Program.cs) |✔️|
 |3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/)| Medium |  |:heavy_minus_sign: |
 |3235 | [Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/)| Hard |  |:heavy_minus_sign: |
+|3236 | [CEO Subordinate Hierarchy](https://leetcode.com/problems/ceo-subordinate-hierarchy/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203236%20-%20CEOSubordinateHierarchy/CEOSubordinateHierarchy_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203236%20-%20CEOSubordinateHierarchy/CEOSubordinateHierarchy_MySQL.sql) |✔️|
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
