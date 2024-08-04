@@ -3239,6 +3239,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3239 | [Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203239%20-%20MinimumNumberOfFlipsToMakeBinaryGridPalindromicI/MinimumNumberOfFlips/MinimumNumberOfFlips/Program.cs) |✔️|
 |3240 | [Minimum Number of Flips to Make Binary Grid Palindromic II](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203240%20-%20MinimumNumberOfFlipsToMakeBinaryGridPalindromicII/MinimumNumberOfFlips/MinimumNumberOfFlips/Program.cs) |✔️|
 |3241 | [Time Taken to Mark All Nodes](https://leetcode.com/problems/time-taken-to-mark-all-nodes/)| Hard |  |:heavy_minus_sign: |
+|3242 | [Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%203242%20-%20DesignNeighborSumService/DesignNeighborSumService/DesignNeighborSumService/Program.cs) |✔️|
+|3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203243%20-%20ShortestDistanceAfterRoadAdditionQueriesI/ShortestDistance/ShortestDistance/Program.cs) |✔️|
+|3244 | [Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/)| Hard |  |:heavy_minus_sign: |
+|3245 | [Alternating Groups III](https://leetcode.com/problems/alternating-groups-iii/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
