@@ -3235,6 +3235,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3235 | [Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/)| Hard |  |:heavy_minus_sign: |
 |3236 | [CEO Subordinate Hierarchy](https://leetcode.com/problems/ceo-subordinate-hierarchy/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203236%20-%20CEOSubordinateHierarchy/CEOSubordinateHierarchy_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203236%20-%20CEOSubordinateHierarchy/CEOSubordinateHierarchy_MySQL.sql) |✔️|
 |3237 | [Alt and Tab Simulation](https://leetcode.com/problems/alt-and-tab-simulation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203237%20-%20AltAndTabSimulation/AltAndTabSimulation/AltAndTabSimulation/Program.cs) |✔️|
+|3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203238%20-%20FindTheNumberOfWinningPlayers/FindTheNumberOfWinningPlayers/FindTheNumberOfWinningPlayers/Program.cs) |✔️|
+|3239 | [Minimum Number of Flips to Make Binary Grid Palindromic I](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203239%20-%20MinimumNumberOfFlipsToMakeBinaryGridPalindromicI/MinimumNumberOfFlips/MinimumNumberOfFlips/Program.cs) |✔️|
+|3240 | [Minimum Number of Flips to Make Binary Grid Palindromic II](https://leetcode.com/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203240%20-%20MinimumNumberOfFlipsToMakeBinaryGridPalindromicII/MinimumNumberOfFlips/MinimumNumberOfFlips/Program.cs) |✔️|
+|3241 | [Time Taken to Mark All Nodes](https://leetcode.com/problems/time-taken-to-mark-all-nodes/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
