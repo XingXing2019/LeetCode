@@ -3243,6 +3243,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3243 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203243%20-%20ShortestDistanceAfterRoadAdditionQueriesI/ShortestDistance/ShortestDistance/Program.cs) |✔️|
 |3244 | [Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/)| Hard |  |:heavy_minus_sign: |
 |3245 | [Alternating Groups III](https://leetcode.com/problems/alternating-groups-iii/)| Hard |  |:heavy_minus_sign: |
+|3246 | [Premier League Table Ranking](https://leetcode.com/problems/premier-league-table-ranking/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203246%20-%20PremierLeagueTableRanking/PremierLeagueTableRanking_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203246%20-%20PremierLeagueTableRanking/PremierLeagueTableRanking_MySQL.sql) |✔️|
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
