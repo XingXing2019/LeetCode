@@ -16,14 +16,16 @@
 
 int DFS(List<int>[] graph, int cur, HashSet<int> visited, ref int res)
 {
-    var children = new List<int>();
+    var children = new HashSet<int>();
+    var sum = 0;
     foreach (var child in graph[cur])
     {
         if (!visited.Add(child)) continue;
         var node = DFS(graph, child, visited, ref res);
+        sum += node;
         children.Add(node);
     }
-    if (children.Count == 0 || children.All(x => x == children[0]))
+    if (children.Count < 2)
         res++;
-    return children.Sum() + 1;
+    return sum + 1;
 }
