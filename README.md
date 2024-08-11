@@ -3244,6 +3244,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3244 | [Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/)| Hard |  |:heavy_minus_sign: |
 |3245 | [Alternating Groups III](https://leetcode.com/problems/alternating-groups-iii/)| Hard |  |:heavy_minus_sign: |
 |3246 | [Premier League Table Ranking](https://leetcode.com/problems/premier-league-table-ranking/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203246%20-%20PremierLeagueTableRanking/PremierLeagueTableRanking_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203246%20-%20PremierLeagueTableRanking/PremierLeagueTableRanking_MySQL.sql) |✔️|
+|3247 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203248%20-%20SnakeInMatrix/SnakeInMatrix/SnakeInMatrix/Program.cs) |✔️|
+|3248 | [Count the Number of Good Nodes](https://leetcode.com/problems/count-the-number-of-good-nodes/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%203249%20-%20CountTheNumberOfGoodNodes/CountTheNumberOfGoodNodes/CountTheNumberOfGoodNodes/Program.cs) |✔️|
+|3249 | [Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/)| Hard |  |:heavy_minus_sign: |
+|3250 | [Find the Count of Monotonic Pairs II](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
