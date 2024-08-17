@@ -3250,6 +3250,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3250 | [Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/)| Hard |  |:heavy_minus_sign: |
 |3251 | [Find the Count of Monotonic Pairs II](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/)| Hard |  |:heavy_minus_sign: |
 |3252 | [Premier League Table Ranking II](https://leetcode.com/problems/premier-league-table-ranking-ii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203252%20-%20PremierLeagueTableRankingII/PremierLeagueTableRankingII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203252%20-%20PremierLeagueTableRankingII/PremierLeagueTableRankingII_MySQL.sql) |✔️|
+|3253 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost-easy/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203253%20-%20ConstructStringWithMinimumCost/ConstructStringWithMinimumCost/ConstructStringWithMinimumCost/Program.cs) |✔️|
+|3254 | [Find the Power of K-Size Subarrays I](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203254%20-%20FindThePowerOfKSizeSubarraysI/FindThePowerOfKSizeSubarraysI/FindThePowerOfKSizeSubarraysI/Program.cs) |✔️|
+|3255 | [Find the Power of K-Size Subarrays II](https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203255%20-%20FindThePowerOfKSizeSubarraysII/FindThePowerOfKSizeSubarraysII/FindThePowerOfKSizeSubarraysII/Program.cs) |✔️|
+|3256 | [Maximum Value Sum by Placing Three Rooks I](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/)| Hard |  |:heavy_minus_sign: |
+|3257 | [Maximum Value Sum by Placing Three Rooks II](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
