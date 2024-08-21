@@ -3259,6 +3259,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3259 | [Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203259%20-%20MaximumEnergyBoostFromTwoDrinks/MaximumEnergyBoostFromTwoDrinks/MaximumEnergyBoostFromTwoDrinks/Program.cs) |✔️|
 |3260 | [Find the Largest Palindrome Divisible by K](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/)| Hard |  |:heavy_minus_sign: |
 |3261 | [Count Substrings That Satisfy K-Constraint II](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/)| Hard |  |:heavy_minus_sign: |
+|3262 | [Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203262%20-%20FindOverlappingShifts/FindOverlappingShifts_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203262%20-%20FindOverlappingShifts/FindOverlappingShifts_MySQL.sql) |✔️|
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
