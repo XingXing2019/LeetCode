@@ -3260,6 +3260,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3260 | [Find the Largest Palindrome Divisible by K](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/)| Hard |  |:heavy_minus_sign: |
 |3261 | [Count Substrings That Satisfy K-Constraint II](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/)| Hard |  |:heavy_minus_sign: |
 |3262 | [Find Overlapping Shifts](https://leetcode.com/problems/find-overlapping-shifts/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203262%20-%20FindOverlappingShifts/FindOverlappingShifts_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203262%20-%20FindOverlappingShifts/FindOverlappingShifts_MySQL.sql) |✔️|
+|3263 | [Convert Doubly Linked List to Array I](https://leetcode.com/problems/convert-doubly-linked-list-to-array-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%203263%20-%20ConvertDoublyLinkedListToArrayI/ConvertDoublyLinkedListToArrayI/ConvertDoublyLinkedListToArrayI/Program.cs) |✔️|
+|3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203264%20-%20FinalArrayStateAfterKMultiplicationOperationsI/FinalArrayState/FinalArrayState/Program.cs) |✔️|
+|3265 | [Count Almost Equal Pairs I](https://leetcode.com/problems/count-almost-equal-pairs-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203265%20-%20CountAlmostEqualPairsI/CountAlmostEqualPairsI/CountAlmostEqualPairsI/Program.cs) |✔️|
+|3266 | [Final Array State After K Multiplication Operations II](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/)| Hard |  |:heavy_minus_sign: |
+|3267 | [Count Almost Equal Pairs II](https://leetcode.com/problems/count-almost-equal-pairs-ii/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
