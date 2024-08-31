@@ -6,11 +6,11 @@
     {
         if (i != 0 && i % k == 0)
         {
-            res += (char)(l + 'a');
+            res += (char)(l % 26 + 'a');
             l = s[i] - 'a';
         }
         else
             l += s[i] - 'a';
     }
-    return res;
+    return res + (char)(l % 26 + 'a');
 }
