@@ -3265,6 +3265,16 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3265 | [Count Almost Equal Pairs I](https://leetcode.com/problems/count-almost-equal-pairs-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203265%20-%20CountAlmostEqualPairsI/CountAlmostEqualPairsI/CountAlmostEqualPairsI/Program.cs) |✔️|
 |3266 | [Final Array State After K Multiplication Operations II](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/)| Hard |  |:heavy_minus_sign: |
 |3267 | [Count Almost Equal Pairs II](https://leetcode.com/problems/count-almost-equal-pairs-ii/)| Hard |  |:heavy_minus_sign: |
+|3268 | []()| Hard | [SQLServer](), [MySQL]() |✔️|
+|3269 | [Constructing Two Increasing Arrays](https://leetcode.com/problems/constructing-two-increasing-arrays/)| Hard |  |:heavy_minus_sign: |
+|3270 | [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203270%20-%20FindTheKeyOfTheNumbers/FindTheKeyOfTheNumbers/FindTheKeyOfTheNumbers/Program.cs) |✔️|
+|3271 | [Hash Divided String](https://leetcode.com/problems/hash-divided-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203271%20-%20HashDividedString/HashDividedString/HashDividedString/Program.cs) |✔️|
+|3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/)| Hard |  |:heavy_minus_sign: |
+|3273 | [Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/)| Hard |  |:heavy_minus_sign: |
+|3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203274%20-%20CheckIfTwoChessboardSquaresHaveTheSameColor/CheckIfTwoChessboardSquaresHaveTheSameColor/CheckIfTwoChessboardSquaresHaveTheSameColor/Program.cs) |✔️|
+|3275 | [K-th Nearest Obstacle Queries](https://leetcode.com/problems/k-th-nearest-obstacle-queries/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203275%20-%20KthNearestObstacleQueries/KthNearestObstacleQueries/KthNearestObstacleQueries/Program.cs) |✔️|
+|3276 | [Select Cells in Grid With Maximum Score](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/)| Hard |  |:heavy_minus_sign: |
+|3277 | [Maximum XOR Score Subarray Queries](https://leetcode.com/problems/maximum-xor-score-subarray-queries/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
