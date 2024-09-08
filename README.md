@@ -3275,6 +3275,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3275 | [K-th Nearest Obstacle Queries](https://leetcode.com/problems/k-th-nearest-obstacle-queries/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203275%20-%20KthNearestObstacleQueries/KthNearestObstacleQueries/KthNearestObstacleQueries/Program.cs) |✔️|
 |3276 | [Select Cells in Grid With Maximum Score](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/)| Hard |  |:heavy_minus_sign: |
 |3277 | [Maximum XOR Score Subarray Queries](https://leetcode.com/problems/maximum-xor-score-subarray-queries/)| Hard |  |:heavy_minus_sign: |
+|3278 | [Find Candidates for Data Scientist Position II](https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203728%20-%20FindCandidatesForDataScientistPositionII/FindCandidatesForDataScientistPositionII_SQLServer.sql) |✔️|
+|3279 | [Maximum Total Area Occupied by Pistons](https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/)| Hard |  |:heavy_minus_sign: |
+|3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203280%20-%20ConvertDateToBinary/ConvertDateToBinary/ConvertDateToBinary/Program.cs) |✔️|
+|3281 | [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203281%20-%20MaximizeScoreOfNumbersInRanges/MaximizeScoreOfNumbersInRanges/MaximizeScoreOfNumbersInRanges/Program.cs) |✔️|
+|3282 | [Reach End of Array With Max Score](https://leetcode.com/problems/reach-end-of-array-with-max-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%203282%20-%20ReachEndOfArrayWithMaxScore/ReachEndOfArrayWithMaxScore/ReachEndOfArrayWithMaxScore/Program.cs) |✔️|
+|3283 | [Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/)| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
