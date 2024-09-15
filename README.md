@@ -3282,10 +3282,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3282 | [Reach End of Array With Max Score](https://leetcode.com/problems/reach-end-of-array-with-max-score/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Stack/LeetCode%203282%20-%20ReachEndOfArrayWithMaxScore/ReachEndOfArrayWithMaxScore/ReachEndOfArrayWithMaxScore/Program.cs) |✔️|
 |3283 | [Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/)| Hard |  |:heavy_minus_sign: |
 |3284 | [Sum of Consecutive Subarrays](https://leetcode.com/problems/sum-of-consecutive-subarrays/)| Medium |  |:heavy_minus_sign: |
-|3285 | []()| Easy | [C#]() |✔️|
-|3286 | []()| Medium | [C#]() |✔️|
-|3287 | []()| Hard |  |:heavy_minus_sign: |
-|3288 | []()| Hard |  |:heavy_minus_sign: |
+|3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203285%20-%20FindIndicesOfStableMountains/FindIndicesOfStableMountains/FindIndicesOfStableMountains/Program.cs) |✔️|
+|3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Search/LeetCode%203286%20-%20FindASafeWalkThroughAGrid/FindASafeWalkThroughAGrid/FindASafeWalkThroughAGrid/Program.cs) |✔️|
+|3287 | [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/)| Hard |  |:heavy_minus_sign: |
+|3288 | [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/)| Hard |  |:heavy_minus_sign: |
+|3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203289%20-%20TheTwoSneakyNumbersOfDigitville/TheTwoSneakyNumbersOfDigitville/TheTwoSneakyNumbersOfDigitville/Program.cs) |✔️|
+|3290 | []()| Medium | [C#]() |✔️|
+|3291 | []()| Medium | [C#]() |✔️|
+|3292 | []()| Hard |  |:heavy_minus_sign: |
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
