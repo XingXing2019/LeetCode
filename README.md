@@ -3287,9 +3287,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3287 | [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/)| Hard |  |:heavy_minus_sign: |
 |3288 | [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/)| Hard |  |:heavy_minus_sign: |
 |3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203289%20-%20TheTwoSneakyNumbersOfDigitville/TheTwoSneakyNumbersOfDigitville/TheTwoSneakyNumbersOfDigitville/Program.cs) |✔️|
-|3290 | []()| Medium | [C#]() |✔️|
-|3291 | []()| Medium | [C#]() |✔️|
-|3292 | []()| Hard |  |:heavy_minus_sign: |
+|3290 | [Maximum Multiplication Score](https://leetcode.com/problems/maximum-multiplication-score/)| Medium |  |:heavy_minus_sign: |
+|3291 | [Minimum Number of Valid Strings to Form Target I](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/)| Medium |  |:heavy_minus_sign: |
+|3292 | [Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/)| Hard |  |:heavy_minus_sign: |
+|3293 | [Calculate Product Final Price](https://leetcode.com/problems/calculate-product-final-price/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203293%20-%20CalculateProductFinalPrice/CalculateProductFinalPrice_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203293%20-%20CalculateProductFinalPrice/CalculateProductFinalPrice_MySQL.sql) |✔️|
+|3294 | [Convert Doubly Linked List to Array II](https://leetcode.com/problems/convert-doubly-linked-list-to-array-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/LinkedList/LeetCode%203294%20-%20ConvertDoublyLinkedListToArrayII/ConvertDoublyLinkedListToArrayII/ConvertDoublyLinkedListToArrayII/Program.cs) |✔️|
 
 |32 | []()| Easy | [C#]() |✔️|
 |32 | []()| Medium | [C#]() |✔️|
