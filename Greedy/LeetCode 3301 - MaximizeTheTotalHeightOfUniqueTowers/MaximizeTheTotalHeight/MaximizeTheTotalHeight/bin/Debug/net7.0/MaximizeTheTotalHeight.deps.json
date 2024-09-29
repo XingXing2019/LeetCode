@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MaximizeTheTotalHeight/1.0.0": {
+        "runtime": {
+          "MaximizeTheTotalHeight.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaximizeTheTotalHeight/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
