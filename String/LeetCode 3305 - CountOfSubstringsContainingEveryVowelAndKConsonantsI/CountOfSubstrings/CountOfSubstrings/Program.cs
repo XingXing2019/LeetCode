@@ -1,4 +1,4 @@
-﻿var word = "ieaouqqieaou";
+﻿var word = "aoaiuefi";
 var k = 1;
 Console.WriteLine(CountOfSubstrings(word, k));
 
