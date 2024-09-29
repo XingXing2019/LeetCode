@@ -19,7 +19,7 @@ long Count(string word, int k)
             freq[word[hi]] = freq.GetValueOrDefault(word[hi], 0) + 1;
         else
             k--;
-        while (k <= 0 && freq.Count == 5 && freq.All(x => x.Value > 0))
+        while (k <= 0 && HasAllVowels(freq))
         {
             res += word.Length - hi;
             if (vowels.Contains(word[li]))
@@ -31,4 +31,13 @@ long Count(string word, int k)
         hi++;
     }
     return res;
+}
+
+bool HasAllVowels(Dictionary<char, int> freq)
+{
+    return freq.GetValueOrDefault('a', 0) > 0 &&
+           freq.GetValueOrDefault('e', 0) > 0 &&
+           freq.GetValueOrDefault('i', 0) > 0 && 
+           freq.GetValueOrDefault('o', 0) > 0 &&
+           freq.GetValueOrDefault('u', 0) > 0;
 }
