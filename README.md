@@ -3301,9 +3301,13 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3301 | [Maximize the Total Height of Unique Towers](https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203301%20-%20MaximizeTheTotalHeightOfUniqueTowers/MaximizeTheTotalHeight/MaximizeTheTotalHeight/Program.cs) |✔️|
 |3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203302%20-%20FindTheLexicographicallySmallestValidSequence/FindTheLexicographicallySmallest/FindTheLexicographicallySmallest/Program.cs) |✔️|
 |3303 | [Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/)| Hard |  |:heavy_minus_sign: |
+|3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203304%20-%20FindTheKthCharacterInStringGameI/FindTheKthCharacterInStringGameI/FindTheKthCharacterInStringGameI/Program.cs) |✔️|
+|3305 | [Count of Substrings Containing Every Vowel and K Consonants I](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203305%20-%20CountOfSubstringsContainingEveryVowelAndKConsonantsI/CountOfSubstrings/CountOfSubstrings/Program.cs) |✔️|
+|3306 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203306%20-%20CountOfSubstringsContainingEveryVowelAndKConsonantsII/CountOfSubstrings/CountOfSubstrings/Program.cs) |✔️|
+|3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/)| Hard |  |:heavy_minus_sign: |
 
-|32 | []()| Easy | [C#]() |✔️|
-|32 | []()| Medium | [C#]() |✔️|
-|32 | []()| Medium | [C#]() |✔️|
-|32 | []()| Hard |  |:heavy_minus_sign: |
+|33 | []()| Easy | [C#]() |✔️|
+|33 | []()| Medium | [C#]() |✔️|
+|33 | []()| Medium | [C#]() |✔️|
+|33 | []()| Hard |  |:heavy_minus_sign: |
 |32 | []()|  | [SQLServer](), [MySQL]() |✔️|
