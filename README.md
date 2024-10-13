@@ -3310,6 +3310,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3310 | [https://leetcode.com/problems/remove-methods-from-project/](https://leetcode.com/problems/remove-methods-from-project/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203310%20-%20RemoveMethodsFromProject/RemoveMethodsFromProject/RemoveMethodsFromProject/Program.cs) |✔️|
 |3311 | [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/)| Hard |  |:heavy_minus_sign: |
 |3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)| Hard |  |:heavy_minus_sign: |
+|3313 | [Find the Last Marked Nodes in Tree](https://leetcode.com/problems/find-the-last-marked-nodes-in-tree/)| Hard |  |:heavy_minus_sign: |
+|3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203314%20-%20ConstructTheMinimumBitwiseArrayI/ConstructTheMinimumBitwiseArrayI/ConstructTheMinimumBitwiseArrayI/Program.cs) |✔️|
+|3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203215%20-%20CountTripletsWithEvenXORSetBitsII/CountTripletsWithEvenXORSetBitsII/CountTripletsWithEvenXORSetBitsII/Program.cs) |✔️|
+|3316 | []()| Medium | [C#]() |✔️|
+|3317 | []()| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
