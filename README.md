@@ -3306,6 +3306,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3306 | [Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203306%20-%20CountOfSubstringsContainingEveryVowelAndKConsonantsII/CountOfSubstrings/CountOfSubstrings/Program.cs) |✔️|
 |3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/)| Hard |  |:heavy_minus_sign: |
 |3308 | [Find Top Performing Driver](https://leetcode.com/problems/find-top-performing-driver/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203308%20-%20FindTopPerformingDriver/FindTopPerformingDriver_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203308%20-%20FindTopPerformingDriver/FindTopPerformingDriver_MySQL.sql) |✔️|
+|3309 | [Maximum Possible Number by Binary Concatenation](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203309%20-%20MaximumPossibleNumberByBinaryConcatenation/MaximumPossibleNumber/MaximumPossibleNumber/Program.cs) |✔️|
+|3310 | [https://leetcode.com/problems/remove-methods-from-project/](https://leetcode.com/problems/remove-methods-from-project/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203310%20-%20RemoveMethodsFromProject/RemoveMethodsFromProject/RemoveMethodsFromProject/Program.cs) |✔️|
+|3311 | [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/)| Hard |  |:heavy_minus_sign: |
+|3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
