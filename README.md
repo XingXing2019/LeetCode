@@ -3313,8 +3313,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3313 | [Find the Last Marked Nodes in Tree](https://leetcode.com/problems/find-the-last-marked-nodes-in-tree/)| Hard |  |:heavy_minus_sign: |
 |3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203314%20-%20ConstructTheMinimumBitwiseArrayI/ConstructTheMinimumBitwiseArrayI/ConstructTheMinimumBitwiseArrayI/Program.cs) |✔️|
 |3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203215%20-%20CountTripletsWithEvenXORSetBitsII/CountTripletsWithEvenXORSetBitsII/CountTripletsWithEvenXORSetBitsII/Program.cs) |✔️|
-|3316 | []()| Medium | [C#]() |✔️|
-|3317 | []()| Hard |  |:heavy_minus_sign: |
+|3316 | [Find Maximum Removals From Source String](https://leetcode.com/problems/find-maximum-removals-from-source-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203316%20-%20FindMaximumRemovalsFromSourceString/FindMaximumRemovals/FindMaximumRemovals/Program.cs) |✔️|
+|3317 | [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/)| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
