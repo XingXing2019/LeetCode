@@ -3315,6 +3315,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3315 | [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203215%20-%20CountTripletsWithEvenXORSetBitsII/CountTripletsWithEvenXORSetBitsII/CountTripletsWithEvenXORSetBitsII/Program.cs) |✔️|
 |3316 | [Find Maximum Removals From Source String](https://leetcode.com/problems/find-maximum-removals-from-source-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203316%20-%20FindMaximumRemovalsFromSourceString/FindMaximumRemovals/FindMaximumRemovals/Program.cs) |✔️|
 |3317 | [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/)| Hard |  |:heavy_minus_sign: |
+|3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203318%20-%20FindXSumOfAllKLongSubarraysI/FindXSumOfAllKLongSubarraysI/FindXSumOfAllKLongSubarraysI/Program.cs) |✔️|
+|3319 | [K-th Largest Perfect Subtree Size in Binary Tree](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%203319%20-%20KthLargestPerfectSubtreeSizeInBinaryTree/KthLargestPerfectSubtreeSizeInBinaryTree/KthLargestPerfectSubtreeSizeInBinaryTree/Program.cs) |✔️|
+|3320 | [Count The Number of Winning Sequences](https://leetcode.com/problems/count-the-number-of-winning-sequences/)| Hard |  |:heavy_minus_sign: |
+|3321 | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/)| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
