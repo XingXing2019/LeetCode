@@ -10,14 +10,9 @@ int[] DFS(TreeNode root, List<int> nodes)
 {
     if (root == null)
         return new[] { 0, 0 };
-    if (root.left == root.right)
-    {
-        nodes.Add(1);
-        return new[] { 1, 1 };
-    }
     var left = DFS(root.left, nodes);
     var right = DFS(root.right, nodes);
-    if (left[0] == 1 && right[0] == 1 && left[1] == right[1])
+    if (root.left == root.right || left[0] == 1 && right[0] == 1 && left[1] == right[1])
     {
         nodes.Add(left[1] * 2 + 1);
         return new[] { 1, left[1] * 2 + 1 };
