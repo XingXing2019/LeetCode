@@ -3319,6 +3319,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3319 | [K-th Largest Perfect Subtree Size in Binary Tree](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Tree/LeetCode%203319%20-%20KthLargestPerfectSubtreeSizeInBinaryTree/KthLargestPerfectSubtreeSizeInBinaryTree/KthLargestPerfectSubtreeSizeInBinaryTree/Program.cs) |✔️|
 |3320 | [Count The Number of Winning Sequences](https://leetcode.com/problems/count-the-number-of-winning-sequences/)| Hard |  |:heavy_minus_sign: |
 |3321 | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/)| Hard |  |:heavy_minus_sign: |
+|3322 | [Premier League Table Ranking III](https://leetcode.com/problems/premier-league-table-ranking-iii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203322%20-%20PremierLeagueTableRankingIII/PremierLeagueTableRankingIII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203322%20-%20PremierLeagueTableRankingIII/PremierLeagueTableRankingIII_MySQL.sql) |✔️|
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
