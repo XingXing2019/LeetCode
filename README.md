@@ -3320,6 +3320,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3320 | [Count The Number of Winning Sequences](https://leetcode.com/problems/count-the-number-of-winning-sequences/)| Hard |  |:heavy_minus_sign: |
 |3321 | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/)| Hard |  |:heavy_minus_sign: |
 |3322 | [Premier League Table Ranking III](https://leetcode.com/problems/premier-league-table-ranking-iii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203322%20-%20PremierLeagueTableRankingIII/PremierLeagueTableRankingIII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203322%20-%20PremierLeagueTableRankingIII/PremierLeagueTableRankingIII_MySQL.sql) |✔️|
+|3323 | [Minimize Connected Groups by Inserting Interval](https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203323%20-%20MinimizeConnectedGroupsByInsertingInterval/MinimizeConnectedGroups/MinimizeConnectedGroups/Program.cs) |✔️|
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
