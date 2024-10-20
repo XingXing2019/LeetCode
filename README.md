@@ -3323,7 +3323,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3323 | [Minimize Connected Groups by Inserting Interval](https://leetcode.com/problems/minimize-connected-groups-by-inserting-interval/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203323%20-%20MinimizeConnectedGroupsByInsertingInterval/MinimizeConnectedGroups/MinimizeConnectedGroups/Program.cs) |✔️|
 |3324 | [Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203324%20-%20FindTheSequenceOfStringsAppearedOnTheScreen/FindTheSequenceOfStrings/FindTheSequenceOfStrings/Program.cs) |✔️|
 |3325 | [Count Substrings With K-Frequency Characters I](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203325%20-%20CountSubstringsWithKFrequencyCharactersI/CountSubstrings/CountSubstrings/Program.cs) |✔️|
-|3326 | []()| Medium | [C#]() |✔️|
+|3326 | [Minimum Division Operations to Make Array Non Decreasing](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203326%20-%20MinimumDivisionOperationsToMakeArrayNonDecreasing/MinimumDivisionOperations/MinimumDivisionOperations/Program.cs) |✔️|
 |3327 | [Check if DFS Strings Are Palindromes](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/)| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
