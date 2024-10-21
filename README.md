@@ -3325,6 +3325,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3325 | [Count Substrings With K-Frequency Characters I](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203325%20-%20CountSubstringsWithKFrequencyCharactersI/CountSubstrings/CountSubstrings/Program.cs) |✔️|
 |3326 | [Minimum Division Operations to Make Array Non Decreasing](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203326%20-%20MinimumDivisionOperationsToMakeArrayNonDecreasing/MinimumDivisionOperations/MinimumDivisionOperations/Program.cs) |✔️|
 |3327 | [Check if DFS Strings Are Palindromes](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/)| Hard |  |:heavy_minus_sign: |
+|3328 | [Find Cities in Each State II](https://leetcode.com/problems/find-cities-in-each-state-ii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203328%20-%20FindCitiesInEachStateII/FindCitiesInEachStateII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203328%20-%20FindCitiesInEachStateII/FindCitiesInEachStateII_MySQL.sql) |✔️|
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
