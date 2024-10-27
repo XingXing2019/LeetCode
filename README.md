@@ -3326,6 +3326,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3326 | [Minimum Division Operations to Make Array Non Decreasing](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203326%20-%20MinimumDivisionOperationsToMakeArrayNonDecreasing/MinimumDivisionOperations/MinimumDivisionOperations/Program.cs) |✔️|
 |3327 | [Check if DFS Strings Are Palindromes](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/)| Hard |  |:heavy_minus_sign: |
 |3328 | [Find Cities in Each State II](https://leetcode.com/problems/find-cities-in-each-state-ii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203328%20-%20FindCitiesInEachStateII/FindCitiesInEachStateII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203328%20-%20FindCitiesInEachStateII/FindCitiesInEachStateII_MySQL.sql) |✔️|
+|3329 | [Count Substrings With K-Frequency Characters II](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii/)| Hard |  |:heavy_minus_sign: |
+|3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203330%20-%20FindTheOriginalTypedStringI/FindTheOriginalTypedStringI/FindTheOriginalTypedStringI/Program.cs) |✔️|
+|3331 | []()| Medium | [C#]() |✔️|
+|3332 | []()| Medium | [C#]() |✔️|
+|3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/)| Hard |  |:heavy_minus_sign: |
+|3334 | [Find the Maximum Factor Score of Array](https://leetcode.com/problems/find-the-maximum-factor-score-of-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203334%20-%20FindTheMaximumFactorScoreOfArray/FindTheMaximumFactorScoreOfArray/FindTheMaximumFactorScoreOfArray/Program.cs) |✔️|
+|3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203335%20-%20TotalCharactersInStringAfterTransformationsI/TotalCharacters/TotalCharacters/Program.cs) |✔️|
+|3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)| Hard |  |:heavy_minus_sign: |
+|3337 | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/)| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
