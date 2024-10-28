@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MaximumPointsTouristCanEarn/1.0.0": {
+        "runtime": {
+          "MaximumPointsTouristCanEarn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaximumPointsTouristCanEarn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
