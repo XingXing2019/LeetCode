@@ -3335,6 +3335,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203335%20-%20TotalCharactersInStringAfterTransformationsI/TotalCharacters/TotalCharacters/Program.cs) |✔️|
 |3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)| Hard |  |:heavy_minus_sign: |
 |3337 | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/)| Hard |  |:heavy_minus_sign: |
+|3338 | [Second Highest Salary II](https://leetcode.com/problems/second-highest-salary-ii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203338%20-%20SecondHighestSalaryII/SecondHighestSalaryII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203338%20-%20SecondHighestSalaryII/SecondHighestSalaryII_MySQL.sql) |✔️|
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
