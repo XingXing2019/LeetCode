@@ -3336,6 +3336,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)| Hard |  |:heavy_minus_sign: |
 |3337 | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/)| Hard |  |:heavy_minus_sign: |
 |3338 | [Second Highest Salary II](https://leetcode.com/problems/second-highest-salary-ii/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203338%20-%20SecondHighestSalaryII/SecondHighestSalaryII_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203338%20-%20SecondHighestSalaryII/SecondHighestSalaryII_MySQL.sql) |✔️|
+|3339 | [Find the Number of K-Even Arrays](https://leetcode.com/problems/find-the-number-of-k-even-arrays/)| Medium |  |:heavy_minus_sign: |
+|3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203340%20-%20CheckBalancedString/CheckBalancedString/CheckBalancedString/Program.cs) |✔️|
+|3341 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203341%20-%20FindMinimumTimeToReachLastRoomI/FindMinimumTime/FindMinimumTime/Program.cs) |✔️|
+|3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203342%20-%20FindMinimumTimeToReachLastRoomII/FindMinimumTime/FindMinimumTime/Program.cs) |✔️|
+|3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/)| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
