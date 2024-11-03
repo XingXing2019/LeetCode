@@ -14,8 +14,8 @@ int MinTimeToReach(int[][] moveTime)
         Array.Fill(dp[i], int.MaxValue);
     }
     int[] dir = { 1, 0, -1, 0, 1 };
-    var queue = new Queue<int[]>();
-    queue.Enqueue(new[] { 0, 0, 0, 2 });
+    var queue = new PriorityQueue<int[], int>();
+    queue.Enqueue(new[] { 0, 0, 0, 2 }, 0);
     while (queue.Count != 0)
     {
         var cur = queue.Dequeue();
@@ -30,7 +30,7 @@ int MinTimeToReach(int[][] moveTime)
             if (dp[newX][newY] > newTime)
             {
                 dp[newX][newY] = newTime;
-                queue.Enqueue(new[] { newX, newY, newTime, move });
+                queue.Enqueue(new[] { newX, newY, newTime, move }, newTime);
             }
         }
     }
