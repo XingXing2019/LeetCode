@@ -3341,6 +3341,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3341 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203341%20-%20FindMinimumTimeToReachLastRoomI/FindMinimumTime/FindMinimumTime/Program.cs) |✔️|
 |3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203342%20-%20FindMinimumTimeToReachLastRoomII/FindMinimumTime/FindMinimumTime/Program.cs) |✔️|
 |3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/)| Hard |  |:heavy_minus_sign: |
+|3344 | [Maximum Sized Array](https://leetcode.com/problems/maximum-sized-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203344%20-%20MaximumSizedArray/MaximumSizedArray/MaximumSizedArray/Program.cs) |✔️|
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
