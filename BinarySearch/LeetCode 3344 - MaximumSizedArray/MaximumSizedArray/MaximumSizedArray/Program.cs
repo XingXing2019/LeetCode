@@ -3,10 +3,10 @@ Console.WriteLine(MaxSizedArray(s));
 
 int MaxSizedArray(long s)
 {
-    var n = 1000;
-    var dp = new int[n][];
+    var n = 1200;
+    var dp = new long[n][];
     for (int i = 0; i < dp.Length; i++)
-        dp[i] = new int[n];
+        dp[i] = new long[n];
     for (int i = 1; i < n; i++)
         dp[i][0] = i + dp[i - 1][0];
     for (int i = 1; i < n; i++)
@@ -28,5 +28,5 @@ int MaxSizedArray(long s)
         else
             li = mid + 1;
     }
-    return (int)li;
+    return (int)hi;
 }
