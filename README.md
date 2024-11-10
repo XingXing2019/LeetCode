@@ -3342,6 +3342,14 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3342 | [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203342%20-%20FindMinimumTimeToReachLastRoomII/FindMinimumTime/FindMinimumTime/Program.cs) |✔️|
 |3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/)| Hard |  |:heavy_minus_sign: |
 |3344 | [Maximum Sized Array](https://leetcode.com/problems/maximum-sized-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203344%20-%20MaximumSizedArray/MaximumSizedArray/MaximumSizedArray/Program.cs) |✔️|
+|3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203345%20-%20SmallestDivisibleDigitProductI/SmallestDivisibleDigitProductI/SmallestDivisibleDigitProductI/Program.cs) |✔️|
+|3346 | [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203346%20-%20MaximumFrequencyOfAnElementAfterPerformingOperationsI/MaximumFrequency/MaximumFrequency/Program.cs) |✔️|
+|3347 | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/)| Hard |  |:heavy_minus_sign: |
+|3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/)| Hard |  |:heavy_minus_sign: |
+|3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203349%20-%20AdjacentIncreasingSubarraysDetectionI/AdjacentIncreasingSubarraysDetectionI/AdjacentIncreasingSubarraysDetectionI/Program.cs) |✔️|
+|3350 | [Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203350%20-%20AdjacentIncreasingSubarraysDetectionII/AdjacentIncreasingSubarraysDetectionII/AdjacentIncreasingSubarraysDetectionII/Program.cs) |✔️|
+|3351 | [Sum of Good Subsequences](https://leetcode.com/problems/sum-of-good-subsequences/)| Hard |  |:heavy_minus_sign: |
+|3352 | [Count K-Reducible Numbers Less Than N](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/)| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
