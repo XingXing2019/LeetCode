@@ -3353,8 +3353,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3353 | [Minimum Total Operations](https://leetcode.com/problems/minimum-total-operations/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203353%20-%20MinimumTotalOperations/MinimumTotalOperations/MinimumTotalOperations/Program.cs) |✔️|
 |3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203354%20-%20MakeArrayElementsEqualToZero/MakeArrayElementsEqualToZero/MakeArrayElementsEqualToZero/Program.cs) |✔️|
 |3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203355%20-%20ZeroArrayTransformationI/ZeroArrayTransformationI/ZeroArrayTransformationI/Program.cs) |✔️|
-|3356 | []()| Medium | [C#]() |✔️|
-|3357 | []()| Hard |  |:heavy_minus_sign: |
+|3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203356%20-%20ZeroArrayTransformationII/ZeroArrayTransformationII/ZeroArrayTransformationII/Program.cs) |✔️|
+|3357 | [Minimize the Maximum Adjacent Element Difference](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/)| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
