@@ -3355,6 +3355,17 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3355 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203355%20-%20ZeroArrayTransformationI/ZeroArrayTransformationI/ZeroArrayTransformationI/Program.cs) |✔️|
 |3356 | [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203356%20-%20ZeroArrayTransformationII/ZeroArrayTransformationII/ZeroArrayTransformationII/Program.cs) |✔️|
 |3357 | [Minimize the Maximum Adjacent Element Difference](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/)| Hard |  |:heavy_minus_sign: |
+|3358 | [Books with NULL Ratings](https://leetcode.com/problems/books-with-null-ratings/)| Easy | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203358%20-%20BooksWithNULLRatings/BooksWithNULLRatings_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203358%20-%20BooksWithNULLRatings/BooksWithNULLRatings_MySQL.sql) |✔️|
+|3359 | [Find Sorted Submatrices With Maximum Element at Most K](https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/)| Hard |  |:heavy_minus_sign: |
+|3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Math/LeetCode%203360%20-%20StoneRemovalGame/StoneRemovalGame/StoneRemovalGame/Program.cs) |✔️|
+|3361 | [Shift Distance Between Two Strings](https://leetcode.com/problems/shift-distance-between-two-strings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203361%20-%20ShiftDistanceBetweenTwoStrings/ShiftDistanceBetweenTwoStrings/ShiftDistanceBetweenTwoStrings/Program.cs) |✔️|
+|3362 | [Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203362%20-%20ZeroArrayTransformationIII/ZeroArrayTransformationIII/ZeroArrayTransformationIII/Program.cs) |✔️|
+|3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/)| Hard |  |:heavy_minus_sign: |
+|3364 | []()| Easy | [C#]() |✔️|
+|3365 | []()| Medium | [C#]() |✔️|
+|3366 | []()| Medium | [C#]() |✔️|
+|3367 | [Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/)| Hard |  |:heavy_minus_sign: |
+
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
