@@ -3361,9 +3361,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3361 | [Shift Distance Between Two Strings](https://leetcode.com/problems/shift-distance-between-two-strings/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203361%20-%20ShiftDistanceBetweenTwoStrings/ShiftDistanceBetweenTwoStrings/ShiftDistanceBetweenTwoStrings/Program.cs) |✔️|
 |3362 | [Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Heap/LeetCode%203362%20-%20ZeroArrayTransformationIII/ZeroArrayTransformationIII/ZeroArrayTransformationIII/Program.cs) |✔️|
 |3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/)| Hard |  |:heavy_minus_sign: |
-|3364 | []()| Easy | [C#]() |✔️|
-|3365 | []()| Medium | [C#]() |✔️|
-|3366 | []()| Medium | [C#]() |✔️|
+|3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203364%20-%20MinimumPositiveSumSubarray/MinimumPositiveSumSubarray/MinimumPositiveSumSubarray/Program.cs) |✔️|
+|3365 | [Rearrange K Substrings to Form Target String](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203365%20-%20RearrangeKSubstringsToFormTargetString/RearrangeKSubstringsToFormTargetString/RearrangeKSubstringsToFormTargetString/Program.cs) |✔️|
+|3366 | [Minimum Array Sum](https://leetcode.com/problems/minimum-array-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203366%20-%20MinimumArraySum/MinimumArraySum/MinimumArraySum/Program.cs) |✔️|
 |3367 | [Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/)| Hard |  |:heavy_minus_sign: |
 
 
