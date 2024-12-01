@@ -3365,7 +3365,12 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3365 | [Rearrange K Substrings to Form Target String](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203365%20-%20RearrangeKSubstringsToFormTargetString/RearrangeKSubstringsToFormTargetString/RearrangeKSubstringsToFormTargetString/Program.cs) |✔️|
 |3366 | [Minimum Array Sum](https://leetcode.com/problems/minimum-array-sum/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203366%20-%20MinimumArraySum/MinimumArraySum/MinimumArraySum/Program.cs) |✔️|
 |3367 | [Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/)| Hard |  |:heavy_minus_sign: |
-
+|3368 | [First Letter Capitalization](https://leetcode.com/problems/first-letter-capitalization/)| Hard |  |:heavy_minus_sign: |
+|3369 | [Design an Array Statistics Tracker](https://leetcode.com/problems/design-an-array-statistics-tracker/)| Hard |  |:heavy_minus_sign: |
+|3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BitManipulation/LeetCode%203370%20-%20SmallestNumberWithAllSetBits/SmallestNumberWithAllSetBits/SmallestNumberWithAllSetBits/Program.cs) |✔️|
+|3371 | [Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203371%20-%20IdentifyTheLargestOutlierInAnArray/IdentifyTheLargestOutlierInAnArray/IdentifyTheLargestOutlierInAnArray/Program.cs) |✔️|
+|3372 | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203372%20-%20MaximizeTheNumberOfTargetNodesAfterConnectingTreesI/MaximizeTheNumber/MaximizeTheNumber/Program.cs) |✔️|
+|3373 | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/)| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
