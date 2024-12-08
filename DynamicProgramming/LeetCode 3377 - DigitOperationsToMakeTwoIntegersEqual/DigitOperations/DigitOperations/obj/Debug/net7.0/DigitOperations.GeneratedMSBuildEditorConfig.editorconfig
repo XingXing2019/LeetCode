@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DigitOperations
-build_property.ProjectDir = D:\LeetCode\Backtracking\LeetCode 3377 - DigitOperationsToMakeTwoIntegersEqual\DigitOperations\DigitOperations\
+build_property.ProjectDir = D:\LeetCode\DynamicProgramming\LeetCode 3377 - DigitOperationsToMakeTwoIntegersEqual\DigitOperations\DigitOperations\

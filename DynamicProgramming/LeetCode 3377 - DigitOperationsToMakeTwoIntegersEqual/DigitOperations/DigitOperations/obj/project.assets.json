@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Backtracking\\LeetCode 3377 - DigitOperationsToMakeTwoIntegersEqual\\DigitOperations\\DigitOperations\\DigitOperations.csproj",
+      "projectUniqueName": "D:\\LeetCode\\DynamicProgramming\\LeetCode 3377 - DigitOperationsToMakeTwoIntegersEqual\\DigitOperations\\DigitOperations\\DigitOperations.csproj",
       "projectName": "DigitOperations",
-      "projectPath": "D:\\LeetCode\\Backtracking\\LeetCode 3377 - DigitOperationsToMakeTwoIntegersEqual\\DigitOperations\\DigitOperations\\DigitOperations.csproj",
+      "projectPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 3377 - DigitOperationsToMakeTwoIntegersEqual\\DigitOperations\\DigitOperations\\DigitOperations.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Backtracking\\LeetCode 3377 - DigitOperationsToMakeTwoIntegersEqual\\DigitOperations\\DigitOperations\\obj\\",
+      "outputPath": "D:\\LeetCode\\DynamicProgramming\\LeetCode 3377 - DigitOperationsToMakeTwoIntegersEqual\\DigitOperations\\DigitOperations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
