@@ -3371,6 +3371,15 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3371 | [Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203371%20-%20IdentifyTheLargestOutlierInAnArray/IdentifyTheLargestOutlierInAnArray/IdentifyTheLargestOutlierInAnArray/Program.cs) |✔️|
 |3372 | [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Graph/LeetCode%203372%20-%20MaximizeTheNumberOfTargetNodesAfterConnectingTreesI/MaximizeTheNumber/MaximizeTheNumber/Program.cs) |✔️|
 |3373 | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/)| Hard |  |:heavy_minus_sign: |
+|3374 | [First Letter Capitalization II](https://leetcode.com/problems/first-letter-capitalization-ii/)| Hard |  |:heavy_minus_sign: |
+|3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203375%20-%20MinimumOperationsToMakeArrayValuesEqualToK/MinimumOperations/Program.cs) |✔️|
+|3376 | [Minimum Time to Break Locks I](https://leetcode.com/problems/minimum-time-to-break-locks-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%203376%20-%20MinimumTimeToBreakLocksI/MinimumTimeToBreakLocksI/MinimumTimeToBreakLocksI/Program.cs) |✔️|
+|3377 | [Digit Operations to Make Two Integers Equal](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%203377%20-%20DigitOperationsToMakeTwoIntegersEqual/DigitOperations/DigitOperations/Program.cs) |✔️|
+|3378 | [Count Connected Components in LCM Graph](https://leetcode.com/problems/count-connected-components-in-lcm-graph/)| Hard |  |:heavy_minus_sign: |
+|3379 | []()| Easy | [C#]() |✔️|
+|3380 | []()| Medium | [C#]() |✔️|
+|3381 | []()| Medium | [C#]() |✔️|
+|3382 | []()| Hard |  |:heavy_minus_sign: |
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
