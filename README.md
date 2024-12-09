@@ -3376,7 +3376,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3376 | [Minimum Time to Break Locks I](https://leetcode.com/problems/minimum-time-to-break-locks-i/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Backtracking/LeetCode%203376%20-%20MinimumTimeToBreakLocksI/MinimumTimeToBreakLocksI/MinimumTimeToBreakLocksI/Program.cs) |✔️|
 |3377 | [Digit Operations to Make Two Integers Equal](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/DynamicProgramming/LeetCode%203377%20-%20DigitOperationsToMakeTwoIntegersEqual/DigitOperations/DigitOperations/Program.cs) |✔️|
 |3378 | [Count Connected Components in LCM Graph](https://leetcode.com/problems/count-connected-components-in-lcm-graph/)| Hard |  |:heavy_minus_sign: |
-|3379 | []()| Easy | [C#]() |✔️|
+|3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203379%20-%20TransformedArray/TransformedArray/TransformedArray/Program.cs) |✔️|
 |3380 | []()| Medium | [C#]() |✔️|
 |3381 | []()| Medium | [C#]() |✔️|
 |3382 | [Maximum Area Rectangle With Point Constraints II](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/)| Hard |  |:heavy_minus_sign: |
