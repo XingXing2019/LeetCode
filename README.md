@@ -3381,6 +3381,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3381 | []()| Medium | [C#]() |✔️|
 |3382 | [Maximum Area Rectangle With Point Constraints II](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/)| Hard |  |:heavy_minus_sign: |
 |3383 | [Minimum Runes to Add to Cast Spell](https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell/)| Hard |  |:heavy_minus_sign: |
+|3384 | [Team Dominance by Pass Success](https://leetcode.com/problems/team-dominance-by-pass-success/)| Hard | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203384%20-%20TeamDominanceByPassSuccess/TeamDominanceByPassSuccess_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203384%20-%20TeamDominanceByPassSuccess/TeamDominanceByPassSuccess_MySQL.sql) |✔️|
 
 |33 | []()| Easy | [C#]() |✔️|
 |33 | []()| Medium | [C#]() |✔️|
