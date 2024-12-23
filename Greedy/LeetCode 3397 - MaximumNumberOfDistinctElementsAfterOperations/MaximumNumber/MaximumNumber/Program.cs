@@ -7,12 +7,14 @@ int MaxDistinctElements(int[] nums, int k)
     int diff = -k;
     var set = new List<int>();
     for (int i = 0; i < nums.Length; i++)
-    {
+    { 
         if (i != 0 && nums[i] == nums[i - 1])
             diff++;
+        if (i != 0 && nums[i] - nums[i - 1] > k + 1)
+            diff = -k;
         if (diff <= k)
         {
-            if (set.Count != 0 && nums[i] + diff - set[^1] > 1)
+            if (set.Count != 0 && nums[i] + diff - set[^1] > 1 && diff - 1 >= -k)
                 diff--;
             set.Add(nums[i] + diff);
         }            
