@@ -3398,9 +3398,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3397 | [Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Greedy/LeetCode%203397%20-%20MaximumNumberOfDistinctElementsAfterOperations/MaximumNumber/MaximumNumber/Program.cs) |✔️|
 |3398 | [Smallest Substring With Identical Characters I](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/)| Hard |  |:heavy_minus_sign: |
 |3399 | [Smallest Substring With Identical Characters II](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/)| Hard |  |:heavy_minus_sign: |
+|3400 | [Maximum Number of Matching Indices After Right Shifts](https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203400%20-%20MaximumNumberOfMatchingIndicesAfterRightShifts/MaximumNumber/MaximumNumber/Program.cs) |✔️|
 
-|33 | []()| Easy | [C#]() |✔️|
-|33 | []()| Medium | [C#]() |✔️|
-|33 | []()| Medium | [C#]() |✔️|
-|33 | []()| Hard |  |:heavy_minus_sign: |
-|33 | []()|  | [SQLServer](), [MySQL]() |✔️|
+|34 | []()| Easy | [C#]() |✔️|
+|34 | []()| Medium | [C#]() |✔️|
+|34 | []()| Medium | [C#]() |✔️|
+|34 | []()| Hard |  |:heavy_minus_sign: |
+|34 | []()|  | [SQLServer](), [MySQL]() |✔️|
