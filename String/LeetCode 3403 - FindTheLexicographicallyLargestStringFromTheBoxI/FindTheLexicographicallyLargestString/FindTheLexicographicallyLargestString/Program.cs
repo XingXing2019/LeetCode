@@ -16,13 +16,3 @@ string AnswerString(string word, int numFriends)
     }
     return res;
 }
-
-int Compare(string word1, string word2)
-{
-    for (int i = 0; i < Math.Min(word1.Length, word2.Length); i++)
-    {
-        if (word1[i] == word2[i]) continue;
-        return word1[i] - word2[i];
-    }
-    return word1.Length - word2.Length;
-}
