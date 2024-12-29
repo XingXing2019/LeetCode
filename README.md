@@ -3399,6 +3399,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3398 | [Smallest Substring With Identical Characters I](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/)| Hard |  |:heavy_minus_sign: |
 |3399 | [Smallest Substring With Identical Characters II](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/)| Hard |  |:heavy_minus_sign: |
 |3400 | [Maximum Number of Matching Indices After Right Shifts](https://leetcode.com/problems/maximum-number-of-matching-indices-after-right-shifts/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203400%20-%20MaximumNumberOfMatchingIndicesAfterRightShifts/MaximumNumber/MaximumNumber/Program.cs) |✔️|
+|3401 | [Find Circular Gift Exchange Chains](https://leetcode.com/problems/find-circular-gift-exchange-chains/description/)| Hard |  |:heavy_minus_sign: |
+|3402 | [Minimum Operations to Make Columns Strictly Increasing](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/description/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203402%20-%20MinimumOperationsToMakeColumnsStrictlyIncreasing/MinimumOperations/MinimumOperations/Program.cs) |✔️|
+|3403 | [Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203403%20-%20FindTheLexicographicallyLargestStringFromTheBoxI/FindTheLexicographicallyLargestString/FindTheLexicographicallyLargestString/Program.cs) |✔️|
+|3404 | [Count Special Subsequences](https://leetcode.com/problems/count-special-subsequences/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203404%20-%20CountSpecialSubsequences/CountSpecialSubsequences/CountSpecialSubsequences/Program.cs) |✔️|
+|3405 | [Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/)| Hard |  |:heavy_minus_sign: |
 
 |34 | []()| Easy | [C#]() |✔️|
 |34 | []()| Medium | [C#]() |✔️|
