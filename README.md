@@ -3404,6 +3404,11 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3403 | [Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203403%20-%20FindTheLexicographicallyLargestStringFromTheBoxI/FindTheLexicographicallyLargestString/FindTheLexicographicallyLargestString/Program.cs) |✔️|
 |3404 | [Count Special Subsequences](https://leetcode.com/problems/count-special-subsequences/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203404%20-%20CountSpecialSubsequences/CountSpecialSubsequences/CountSpecialSubsequences/Program.cs) |✔️|
 |3405 | [Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/description/)| Hard |  |:heavy_minus_sign: |
+|3406 | [Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/description/)| Hard |  |:heavy_minus_sign: |
+|3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203407%20-%20SubstringMatchingPattern/SubstringMatchingPattern/SubstringMatchingPattern/Program.cs) |✔️|
+|3408 | []()| Medium | [C#]() |✔️|
+|3409 | []()| Medium | [C#]() |✔️|
+|3410 | []()| Hard |  |:heavy_minus_sign: |
 
 |34 | []()| Easy | [C#]() |✔️|
 |34 | []()| Medium | [C#]() |✔️|
