@@ -3409,6 +3409,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3408 | [Design Task Manager](https://leetcode.com/problems/design-task-manager/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%203408%20-%20DesignTaskManager/DesignTaskManager/DesignTaskManager/Program.cs) |✔️|
 |3409 | []()| Medium | [C#]() |✔️|
 |3410 | [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/)| Hard |  |:heavy_minus_sign: |
+|3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/description/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203411%20-%20MaximumSubarrayWithEqualProducts/MaximumSubarrayWithEqualProducts/MaximumSubarrayWithEqualProducts/Program.cs) |✔️|
+|3412 | []()| Medium | [C#]() |✔️|
+|3413 | []()| Medium | [C#]() |✔️|
+|3414 | []()| Hard |  |:heavy_minus_sign: |
 
 |34 | []()| Easy | [C#]() |✔️|
 |34 | []()| Medium | [C#]() |✔️|
