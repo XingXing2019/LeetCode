@@ -3408,7 +3408,7 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/String/LeetCode%203407%20-%20SubstringMatchingPattern/SubstringMatchingPattern/SubstringMatchingPattern/Program.cs) |✔️|
 |3408 | [Design Task Manager](https://leetcode.com/problems/design-task-manager/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Design/LeetCode%203408%20-%20DesignTaskManager/DesignTaskManager/DesignTaskManager/Program.cs) |✔️|
 |3409 | []()| Medium | [C#]() |✔️|
-|3410 | []()| Hard |  |:heavy_minus_sign: |
+|3410 | [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/)| Hard |  |:heavy_minus_sign: |
 
 |34 | []()| Easy | [C#]() |✔️|
 |34 | []()| Medium | [C#]() |✔️|
