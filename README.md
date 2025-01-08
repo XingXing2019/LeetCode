@@ -3410,9 +3410,9 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3409 | []()| Medium | [C#]() |✔️|
 |3410 | [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/)| Hard |  |:heavy_minus_sign: |
 |3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/description/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203411%20-%20MaximumSubarrayWithEqualProducts/MaximumSubarrayWithEqualProducts/MaximumSubarrayWithEqualProducts/Program.cs) |✔️|
-|3412 | []()| Medium | [C#]() |✔️|
+|3412 | [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203412%20-%20FindMirrorScoreOfAString/FindMirrorScoreOfAString/FindMirrorScoreOfAString/Program.cs) |✔️|
 |3413 | []()| Medium | [C#]() |✔️|
-|3414 | []()| Hard |  |:heavy_minus_sign: |
+|3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals)| Hard |  |:heavy_minus_sign: |
 
 |34 | []()| Easy | [C#]() |✔️|
 |34 | []()| Medium | [C#]() |✔️|
