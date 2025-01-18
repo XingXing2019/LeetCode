@@ -3411,8 +3411,16 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3410 | [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/description/)| Hard |  |:heavy_minus_sign: |
 |3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/description/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203411%20-%20MaximumSubarrayWithEqualProducts/MaximumSubarrayWithEqualProducts/MaximumSubarrayWithEqualProducts/Program.cs) |✔️|
 |3412 | [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/HashTable/LeetCode%203412%20-%20FindMirrorScoreOfAString/FindMirrorScoreOfAString/FindMirrorScoreOfAString/Program.cs) |✔️|
-|3413 | []()| Medium | [C#]() |✔️|
+|3413 | [Maximum Coins From K Consecutive Bags](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags)| Medium |  |:heavy_minus_sign: |
 |3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals)| Hard |  |:heavy_minus_sign: |
+|3415 | [Find Products with Three Consecutive Digits](https://leetcode.com/problems/find-products-with-three-consecutive-digits/description/)| Easy |  |:heavy_minus_sign: |
+|3416 | [Subsequences with a Unique Middle Mode II](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii/description/)| Hard |  |:heavy_minus_sign: |
+|3417 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/description/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203417%20-%20ZigzagGridTraversalWithSkip/ZigzagGridTraversalWithSkip/ZigzagGridTraversalWithSkip/Program.cs) |✔️|
+|3418 | [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/)| Medium |  |:heavy_minus_sign: |
+|3419 | [Minimize the Maximum Edge Weight of Graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203419%20-%20MinimizeTheMaximumEdgeWeightOfGraph/MinimizeTheMaximumEdgeWeightOfGraph/MinimizeTheMaximumEdgeWeightOfGraph/Program.cs) |✔️|
+|3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/)| Hard |  |:heavy_minus_sign: |
+|34 | []()| Medium | [SQLServer](), [MySQL]() |✔️|
+|34 | [Minimum Operations to Make Subarray Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal/description/)| Medium |  |:heavy_minus_sign: |
 
 |34 | []()| Easy | [C#]() |✔️|
 |34 | []()| Medium | [C#]() |✔️|
