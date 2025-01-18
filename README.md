@@ -3419,8 +3419,8 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3418 | [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/)| Medium |  |:heavy_minus_sign: |
 |3419 | [Minimize the Maximum Edge Weight of Graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/BinarySearch/LeetCode%203419%20-%20MinimizeTheMaximumEdgeWeightOfGraph/MinimizeTheMaximumEdgeWeightOfGraph/MinimizeTheMaximumEdgeWeightOfGraph/Program.cs) |✔️|
 |3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/)| Hard |  |:heavy_minus_sign: |
-|34 | []()| Medium | [SQLServer](), [MySQL]() |✔️|
-|34 | [Minimum Operations to Make Subarray Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal/description/)| Medium |  |:heavy_minus_sign: |
+|3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/description/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203421%20-%20FindStudentsWhoImproved/FindStudentsWhoImproved_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203421%20-%20FindStudentsWhoImproved/FindStudentsWhoImproved_MySQL.sql) |✔️|
+|3422 | [Minimum Operations to Make Subarray Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal/description/)| Medium |  |:heavy_minus_sign: |
 
 |34 | []()| Easy | [C#]() |✔️|
 |34 | []()| Medium | [C#]() |✔️|
