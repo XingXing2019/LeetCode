@@ -3421,6 +3421,10 @@ LeetCode Algorithms with C#, Java, Python and JavaScript
 |3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/description/)| Hard |  |:heavy_minus_sign: |
 |3421 | [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/description/)| Medium | [SQLServer](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203421%20-%20FindStudentsWhoImproved/FindStudentsWhoImproved_SQLServer.sql), [MySQL](https://github.com/XingXing2019/LeetCode/blob/master/Database/LeetCode%203421%20-%20FindStudentsWhoImproved/FindStudentsWhoImproved_MySQL.sql) |✔️|
 |3422 | [Minimum Operations to Make Subarray Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-subarray-elements-equal/description/)| Medium |  |:heavy_minus_sign: |
+|3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/)| Easy | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Array/LeetCode%203423%20-%20MaximumDifferenceBetweenAdjacentElementsInACircularArray/MaximumDifference/MaximumDifference/Program.cs) |✔️|
+|3424 | [Minimum Cost to Make Arrays Identical](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/description/)| Medium | [C#](https://github.com/XingXing2019/LeetCode/blob/master/Sort/LeetCode%203424%20-%20MinimumCostToMakeArraysIdentical/MinimumCostToMakeArraysIdentical/MinimumCostToMakeArraysIdentical/Program.cs) |✔️|
+|3425 | [Longest Special Path](https://leetcode.com/problems/longest-special-path/description/)| Hard |  |:heavy_minus_sign: |
+|3426 | [Manhattan Distances of All Arrangements of Pieces](https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/description/)| Hard |  |:heavy_minus_sign: |
 
 |34 | []()| Easy | [C#]() |✔️|
 |34 | []()| Medium | [C#]() |✔️|
