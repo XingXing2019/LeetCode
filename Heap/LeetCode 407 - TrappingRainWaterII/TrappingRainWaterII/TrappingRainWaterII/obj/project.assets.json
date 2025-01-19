@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Array\\LeetCode 407 - TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII.csproj",
+      "projectUniqueName": "D:\\LeetCode\\Heap\\LeetCode 407 - TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII.csproj",
       "projectName": "TrappingRainWaterII",
-      "projectPath": "D:\\LeetCode\\Array\\LeetCode 407 - TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII.csproj",
+      "projectPath": "D:\\LeetCode\\Heap\\LeetCode 407 - TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Array\\LeetCode 407 - TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII\\obj\\",
+      "outputPath": "D:\\LeetCode\\Heap\\LeetCode 407 - TrappingRainWaterII\\TrappingRainWaterII\\TrappingRainWaterII\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
