@@ -1,5 +1,6 @@
 ﻿int[] CountMentions(int numberOfUsers, IList<IList<string>> events)
 {
+    events = events.OrderBy(x => int.Parse(x[1])).ThenByDescending(x => x[0]).ToList();
     var offline = new int[numberOfUsers];
     var mentions = new int[numberOfUsers];
     Array.Fill(offline, int.MinValue);
