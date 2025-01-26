@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountMentionsPerUser", "CountMentionsPerUser\CountMentionsPerUser.csproj", "{43F01E1F-3D0D-4E64-827E-80FE9D0D3EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F01E1F-3D0D-4E64-827E-80FE9D0D3EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F01E1F-3D0D-4E64-827E-80FE9D0D3EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F01E1F-3D0D-4E64-827E-80FE9D0D3EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F01E1F-3D0D-4E64-827E-80FE9D0D3EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54CBD574-EAA7-40E1-B1A7-E0B24029CBEC}
+	EndGlobalSection
+EndGlobal
