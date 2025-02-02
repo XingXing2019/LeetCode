@@ -27,7 +27,7 @@ int MaxDistance(string s, int k)
 
 int GetDistance(StringBuilder s)
 {
-    int x = 0, y = 0;
+    int x = 0, y = 0, res = 0;
     foreach (var l in s.ToString())
     {
         if (l == 'N')
@@ -38,6 +38,7 @@ int GetDistance(StringBuilder s)
             y--;
         else
             y++;
+        res = Math.Max(res, Math.Abs(x) + Math.Abs(y));
     }
-    return Math.Abs(x) + Math.Abs(y);
+    return res;
 }
