@@ -24,8 +24,8 @@ int MaxFreeTime(int eventTime, int[] startTime, int[] endTime)
     {
         leftMax = Math.Max(leftMax, gaps[i]);
         left[i] = leftMax;
-        rightMax = Math.Max(rightMax, gaps[^(i + 1)]);
         right[^(i + 1)] = rightMax;
+        rightMax = Math.Max(rightMax, gaps[^(i + 1)]);
     }
     var res = 0;
     for (int i = 0; i < meetings.Count; i++)
