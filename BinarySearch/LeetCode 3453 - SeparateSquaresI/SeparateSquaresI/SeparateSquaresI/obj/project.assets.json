@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeetCode\\Array\\LeetCode 3453 - SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI.csproj",
+      "projectUniqueName": "D:\\LeetCode\\BinarySearch\\LeetCode 3453 - SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI.csproj",
       "projectName": "SeparateSquaresI",
-      "projectPath": "D:\\LeetCode\\Array\\LeetCode 3453 - SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI.csproj",
+      "projectPath": "D:\\LeetCode\\BinarySearch\\LeetCode 3453 - SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI.csproj",
       "packagesPath": "C:\\Users\\61425\\.nuget\\packages\\",
-      "outputPath": "D:\\LeetCode\\Array\\LeetCode 3453 - SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI\\obj\\",
+      "outputPath": "D:\\LeetCode\\BinarySearch\\LeetCode 3453 - SeparateSquaresI\\SeparateSquaresI\\SeparateSquaresI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\61425\\AppData\\Roaming\\NuGet\\NuGet.Config",
