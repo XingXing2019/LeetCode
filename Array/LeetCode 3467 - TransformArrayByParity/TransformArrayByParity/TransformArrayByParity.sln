@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformArrayByParity", "TransformArrayByParity\TransformArrayByParity.csproj", "{86D649DB-D51E-4644-BD15-84A28F8BD9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D649DB-D51E-4644-BD15-84A28F8BD9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D649DB-D51E-4644-BD15-84A28F8BD9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D649DB-D51E-4644-BD15-84A28F8BD9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D649DB-D51E-4644-BD15-84A28F8BD9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E9BB70-2E8E-4AF2-8230-F913A0337E17}
+	EndGlobalSection
+EndGlobal
