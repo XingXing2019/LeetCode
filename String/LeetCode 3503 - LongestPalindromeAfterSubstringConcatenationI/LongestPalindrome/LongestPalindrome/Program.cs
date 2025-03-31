@@ -4,7 +4,7 @@ int LongestPalindrome(string s, string t)
 {
     var word1 = GetSubstrings(s);
     var word2 = GetSubstrings(t);
-    var res = 1;
+    var res = 0;
     foreach (var w1 in word1)
     {
         foreach (var w2 in word2)
