@@ -6,6 +6,7 @@ int NumberOfComponents(int[][] properties, int k)
     parents = new int[properties.Length];
     for (int i = 0; i < parents.Length; i++)
         parents[i] = i;
+    rank = new int[properties.Length];
     var res = properties.Length;
     for (int i = 0; i < properties.Length; i++)
     {
