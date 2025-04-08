@@ -8,8 +8,9 @@
             if (i == j) continue;
             for (int k = 0; k < digits.Length; k++)
             {
-                if (j == k) continue;
+                if (j == k || i == k || digits[i] == 0) continue;
                 var num = digits[i] * 100 + digits[j] * 10 + digits[k];
+                if (num % 2 != 0) continue;
                 set.Add(num);
             }
         }
