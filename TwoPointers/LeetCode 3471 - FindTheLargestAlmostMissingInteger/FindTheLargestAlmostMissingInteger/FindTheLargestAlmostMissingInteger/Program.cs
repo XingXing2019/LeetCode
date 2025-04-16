@@ -5,8 +5,8 @@
     foreach (var num in set)
     {
         var count = CountAppears(nums, num, k);
-        if (count == 1 && num > res)
-            res = num;
+        if (count != 1 || num <= res) continue;
+        res = num;
     }
     return res;
 }
