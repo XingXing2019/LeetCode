@@ -24,7 +24,7 @@ bool[] PathExistenceQueries(int n, int[] nums, int maxDiff, int[][] queries)
     }
     foreach (var segment in segments)
     {
-        for (int i = 0; i <= segment.Length; i++)
+        for (int i = 0; i < segment.Length; i++)
         {
             Union(segment[0], segment[i]);
         }   
