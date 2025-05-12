@@ -7,7 +7,6 @@ int MinOperations(int[] nums)
     int res = 0, last = -1;
     for (int i = 0; i < nums.Length; i++)
     {
-        if (nums[i] == 0) continue;
         last = -1;
         while (stack.Count != 0 && nums[i] < nums[stack.Peek()])
         {
@@ -19,7 +18,7 @@ int MinOperations(int[] nums)
         stack.Push(i);
     }
     last = -1;
-    while (stack.Count != 0)
+    while (stack.Count != 0 && nums[stack.Peek()] != 0)
     {
         var peek = stack.Pop();
         if (nums[peek] != last)
