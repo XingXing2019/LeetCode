@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PaintingAGrid/1.0.0": {
+        "runtime": {
+          "PaintingAGrid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaintingAGrid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
