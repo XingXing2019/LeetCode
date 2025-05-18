@@ -20,10 +20,8 @@ int ColorTheGrid(int m, int n)
             temp.Add(copy % 3);
             copy /= 3;
         }
-        if (isValid)
-        {
-            candidates.Add(i);
-        }
+        if (!isValid) continue;
+        candidates.Add(i);
     }
     var dp = new long[n][];
     for (int i = 0; i < dp.Length; i++)
