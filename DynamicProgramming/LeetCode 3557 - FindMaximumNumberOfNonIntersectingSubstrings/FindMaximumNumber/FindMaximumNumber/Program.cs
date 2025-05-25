@@ -24,11 +24,9 @@ int MaxSubstrings(string word)
         {
             if (i - pos[j] + 1 < 4) break;
             var count = pos[j] - 1 >= 0 ? dp[pos[j] - 1] : 0;
-            if (count >= max)
-            {
-                max = count;
-                record[word[i]] = new[] { j, max };
-            }
+            if (count < max) continue;
+            max = count;
+            record[word[i]] = new[] { j, max };
         }
         dp[i] = max == -1 ? dp[i - 1] : Math.Max(dp[i - 1], max + 1);
         res = Math.Max(res, dp[i]);
