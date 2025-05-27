@@ -13,9 +13,8 @@ IList<IList<int>> FindPath(int[][] grid, int k)
     {
         for (int y = 0; y < grid[0].Length; y++)
         {
-            var path = new List<IList<int>>();
             var res = new List<IList<int>>();
-            DFS(grid, x, y, path, 0, ref res);
+            DFS(grid, x, y, new List<IList<int>>(), 0, ref res);
             if (res.Count != m * n) continue;
             return res;
         }
