@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSpecialTriplets", "CountSpecialTriplets\CountSpecialTriplets.csproj", "{2D40CCB4-3C6D-44B2-B8F1-20C997729F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D40CCB4-3C6D-44B2-B8F1-20C997729F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D40CCB4-3C6D-44B2-B8F1-20C997729F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D40CCB4-3C6D-44B2-B8F1-20C997729F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D40CCB4-3C6D-44B2-B8F1-20C997729F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F71FDE-4F71-4F44-AB5D-2E8E85A8A8D3}
+	EndGlobalSection
+EndGlobal
