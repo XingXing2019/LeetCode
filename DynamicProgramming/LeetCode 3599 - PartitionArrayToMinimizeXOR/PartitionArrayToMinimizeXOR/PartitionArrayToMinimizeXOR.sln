@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartitionArrayToMinimizeXOR", "PartitionArrayToMinimizeXOR\PartitionArrayToMinimizeXOR.csproj", "{597D66EC-E95F-4842-9988-E7F6E9585C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597D66EC-E95F-4842-9988-E7F6E9585C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597D66EC-E95F-4842-9988-E7F6E9585C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597D66EC-E95F-4842-9988-E7F6E9585C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597D66EC-E95F-4842-9988-E7F6E9585C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70109375-31C0-4CEB-8CD1-128DEA166AB5}
+	EndGlobalSection
+EndGlobal
