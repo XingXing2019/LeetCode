@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerGridMaintenance", "PowerGridMaintenance\PowerGridMaintenance.csproj", "{23B26187-E837-4BCD-BB99-9224876D7B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B26187-E837-4BCD-BB99-9224876D7B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B26187-E837-4BCD-BB99-9224876D7B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B26187-E837-4BCD-BB99-9224876D7B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B26187-E837-4BCD-BB99-9224876D7B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710951B7-B245-416E-8943-AF573E9D4882}
+	EndGlobalSection
+EndGlobal
