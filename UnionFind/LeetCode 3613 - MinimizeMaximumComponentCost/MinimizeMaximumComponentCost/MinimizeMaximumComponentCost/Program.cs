@@ -18,7 +18,7 @@ int MinCost(int n, int[][] edges, int k)
     while (li <= hi)
     {
         var mid = li + (hi - li) / 2;
-        var count = CountCompoents(n, edges, mid);
+        var count = CountComponents(n, edges, mid);
         if (count > k)
             li = mid + 1;
         else
@@ -27,7 +27,7 @@ int MinCost(int n, int[][] edges, int k)
     return Math.Max(hi, 0);
 }
 
-int CountCompoents(int n, int[][] edges, int weight)
+int CountComponents(int n, int[][] edges, int weight)
 {
     parents = new int[n];
     for (int i = 0; i < n; i++)
