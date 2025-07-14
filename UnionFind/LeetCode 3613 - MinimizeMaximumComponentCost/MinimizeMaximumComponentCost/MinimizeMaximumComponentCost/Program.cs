@@ -24,7 +24,7 @@ int MinCost(int n, int[][] edges, int k)
         else
             hi = mid - 1;
     }
-    return hi;
+    return Math.Max(hi, 0);
 }
 
 int CountCompoents(int n, int[][] edges, int weight)
