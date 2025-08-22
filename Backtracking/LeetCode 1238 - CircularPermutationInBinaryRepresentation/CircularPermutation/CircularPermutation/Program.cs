@@ -16,10 +16,8 @@ void DFS(int n, int cur, HashSet<int> visited, ref List<int> res)
         res = new List<int>(visited);
     for (int i = 0; i <= n; i++)
     {
-        if (((cur >> i) & 1) == 1)
-            DFS(n, cur - (1 << i), visited, ref res);
-        else
-            DFS(n, cur + (1 << i), visited, ref res);
+        var next = ((cur >> i) & 1) == 1 ? cur - (1 << i) : cur + (1 << i);
+        DFS(n, next, visited, ref res);
     }
     visited.Remove(cur);
 }
