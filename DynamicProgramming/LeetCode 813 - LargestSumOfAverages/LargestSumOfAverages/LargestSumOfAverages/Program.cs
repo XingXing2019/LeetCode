@@ -30,10 +30,9 @@ namespace LargestSumOfAverages
                     var max = 0d;
                     for (int z = 0; z < y; z++)
                     {
-                        var temp = dp[x - 1][z];
-                        if (temp == -1) continue;
+                        if (dp[x - 1][z] == -1) continue;
                         var avg = (prefix[y] - prefix[z]) / (y - z);
-                        max = Math.Max(max, temp + avg);
+                        max = Math.Max(max, dp[x - 1][z] + avg);
                     }
                     dp[x][y] = max;
                 }
