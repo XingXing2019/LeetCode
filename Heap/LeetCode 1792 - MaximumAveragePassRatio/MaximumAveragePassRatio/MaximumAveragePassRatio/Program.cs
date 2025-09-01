@@ -15,9 +15,9 @@ double MaxAverageRatio(int[][] classes, int extraStudents)
     for (int i = 0; i < extraStudents; i++)
     {
         var c = queue.Dequeue();
-        queue.Enqueue(c, (double)c[0] / c[1] - (double)(c[0] + 1) / (c[1] + 1));
         c[0]++;
         c[1]++;
+        queue.Enqueue(c, (double)c[0] / c[1] - (double)(c[0] + 1) / (c[1] + 1));
     }
     var total = 0d;
     while (queue.Count != 0)
