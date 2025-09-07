@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int minOperations(int[] nums)
+{
+    return nums.All(x => x == nums[0]) ? 0 : 1;
+}
