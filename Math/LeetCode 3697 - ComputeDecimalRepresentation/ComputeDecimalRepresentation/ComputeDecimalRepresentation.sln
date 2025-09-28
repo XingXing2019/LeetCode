@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputeDecimalRepresentation", "ComputeDecimalRepresentation\ComputeDecimalRepresentation.csproj", "{7E998A0C-188D-4C9D-BB9F-FEEB7BB0664B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E998A0C-188D-4C9D-BB9F-FEEB7BB0664B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E998A0C-188D-4C9D-BB9F-FEEB7BB0664B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E998A0C-188D-4C9D-BB9F-FEEB7BB0664B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E998A0C-188D-4C9D-BB9F-FEEB7BB0664B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A967D662-5B41-4882-A280-D79E3E95DD8A}
+	EndGlobalSection
+EndGlobal
