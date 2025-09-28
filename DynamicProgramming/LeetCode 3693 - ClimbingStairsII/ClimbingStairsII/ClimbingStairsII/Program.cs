@@ -11,7 +11,7 @@ int ClimbStairs(int n, int[] costs)
         for (int j = 1; j <= 3; j++)
         {
             if (i - j < 0) continue;
-            min = Math.Min(min, costs[i - j] + j * j + dp[i - j]);
+            min = Math.Min(min, costs[i - 1] + j * j + dp[i - j]);
         }
         dp[i] = min;
     }
