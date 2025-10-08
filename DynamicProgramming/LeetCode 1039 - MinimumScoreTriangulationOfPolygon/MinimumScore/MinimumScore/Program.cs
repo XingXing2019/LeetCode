@@ -17,8 +17,6 @@ int DFS(int[] values, int i, int j, int[][] dp)
         return 0;
     var min = int.MaxValue;
     for (int k = i + 1; k < j; k++)
-    {
-        min = Math.Min(min, values[i] * values[k] * values[j]);
-    }
+        min = Math.Min(min, DFS(values, i, k, dp) + DFS(values, k, j, dp) + values[i] * values[k] * values[j]);
     return dp[i][j] = min;
 }
