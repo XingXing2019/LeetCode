@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MinimumOperationsToTransformArray/1.0.0": {
+        "runtime": {
+          "MinimumOperationsToTransformArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinimumOperationsToTransformArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
