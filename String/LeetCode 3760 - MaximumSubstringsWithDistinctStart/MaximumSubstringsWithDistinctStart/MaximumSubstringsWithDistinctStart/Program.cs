@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int MaxDistinct(string s)
+{
+    var set = new HashSet<char>(s.ToCharArray());
+    return set.Count;
+}
