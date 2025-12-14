@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MinimumMovesToBalanceCircularArray/1.0.0": {
+        "runtime": {
+          "MinimumMovesToBalanceCircularArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinimumMovesToBalanceCircularArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
