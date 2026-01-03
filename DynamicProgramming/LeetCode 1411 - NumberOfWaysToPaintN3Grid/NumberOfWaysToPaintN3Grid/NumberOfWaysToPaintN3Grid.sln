@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfWaysToPaintN3Grid", "NumberOfWaysToPaintN3Grid\NumberOfWaysToPaintN3Grid.csproj", "{B8C5581E-F901-4B78-88D4-103AF71016C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8C5581E-F901-4B78-88D4-103AF71016C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C5581E-F901-4B78-88D4-103AF71016C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C5581E-F901-4B78-88D4-103AF71016C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C5581E-F901-4B78-88D4-103AF71016C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E74431-C879-474B-B2F6-D7FC7A50C02C}
+	EndGlobalSection
+EndGlobal
