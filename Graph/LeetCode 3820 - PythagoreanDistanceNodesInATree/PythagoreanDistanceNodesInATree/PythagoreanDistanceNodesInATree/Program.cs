@@ -25,8 +25,8 @@ int SpecialNodes(int n, int[][] edges, int x, int y, int z)
     {
         var distances = new List<int> { distanceX[i], distanceY[i], distanceZ[i] };
         distances = distances.OrderBy(x => x).ToList();
-        if (distances[0] * distances[0] + distances[1] * distances[1] == distances[2] * distances[2])
-            res++;
+        if (distances[0] * distances[0] + distances[1] * distances[1] != distances[2] * distances[2]) continue;
+        res++;
     }
     return res;
 }
