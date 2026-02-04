@@ -1,0 +1,1 @@
+D:\LeetCode\String\LeetCode 3823 - ReverseLettersThenSpecialCharactersInAString\ReverseLettersThenSpecialCharactersInAString\ReverseLettersThenSpecialCharactersInAString\obj\Debug\net7.0\ReverseLettersThenSpecialCharactersInAString.GeneratedMSBuildEditorConfig.editorconfig
