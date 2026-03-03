@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeCloseCharacters", "MergeCloseCharacters\MergeCloseCharacters.csproj", "{48A57D60-7EC5-4AD3-9B4A-48EB424C63DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A57D60-7EC5-4AD3-9B4A-48EB424C63DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A57D60-7EC5-4AD3-9B4A-48EB424C63DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A57D60-7EC5-4AD3-9B4A-48EB424C63DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A57D60-7EC5-4AD3-9B4A-48EB424C63DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BB5D9D9-DC43-4C04-BDC1-1F29BD3EBCB1}
+	EndGlobalSection
+EndGlobal
