@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrimTrailingVowels", "TrimTrailingVowels\TrimTrailingVowels.csproj", "{6C488B56-20A1-40A3-AD44-8988D1AB8A49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C488B56-20A1-40A3-AD44-8988D1AB8A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C488B56-20A1-40A3-AD44-8988D1AB8A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C488B56-20A1-40A3-AD44-8988D1AB8A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C488B56-20A1-40A3-AD44-8988D1AB8A49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C1B0D37-DCAF-4979-8AC6-91EA06ED121D}
+	EndGlobalSection
+EndGlobal
