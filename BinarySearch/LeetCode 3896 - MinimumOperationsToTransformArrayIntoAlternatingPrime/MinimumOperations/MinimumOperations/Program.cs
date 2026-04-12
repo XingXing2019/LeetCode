@@ -39,9 +39,5 @@ HashSet<int> GetPrimes(int n)
         if (!dp[i]) continue;
         res.Add(i);
     }
-    if (!res.Contains(n))
-    {
-
-    }
     return res;
 }
