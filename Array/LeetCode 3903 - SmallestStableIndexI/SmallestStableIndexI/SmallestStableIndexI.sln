@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestStableIndexI", "SmallestStableIndexI\SmallestStableIndexI.csproj", "{EFD5580D-B686-49B3-894B-EC8AD9F84FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD5580D-B686-49B3-894B-EC8AD9F84FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD5580D-B686-49B3-894B-EC8AD9F84FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD5580D-B686-49B3-894B-EC8AD9F84FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD5580D-B686-49B3-894B-EC8AD9F84FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B7B4A24-24D9-4CEF-BF69-5F25BE214AEF}
+	EndGlobalSection
+EndGlobal
