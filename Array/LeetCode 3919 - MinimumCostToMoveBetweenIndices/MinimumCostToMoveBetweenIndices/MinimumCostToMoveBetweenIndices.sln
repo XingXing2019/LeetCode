@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCostToMoveBetweenIndices", "MinimumCostToMoveBetweenIndices\MinimumCostToMoveBetweenIndices.csproj", "{89E8A609-EBB5-4516-BEE7-20AFB91ED34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E8A609-EBB5-4516-BEE7-20AFB91ED34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E8A609-EBB5-4516-BEE7-20AFB91ED34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E8A609-EBB5-4516-BEE7-20AFB91ED34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E8A609-EBB5-4516-BEE7-20AFB91ED34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4651D08-59CE-4C3A-8E66-1A011B994D7D}
+	EndGlobalSection
+EndGlobal
